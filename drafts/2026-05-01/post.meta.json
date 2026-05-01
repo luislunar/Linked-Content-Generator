@@ -1,0 +1,10 @@
+{
+  "image_headline": "ACTIVE IS NOT FINDABLE.",
+  "image_prompt": "Infographic checklist layout in a clean corporate style. Bold top headline reads 'ACTIVE IS NOT FINDABLE.' with a subline 'Your SAM.gov registration is on the timer — not on the buyer's screen.' Five numbered checklist items down the left side, each with a green checkmark icon: 1) NAICS Codes Match Live Solicitations, 2) Capability Narrative Mirrors Agency Keywords, 3) Reps & Certs Reviewed Every 90 Days, 4) POC Email Goes to a Monitored Inbox, 5) Exclusion Check Pulled Same Day as Quote. On the right side, an illustrated professional woman in a blazer holds a clipboard, pointing at a laptop screen showing a SAM.gov profile with a magnifying glass overlay. Bottom-right corner shows a small 'APPROVED' stamp. Footer reads 'Josh Ladick · GSA Focus'. Use a navy and gold color palette with white background.",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "topic": "sam",
+  "experiment_id": null,
+  "notion_post_id": "3530ac80-577a-8132-b9ca-c2073e65a0a4",
+  "notion_post_url": "https://app.notion.com/p/2026-05-01-One-quiet-SAM-gov-mistake-is-costing-small-businesses-real-federal-contracts-a-3530ac80577a8132b9cac2073e65a0a4"
+}
