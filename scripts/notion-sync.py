@@ -1,15 +1,12 @@
 """notion-sync.py — tiny CLI around the Notion REST API.
 
 Subcommands:
-  create-magnet <drafts_dir>                   create Notion page + Magnets DB row from drafts/YYYY-MM-DD/magnet.md
-                                               reads post.meta.json for Format + Topic; prints page URL + page ID
-  create-post   <drafts_dir> <magnet_page_id>  create Posts DB row (status=draft) linked to the given Magnet
-                                               reads post.md + post.meta.json
+  create-post   <drafts_dir>                   create Posts DB row (status=draft) from post.md + post.meta.json
   active-experiment                            print active experiment as JSON (or {})
   last-14-days                                 print recent Posts rows as JSON
   update-published <post_id> <linkedin_url>    flip status=published and set URL
 
-Env: NOTION_TOKEN, NOTION_POSTS_DB_ID, NOTION_MAGNETS_DB_ID, NOTION_EXPERIMENTS_DB_ID
+Env: NOTION_TOKEN, NOTION_POSTS_DB_ID, NOTION_EXPERIMENTS_DB_ID
 Requires: requests. No other deps.
 """
 
@@ -116,45 +113,17 @@ def _code(s: str) -> dict:
 
 # ---- Drafts dir helpers ------------------------------------------------------
 
-def _read_drafts(drafts_dir: str) -> tuple[dict, str, str]:
+def _read_drafts(drafts_dir: str) -> tuple[dict, str]:
     d = Path(drafts_dir)
     meta = json.loads((d / "post.meta.json").read_text())
-    magnet_md = (d / "magnet.md").read_text()
     post_md = (d / "post.md").read_text()
-    return meta, magnet_md, post_md
-
-
-# ---- Create magnet -----------------------------------------------------------
-
-def create_magnet(drafts_dir: str) -> None:
-    meta, magnet_md, _ = _read_drafts(drafts_dir)
-    title = magnet_md.splitlines()[0].lstrip("# ").strip()
-    body = "\n".join(magnet_md.splitlines()[1:])
-
-    db_id = env("NOTION_MAGNETS_DB_ID")
-    props = {
-        "Title": {"title": _text(title)},
-        "Format": {"select": {"name": meta["format"]}},
-        "Topic": {"multi_select": [{"name": meta["topic"]}]},
-    }
-    payload = {
-        "parent": {"database_id": db_id},
-        "properties": props,
-        "children": md_to_blocks(body),
-    }
-    r = requests.post(f"{API}/pages", headers=headers(), json=payload, timeout=30)
-    if r.status_code >= 400:
-        print(f"Notion error: {r.status_code} {r.text}", file=sys.stderr)
-        sys.exit(1)
-    page = r.json()
-    # emit machine-parseable output: URL<TAB>ID
-    print(f"{page['url']}\t{page['id']}")
+    return meta, post_md
 
 
 # ---- Create post -------------------------------------------------------------
 
-def create_post(drafts_dir: str, magnet_page_id: str) -> None:
-    meta, _, post_md = _read_drafts(drafts_dir)
+def create_post(drafts_dir: str) -> None:
+    meta, post_md = _read_drafts(drafts_dir)
     d = Path(drafts_dir)
     date_str = d.name  # YYYY-MM-DD
 
@@ -175,7 +144,6 @@ def create_post(drafts_dir: str, magnet_page_id: str) -> None:
         "Hook": {"rich_text": _text(hook)},
         "Body": {"rich_text": _text(body)},
         "CTA": {"rich_text": _text(cta)},
-        "Lead Magnet": {"relation": [{"id": magnet_page_id}]},
         "Format": {"select": {"name": meta["format"]}},
         "Topic": {"multi_select": [{"name": meta["topic"]}]},
         "Hook Pattern": {"select": {"name": meta["hook_pattern"]}},
@@ -204,19 +172,31 @@ def last_14_days() -> None:
     print(json.dumps(r.json(), indent=2))
 
 
+def update_published(post_id: str, linkedin_url: str) -> None:
+    props = {"Status": {"select": {"name": "published"}}}
+    if linkedin_url and linkedin_url.startswith("http"):
+        props["LinkedIn URL"] = {"url": linkedin_url}
+    payload = {"properties": props}
+    r = requests.patch(f"{API}/pages/{post_id}", headers=headers(), json=payload, timeout=30)
+    if r.status_code >= 400:
+        print(f"Notion error: {r.status_code} {r.text}", file=sys.stderr)
+        sys.exit(1)
+    print(f"updated {post_id} → status=published")
+
+
 def cmd(argv: list[str]) -> None:
     if not argv:
         print(__doc__)
         sys.exit(1)
     sub = argv[0]
-    if sub == "create-magnet":
-        create_magnet(argv[1])
-    elif sub == "create-post":
-        create_post(argv[1], argv[2])
+    if sub == "create-post":
+        create_post(argv[1])
     elif sub == "active-experiment":
         print("{}")
     elif sub == "last-14-days":
         last_14_days()
+    elif sub == "update-published":
+        update_published(argv[1], argv[2] if len(argv) > 2 else "")
     else:
         print(f"not yet implemented: {sub}", file=sys.stderr)
         sys.exit(2)
