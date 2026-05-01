@@ -20,9 +20,13 @@ esac
 # Strip the YAML frontmatter before feeding the body as the prompt.
 PROMPT=$(awk 'BEGIN{skip=0} /^---$/{skip=!skip; next} skip==0{print}' "$PROMPT_FILE")
 
-# Claude Code CLI in headless mode. --dangerously-skip-permissions is safe here because .claude/settings.json
-# already restricts the tool surface to the scripts we authored.
+mkdir -p logs
+
+# claude-sonnet-4-6 fits inside the 10k TPM tier-1 limit. To use opus-4-7,
+# bump the Anthropic API tier and change MODEL below.
+MODEL="${CLAUDE_MODEL:-claude-sonnet-4-6}"
+
 claude -p "$PROMPT" \
-  --model claude-opus-4-7 \
+  --model "$MODEL" \
   --dangerously-skip-permissions \
   2>&1 | tee "logs/run-$(date +%Y-%m-%d)-$MODE.log"
