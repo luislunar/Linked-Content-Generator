@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=1080" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1080px;
+      height: 1080px;
+      background: #0a0f1e;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Montserrat', sans-serif;
+      overflow: hidden;
+    }
+
+    .card {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 80px;
+      position: relative;
+    }
+
+    /* Subtle background pattern */
+    .card::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(circle at 15% 15%, rgba(0, 102, 255, 0.12) 0%, transparent 50%),
+        radial-gradient(circle at 85% 85%, rgba(0, 200, 120, 0.08) 0%, transparent 50%);
+      pointer-events: none;
+    }
+
+    /* Top accent line */
+    .accent-line {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 6px;
+      background: linear-gradient(90deg, #0066ff, #00c878);
+    }
+
+    .content {
+      width: 100%;
+      max-width: 920px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      gap: 48px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .headline {
+      font-size: 72px;
+      font-weight: 900;
+      color: #ffffff;
+      line-height: 1.1;
+      letter-spacing: -1px;
+      text-transform: uppercase;
+    }
+
+    /* Highlight the last word or key phrase with accent color */
+    .headline .accent {
+      color: #0066ff;
+    }
+
+    .divider {
+      width: 80px;
+      height: 4px;
+      background: linear-gradient(90deg, #0066ff, #00c878);
+      border-radius: 2px;
+    }
+
+    .footer {
+      position: absolute;
+      bottom: 48px;
+      left: 80px;
+      right: 80px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 1;
+    }
+
+    .author {
+      font-size: 22px;
+      font-weight: 700;
+      color: rgba(255, 255, 255, 0.55);
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+
+    .brand-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #0066ff, #00c878);
+      display: inline-block;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="accent-line"></div>
+    <div class="content">
+      <div class="headline">{{HEADLINE}}</div>
+      <div class="divider"></div>
+    </div>
+    <div class="footer">
+      <span class="author">
+        <span class="brand-dot"></span>Josh Ladick&nbsp;&nbsp;·&nbsp;&nbsp;GSA Focus
+      </span>
+    </div>
+  </div>
+</body>
+</html>

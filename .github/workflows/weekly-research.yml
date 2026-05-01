@@ -1,0 +1,60 @@
+name: Weekly autoresearch
+
+on:
+  schedule:
+    # 01:00 UTC Monday = 20:00 Sunday America/New_York (EST). Adjust for DST if needed.
+    - cron: "0 1 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+      NOTION_POSTS_DB_ID: ${{ secrets.NOTION_POSTS_DB_ID }}
+      NOTION_EXPERIMENTS_DB_ID: ${{ secrets.NOTION_EXPERIMENTS_DB_ID }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }  # full history so we can revert specific generator.md commits
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+
+      - name: Install deps
+        run: |
+          pip install requests
+          npm install -g @anthropic-ai/claude-code
+
+      - name: Scrape Reddit trends
+        run: python scripts/reddit-scrape.py
+
+      - name: Run research
+        run: ./scripts/run-claude.sh weekly | tee /tmp/summary.txt
+
+      - name: Open research PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="research/$DATE"
+          git config user.name "linked-content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add generator.md experiments/ research/
+          if git diff --cached --quiet; then
+            echo "no research changes this week"; exit 0
+          fi
+          git commit -m "research: autoresearch iteration $DATE"
+          git push -u origin "$BRANCH"
+          gh pr create \
+            --title "Research: autoresearch iteration $DATE" \
+            --body "$(cat /tmp/summary.txt)" \
+            --base main --head "$BRANCH"

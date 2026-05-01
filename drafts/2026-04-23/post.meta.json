@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP-000-seed",
+  "hook_pattern": "contrarian",
+  "format": "template",
+  "topic": "gsa_basics",
+  "comment_keyword": "PLAYBOOK",
+  "overlay_text": {
+    "main": "GSA SCHEDULE ISN'T\\NTHE FINISH LINE...\\NIT'S WEEK 12 OF 26",
+    "sub": "here's the playbook."
+  },
+  "notion_public_url": "https://www.notion.so/The-6-Month-GSA-Contract-Playbook-Week-by-Week-3480ac80577a81668a3ae3dc52b2f30b",
+  "notion_post_id": "3480ac80-577a-810a-8440-f210c224ac91",
+  "publish_at": null,
+  "notion_magnet_page_id": "3480ac80-577a-8166-8a3a-e3dc52b2f30b",
+  "blotato_submission_id": "1fb09cec-1955-483b-999f-e260bb598fd8",
+  "blotato_scheduled_time": "2026-04-25T14:00:00+00:00"
+}

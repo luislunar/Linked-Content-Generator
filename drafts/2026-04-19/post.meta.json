@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP-000-seed",
+  "hook_pattern": "contrarian",
+  "format": "checklist",
+  "topic": "gsa_basics",
+  "comment_keyword": "CHECK",
+  "overlay_text": {
+    "main": "MOST BUSINESSES\\NTHAT DON'T QUALIFY\\NFOR GSA...",
+    "sub": "actually do."
+  },
+  "notion_public_url": "https://www.notion.so/The-5-Minute-GSA-Readiness-Check-3480ac80577a812190c3d2349f37f0ba",
+  "notion_post_id": "3480ac80-577a-8103-9a2e-daf4fb302646",
+  "publish_at": null,
+  "notion_magnet_page_id": "3480ac80-577a-8121-90c3-d2349f37f0ba",
+  "blotato_submission_id": "482dd0bf-a4be-4892-a686-f7ef6c805a8e",
+  "blotato_scheduled_time": "2026-04-21T14:00:00+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP-000-seed",
+  "hook_pattern": "number",
+  "format": "calculator",
+  "topic": "pricing",
+  "comment_keyword": "PRICE",
+  "overlay_text": {
+    "main": "73% OF GSA VENDORS\\NARE UNDERPRICED\\NBY 18-30%...",
+    "sub": "here's the fix."
+  },
+  "notion_public_url": "https://www.notion.so/The-GSA-Pricing-Calculator-What-Federal-Buyers-Will-Actually-Pay-3480ac80577a81ffa882e422f5cac1fa",
+  "notion_post_id": "3480ac80-577a-81b8-bf31-d50f7fa4ed06",
+  "publish_at": null,
+  "notion_magnet_page_id": "3480ac80-577a-81ff-a882-e422f5cac1fa",
+  "blotato_submission_id": "14a92d1b-a17b-4122-a602-ded5579c09d4",
+  "blotato_scheduled_time": "2026-04-22T14:00:00+00:00"
+}

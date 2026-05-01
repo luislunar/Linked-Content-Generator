@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP-000-seed",
+  "hook_pattern": "question",
+  "format": "teardown",
+  "topic": "gsa_basics",
+  "comment_keyword": "VEHICLES",
+  "overlay_text": {
+    "main": "\"SHOULD I GO FOR\\NGSA OR SEWP\\NOR CIO-SP4?\"",
+    "sub": "wrong question."
+  },
+  "notion_public_url": "https://www.notion.so/GSA-vs-SAM-vs-SEWP-vs-CIO-SP4-Which-Vehicle-Fits-3480ac80577a81afbf9ae4e779056464",
+  "notion_post_id": "3480ac80-577a-8152-a19b-f905941aaa27",
+  "publish_at": null,
+  "notion_magnet_page_id": "3480ac80-577a-81af-bf9a-e4e779056464",
+  "blotato_submission_id": "96f895d1-bd1c-443f-9c47-afc430202a83",
+  "blotato_scheduled_time": "2026-04-30T14:00:00+00:00"
+}

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=1200" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1200px;
+      height: 628px;
+      font-family: 'Montserrat', sans-serif;
+      overflow: hidden;
+    }
+
+    .card {
+      width: 1200px;
+      height: 628px;
+      background: #0b1f3a;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      position: relative;
+    }
+
+    /* Top accent bar */
+    .top-bar {
+      background: linear-gradient(90deg, #1a6fff, #00cc76);
+      height: 8px;
+    }
+
+    .header {
+      padding: 32px 56px 0;
+    }
+
+    .headline {
+      font-size: 38px;
+      font-weight: 900;
+      color: #ffffff;
+      line-height: 1.15;
+      letter-spacing: -0.5px;
+      text-transform: uppercase;
+      max-width: 860px;
+    }
+
+    .headline .accent {
+      color: #1a6fff;
+    }
+
+    .subheadline {
+      font-size: 18px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.65);
+      margin-top: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .body {
+      padding: 24px 56px 0;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px 48px;
+      align-content: start;
+    }
+
+    .item {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+    }
+
+    .check {
+      width: 36px;
+      height: 36px;
+      min-width: 36px;
+      background: #1a6fff;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 2px;
+    }
+
+    .check svg {
+      width: 18px;
+      height: 18px;
+    }
+
+    .item-text {
+      flex: 1;
+    }
+
+    .item-title {
+      font-size: 17px;
+      font-weight: 800;
+      color: #ffffff;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+      line-height: 1.2;
+    }
+
+    .item-desc {
+      font-size: 13px;
+      font-weight: 500;
+      color: rgba(255,255,255,0.6);
+      margin-top: 3px;
+      line-height: 1.4;
+    }
+
+    .footer {
+      padding: 16px 56px;
+      background: #1a6fff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .footer-cta {
+      font-size: 16px;
+      font-weight: 800;
+      color: #ffffff;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .footer-brand {
+      font-size: 14px;
+      font-weight: 700;
+      color: rgba(255,255,255,0.75);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    /* Right-side decorative element */
+    .deco {
+      position: absolute;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: 260px;
+      background: rgba(26, 111, 255, 0.08);
+      border-left: 1px solid rgba(26, 111, 255, 0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 16px;
+      padding: 40px 24px;
+    }
+
+    .deco-icon {
+      font-size: 72px;
+      opacity: 0.35;
+    }
+
+    .deco-stat {
+      text-align: center;
+    }
+
+    .deco-number {
+      font-size: 52px;
+      font-weight: 900;
+      color: #1a6fff;
+      line-height: 1;
+    }
+
+    .deco-label {
+      font-size: 13px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-top: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="top-bar"></div>
+
+    <div class="header">
+      <div class="headline">{{HEADLINE}}</div>
+      <div class="subheadline">{{SUBHEADLINE}}</div>
+    </div>
+
+    <div class="body" style="grid-template-columns: 1fr 1fr; max-width: 900px;">
+      {{ITEMS}}
+    </div>
+
+    <div class="footer">
+      <div class="footer-cta">🚀 {{CTA}}</div>
+      <div class="footer-brand">Josh Ladick · GSA Focus</div>
+    </div>
+  </div>
+</body>
+</html>

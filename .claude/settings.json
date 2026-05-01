@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/notion-sync.py *)",
+      "Bash(python3 scripts/notion-sync.py *)",
+      "Bash(node scripts/record-magnet.js *)",
+      "Bash(bash scripts/overlay-text.sh *)",
+      "Bash(python scripts/publish-blotato.py *)",
+      "Bash(git status)",
+      "Bash(git log *)",
+      "Bash(git diff *)",
+      "Bash(ls *)",
+      "Bash(cat *)",
+      "Bash(date *)"
+    ],
+    "deny": [
+      "Bash(git push *)",
+      "Bash(git commit *)"
+    ]
+  }
+}

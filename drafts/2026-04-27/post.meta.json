@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP-000-seed",
+  "hook_pattern": "myth-bust",
+  "format": "teardown",
+  "topic": "gsa_basics",
+  "comment_keyword": "MYTHS",
+  "overlay_text": {
+    "main": "7 LIES ABOUT\\NGOVERNMENT CONTRACTING\\N(YOU BELIEVE 5)",
+    "sub": "here's the math."
+  },
+  "notion_public_url": "https://www.notion.so/Myth-Bust-The-7-Biggest-Lies-About-Government-Contracting-3480ac80577a8181a4dcd1cea7d1eb24",
+  "notion_post_id": "3480ac80-577a-81ac-9939-c3a1a8ece0d9",
+  "publish_at": null,
+  "notion_magnet_page_id": "3480ac80-577a-8181-a4dc-d1cea7d1eb24",
+  "blotato_submission_id": "abc2ac36-46a5-4ba2-9eb8-d19f87304c53",
+  "blotato_scheduled_time": "2026-04-29T14:00:00+00:00"
+}

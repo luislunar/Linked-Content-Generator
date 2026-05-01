@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP-000-seed",
+  "hook_pattern": "story",
+  "format": "story",
+  "topic": "case_study",
+  "comment_keyword": "STORY",
+  "overlay_text": {
+    "main": "MONTH 10:\\N\"GSA SCHEDULE\\NIS A SCAM\"",
+    "sub": "month 18: $847K."
+  },
+  "notion_public_url": "https://www.notion.so/How-I-Won-My-First-847K-GSA-Contract-A-Real-Post-Mortem-3480ac80577a8146a442d8383f91a509",
+  "notion_post_id": "3480ac80-577a-81fc-b3cb-d06f42321eb5",
+  "publish_at": null,
+  "notion_magnet_page_id": "3480ac80-577a-8146-a442-d8383f91a509",
+  "blotato_submission_id": "57eb72c6-9d73-4669-bd36-adc9cd9d4bf1",
+  "blotato_scheduled_time": "2026-04-28T14:00:00+00:00"
+}

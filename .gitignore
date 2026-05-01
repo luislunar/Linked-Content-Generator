@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+out/
+tmp/
+drafts/**/raw-scroll.webm
+drafts/**/raw-scroll.mp4
+.venv/

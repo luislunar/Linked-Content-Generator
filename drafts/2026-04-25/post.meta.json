@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP-000-seed",
+  "hook_pattern": "number",
+  "format": "checklist",
+  "topic": "compliance",
+  "comment_keyword": "COMPLIANCE",
+  "overlay_text": {
+    "main": "4-MONTH AWARD VS\\N18-MONTH AWARD...\\N= 15 CHECKBOXES",
+    "sub": "that's it."
+  },
+  "notion_public_url": "https://www.notion.so/The-GSA-Compliance-Checklist-15-Fixes-Before-You-Submit-3480ac80577a81489227dce946fd65af",
+  "notion_post_id": "3480ac80-577a-8142-a2aa-c2ad461723ca",
+  "publish_at": null,
+  "notion_magnet_page_id": "3480ac80-577a-8148-9227-dce946fd65af",
+  "blotato_submission_id": "3ae06827-68b2-42a5-a67c-b632a2cd60eb",
+  "blotato_scheduled_time": "2026-04-27T14:00:00+00:00"
+}

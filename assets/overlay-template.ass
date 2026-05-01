@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 640
+PlayResY: 800
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+
+; Single style + single dialogue. The sub line is styled inline (smaller, non-bold,
+; Montserrat Medium) so both lines share ONE continuous opaque green box instead
+; of rendering as two disconnected boxes.
+;
+; BorderStyle 4 = opaque box. OutlineColour set to the same neon green as BackColour
+; so the "outline" effectively acts as padding that extends the green fill around
+; the text without drawing any visible letter stroke.
+; Alignment 8 = top-center. MarginV is pixels from the top edge.
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: HookMain, Montserrat Bold, 44, &H00FFFFFF, &H00FFFFFF, &H0000FF00, &H0000FF00, -1, 0, 0, 0, 100, 100, 0, 0, 4, 16, 0, 8, 40, 40, 90, 1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0, 0:00:00.00, 0:00:08.00, HookMain, , 0, 0, 0, , {{HOOK_COMBINED}}

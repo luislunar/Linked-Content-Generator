@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=1200" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;900&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1200px;
+      height: 628px;
+      font-family: 'Montserrat', sans-serif;
+      overflow: hidden;
+    }
+
+    .card {
+      width: 1200px;
+      height: 628px;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      background: #f0f4ff;
+    }
+
+    .header {
+      background: #0b1f3a;
+      padding: 24px 48px;
+      text-align: center;
+    }
+
+    .main-title {
+      font-size: 36px;
+      font-weight: 900;
+      color: #ffffff;
+      text-transform: uppercase;
+      letter-spacing: -0.5px;
+      line-height: 1.15;
+    }
+
+    .main-title .accent {
+      color: #ff4444;
+    }
+
+    .subtitle {
+      font-size: 17px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.65);
+      margin-top: 6px;
+      text-transform: uppercase;
+    }
+
+    .columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      overflow: hidden;
+    }
+
+    /* LEFT — The Myth (dark) */
+    .myth {
+      background: #1a1a2e;
+      padding: 28px 36px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .col-label {
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 6px 14px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 8px;
+    }
+
+    .col-label.myth-label {
+      background: rgba(255,68,68,0.2);
+      color: #ff6b6b;
+    }
+
+    .myth-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+    }
+
+    .myth-x {
+      color: #ff4444;
+      font-size: 18px;
+      font-weight: 900;
+      line-height: 1.4;
+      min-width: 20px;
+    }
+
+    .myth-text {
+      font-size: 15px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.75);
+      line-height: 1.45;
+    }
+
+    /* RIGHT — The Reality (light) */
+    .reality {
+      background: #eef4ff;
+      padding: 28px 36px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      border-left: 4px solid #1a6fff;
+    }
+
+    .col-label.reality-label {
+      background: rgba(26,111,255,0.12);
+      color: #1a6fff;
+    }
+
+    .reality-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+    }
+
+    .reality-check {
+      color: #00cc76;
+      font-size: 18px;
+      font-weight: 900;
+      line-height: 1.4;
+      min-width: 20px;
+    }
+
+    .reality-text {
+      font-size: 15px;
+      font-weight: 600;
+      color: #0b1f3a;
+      line-height: 1.45;
+    }
+
+    .reality-text .bold {
+      font-weight: 800;
+      color: #1a6fff;
+    }
+
+    /* FOOTER */
+    .footer {
+      background: #0b1f3a;
+      padding: 16px 48px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 4px solid #1a6fff;
+    }
+
+    .footer-message {
+      font-size: 16px;
+      font-weight: 800;
+      color: #ffffff;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+
+    .footer-message .accent {
+      color: #1a6fff;
+    }
+
+    .footer-brand {
+      font-size: 13px;
+      font-weight: 700;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="header">
+      <div class="main-title">{{HEADLINE}}</div>
+      <div class="subtitle">{{SUBHEADLINE}}</div>
+    </div>
+
+    <div class="columns">
+      <div class="myth">
+        <span class="col-label myth-label">The Myth ✗</span>
+        {{MYTH_ITEMS}}
+      </div>
+      <div class="reality">
+        <span class="col-label reality-label">The Reality ✓</span>
+        {{REALITY_ITEMS}}
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="footer-message">{{FOOTER_MESSAGE}}</div>
+      <div class="footer-brand">Josh Ladick · GSA Focus</div>
+    </div>
+  </div>
+</body>
+</html>

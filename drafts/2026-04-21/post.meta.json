@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP-000-seed",
+  "hook_pattern": "number",
+  "format": "teardown",
+  "topic": "compliance",
+  "comment_keyword": "AUDIT",
+  "overlay_text": {
+    "main": "80% OF REJECTED\\NGSA PROPOSALS\\NMAKE THESE 10 MISTAKES",
+    "sub": "here they are."
+  },
+  "notion_public_url": "https://www.notion.so/10-GSA-Application-Mistakes-That-Cost-Small-Businesses-50K-3480ac80577a817fbd50e8f6146b6cf5",
+  "notion_post_id": "3480ac80-577a-8120-b95e-cc59cc0ff134",
+  "publish_at": null,
+  "notion_magnet_page_id": "3480ac80-577a-817f-bd50-e8f6146b6cf5",
+  "blotato_submission_id": "3c2896cb-077f-4339-b91f-93d2cd413b83",
+  "blotato_scheduled_time": "2026-04-23T14:00:00+00:00"
+}
