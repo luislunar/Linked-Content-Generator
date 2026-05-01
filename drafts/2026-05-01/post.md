@@ -17,3 +17,4 @@ A 30-minute SAM audit done quarterly catches most of this before it costs you a 
 When was the last time you opened your SAM profile and read it like an agency contracting officer would?
 
 #govcon #gsa #federalcontracting #smallbusiness #samgov
+
