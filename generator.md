@@ -70,14 +70,31 @@ Never use: "Comment X to receive Y" or any lead magnet CTA.
 ## Image prompt guidelines
 
 Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
-The prompt must be specific to the post content. Include:
-- The layout type (checklist, myth-vs-reality, story scene, alert)
-- The specific content elements to visualize (bullet points, labels, characters)
-- The illustrated character action (pointing at a board, reviewing documents, etc.)
-- The specific text callouts to include in the image
 
-Example for a SAM.gov checklist post:
-> "Infographic checklist layout. Bold headline: 'SAM.GOV IS NOT OPTIONAL.' Six numbered checklist items with green checkmarks: Registration Active, NAICS Codes Current, Business Size Accurate, Points of Contact Updated, Representations & Certifications, Exclusions Check. Right side shows illustrated professional woman reviewing documents with APPROVED stamp visible. Bottom banner: 'Don't let admin be the reason you lose.' Footer: Josh Ladick · GSA Focus."
+### Rules for text in the image
+- **Max 4-5 words per label.** AI models hallucinate long text. Keep labels short.
+- **Never copy full bullet points into the image.** The post text carries the information; the image carries the visual impact.
+- **Headline only:** one bold 4-6 word statement, ALL CAPS. This is the only long text the model needs to render.
+- **Section labels:** 1-3 words max (e.g. "THE MYTH" / "THE REALITY", "PRIME" / "SUB", "WRONG" / "RIGHT")
+- **No sentences in callout boxes.** Use 2-3 word labels with icons instead.
+
+### What to describe in the prompt
+1. **Layout type** — myth-vs-reality split, checklist grid, flowchart, alert banner, story scene
+2. **Visual elements** — illustrated character (what they're doing), icons, arrows, color zones
+3. **Short labels only** — 2-4 words per section/callout, not full sentences
+4. **Color structure** — which zones are dark navy, which are light/white, where green highlights go
+5. **Footer** — always end with: `Footer text: 'Josh Ladick · GSA Focus'`
+
+### Examples by hook pattern
+
+**myth-bust / contrarian:**
+> "Split-panel infographic. Left panel dark navy, bold label 'THE MYTH' with red X icon. Three short myth labels (2-3 words each). Right panel white/light, bold label 'THE REALITY' with green checkmarks. Three short reality labels (2-3 words each). Center: illustrated professional woman in suit walking from dark to light side. Bold headline top: '[4-6 WORD HEADLINE]'. Footer: 'Josh Ladick · GSA Focus'."
+
+**checklist / alert:**
+> "Infographic alert layout. Bold warning headline top: '[4-6 WORD HEADLINE]' with caution icon. Left column: illustrated professional woman in blazer holding clipboard, reviewing a laptop screen. Right column: 5 checklist rows, each with a green checkmark and a SHORT 3-word label (no full sentences). Bottom: dark navy banner with 1-line callout. Footer: 'Josh Ladick · GSA Focus'."
+
+**story / truth:**
+> "Infographic story layout. Left side: illustrated timeline or journey path with 4 milestone icons, each labeled with 1-2 words. Right side: illustrated professional character looking confident. Bold headline: '[4-6 WORD HEADLINE]'. One highlighted callout box with a SHORT punchy phrase (4-5 words). Footer: 'Josh Ladick · GSA Focus'."
 
 ---
 

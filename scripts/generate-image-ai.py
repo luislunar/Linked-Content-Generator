@@ -192,7 +192,7 @@ def generate_gpt_image_2(prompt: str, output_path: Path) -> bool:
         model="gpt-image-2",
         prompt=prompt,
         size="1536x1024",  # landscape 3:2, great for LinkedIn infographics
-        quality="medium",  # balanced quality/cost; use "high" for premium posts
+        quality="high",
         output_path=output_path,
     )
 
