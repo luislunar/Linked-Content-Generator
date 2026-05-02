@@ -42,7 +42,9 @@ STYLE_SUFFIX = (
     "Bold typography, clean corporate design, structured layout. "
     "Include an illustrated business professional character in corporate attire. "
     "Bottom footer text: 'Josh Ladick · GSA Focus'. "
-    "High resolution, landscape 16:9 format. No watermarks, no logos other than footer text."
+    "High resolution, landscape 16:9 format. No watermarks, no logos other than footer text. "
+    "IMPORTANT: generous padding and margins on all four sides — minimum 5% whitespace border. "
+    "No text or elements touching the image edges. All content centered with clear breathing room."
 )
 
 LAYOUT_HINTS = {
