@@ -1,0 +1,8 @@
+{
+  "image_headline": "SAM.GOV EXPIRED. DID YOU KNOW?",
+  "image_prompt": "Alert-style infographic. Dark red warning band across the top with bold label 'SAM.GOV EXPIRED?' and a caution triangle icon. Left side: illustrated professional woman in blazer with alarmed expression, viewing a laptop screen. Right side: 5 rows, each with a red X icon and a 3-word label: 'No payments', 'No bids', 'Weeks to fix', 'CO red flag', 'No auto-renew'. Bottom dark navy banner with bold white text: 'CHECK TODAY'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "hook_pattern": "alert",
+  "format": "bullets",
+  "topic": "sam",
+  "experiment_id": null
+}
