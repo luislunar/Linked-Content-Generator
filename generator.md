@@ -100,7 +100,15 @@ Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
 
 ## Active experiment
 
-None. (Weekly research will propose the first experiment after week 1 data is collected.)
+**EXP-001 — fill-in-the-blank CTA** (2026-05-11 to 2026-05-17)
+
+For all posts in this window, override the CTA rotation and use ONLY the fill-in-the-blank style:
+
+> "Fill in the blank: ________ is the reason I haven't [relevant action for topic] yet."
+
+Replace `[relevant action for topic]` with the most natural unfulfilled action for the post's topic (e.g., "applied for my GSA Schedule", "renewed my SAM registration", "pursued my 8(a) certification").
+
+All other generation rules are unchanged.
 
 ---
 
