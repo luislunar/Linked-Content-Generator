@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Story Card</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=Instrument+Serif&display=swap');
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { width: 1080px; height: 1080px; overflow: hidden; font-family: 'Inter', -apple-system, "Helvetica Neue", sans-serif; background: #f5f1ea; color: #0b1f3a; -webkit-font-smoothing: antialiased; }
+    .card { width: 1080px; height: 1080px; padding: 80px; display: flex; flex-direction: column; }
+    .top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 50px; }
+    .section-label { font-size: 16px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: #1a6fff; }
+    .index { font-size: 14px; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: rgba(11, 31, 58, 0.5); }
+    .lead { font-family: 'Instrument Serif', Georgia, serif; font-size: 76px; line-height: 1.05; letter-spacing: -0.02em; max-width: 920px; margin-bottom: 60px; }
+    .lead em { font-style: italic; color: #1a6fff; }
+    .timeline { display: flex; flex-direction: column; flex-grow: 1; justify-content: flex-end; gap: 22px; }
+    .row { display: grid; grid-template-columns: 180px 1fr; gap: 28px; align-items: baseline; padding-bottom: 22px; border-bottom: 1px solid rgba(11, 31, 58, 0.15); }
+    .row:last-child { border-bottom: 2px solid #0b1f3a; padding-bottom: 28px; }
+    .when { font-size: 16px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: #1a6fff; }
+    .what { font-size: 26px; font-weight: 600; line-height: 1.25; letter-spacing: -0.01em; color: #0b1f3a; }
+    .what .light { color: rgba(11, 31, 58, 0.6); font-weight: 400; }
+    .closer { margin-top: 36px; font-size: 18px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: #ef4444; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="top">
+      <div class="section-label">{{SECTION_LABEL}}</div>
+      <div class="index">{{YEAR_CLIENT}}</div>
+    </div>
+    <div class="lead">{{LEAD_HTML}}</div>
+    <div class="timeline">{{ROWS_HTML}}</div>
+    <div class="closer">{{CLOSER}}</div>
+  </div>
+</body>
+</html>

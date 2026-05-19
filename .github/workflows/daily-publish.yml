@@ -15,7 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
       LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
 
@@ -30,7 +29,7 @@ jobs:
 
       - name: Install deps
         run: |
-          pip install requests playwright pillow openai
+          pip install requests playwright
           npx playwright install --with-deps chromium
           npm install -g @anthropic-ai/claude-code
 
@@ -54,11 +53,18 @@ jobs:
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
           echo "dir=drafts/$DATE" >> "$GITHUB_OUTPUT"
 
-      - name: Generate post image
+      - name: Render card (template-based, no AI image)
+        id: card
         run: |
-          python scripts/generate-image-ai.py "${{ steps.draft.outputs.dir }}"
+          python scripts/render-card.py "${{ steps.draft.outputs.dir }}"
+          DIR="${{ steps.draft.outputs.dir }}"
+          if [ -f "$DIR/card.pdf" ]; then
+            echo "media=$DIR/card.pdf" >> "$GITHUB_OUTPUT"
+          else
+            echo "media=$DIR/card.jpg" >> "$GITHUB_OUTPUT"
+          fi
 
-      - name: Commit draft + image to main
+      - name: Commit draft + card to main
         run: |
           git config user.name "linked-content-bot"
           git config user.email "bot@users.noreply.github.com"
@@ -69,5 +75,5 @@ jobs:
       - name: Publish to LinkedIn
         run: |
           python scripts/publish-linkedin.py \
-            "${{ steps.draft.outputs.dir }}/card.jpg" \
+            "${{ steps.card.outputs.media }}" \
             "${{ steps.draft.outputs.dir }}"

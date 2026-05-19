@@ -55,11 +55,13 @@ def auth_headers(content_type: str | None = None) -> dict:
     return h
 
 
-def register_upload(person_urn: str) -> tuple[str, str]:
-    """Step 1: Register an image upload. Returns (upload_url, asset_urn)."""
+def register_upload(person_urn: str, recipe: str = "feedshare-image") -> tuple[str, str]:
+    """Step 1: Register an upload. `recipe` is "feedshare-image" or "feedshare-document".
+    Returns (upload_url, asset_urn).
+    """
     payload = {
         "registerUploadRequest": {
-            "recipes": ["urn:li:digitalmediaRecipe:feedshare-image"],
+            "recipes": [f"urn:li:digitalmediaRecipe:{recipe}"],
             "owner": person_urn,
             "serviceRelationships": [
                 {
@@ -84,36 +86,43 @@ def register_upload(person_urn: str) -> tuple[str, str]:
     return upload_url, asset_urn
 
 
-def upload_image(upload_url: str, image_path: str) -> None:
-    """Step 2: PUT the image bytes to the presigned upload URL."""
-    with open(image_path, "rb") as f:
+def upload_binary(upload_url: str, file_path: str, content_type: str) -> None:
+    """Step 2: PUT the file bytes to the presigned upload URL."""
+    with open(file_path, "rb") as f:
         data = f.read()
     r = requests.put(
         upload_url,
         data=data,
-        headers={"Content-Type": "image/jpeg"},
+        headers={"Content-Type": content_type},
         timeout=120,
     )
     if r.status_code >= 400:
-        print(f"error uploading image {r.status_code}: {r.text[:500]}", file=sys.stderr)
+        print(f"error uploading file {r.status_code}: {r.text[:500]}", file=sys.stderr)
         sys.exit(1)
 
 
-def create_post(person_urn: str, text: str, asset_urn: str) -> str:
-    """Step 3: Create a UGC post. Returns the post URN."""
+# Keep old name for backward compat
+upload_image = upload_binary
+
+
+def create_post(person_urn: str, text: str, asset_urn: str,
+                category: str = "IMAGE", doc_title: str = "") -> str:
+    """Step 3: Create a UGC post. `category` is "IMAGE" or "DOCUMENT".
+    Returns the post URN.
+    """
     payload = {
         "author": person_urn,
         "lifecycleState": "PUBLISHED",
         "specificContent": {
             "com.linkedin.ugc.ShareContent": {
                 "shareCommentary": {"text": text},
-                "shareMediaCategory": "IMAGE",
+                "shareMediaCategory": category,
                 "media": [
                     {
                         "status": "READY",
                         "description": {"text": ""},
                         "media": asset_urn,
-                        "title": {"text": ""},
+                        "title": {"text": doc_title},
                     }
                 ],
             }
@@ -144,7 +153,7 @@ def urn_to_url(post_urn: str, person_urn: str) -> str:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("image_path")
+    ap.add_argument("media_path", help="Path to card.jpg (image) or card.pdf (carousel)")
     ap.add_argument("drafts_dir")
     ap.add_argument("--at", dest="scheduled_time", default=None,
                     help="ISO-8601 time (informational only — UGC Posts API posts immediately)")
@@ -155,32 +164,54 @@ def main() -> None:
     person_urn = env("LINKEDIN_PERSON_URN")
     post_text = Path(args.drafts_dir, "post.md").read_text().strip()
 
+    media_path = Path(args.media_path)
+    suffix = media_path.suffix.lower()
+    if suffix == ".pdf":
+        recipe = "feedshare-document"
+        content_type = "application/pdf"
+        category = "DOCUMENT"
+        # LinkedIn shows the document title on the swipe card; pull from meta if available.
+        meta_for_title = Path(args.drafts_dir, "post.meta.json")
+        doc_title = ""
+        if meta_for_title.exists():
+            try:
+                m = json.loads(meta_for_title.read_text())
+                doc_title = (m.get("template_data", {})
+                              .get("cover", {})
+                              .get("edition", "")) or m.get("topic", "")
+            except Exception:
+                pass
+    else:
+        recipe = "feedshare-image"
+        content_type = "image/jpeg"
+        category = "IMAGE"
+        doc_title = ""
+
     if args.dry_run:
         print("=== DRY RUN ===")
         print(f"person_urn:  {person_urn}")
-        print(f"image_path:  {args.image_path}")
+        print(f"media_path:  {args.media_path}  ({category})")
         print(f"post_text:\n{post_text[:300]}...")
-        print("Would call: registerUpload → PUT image → ugcPosts")
+        print(f"Would call: registerUpload({recipe}) → PUT {content_type} → ugcPosts({category})")
         return
 
     if args.scheduled_time:
-        print(f"note: --at is informational; LinkedIn UGC Posts API publishes immediately. "
-              f"For scheduling, use LinkedIn's native scheduler or a wrapper service.")
+        print(f"note: --at is informational; LinkedIn UGC Posts API publishes immediately.")
 
-    print("Registering image upload...", flush=True)
-    upload_url, asset_urn = register_upload(person_urn)
+    print(f"Registering {category} upload...", flush=True)
+    upload_url, asset_urn = register_upload(person_urn, recipe=recipe)
 
-    print("Uploading image...", flush=True)
-    upload_image(upload_url, args.image_path)
+    print(f"Uploading {content_type}...", flush=True)
+    upload_binary(upload_url, args.media_path, content_type)
 
-    print("Creating post...", flush=True)
-    post_urn = create_post(person_urn, post_text, asset_urn)
+    print(f"Creating {category} post...", flush=True)
+    post_urn = create_post(person_urn, post_text, asset_urn,
+                           category=category, doc_title=doc_title)
 
     linkedin_url = urn_to_url(post_urn, person_urn)
     print(f"post URN: {post_urn}")
     print(f"URL:      {linkedin_url}")
 
-    # Persist to post.meta.json for Notion sync
     meta_path = Path(args.drafts_dir, "post.meta.json")
     if meta_path.exists():
         meta = json.loads(meta_path.read_text())

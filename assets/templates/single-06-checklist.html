@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Visual Checklist</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap');
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { width: 1080px; height: 1080px; overflow: hidden; font-family: 'Inter', -apple-system, "Helvetica Neue", sans-serif; background: #0b1f3a; color: #f5f1ea; -webkit-font-smoothing: antialiased; }
+    .card { width: 1080px; height: 1080px; padding: 80px; display: flex; flex-direction: column; }
+    .top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 50px; }
+    .section-label { font-size: 16px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: #1a6fff; }
+    .index { font-size: 14px; font-weight: 500; letter-spacing: 0.18em; text-transform: uppercase; color: rgba(245, 241, 234, 0.5); }
+    .headline { font-size: 76px; font-weight: 900; line-height: 0.98; letter-spacing: -0.03em; margin-bottom: 70px; max-width: 900px; }
+    .headline .accent { color: #1a6fff; }
+    .list { display: flex; flex-direction: column; gap: 26px; flex-grow: 1; }
+    .item { display: flex; align-items: center; gap: 28px; padding: 22px 0; border-bottom: 1px solid rgba(245, 241, 234, 0.12); }
+    .item:last-child { border-bottom: none; }
+    .check { flex-shrink: 0; width: 56px; height: 56px; border-radius: 12px; background: #1a6fff; display: flex; align-items: center; justify-content: center; }
+    .check svg { width: 32px; height: 32px; }
+    .item-text { font-size: 32px; font-weight: 700; line-height: 1.1; letter-spacing: -0.015em; }
+    .item-text .sub { display: block; font-size: 18px; font-weight: 400; color: rgba(245, 241, 234, 0.65); margin-top: 4px; letter-spacing: 0; }
+    .footer { padding-top: 24px; display: flex; justify-content: space-between; font-size: 14px; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; color: rgba(245, 241, 234, 0.5); }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="top">
+      <div class="section-label">{{SECTION_LABEL}}</div>
+      <div class="index">{{MODULE}}</div>
+    </div>
+    <div class="headline">{{HEADLINE_HTML}}</div>
+    <div class="list">{{ITEMS_HTML}}</div>
+    <div class="footer">
+      <span>{{FOOTER_LEFT}}</span>
+      <span>{{FOOTER_RIGHT}}</span>
+    </div>
+  </div>
+</body>
+</html>
