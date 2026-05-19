@@ -14,9 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-      NOTION_POSTS_DB_ID: ${{ secrets.NOTION_POSTS_DB_ID }}
-      NOTION_EXPERIMENTS_DB_ID: ${{ secrets.NOTION_EXPERIMENTS_DB_ID }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
       LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
@@ -73,12 +70,3 @@ jobs:
           python scripts/publish-linkedin.py \
             "${{ steps.draft.outputs.dir }}/card.jpg" \
             "${{ steps.draft.outputs.dir }}"
-
-      - name: Update Notion to published
-        run: |
-          DIR="${{ steps.draft.outputs.dir }}"
-          POST_ID=$(python -c "import json; print(json.load(open('$DIR/post.meta.json')).get('notion_post_id',''))")
-          LINKEDIN_URL=$(python -c "import json; print(json.load(open('$DIR/post.meta.json')).get('linkedin_url',''))")
-          if [ -n "$POST_ID" ]; then
-            python scripts/notion-sync.py update-published "$POST_ID" "$LINKEDIN_URL"
-          fi

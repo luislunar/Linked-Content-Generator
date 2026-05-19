@@ -16,10 +16,6 @@ Only if you need hook phrasing inspiration: read `reference-posts.md`. Skip it i
 
 If a `research/reddit-trends-*.md` file exists from the last 7 days, read it. Use trending topics only as inspiration — stay within the ICP topics in `brand-context.md`. Never write about topics outside the GSA/federal contracting space.
 
-## Check Notion for active experiment
-
-Run `python scripts/notion-sync.py active-experiment` to find the currently active experiment (if any). If one exists, apply its variant rule.
-
 ## Write the post
 
 Following `program.md` Daily Run steps 4–9, produce these files in `drafts/$(date +%Y-%m-%d)/`:
@@ -51,13 +47,6 @@ The LinkedIn post text. Rules:
 ### `hypothesis.md`
 One paragraph: what is this draft testing (hook pattern, topic, format), why you chose it, and which score components (reactions, comments) you expect to move.
 
-## Call Notion sync
-
-```
-python scripts/notion-sync.py create-post drafts/<date>/
-```
-This inserts a Posts DB row with `status = draft`.
-
 ## Log the run
 
 Append a summary to `logs/run-<date>.md`: topic, format, hook pattern, experiment ID (if any), Notion post URL.
@@ -65,7 +54,7 @@ Append a summary to `logs/run-<date>.md`: topic, format, hook pattern, experimen
 ## Do not
 
 - Do not generate `magnet.md`. Lead magnets are deprecated.
-- Do not call `notion-sync.py create-magnet`. The Magnets DB is no longer used.
+- Do not call `notion-sync.py` for anything. Notion sync has been disabled — no DB writes.
 - Do not use "comment X to receive" CTAs. Always use a community question instead.
 - Do not edit `generator.md`, `brand-context.md`, `reference-posts.md`, `scoring.md`, or `program.md`.
 - Do not publish to LinkedIn. That's the merge-triggered `publish.yml` workflow's job.
