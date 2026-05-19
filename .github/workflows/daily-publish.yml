@@ -2,8 +2,9 @@ name: Daily publish
 
 on:
   schedule:
-    # 14:00 UTC = 10:00 AM EDT (UTC-4, Mar–Nov). Change to 15:00 UTC in November for EST.
-    - cron: "0 14 * * *"
+    # Scheduled at 10:17 UTC (6:17 AM EDT) to compensate for GitHub Actions free-tier delays
+    # of ~4h. Aims to land around 10 AM EDT. Non-zero minute reduces top-of-hour rush delay.
+    - cron: "17 10 * * *"
   workflow_dispatch: {}
 
 permissions:
