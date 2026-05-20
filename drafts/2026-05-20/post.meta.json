@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pricing Reality",
+    "headline_html": "IT'S NOT THE<br>RATE. IT'S<br><span class='accent'>THE PROOF.</span>",
+    "sub": "The GSA negotiation is won or lost on documentation — not on the number you quote.",
+    "issue": "Issue 029"
+  },
+  "image_headline": "IT'S NOT THE RATE. IT'S THE PROOF.",
+  "image_prompt": "Infographic alert layout. Dark navy background. Bold headline top: 'IT'S NOT THE RATE. IT'S THE PROOF.' Left side: illustrated professional man in blazer holding document labeled 'BASIS OF AWARD', confident stance. Right side: two stacked comparison rows — red X with short label 'NO TRAIL', green checkmark with label 'DOCUMENTED'. Bold accent divider between rows. Bottom dark navy banner with white bold text: 'PROVE IT'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

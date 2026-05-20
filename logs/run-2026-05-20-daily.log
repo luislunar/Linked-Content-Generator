@@ -1,0 +1,22 @@
+Done. Here's a summary of today's run:
+
+---
+
+**2026-05-20 daily run complete**
+
+| Field | Value |
+|---|---|
+| `post_type` | `hot_take` |
+| `topic` | `pricing` |
+| `hook_pattern` | `blunt` |
+| `format` | `prose` (no bullets — breaks the recent bullet streak) |
+| `template` | `single-01-bold` |
+| `word_count` | 217 |
+
+**What was generated:**
+- `drafts/2026-05-20/post.md` — prose post on GSA Basis of Award documentation; opens with the blunt reframe that most businesses fail pricing negotiations because of missing paper trail, not wrong rates
+- `drafts/2026-05-20/post.meta.json` — full schema with `template_data` for `single-01-bold` card rendering; headline: *"IT'S NOT THE RATE. IT'S THE PROOF."*
+- `drafts/2026-05-20/hypothesis.md` — tests whether a documentation-framed pricing post outperforms generic "here are your pricing tips" content on reactions and comments
+- `logs/run-2026-05-20.md` — run log with mandatory fields for tomorrow's rotation check
+
+**Rotation rationale:** `pricing` topic last appeared 10+ days ago; `blunt` hook contrasts with yesterday's `question` opener; prose format breaks three consecutive bullet/checklist posts; `hot_take` type was not in the recent window.
