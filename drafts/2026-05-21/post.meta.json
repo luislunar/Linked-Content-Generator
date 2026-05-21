@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "18-Month Shift",
+    "case_num": "Case · 037",
+    "headline_html": "How <span class='accent'>teaming</span> turned zero history into a first win.",
+    "before_items": [
+      "Zero past performance",
+      "Losing on every RFP",
+      "No federal revenue"
+    ],
+    "after_items": [
+      "First PP citation earned",
+      "First prime bid won",
+      "Federal pipeline started"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "TEAMING: FASTEST PATH FROM ZERO",
+  "image_prompt": "Infographic story layout. Left side: illustrated timeline with three milestone icons connected by an upward arrow path — labeled '0 PP', 'TEAMING', 'FIRST WIN'. Right side: illustrated professional in blazer standing confidently, arms crossed, slight smile. Bold headline at top: 'TEAMING: FASTEST PATH FROM ZERO'. One highlighted callout box with bold accent text: 'TEAM FIRST. PRIME NEXT.' Cream background with dark navy accents. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

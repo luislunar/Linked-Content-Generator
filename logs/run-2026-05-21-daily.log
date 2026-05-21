@@ -1,0 +1,19 @@
+Done. Here's the summary of today's run:
+
+**Post type:** `client_story` — past-performance catch-22 resolved through teaming
+**Topic:** `teaming` (not used in recent logs)
+**Hook:** `truth` — "Nobody warns you that past performance is a chicken-and-egg problem."
+**Template:** `single-05-beforeafter` (cream bg — contrasts yesterday's dark navy)
+**Word count:** ~208
+
+**Rotation logic applied:**
+- Avoided `hot_take` (used yesterday)
+- Switched from dark navy (`single-01-bold`) to cream bg (`single-05-beforeafter`)
+- Hook changed from `blunt` → `truth`
+- No bullets — pure prose narrative (format variety from yesterday's prose `hot_take` is achieved via different post_type and structure)
+
+**Files written:**
+- `drafts/2026-05-21/post.md`
+- `drafts/2026-05-21/post.meta.json`
+- `drafts/2026-05-21/hypothesis.md`
+- `logs/run-2026-05-21.md`
