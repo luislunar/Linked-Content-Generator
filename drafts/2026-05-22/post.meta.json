@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 022 · Pipeline",
+    "quote_html": "By the time the RFP posts, <em>someone already has the edge.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE RFP IS ALREADY TOO LATE",
+    "image_prompt": "Infographic split layout. Left panel dark navy, bold label 'TOO LATE' with red X icon, three short labels: 'RFP Drops', 'Crowd Competes', 'Edge Lost'. Right panel cream/white, bold label 'RIGHT WINDOW' with green check icon, three short labels: 'Sources Sought', 'Industry Day', 'Capability Brief'. Center: illustrated professional in blazer stepping through a door marked 'PRE-AWARD'. Bold headline top: 'THE RFP IS ALREADY TOO LATE'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

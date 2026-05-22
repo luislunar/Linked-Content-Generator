@@ -1,0 +1,16 @@
+Run complete. Here's a summary of today's output:
+
+**Post type:** `inspiration` — 97 words, prose-only, no bullets  
+**Topic:** `pipeline`  
+**Hook:** Question opener ("How many federal contracts do you find out about after the RFP drops?") — breaks the last 2-day statement pattern  
+**Template:** `single-03-quote` (cream bg — contrasts May 20's dark navy card)  
+**Image headline:** `THE RFP IS ALREADY TOO LATE`
+
+**Cadence checks passed:**
+- No type repeated from May 21 (`client_story`) or May 20 (`hot_take`) ✓
+- Under 180 words (last 3-day avg was >200) ✓
+- Question hook after 2 statement-opener posts ✓
+- Topic not used in last 5 days ✓
+- Hook pattern not used recently (`question` vs. `truth`/`blunt`) ✓
+
+Files written to `drafts/2026-05-22/` and `logs/run-2026-05-22.md`.
