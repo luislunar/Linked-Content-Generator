@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "myth-bust",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Certification Guide",
+    "module": "Module 05 · Certifications",
+    "headline_html": "Five things to know before you <span class='accent'>certify.</span>",
+    "items": [
+      {
+        "title": "Certs create set-asides, not wins",
+        "sub": "They open contract pools — you still have to sell into them"
+      },
+      {
+        "title": "8(a) is the most powerful door",
+        "sub": "Sole-source up to $4.5M, 9-year program — revenue caps close the window faster than you think"
+      },
+      {
+        "title": "WOSB and SDVOSB shrink the pool",
+        "sub": "Compete with fewer vendors in your category — same market, better odds"
+      },
+      {
+        "title": "HUBZone is geography-based",
+        "sub": "Principal office in a qualifying zone? Pricing preference on full-and-open contracts"
+      },
+      {
+        "title": "Stack certifications intentionally",
+        "sub": "8(a) + WOSB + GSA Schedule together opens more doors than any one alone"
+      }
+    ],
+    "footer_left": "Before You Apply",
+    "footer_right": "Field Guide Series",
+    "image_headline": "CERTIFICATIONS OPEN DOORS. YOU STILL HAVE TO KNOCK.",
+    "image_prompt": "Infographic checklist layout, dark navy background. Bold headline top: 'CERTIFICATIONS OPEN DOORS. YOU STILL HAVE TO KNOCK.' with key icon. Left side: illustrated professional woman in blazer holding a badge/credential card, confident posture. Right side: 5 checklist rows, each with a green checkmark and a short 2-3 word label: 'SET-ASIDES ONLY', '8(A) SOLE-SOURCE', 'SMALLER POOL', 'HUBZONE EDGE', 'STACK THEM'. Bottom navy banner with short callout. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

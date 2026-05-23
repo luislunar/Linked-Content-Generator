@@ -1,0 +1,16 @@
+Done. Here's what was produced for today (`drafts/2026-05-23/`):
+
+---
+
+**Post type:** `tips_list` — breaks the recent `inspiration → client_story → hot_take` streak  
+**Topic:** `certifications` — avoids pipeline/teaming/pricing used in last 3 days  
+**Hook:** `myth-bust` — busts "certifications guarantee contracts"; avoids yesterday's `question` hook  
+**Template:** `single-06-checklist` (dark navy) — visual contrast after 2 cream-bg posts
+
+**Post summary:** Opens by naming the wrong mental model ("certifications guarantee contracts"), then delivers 5 numbered truths — what set-asides actually are, 8(a)'s power and time pressure, WOSB/SDVOSB competition mechanics, HUBZone geography logic, and stacking multiple credentials. Closes with a community question designed to surface both active pursuers and fence-sitters.
+
+**Files created:**
+- `drafts/2026-05-23/post.md` — 192 words, numbered format
+- `drafts/2026-05-23/post.meta.json` — `single-06-checklist` template with all 5 items, `image_headline`, and `image_prompt`
+- `drafts/2026-05-23/hypothesis.md` — testing myth-bust hook on high-stakes cert decision topic
+- `logs/run-2026-05-23.md` — rotation fields logged for tomorrow's agent
