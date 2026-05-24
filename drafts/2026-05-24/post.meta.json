@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "sam",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Six · Client 031",
+    "lead_html": "She'd been selling federal for <em>six years</em>. One expired form cost her an active contract.",
+    "rows": [
+      {
+        "when": "Tuesday A.M.",
+        "what_html": "<strong>Client calls, frantic</strong> <span class='light'>— contracting officer just removed her from an active award</span>"
+      },
+      {
+        "when": "37 Days Prior",
+        "what_html": "<strong>SAM.gov quietly expired</strong> <span class='light'>— no automated reminder, no warning flag sent</span>"
+      },
+      {
+        "when": "The Aftermath",
+        "what_html": "<strong>Re-registered in hours</strong> <span class='light'>— but the contract disruption took weeks to unwind</span>"
+      }
+    ],
+    "closer": "SAM EXPIRES QUIETLY. THE FALLOUT DOESN'T.",
+    "image_headline": "SAM EXPIRES. CONTRACTS DON'T WAIT.",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional woman in blazer on a phone call, expression alarmed, laptop on desk showing a red warning icon. Right side: vertical timeline with 3 milestone markers — 'CONTRACT ACTIVE' with green checkmark, 'SAM EXPIRES' with red X icon, 'PAYMENT PAUSED' with orange warning icon. Bold headline top: 'SAM EXPIRES QUIETLY.' Dark navy banner at bottom with short callout: 'CHECK TODAY'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
