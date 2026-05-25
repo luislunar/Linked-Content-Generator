@@ -1,0 +1,39 @@
+{
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "truth",
+  "format": "comparison",
+  "template": "carousel-01-myths",
+  "template_data": {
+    "cover": {
+      "top_label": "Field Guide / Vol. 04",
+      "headline_html": "3 myths that <span class='accent'>kill</span> GovCon entries before they start.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
+      {
+        "label": "The Past-Performance Trap",
+        "myth_text": "You need past performance to win any federal contract.",
+        "reality_text": "Teaming agreements let new firms piggyback on a prime's track record. Mentor-protégé programs exist for this exact reason. GSA Schedule approval doesn't even require federal past performance."
+      },
+      {
+        "label": "The Price War Lie",
+        "myth_text": "You have to be the cheapest option to win federal work.",
+        "reality_text": "Federal contracts are evaluated on best value — not just price. Technical approach, experience, and reliability all factor in. Undercutting on price often signals low quality and tanks your margins."
+      },
+      {
+        "label": "The Big-Company Lock-Out",
+        "myth_text": "The GSA Schedule is really built for large businesses.",
+        "reality_text": "Over 80% of GSA Schedule holders are small businesses. Congress mandates 23% of all federal contracting dollars go to small businesses. The system was designed with you in mind."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which one held you back?",
+      "close_question": "Drop the myth you believed when you first started exploring GovCon."
+    },
+    "image_headline": "3 MYTHS KILLING YOUR GOVCON ENTRY",
+    "image_prompt": "Split-panel infographic cover. Dark navy background. Bold centered headline: '3 MYTHS KILLING YOUR GOVCON ENTRY'. Three horizontal rows below, each with a red X icon and a short 3-word myth label. Right side: illustrated professional woman in blazer, confident stance. Coral accent on word 'MYTHS'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
