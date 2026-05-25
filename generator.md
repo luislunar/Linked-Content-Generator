@@ -250,7 +250,15 @@ Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
 
 ## Active experiment
 
-None. (Weekly research will propose the first experiment after week 1 data is collected.)
+**EXP-001** (`fill-in-blank-cta`) — test window: 2026-05-26 to 2026-06-01
+
+Variable under test: `cta_style`
+
+Variant rule: Every post in the test window must close with a fill-in-the-blank CTA. Use one of:
+- `"Fill in the blank: ________ is the reason I haven't [topic-relevant action] yet."`
+- `"Fill in the blank: The biggest thing holding small businesses back from [topic] is ________."`
+
+Do **not** use experience-share, action-prompt, myth-drop, honest-check, or opinion CTA styles until 2026-06-01.
 
 ---
 

@@ -184,6 +184,78 @@ def update_published(post_id: str, linkedin_url: str) -> None:
     print(f"updated {post_id} → status=published")
 
 
+def _parse_frontmatter(path: str) -> dict:
+    """Parse simple key: value YAML frontmatter between --- delimiters."""
+    text = Path(path).read_text()
+    if not text.startswith("---\n"):
+        return {}
+    try:
+        end = text.index("\n---", 4)
+    except ValueError:
+        return {}
+    result = {}
+    for line in text[4:end].splitlines():
+        if not line.strip() or line.startswith("#") or ":" not in line:
+            continue
+        key, _, rest = line.partition(":")
+        val = rest.strip()
+        if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+            val = val[1:-1]
+        result[key.strip()] = None if val in ("null", "~", "") else val
+    return result
+
+
+def create_experiment(exp_file: str) -> None:
+    fm = _parse_frontmatter(exp_file)
+    db_id = env("NOTION_EXPERIMENTS_DB_ID")
+    exp_id = fm.get("id") or Path(exp_file).stem
+    props: dict = {"ID": {"title": _text(exp_id)}}
+    if fm.get("hypothesis"):
+        props["Hypothesis"] = {"rich_text": _text(fm["hypothesis"])}
+    if fm.get("variable"):
+        props["Variable Changed"] = {"select": {"name": fm["variable"]}}
+    if fm.get("baseline_start"):
+        props["Baseline Start"] = {"date": {"start": fm["baseline_start"]}}
+    if fm.get("baseline_end"):
+        props["Baseline End"] = {"date": {"start": fm["baseline_end"]}}
+    if fm.get("test_window_start"):
+        props["Test Start"] = {"date": {"start": fm["test_window_start"]}}
+    if fm.get("test_window_end"):
+        props["Test End"] = {"date": {"start": fm["test_window_end"]}}
+    r = requests.post(f"{API}/pages", headers=headers(), json={"parent": {"database_id": db_id}, "properties": props}, timeout=30)
+    if r.status_code >= 400:
+        print(f"Notion error: {r.status_code} {r.text}", file=sys.stderr)
+        sys.exit(1)
+    page = r.json()
+    print(f"{page['url']}\t{page['id']}")
+
+
+def close_experiment(exp_id: str, decision: str, test_median: str, baseline_median: str) -> None:
+    db_id = env("NOTION_EXPERIMENTS_DB_ID")
+    r = requests.post(
+        f"{API}/databases/{db_id}/query",
+        headers=headers(),
+        json={"filter": {"property": "ID", "title": {"equals": exp_id}}, "page_size": 1},
+        timeout=30,
+    )
+    r.raise_for_status()
+    results = r.json().get("results", [])
+    if not results:
+        print(f"experiment not found: {exp_id}", file=sys.stderr)
+        sys.exit(1)
+    page_id = results[0]["id"]
+    props = {
+        "Decision": {"select": {"name": decision}},
+        "Test Median Score": {"number": float(test_median)},
+        "Baseline Median Score": {"number": float(baseline_median)},
+    }
+    r = requests.patch(f"{API}/pages/{page_id}", headers=headers(), json={"properties": props}, timeout=30)
+    if r.status_code >= 400:
+        print(f"Notion error: {r.status_code} {r.text}", file=sys.stderr)
+        sys.exit(1)
+    print(f"closed {exp_id} → {decision}")
+
+
 def cmd(argv: list[str]) -> None:
     if not argv:
         print(__doc__)
@@ -197,6 +269,10 @@ def cmd(argv: list[str]) -> None:
         last_14_days()
     elif sub == "update-published":
         update_published(argv[1], argv[2] if len(argv) > 2 else "")
+    elif sub == "create-experiment":
+        create_experiment(argv[1])
+    elif sub == "close-experiment":
+        close_experiment(argv[1], argv[2], argv[3], argv[4])
     else:
         print(f"not yet implemented: {sub}", file=sys.stderr)
         sys.exit(2)

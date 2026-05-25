@@ -1,0 +1,17 @@
+Weekly research run — 2026-05-25
+
+Engagement data (last 14 days via Notion): 1 post returned (2026-05-19, status=draft, score=0). Published posts 2026-05-20 through 2026-05-24 do not appear in the Notion query — engagement fields have not been entered yet. All formula scores are 0/null.
+
+Experiments closed: none (no active experiments existed prior to this run).
+
+New experiment created:
+- EXP-001 (fill-in-blank-cta): testing fill-in-the-blank CTA style vs. open-ended opinion questions over 2026-05-26 to 2026-06-01. Variable: cta_style. Notion row: 36b0ac80-577a-818f-b3da-e8eb18f346e6.
+
+generator.md changes:
+- Active experiment section updated to reference EXP-001 with variant rule.
+
+scripts/notion-sync.py changes:
+- Implemented create-experiment command (reads YAML frontmatter, creates Notion Experiments DB row).
+- Implemented close-experiment command (looks up by ID, writes Decision/Test Median/Baseline Median).
+
+Note for Josh: Engagement data (impressions, reactions, comments, opt-ins) has not been entered in Notion for any published post. The keep/revert decision for EXP-001 on 2026-06-02 requires those fields to be populated. Baseline median will compute to 0 otherwise and the comparison will be meaningless.
