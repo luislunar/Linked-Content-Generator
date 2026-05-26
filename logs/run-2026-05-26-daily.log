@@ -1,0 +1,17 @@
+Done. Here's the rundown:
+
+**Post type:** `hot_take` — not used in last 3 days (carousel, personal_story, tips_list were blocked).
+
+**Topic:** `pricing` — last used 5+ days ago; high-engagement ICP pain point.
+
+**Hook:** `contrarian` — "Wrong question. Here's the right one." Opens with the question small businesses think they've answered, then reframes it around the Basis of Award trap. Avoided `truth` (yesterday) and `myth-bust`/`story` (prior 2 days).
+
+**Format:** Prose-only, no bullets — contrasts with the last 3 posts (comparison carousel, narrative story, checklist). Analytical tone fits `hot_take`.
+
+**Template:** `single-01-bold` (dark navy) — last concrete single-image post used `single-07-story` (cream), so dark navy adds feed contrast.
+
+**Files created:**
+- `drafts/2026-05-26/post.md` — 163 words (within 150–300 hot_take range)
+- `drafts/2026-05-26/post.meta.json` — template + image data
+- `drafts/2026-05-26/hypothesis.md` — test rationale
+- `logs/run-2026-05-26.md` — rotation log for tomorrow's agent

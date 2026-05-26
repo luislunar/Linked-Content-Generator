@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pricing Pitfall",
+    "headline_html": "WRONG<br>QUESTION.<br><span class='accent'>REBUILD IT.</span>",
+    "sub": "Your GSA pricing ceiling is negotiated once — and locked for years. Build the story before you file.",
+    "issue": "Issue 027"
+  },
+  "image_headline": "PRICE WHAT YOU CAN DEFEND.",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'WRONG QUESTION' with red X icon. Two short labels: 'What to charge' and 'Market rate guess'. Right panel white/cream, bold label 'RIGHT QUESTION' with green checkmark icon. Two short labels: 'Defend in audit' and 'Basis of Award'. Center: illustrated professional in suit holding document, standing at crossroads. Bold headline top: 'PRICE WHAT YOU CAN DEFEND.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
