@@ -1,0 +1,21 @@
+Done. Here's what was produced for **2026-05-27**:
+
+---
+
+**Post type:** `client_story`
+**Topic:** `teaming` (fresh — last used 5+ days ago)
+**Hook:** `question` — "Before you write off that RFQ..."
+**Template:** `single-05-beforeafter` (cream background — required after 2 dark-bg posts in a row)
+**Word count:** ~201 words (within the 200–300 range for client_story)
+
+**Rotation decisions made:**
+- Excluded `personal_story`, `carousel`, `hot_take` (last 3 days)
+- Excluded `contrarian` hook (yesterday)
+- Cream template (`single-05-beforeafter`) to break the dark-bg streak
+- `teaming` topic untouched in the last 5 logs
+
+**Files created:**
+- `drafts/2026-05-27/post.md` — prose client story, before/after structure, community question, 4 hashtags
+- `drafts/2026-05-27/post.meta.json` — full template_data with `image_headline` and `image_prompt`
+- `drafts/2026-05-27/hypothesis.md` — testing question hook + teaming topic for reactions/comments
+- `logs/run-2026-05-27.md` — rotation log for tomorrow's agent

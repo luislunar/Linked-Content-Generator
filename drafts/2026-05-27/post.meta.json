@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Teaming Unlock",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you <span class='accent'>team smart.</span>",
+    "before_items": [
+      "Zero federal references",
+      "RFQs shutting them out",
+      "Commercial ceiling hit"
+    ],
+    "after_items": [
+      "Three federal refs logged",
+      "Named sub on 2 task orders",
+      "GSA application ready"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "NO PAST PERFORMANCE? TEAM FIRST.",
+    "image_prompt": "Infographic before/after layout. Left panel dark navy, bold label 'BEFORE' with red X icon. Three short labels (3 words each): 'Zero federal refs', 'RFQs rejected them', 'Commercial ceiling'. Center: illustrated professional in business casual walking forward on upward path, arrow pointing right. Right panel cream/white, bold label 'AFTER' with green checkmarks. Three short labels: 'Three federal refs', 'Active as sub', 'GSA-ready'. Bold headline at top: 'NO PAST PERFORMANCE? TEAM FIRST.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
