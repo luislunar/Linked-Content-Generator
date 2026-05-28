@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "compliance",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Compliance Check",
+    "module": "Module 05 · Active Holders",
+    "headline_html": "Five compliance traps every GSA holder must <span class='accent'>already</span> know.",
+    "items": [
+      { "title": "Quarterly sales reporting", "sub": "Every GSA dollar logged on time, every quarter" },
+      { "title": "Current price list", "sub": "Commercial rate changes must flow to your GSA list" },
+      { "title": "TAA product sourcing", "sub": "Country of origin matters — verify before an audit does" },
+      { "title": "Contractor Assessment Visits", "sub": "GSA reviews records without warning — be ready always" },
+      { "title": "5-year option renewals", "sub": "Miss the window and you restart from zero" }
+    ],
+    "footer_left": "Schedule Compliance",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "HOLD THE SCHEDULE. PASS THE AUDIT.",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: 'HOLD THE SCHEDULE. PASS THE AUDIT.' with caution icon. Left column: illustrated professional in navy blazer reviewing contract documents on clipboard, expression focused. Right column: 5 checklist rows each with a green checkmark and a short 2-3 word label: 'SALES REPORT', 'PRICE LIST', 'TAA SOURCING', 'CAV AUDIT', 'OPTION RENEWAL'. Dark navy banner at bottom with short callout phrase. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
