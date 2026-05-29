@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Behind the Desk",
+    "year_client": "Month 9 · Active Holder",
+    "lead_html": "Approved. Active. <em>Pipeline empty.</em>",
+    "rows": [
+      {
+        "when": "Month 01–06",
+        "what_html": "<strong>Approval milestone</strong> <span class='light'>— celebrating the contract, not building the hunt</span>"
+      },
+      {
+        "when": "Month 07–09",
+        "what_html": "<strong>Inbox silence</strong> <span class='light'>— no eBuy alerts, no SAM.gov watchlist, waiting</span>"
+      },
+      {
+        "when": "Month 10+",
+        "what_html": "<strong>Pipeline activated</strong> <span class='light'>— eBuy SIN alerts, sources sought watchlist, agency forecasts</span>"
+      }
+    ],
+    "closer": "THE CONTRACT OPENS DOORS. YOU STILL HAVE TO KNOCK."
+  },
+  "image_headline": "APPROVED DOESN'T MEAN PIPELINE READY",
+  "image_prompt": "Infographic story layout. Left side: illustrated professional in business casual at desk, laptop open showing empty inbox with zero notifications. Right side: timeline with 3 icons labeled with 1-2 words each: 'APPROVED,' 'WAITING,' 'ACTIVATED.' Bold headline top: 'APPROVED DOESN'T MEAN PIPELINE READY.' One highlighted callout box with short 3-4 word phrase: 'Hunt. Don't Wait.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
