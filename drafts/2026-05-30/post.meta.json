@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "GSA Schedule",
+    "snapshot": "Snapshot · FY2024",
+    "label_above": "Annual spend through GSA Multiple Award Schedule contracts",
+    "big_number_html": "$<span class='accent'>30B+</span>",
+    "context_html": "Goes to companies already on the Schedule — <strong>not the ones who planned to apply someday.</strong>",
+    "source": "Source · GSA.gov / FAS Data",
+    "by_line": "By the Numbers"
+  },
+  "image_headline": "THE LIST THAT GETS THE MONEY",
+  "image_prompt": "Infographic stat layout. Dark navy background. Bold headline top: 'THE LIST THAT GETS THE MONEY'. Center: large '$30B+' in bright green accent, with label above 'GSA SCHEDULE SPEND'. Left side: illustrated professional man in blazer reviewing a contract document, looking confident. Right side: three short labels with icons — 'ON CONTRACT' with green check, 'IN THE ROOM' with green check, 'POSITIONED' with green check. Bottom dark banner with short text. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
