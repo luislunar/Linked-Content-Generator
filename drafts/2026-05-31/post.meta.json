@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "certifications",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Two · Client 031",
+    "lead_html": "Eighteen months with WOSB. <em>Zero federal revenue.</em>",
+    "rows": [
+      {
+        "when": "Month 01–18",
+        "what_html": "<strong>WOSB active, no vehicle</strong> <span class='light'>— buyers couldn't easily pay her</span>"
+      },
+      {
+        "when": "Month 19–29",
+        "what_html": "<strong>GSA Schedule applied & approved</strong> <span class='light'>— the foundation that was missing</span>"
+      },
+      {
+        "when": "Month 30",
+        "what_html": "<strong>First federal award lands</strong> <span class='light'>— WOSB listed in the award summary</span>"
+      }
+    ],
+    "closer": "CERTIFICATIONS AMPLIFY. VEHICLES UNLOCK THEM.",
+    "image_headline": "YOUR CERT WAS NEVER THE PROBLEM.",
+    "image_prompt": "Infographic story layout. Left side: illustrated timeline with 3 milestone nodes. First node labeled 'CERTIFIED' with red X icon. Second node labeled 'SCHEDULE ADDED' with green checkmark. Third node labeled 'FIRST AWARD' with gold star. Right side: illustrated professional woman in business attire, confident posture, holding a contract folder. Bold headline top: 'YOUR CERT WAS NEVER THE PROBLEM.' Highlighted callout box: '18 MONTHS. ZERO AWARDS.' Dark navy accent band at bottom. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
