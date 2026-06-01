@@ -180,7 +180,7 @@ Pick the hook pattern that best fits the topic. Rotate — don't use the same pa
 | Pattern | Structure | Best for |
 |---|---|---|
 | `myth-bust` | `"[Common myth]." Here's what's actually true.` | myths, certifications, past performance |
-| `contrarian` | `"Wrong question. Here's the right one."` | vehicles, pricing, SAM |
+| `contrarian` | `"Wrong question. Here's the right one."` | vehicles, pricing, SAM | ← **EXP-001 first-choice** for these topics |
 | `alert` | `"This one mistake is quietly costing small businesses..."` | SAM, compliance, renewals |
 | `truth` | `"Nobody talks enough about [uncomfortable reality]."` | pipeline, long game, teaming |
 | `blunt` | `"[Hard fact]. I know that sounds blunt, but..."` | SAM, basics, any checklist topic |
@@ -250,7 +250,10 @@ Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
 
 ## Active experiment
 
-None. (Weekly research will propose the first experiment after week 1 data is collected.)
+**EXP-001** (`contrarian-hook-pricing-sam`) — test window 2026-06-02 through 2026-06-08.
+
+Variant rule: when today's topic is `pricing`, `sam`, or `vehicles`, use `contrarian` as the first-choice hook — unless yesterday's post also used `contrarian`.
+All other hook-selection rules remain unchanged.
 
 ---
 
