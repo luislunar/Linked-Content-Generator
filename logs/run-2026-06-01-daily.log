@@ -1,0 +1,24 @@
+All three files are in place and look solid. Here's the run summary:
+
+---
+
+**2026-06-01 daily run complete**
+
+| Field | Value |
+|---|---|
+| **Post type** | `tips_list` |
+| **Topic** | `pricing` |
+| **Hook pattern** | `contrarian` ("Wrong question.") |
+| **Template** | `single-02-numbered` |
+| **Format** | Numbered (1–4), no `→` bullets |
+| **Word count** | ~212 |
+
+**Post angle:** Reframes the GSA pricing conversation — most businesses ask "what price?" when the real question is "what price can I defend and still win?" Then surfaces 4 specific compliance/margin traps: Basis of Award as floor, Most Favored Customer blindness, no negotiating room, and missing EPA terms.
+
+**Files written:**
+- `drafts/2026-06-01/post.md`
+- `drafts/2026-06-01/post.meta.json`
+- `drafts/2026-06-01/hypothesis.md`
+- `logs/run-2026-06-01.md` (appended)
+
+The card template is `single-02-numbered` with a 4-row numbered breakdown layout — ready for `render-card.py`. The workflow did not commit or push; `publish.yml` handles that on merge.

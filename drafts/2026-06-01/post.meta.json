@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-01",
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "experiment_id": null,
+  "image_headline": "FOUR PRICES THAT KILL GSA MARGINS",
+  "image_prompt": "Infographic numbered breakdown layout. Cream background. Bold headline top: 'FOUR PRICES THAT KILL GSA MARGINS'. Left column: illustrated professional man in blazer reviewing a pricing spreadsheet on a laptop, expression focused. Right column: four numbered rows (01, 02, 03, 04), each with a short 2-3 word label — '01 WRONG FLOOR', '02 MFC BLIND SPOT', '03 OVERHEAD OVERLOAD', '04 NO EPA TERMS' — each row has a small red warning icon. Bottom dark navy banner: 'PRICE IT RIGHT FIRST'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "template_data": {
+    "section_label": "Pricing Mistakes",
+    "index": "Vol. 11 · Pricing",
+    "headline_html": "Four numbers that <span class='accent'>silently kill</span> your GSA margins.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Wrong commercial rate as your floor",
+        "desc": "Your Basis of Award price is a compliance anchor. Routinely discounting below it for commercial clients creates a problem you'll find at modification time."
+      },
+      {
+        "num": "02",
+        "title": "Ignoring the Most Favored Customer rule",
+        "desc": "GSA wants parity with your best customer. If you don't know who that is or what you charge them, you're negotiating blind."
+      },
+      {
+        "num": "03",
+        "title": "Loading overhead with no negotiating room",
+        "desc": "Contracting Officers expect to push back. Build space into your proposal — not to give it away, but because the CO needs to win something."
+      },
+      {
+        "num": "04",
+        "title": "No Economic Price Adjustment terms",
+        "desc": "EPA provisions let you update prices over time. Skip negotiating them upfront and you're locked in regardless of cost changes."
+      }
+    ]
+  }
+}
