@@ -1,0 +1,23 @@
+Done. Here's a summary of today's run:
+
+---
+
+**2026-06-02 daily run**
+
+| Field | Value |
+|---|---|
+| `post_type` | `hot_take` |
+| `topic` | `teaming` |
+| `hook_pattern` | `myth-bust` |
+| `format` | `prose` |
+| `template` | `single-01-bold` |
+| `word_count` | ~170 |
+
+**Rotation logic applied:**
+- Types excluded (last 3 days): `tips_list`, `personal_story`, `milestone`
+- Topics excluded (last 5 days): `pricing`, `certifications`, `gsa_basics`, `pipeline`, `compliance`
+- Hook excluded (yesterday): `contrarian`
+- Length constraint: last 3-day avg was 205 words → stayed under 180
+- Hook style: all 3 prior posts opened with statements → used a question opener today
+
+**Post angle:** Myth-bust on teaming agreements — the common belief that a signed agreement equals protection, vs. the reality that without workshare percentages and dispute clauses in writing, a prime can cut a sub's role post-award. Community question invites practitioners to share hard-learned clauses, designed to drive high comment engagement.

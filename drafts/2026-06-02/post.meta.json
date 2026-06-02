@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "myth-bust",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Teaming Alert",
+    "headline_html": "SIGNED AGREEMENT.<br>NOT ACTUALLY<br><span class='accent'>PROTECTED.</span>",
+    "sub": "Teaming agreements are letters of intent — not contracts. Workshare splits aren't guaranteed until they're in writing.",
+    "issue": "Issue 044"
+  },
+  "image_headline": "SIGNED DOESN'T MEAN PROTECTED. KNOW YOUR AGREEMENT.",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE MYTH' with red X icon, two short myth labels: 'SIGNED = SAFE', 'SPLIT GUARANTEED'. Right panel white, bold label 'THE REALITY' with green checkmarks, three short labels: 'LETTERS OF INTENT', 'PRIME DECIDES', 'DEFINE WORKSHARE'. Center: illustrated professional in suit reviewing a contract document, expression uncertain. Bold headline top: 'SIGNED DOESN'T MEAN PROTECTED'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
