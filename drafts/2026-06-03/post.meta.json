@@ -1,0 +1,39 @@
+{
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "question",
+  "format": "comparison",
+  "template": "carousel-01-myths",
+  "template_data": {
+    "cover": {
+      "top_label": "Field Guide / Vol. 04",
+      "headline_html": "3 myths <span class='accent'>quietly</span> holding new GovCon shops back.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
+      {
+        "label": "The Past-Performance Trap",
+        "myth_text": "You need years of federal contract history before you can even apply for a GSA Schedule.",
+        "reality_text": "The Schedule itself is how you build that history. You don't need federal past performance to apply — you need commercial revenue and two years in business."
+      },
+      {
+        "label": "The Big-Company Illusion",
+        "myth_text": "Federal contracting is dominated by large primes. Small businesses can't compete.",
+        "reality_text": "23% of all federal contract spending is legally mandated for small businesses. Agencies have annual goals they must hit — and they actively need small business vendors to fill them."
+      },
+      {
+        "label": "The Price Race",
+        "myth_text": "You need to undercut everyone on price to win federal bids.",
+        "reality_text": "Most federal solicitations use best-value evaluation — quality, past performance, and capability all count. Chronic undercutting kills your margins and signals risk to contracting officers."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which one almost stopped you?",
+      "close_question": "Drop the myth you believed when you first started looking at federal contracting. What finally changed your mind?"
+    },
+    "image_headline": "THREE MYTHS HOLDING YOUR GOVCON BACK",
+    "image_prompt": "Carousel cover infographic. Dark navy background. Bold white headline top: 'THREE MYTHS HOLDING YOU BACK'. Three numbered red callout tiles stacked vertically, each with a 2-3 word short myth label: '01 NO PAST PERFORMANCE', '02 TOO SMALL TO WIN', '03 PRICE RACE'. Right side: illustrated professional woman in blazer looking confident, arms crossed. Bottom strip in green: bold label 'THE REALITY SWIPE'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,24 @@
+Run complete. Here's what was produced for **2026-06-03**:
+
+---
+
+**Post type:** `carousel` (clear for 7+ days; topic is genuinely 5-slide: cover → 3 myth/reality pairs → close)
+
+**Topic:** `myths` — three beliefs that stop small business owners from pursuing GovCon
+
+**Three myths on the slides:**
+1. *The Past-Performance Trap* — you don't need federal history to apply; the Schedule builds it
+2. *The Big-Company Illusion* — 23% of federal spend is mandated for small businesses; agencies have goals to hit
+3. *The Price Race* — best-value evaluation weighs quality and past performance, not just price
+
+**Hook:** Question (`"Which GovCon myth is quietly holding your business back?"`) — required because last 3 openers were all statement-class
+
+**Caption length:** 76 words (within the 60–120 carousel caption range; also breaks the >196-word 3-day average)
+
+**Template:** `carousel-01-myths` → renders to `card.pdf`
+
+**Files written:**
+- `drafts/2026-06-03/post.md`
+- `drafts/2026-06-03/post.meta.json`
+- `drafts/2026-06-03/hypothesis.md`
+- `logs/run-2026-06-03.md`
