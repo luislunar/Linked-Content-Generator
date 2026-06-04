@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "prose",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "8-Month Pipeline Build",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you <span class='accent'>work the Schedule.</span>",
+    "before_items": [
+      "Schedule live. Zero awards.",
+      "No pipeline system built",
+      "Missing every recompete"
+    ],
+    "after_items": [
+      "First task order won",
+      "Sources sought routine",
+      "Two more bids in flight"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "THE SCHEDULE IS ACCESS. NOT A GUARANTEE.",
+    "image_prompt": "Split-panel infographic on cream background. Left panel light grey, bold label 'BEFORE' at top; three short labels with faded X icons: 'ZERO AWARDS', 'NO PIPELINE', 'MISSED RECOMPETES'. Right panel dark navy, bold label 'AFTER' at top; three short labels with green checkmarks: 'FIRST AWARD', 'PIPELINE BUILT', 'BIDS IN FLIGHT'. Center: illustrated professional man in blazer reviewing a federal opportunity dashboard on a laptop. Bold headline across top: 'THE SCHEDULE IS ACCESS. NOT A GUARANTEE.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
