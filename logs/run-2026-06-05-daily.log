@@ -1,0 +1,19 @@
+Done. Here's a summary of today's run:
+
+**Post type:** `behind_scenes` — breaks from the last 3 days of `client_story` / `carousel` / `hot_take`
+
+**Topic:** `sam` — not used in the past 5 days; high-urgency renewal anxiety for the ICP
+
+**Hook:** `blunt` — "Most small businesses treat their SAM.gov renewal like a checkbox to clear. It isn't." Avoids yesterday's `story` hook pattern.
+
+**Format:** Prose (no bullets) — 2 short paragraphs, names three specific process steps: NAICS code audit, CAGE code & address check, reps-and-certs review. 128 words, within the 100–200 target.
+
+**Template:** `single-07-story` (cream + serif lead) — process-reveal card with 3 steps ending in "RENEWAL ISN'T A CHECKBOX. IT'S A HEALTH CHECK."
+
+**CTA:** Honest-check style ("When did you last audit your full SAM profile — not just hit renew? Be honest. 😅") — designed to surface self-incriminating comments from readers who know they haven't done this.
+
+**Files written:**
+- `drafts/2026-06-05/post.md`
+- `drafts/2026-06-05/post.meta.json`
+- `drafts/2026-06-05/hypothesis.md`
+- `logs/run-2026-06-05.md`

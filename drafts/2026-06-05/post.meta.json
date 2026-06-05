@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Behind the Work",
+    "year_client": "Every Renewal · The Actual Process",
+    "lead_html": "Most clients hit <em>'Renew.'</em> Here's what we actually open.",
+    "rows": [
+      { "when": "Step 01", "what_html": "<strong>NAICS code audit</strong> <span class='light'>— outdated codes make you invisible in searches</span>" },
+      { "when": "Step 02", "what_html": "<strong>CAGE code & address check</strong> <span class='light'>— one mismatch freezes active payments</span>" },
+      { "when": "Step 03", "what_html": "<strong>Reps & certs review</strong> <span class='light'>— most skipped, highest compliance risk</span>" }
+    ],
+    "closer": "RENEWAL ISN'T A CHECKBOX. IT'S A HEALTH CHECK.",
+    "image_headline": "SAM RENEWAL IS NOT A CHECKBOX",
+    "image_prompt": "Infographic process layout. Dark navy background. Bold headline top: 'SAM RENEWAL IS NOT A CHECKBOX'. Left side: illustrated professional woman in blazer reviewing a laptop showing SAM.gov portal screen. Right side: three-step vertical list with short 2-word labels and icons — 'NAICS AUDIT' with magnifier, 'CAGE VERIFY' with checkmark, 'CERTS CHECK' with clipboard. Bottom callout box in lighter navy: 'OPEN THE WHOLE FILE'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
