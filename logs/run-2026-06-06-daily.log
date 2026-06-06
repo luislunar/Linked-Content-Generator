@@ -1,0 +1,23 @@
+Done. Here's a summary of today's run:
+
+---
+
+**2026-06-06 — Daily Post Generated**
+
+| Field | Value |
+|---|---|
+| `post_type` | `tips_list` |
+| `topic` | `certifications` |
+| `hook_pattern` | `truth` |
+| `format` | `checklist` (numbered) |
+| `template` | `single-06-checklist` (dark navy) |
+| `word_count` | ~222 |
+
+**Rotation decisions:**
+- **Type**: `behind_scenes` / `client_story` / `carousel` were all blocked → picked `tips_list` (last used 5 days ago)
+- **Topic**: `sam` / `pipeline` / `myths` / `teaming` / `pricing` all within 5-day window → picked `certifications`
+- **Color**: Last 2 templates were cream-bg → dark-bg `single-06-checklist` breaks the run
+- **Hook**: Can't repeat `blunt` (yesterday) → `truth` ("nobody warns you what happens after you get certified")
+- **Format**: Numbered items, not `→` bullets — avoids the all-arrows pattern
+
+**Hook angle:** Certifications are access keys, not destinations. Five paired actions most certified businesses skip. Community question asks for a specific cert + specific next step — concrete enough to generate real comments.

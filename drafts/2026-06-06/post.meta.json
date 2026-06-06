@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "truth",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Cert Reality Check",
+    "module": "Module 07 · Certifications",
+    "headline_html": "The cert opens the door. <span class='accent'>You still have to walk through it.</span>",
+    "items": [
+      {
+        "title": "NAICS alignment in SAM.gov",
+        "sub": "Wrong codes = invisible to buyers, cert or not"
+      },
+      {
+        "title": "Pair cert with a GSA Schedule",
+        "sub": "eBuy set-asides require a Schedule holder — no Schedule, no RFQ"
+      },
+      {
+        "title": "Rewrite your capability statement",
+        "sub": "Show what you deliver, not just which box you check"
+      },
+      {
+        "title": "Filter SAM.gov by set-aside weekly",
+        "sub": "Your cert unlocks a column of opportunities most people ignore"
+      },
+      {
+        "title": "Pursue teaming proactively",
+        "sub": "Primes need certified subs — position yourself before they come looking"
+      }
+    ],
+    "footer_left": "Cert Activation Guide",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "CERTIFIED. NOW THE REAL WORK STARTS.",
+    "image_prompt": "Infographic checklist layout. Bold headline top: 'CERTIFIED. NOW THE REAL WORK STARTS.' with key icon in coral. Left side: illustrated professional woman in blazer standing at an open doorway, confident posture, dark navy background. Right side: white panel with 5 checklist rows, each with a green checkmark and a short 2-3 word label: 'RIGHT NAICS', 'GSA SCHEDULE', 'CAPABILITY STATEMENT', 'WEEKLY SAM SEARCH', 'TEAMING READY'. Bottom: dark navy banner with short callout 'THE CERT IS JUST THE KEY'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
