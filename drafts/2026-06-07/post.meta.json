@@ -1,0 +1,17 @@
+{
+  "post_type": "hot_take",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 015 · Vehicles",
+    "quote_html": "The question isn't which vehicle is best. <em>It's which one you can win on today.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "PICK THE RIGHT VEHICLE FIRST",
+    "image_prompt": "Split-panel infographic. Left panel dark navy with bold label 'WRONG PATH' and red X icon. Three short stacked labels: 'OASIS+', 'SEWP', 'CIO-SP4'. Right panel white/light with bold label 'RIGHT SEQUENCE' and green upward arrow. Three short stacked labels: 'GSA SCHEDULE', 'PAST PERF.', 'SPECIALS'. Center: illustrated professional standing at a road fork, choosing a path. Bold headline top: 'PICK THE RIGHT VEHICLE FIRST'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

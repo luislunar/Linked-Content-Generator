@@ -1,0 +1,17 @@
+Done. Here's the summary of today's run:
+
+**Post type:** `hot_take` | **Topic:** `vehicles` | **Template:** `single-03-quote` (cream)
+
+**Rotation logic:**
+- Last 3 types (`tips_list`, `behind_scenes`, `client_story`) all blocked → `hot_take` was clear
+- Last 3 hooks were all statements → required question or contrarian opener → `contrarian`
+- Topic `vehicles` untouched in last 5 days
+- Prose format after yesterday's checklist; cream template after yesterday's dark `single-06`
+
+**Post angle:** Reframes the classic "which vehicle should I get?" as the wrong question — the right question is which vehicle you can actually compete on *today*. Argues GSA MAS is the right entry point before pursuing OASIS+, SEWP, or CIO-SP4, because those specialized vehicles pit newcomers against established primes. Ends with a specific CTA asking which vehicle they're targeting and why.
+
+**Files created:**
+- `drafts/2026-06-07/post.md` (202 words)
+- `drafts/2026-06-07/post.meta.json`
+- `drafts/2026-06-07/hypothesis.md`
+- `logs/run-2026-06-07.md`
