@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year One · Teaming",
+    "lead_html": "From <em>\"zero past performance\"</em> to first federal prime — via one subcontract.",
+    "rows": [
+      {
+        "when": "Month 01–06",
+        "what_html": "<strong>Sub position secured</strong> <span class='light'>— cloud migration on a large agency task order</span>"
+      },
+      {
+        "when": "Month 07–12",
+        "what_html": "<strong>Past performance documented</strong> <span class='light'>— every deliverable, every review, on the record</span>"
+      },
+      {
+        "when": "Month 13–18",
+        "what_html": "<strong>First prime contract awarded</strong> <span class='light'>— the history built as a sub won the room</span>"
+      }
+    ],
+    "closer": "THE DOOR WAS OPEN. THEY JUST NEEDED TO SEE IT.",
+    "image_headline": "TEAMING IS THE FASTEST ON-RAMP",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional timeline with 3 milestone nodes labeled 'SUB SECURED', 'PAST PERF BUILT', 'PRIME WIN'. Right side: illustrated professional in business blazer, confident posture, walking toward a federal building silhouette. Bold headline top: 'TEAMING IS THE FASTEST ON-RAMP'. Small navy callout box: '18 MONTHS · ZERO TO PRIME'. Cream background, dark navy accents and timeline. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

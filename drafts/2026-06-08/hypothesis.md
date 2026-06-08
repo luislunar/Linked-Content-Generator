@@ -1,0 +1,5 @@
+This draft tests the `story` hook pattern on a `personal_story` format targeting the `teaming` topic — a combination not used in the last 5 days. The story opener ("The first time I watched...") is designed to pull readers into a concrete scene rather than opening with a claim or list, which the last 3 posts all did.
+
+The narrative arc is chosen to validate whether a no-bullets prose structure outperforms the checklist/numbered formats used on 06-06 and the fragmented prose of 06-07. The teaming angle directly addresses a high-friction belief in the ICP ("I have no past performance, so I can't compete"), making it high-relevance to readers who feel locked out of the federal market.
+
+Expected score movement: **comments** — the closing question ("What's the one thing about teaming you wish someone had told you?") invites genuine experience-sharing, which should drive higher comment volume than abstract tips posts. **Reactions** should also perform well because the "door was already open" payoff line is emotionally resonant for small business owners who have felt blocked. The story format also tends to get saved/shared more than bullet-heavy posts.
