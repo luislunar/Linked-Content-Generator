@@ -250,7 +250,12 @@ Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
 
 ## Active experiment
 
-None. (Weekly research will propose the first experiment after week 1 data is collected.)
+**EXP-001 — alert-hook-weight** (2026-06-08 → 2026-06-14)
+
+Variable: hook pattern frequency. Variant rule: select `alert` on any day where
+it hasn't been used in the last 3 days AND the topic is `sam`, `compliance`,
+`pricing`, or `gsa_basics`. Target ≥3 alert-hook posts this week.
+All other hook-pattern and topic rotation rules remain unchanged.
 
 ---
 
