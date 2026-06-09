@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "myths",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Myths",
+    "quote_html": "The Schedule opens the door. <em>You still have to walk through it.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "APPROVAL IS NOT THE FINISH LINE.",
+    "image_prompt": "Infographic story layout. Left side: illustrated timeline with 3 milestone icons labeled 'APPLY,' 'APPROVED,' 'NOW WHAT?' — last marker has a question mark. Right side: illustrated professional man in blazer holding clipboard, expression uncertain. Bold headline top: 'APPROVAL IS NOT THE FINISH LINE.' One highlighted callout box with short phrase: 'ACCESS. NOT REVENUE.' Dark navy accents, cream background. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
