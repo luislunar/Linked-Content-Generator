@@ -1,0 +1,39 @@
+{
+  "post_type": "carousel",
+  "topic": "pricing",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "carousel-01-myths",
+  "template_data": {
+    "cover": {
+      "top_label": "Field Guide / Vol. 04",
+      "headline_html": "3 pricing myths that <span class='accent'>kill</span> GSA competitiveness.",
+      "edition": "Pricing Edition"
+    },
+    "myths": [
+      {
+        "label": "The Copy-Paste Trap",
+        "myth_text": "You can just copy your commercial rates onto your GSA Schedule.",
+        "reality_text": "GSA requires a Basis of Award — proof your Schedule price matches your best commercial customer. Copy-pasting without an audit trail triggers modification requests and delays approval."
+      },
+      {
+        "label": "The Race-to-Zero",
+        "myth_text": "The lower your price, the better your chances of winning contracts.",
+        "reality_text": "Underpricing kills margins and flags proposals for compliance review. Agencies question quality on unusually low bids. Competitive pricing with clear differentiation wins."
+      },
+      {
+        "label": "The Price Lock Myth",
+        "myth_text": "Once GSA approves your prices, they're locked in forever.",
+        "reality_text": "Price modifications are available anytime with proper justification. Most contractors don't realize this flexibility exists — and leave money on the table by assuming their approval price is permanent."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which one almost stopped you?",
+      "close_question": "Drop the pricing myth you believed when you first started. Let's help someone else dodge it."
+    },
+    "image_headline": "PRICING MYTHS THAT KILL YOUR MARGINS",
+    "image_prompt": "Infographic carousel cover. Dark navy background. Bold headline top-center: 'PRICING MYTHS THAT KILL YOUR MARGINS'. Three preview labels stacked below: '01 COPY-PASTE', '02 RACE TO ZERO', '03 PRICE LOCK'. Illustrated professional woman in blazer pointing at a price tag icon with red X mark. Small label bottom right: 'Vol. 04 · Pricing'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
