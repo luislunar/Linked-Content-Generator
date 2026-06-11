@@ -1,0 +1,22 @@
+Done. Here's what was produced for today's run:
+
+---
+
+**Post type:** `client_story` — `single-05-beforeafter` template
+**Topic:** `sam` | **Hook:** `alert` | **Format:** prose (story)
+**Word count:** 207
+
+**The post** opens with a manufacturing firm that nearly lost a federal recompete because SAM.gov lapsed silently, then explains the exact mechanism (payments freeze, CO has no legal path forward), then resolves with a 72-hour renewal and preserved contract. Closes with a sharp community question: "What's your recovery plan — or is it still 'I'll figure it out when it happens'?"
+
+**Rotation logic:**
+- carousel / inspiration / personal_story were the last 3 types → all excluded
+- client_story last seen before the 5-day window
+- sam, topic not touched in 5+ days
+- alert hook not used in last 3 days (myth-bust / question / story were)
+- prose story format breaks the comparison/prose/story run from prior days
+
+**Files written:**
+- `drafts/2026-06-11/post.md`
+- `drafts/2026-06-11/post.meta.json`
+- `drafts/2026-06-11/hypothesis.md`
+- `logs/run-2026-06-11.md`

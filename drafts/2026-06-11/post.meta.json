@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "SAM Expiration Case",
+    "case_num": "Case · 019",
+    "headline_html": "How a lapsed registration <span class='accent'>nearly cost everything.</span>",
+    "before_items": [
+      "SAM expired unnoticed",
+      "Payments frozen by CO",
+      "Recompete window closing"
+    ],
+    "after_items": [
+      "SAM renewed in 72 hrs",
+      "Payments released",
+      "Contract preserved"
+    ],
+    "footer_left": "One Real Near-Miss",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "SAM EXPIRED. CONTRACT ON THE LINE.",
+  "image_prompt": "Split-panel before/after infographic. Left panel dark navy, bold label 'BEFORE' with red warning icon. Three short labels stacked: 'SAM LAPSED', 'PAYMENT FROZEN', 'RECOMPETE LOST'. Right panel white/cream, bold label 'AFTER' with green checkmarks. Three short labels stacked: 'SAM ACTIVE', 'PAYMENT RELEASED', 'CONTRACT SAVED'. Center divider with illustrated professional in blazer walking from dark to light side. Bold headline top: 'SAM EXPIRED. CONTRACT ON THE LINE.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
