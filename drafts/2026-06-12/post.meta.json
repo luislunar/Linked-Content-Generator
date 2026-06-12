@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pipeline Playbook",
+    "module": "Module 05 · Pipeline",
+    "headline_html": "Five places to find <span class='accent'>federal work</span> before it's posted.",
+    "items": [
+      { "title": "Sources Sought responses", "sub": "Get your name in the file before the solicitation is written" },
+      { "title": "SAM.gov NAICS + keyword alerts", "sub": "Tight filters surface niche recompetes; broad sweeps miss them" },
+      { "title": "Recompete tracking on USAspending", "sub": "Public end dates = warm leads 12–18 months out" },
+      { "title": "Industry Days attendance", "sub": "Face time with the CO before the RFQ drops — show up" },
+      { "title": "Incumbent mapping", "sub": "Current holder is your competitor or your teaming target" }
+    ],
+    "footer_left": "Pre-Solicitation Moves",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "FIND WORK BEFORE IT'S POSTED",
+  "image_prompt": "Infographic checklist layout. Bold headline top: 'FIND WORK BEFORE IT'S POSTED' with magnifying glass icon. Left column: illustrated professional woman in business casual at a desk, viewing a government website on a laptop. Right column: 5 checklist rows with green checkmarks and short 2-3 word labels: 'Sources Sought', 'SAM Alerts', 'Recompete Dates', 'Industry Days', 'Incumbent Map'. Dark navy bottom banner with text: 'PIPELINE STARTS 18 MONTHS OUT'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

@@ -1,0 +1,24 @@
+Done. Here's what was produced for **2026-06-12**:
+
+---
+
+**Post type:** `tips_list` (not used in 5+ days)
+**Topic:** `pipeline`
+**Hook:** `truth` — "Nobody talks enough about where pipeline actually comes from..."
+**Format:** numbered (no `→`) — contrast after three straight story/prose posts
+**Template:** `single-06-checklist` (dark navy) — contrasts with last two cream-bg cards
+
+**The 5 pipeline moves covered:**
+1. Sources Sought responses — get in the file pre-solicitation
+2. SAM.gov NAICS + keyword alerts — narrow > broad
+3. Recompete tracking on USAspending.gov — public end dates = warm leads
+4. Industry Days — face time with the CO before the RFQ exists
+5. Incumbent mapping — competitor or teaming target
+
+**CTA style:** action-prompt ("which of these are you doing / adding this week?") — designed for low-barrier engagement and practitioner comparison in comments.
+
+**Files written:**
+- `drafts/2026-06-12/post.md`
+- `drafts/2026-06-12/post.meta.json`
+- `drafts/2026-06-12/hypothesis.md`
+- `logs/run-2026-06-12.md`
