@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Cert Reality Check",
+    "headline_html": "CERTIFIED<br>DOESN'T MEAN<br><span class='accent'>CONTRACTED.</span>",
+    "sub": "Getting a set-aside cert is a door key — not a contract. Here's what comes next.",
+    "issue": "Issue 029"
+  },
+  "image_headline": "CERTIFIED DOESN'T MEAN CONTRACTED.",
+  "image_prompt": "Bold alert infographic. Dark navy background. Large stacked headline at top: 'CERTIFIED / DOESN'T MEAN / CONTRACTED' — last word in coral accent color. Center: illustrated professional figure in business suit holding a framed certificate, standing before a large federal building entrance door. Coral pill label top-left: 'CERT REALITY CHECK'. Right-side callout box with short bold label 'THE CERT IS A KEY'. Bottom dark banner strip with 1-line subtext. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

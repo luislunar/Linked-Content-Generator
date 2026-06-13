@@ -1,0 +1,19 @@
+Done. Here's a summary of today's output:
+
+---
+
+**2026-06-13 — `hot_take` · `certifications` · `question` hook**
+
+**Why these choices:**
+- Last 3 types were `tips_list`, `client_story`, `carousel` — `hot_take` hasn't appeared this week
+- Last 3 hooks all started with statements → rule required a question or story opener today
+- Topic pool after 5-day exclusion window left: `gsa_basics`, `compliance`, `certifications`, `vehicles` — chose `certifications` for high emotional resonance
+- Prose format breaks the checklist/comparison pattern of the last 3 posts
+
+**The post:** Opens with a question targeting anyone post-certification who expected pipeline to follow automatically. No bullets — tight 4-paragraph rhythm building to "The cert is a door. You still have to knock." CTA invites personal experience sharing.
+
+**Files written:**
+- `drafts/2026-06-13/post.md` — 178 words
+- `drafts/2026-06-13/post.meta.json` — `single-01-bold` template, `Issue 029`
+- `drafts/2026-06-13/hypothesis.md` — question hook + prose format test
+- `logs/run-2026-06-13.md` — rotation record for tomorrow's agent
