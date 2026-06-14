@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "teaming",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 006 · Teaming",
+    "quote_html": "The fastest path into federal contracting <em>isn't the prime seat.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes"
+  },
+  "image_headline": "WRONG QUESTION. RIGHT STRATEGY.",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'WRONG QUESTION' with red X icon, three 2-word myth labels below in muted text: 'NO RESUME', 'NO HISTORY', 'WAIT LONGER'. Right panel cream/white, bold label 'RIGHT QUESTION' with green upward arrow, three 2-word action labels: 'FIND PRIME', 'STRUCTURE DEAL', 'YEAR ONE WIN'. Center: illustrated professional woman in blazer shaking hands with taller suited figure, crossing from dark to light panel. Bold headline top: 'WRONG QUESTION. RIGHT STRATEGY.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
