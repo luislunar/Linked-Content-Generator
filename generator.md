@@ -250,7 +250,9 @@ Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
 
 ## Active experiment
 
-None. (Weekly research will propose the first experiment after week 1 data is collected.)
+**EXP-001 — hook-urgency-weight** (2026-06-15 to 2026-06-21)
+
+Variable: hook pattern weighting. Use `alert`, `myth-bust`, or `blunt` on at least 5 of 7 days this week. The remaining 2 days may use any other pattern. The existing cadence rule (no repeat two days in a row) still applies.
 
 ---
 
