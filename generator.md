@@ -188,6 +188,11 @@ Pick the hook pattern that best fits the topic. Rotate — don't use the same pa
 | `story` | Personal origin story or community validation moment | community, milestones, wins |
 | `checklist` | `"[Topic] health check: here's what most people miss."` | SAM, compliance, capability statement |
 
+### EXP-001 weighting (active 2026-06-22 to 2026-06-29)
+
+Selection pool: contrarian(2) + alert(2) + myth-bust(1) + truth(1) + blunt(1) + question(1) + story(1) + checklist(1) = 10 shares.
+Pick randomly from this pool. The no-repeat-two-days rule still applies — if the weighted draw lands on the same pattern used yesterday, draw again once from the pool.
+
 ---
 
 ## Format rules
@@ -250,7 +255,11 @@ Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
 
 ## Active experiment
 
-None. (Weekly research will propose the first experiment after week 1 data is collected.)
+**EXP-001** — `contrarian-alert-hook-boost`
+- Variable: hook_pattern selection weight
+- Variant: contrarian + alert patterns at 2× weight (see EXP-001 weighting in Hook patterns section)
+- Test window: 2026-06-22 to 2026-06-29
+- File: `experiments/EXP-001-contrarian-alert-hook-boost.md`
 
 ---
 
