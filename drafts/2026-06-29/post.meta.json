@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "myths",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Three · A Real Call",
+    "lead_html": "She was convinced her company was <em>too small for federal work.</em> Six years in business. Three million in revenue. She was <em>wrong.</em>",
+    "rows": [
+      {
+        "when": "The Call",
+        "what_html": "<strong>\"We don't have the clout.\"</strong> <span class='light'>— the sentence I've heard a hundred times</span>"
+      },
+      {
+        "when": "Months 01–08",
+        "what_html": "<strong>Schedule applied and approved</strong> <span class='light'>— the process she almost never started</span>"
+      },
+      {
+        "when": "Month 14",
+        "what_html": "<strong>First federal award</strong> <span class='light'>— not luck. Just the right information, finally.</span>"
+      }
+    ],
+    "closer": "THE MYTH COST TWO YEARS. NOT THE PAPERWORK.",
+    "image_headline": "THE MYTH WAS THE ONLY BARRIER",
+    "image_prompt": "Infographic story layout. Left side: illustrated journey arc with three milestone markers labeled 'THE CALL', 'SCHEDULE APPROVED', 'FIRST AWARD' in 1-2 word labels. Right side: illustrated professional woman in blazer, confident posture, looking forward. Bold headline top: 'THE MYTH WAS THE ONLY BARRIER'. Highlighted callout box center with short phrase '14 MONTHS. ONE AWARD.' Cream background, dark navy accents, coral highlight on callout box. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,11 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Run complete. Here's what was produced in `drafts/2026-06-29/`:
+
+**post_type:** `personal_story` — not used in last 3 days ✓  
+**topic:** `myths` — not used in last 5 days ✓  
+**hook:** `story` — breaks the 3-day statement-opener streak ✓  
+**format:** prose, zero bullets — good contrast after recent checklist/bullet posts ✓  
+**template:** `single-07-story` (cream bg) ✓  
+**word count:** 228 — within the 200–400 range  
+
+**The story:** A professional services firm owner ($3M revenue, 6 years in business) who nearly never applied for a GSA Schedule because she believed the "too small" myth — 8 months to approval, 14 months to first award. The community question asks readers to name the myth they believed before they started, which is specific and low-friction enough to pull real replies.
