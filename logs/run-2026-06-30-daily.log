@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the run summary:
+
+**Post type:** `tips_list` · **Topic:** `compliance` · **Template:** `single-06-checklist` (dark navy)
+
+**What was produced in `drafts/2026-06-30/`:**
+- `post.md` — 198-word alert-hook checklist post: 5 annual GSA Schedule compliance tasks most contractors miss, closing with a near-miss CTA
+- `post.meta.json` — full template data for `single-06-checklist` with 5 items, image headline, and image prompt
+- `hypothesis.md` — rationale for hook/format choice and expected engagement lift
+
+**Rotation decisions:**
+- Broke the two-day cream-bg streak by picking dark navy `single-06-checklist`
+- `alert` hook after yesterday's `story` hook — no repeat
+- `compliance` topic is fresh (not in any of the last 5 logs)
+- `tips_list` not used since 06-12, and the numbered checklist format deliberately avoids the `→` bullets from recent posts

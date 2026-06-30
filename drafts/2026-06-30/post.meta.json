@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "compliance",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Compliance Check",
+    "module": "Module 05 · Annual Renewal",
+    "headline_html": "Five tasks that keep your <span class='accent'>Schedule alive.</span>",
+    "items": [
+      {
+        "title": "Renew SAM.gov registration",
+        "sub": "Expires every 12 months — lapse freezes payments cold"
+      },
+      {
+        "title": "Accept Mass Modifications",
+        "sub": "Ignoring mass mods puts you in contract violation"
+      },
+      {
+        "title": "Audit for price reduction liability",
+        "sub": "Lower commercial rates may trigger a refund obligation"
+      },
+      {
+        "title": "Update GSA Advantage pricelist",
+        "sub": "Stale pricelists cost you RFQs you never even see"
+      },
+      {
+        "title": "File Annual Sales Report by Nov 30",
+        "sub": "Miss this and GSA can terminate for cause"
+      }
+    ],
+    "footer_left": "Annual Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE TASKS YOUR SCHEDULE NEEDS ANNUALLY.",
+    "image_prompt": "Infographic alert layout on dark navy background. Bold warning headline top: 'FIVE TASKS YOUR SCHEDULE NEEDS' with a caution triangle icon. Left side: illustrated professional woman in blazer holding a clipboard, serious expression. Right side: 5 checklist rows stacked vertically, each with a green checkmark icon and a short 2-3 word label — 'SAM RENEWAL', 'MASS MODS', 'PRICE AUDIT', 'PRICELIST UPDATE', 'SALES REPORT'. Bottom dark banner with bold white text: 'EVERY YEAR. NO EXCEPTIONS.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
