@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Run complete. Here's what was produced for **2026-07-01**:
+
+---
+
+**Post type:** `client_story` — excluded `tips_list`, `personal_story`, `inspiration` (last 3 days)  
+**Topic:** `pricing` — all 5 recent topics were compliance, myths, teaming, certifications, pipeline  
+**Hook:** `blunt` — excluded `alert` (yesterday) and `story` (day before)  
+**Template:** `single-05-beforeafter` (cream bg) — good contrast after yesterday's dark `single-06`  
+**Word count:** ~216 (within 200–300 range for `client_story`)
+
+**The post** opens with the blunt line — "If your GSA pipeline has been quiet for 12 months, your capability statement isn't the problem" — then walks through a real client arc: 18 months on Schedule, zero awards, root cause was pricing 30–40% above market, contract mod repriced four service lines, first RFQ in 90 days, first award in six months. No bullets (pure prose paragraphs as specified for `client_story`). Closes with a CTA that surfaces honest self-assessment: "When did you last compare your GSA prices to similar vendors on GSAAdvantage?"
+
+**Files written:**
+- `drafts/2026-07-01/post.md`
+- `drafts/2026-07-01/post.meta.json`
+- `drafts/2026-07-01/hypothesis.md`
+- `logs/run-2026-07-01.md`

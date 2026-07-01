@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pricing Pivot",
+    "case_num": "Case · 018",
+    "headline_html": "18 months on Schedule. <span class='accent'>Zero awards.</span>",
+    "before_items": [
+      "Prices 35% above market",
+      "Zero RFQs received",
+      "Invisible on GSAAdvantage"
+    ],
+    "after_items": [
+      "Repriced via contract mod",
+      "First RFQ within 90 days",
+      "First award in six months"
+    ],
+    "footer_left": "One Pricing Turnaround",
+    "footer_right": "Field Case Series",
+    "image_headline": "BAD PRICES KILL GOOD PIPELINES",
+    "image_prompt": "Split-panel infographic on cream background. Left panel dark navy, bold 'BEFORE' label with red X icon, three short labels: 'HIGH RATES', 'ZERO RFQS', 'MARKET INVISIBLE'. Right panel white, bold 'AFTER' label with green checkmarks, three short labels: 'RATES REPRICED', 'FIRST RFQ', 'AWARD LANDED'. Top bold headline: 'BAD PRICES KILL GOOD PIPELINES'. Center: illustrated professional man in blazer reviewing a laptop, expression shifting from concerned to confident. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
