@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-07-02/`:
+
+**Post type:** `hot_take` — first type available after blocking `client_story`, `tips_list`, `personal_story` (last 3 days)
+
+**Topic:** `pipeline` — avoided `pricing`, `compliance`, `myths` (last 5 days)
+
+**Hook:** `truth` — "Nobody talks about federal Q4 the way they should." Avoids yesterday's `blunt`
+
+**Format:** Pure prose, no bullets — varies away from checklist/story used the prior two days
+
+**Word count:** ~162 words — under the 180-word ceiling triggered by the 214-word average of the last 3 posts
+
+**Timing angle:** July 2 is literally the first business day of federal fiscal Q4 (July–September), when use-it-or-lose-it appropriations drive a surge in contract awards. The post names the mechanism (not just the fact) and closes with a pointed pipeline question.
+
+**Template:** `single-01-bold` (dark navy) — standard first-choice for `hot_take`

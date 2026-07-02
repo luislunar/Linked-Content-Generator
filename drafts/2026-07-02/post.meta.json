@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pipeline Alert",
+    "headline_html": "FEDERAL<br>Q4 STARTS<br><span class='accent'>NOW.</span>",
+    "sub": "Agencies have 90 days to obligate the year's remaining budget — and the calls are already going out.",
+    "issue": "Issue 031"
+  },
+  "image_headline": "FEDERAL Q4 STARTED. ARE YOU VISIBLE?",
+  "image_prompt": "Alert-style infographic on dark navy background. Bold headline top: 'FEDERAL Q4 STARTS NOW' in white. Center split: left zone labeled 'SCHEDULE ACTIVE' with green checkmark and upward arrow icon; right zone labeled 'NO SCHEDULE' with red X icon. Bottom highlighted callout: '90 DAYS. BILLIONS OBLIGATED.' Illustrated professional man in blazer reviewing a tablet, standing between the two zones. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
