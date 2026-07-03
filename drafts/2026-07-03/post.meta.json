@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Behind the Portal · SAM.gov",
+    "lead_html": "What actually happens <em>after</em> you hit submit.",
+    "rows": [
+      {
+        "when": "Step 01",
+        "what_html": "<strong>Legal name audit</strong> <span class='light'>— EIN vs. IRS records, exact match required before anything moves</span>"
+      },
+      {
+        "when": "Step 02",
+        "what_html": "<strong>CAGE code history pull</strong> <span class='light'>— prior registrations, lapsed dates, flags that stall review</span>"
+      },
+      {
+        "when": "Step 03",
+        "what_html": "<strong>Notarized letter review</strong> <span class='light'>— the missing document that kills more registrations than any other</span>"
+      }
+    ],
+    "closer": "SAM.GOV IS A CREDENTIAL. TREAT IT LIKE ONE.",
+    "image_headline": "SAM.GOV IS A CREDENTIAL NOT A FORM",
+    "image_prompt": "Infographic process layout. Bold top header: 'WHAT SAM.GOV ACTUALLY CHECKS' with caution icon on dark navy band. Center: illustrated professional woman at laptop reviewing a government portal screen. Left column: three numbered steps with short 2-3 word labels — 'IRS MATCH', 'CAGE PULL', 'NOTARIZED DOC' — each with colored status icon (red X or yellow clock). Right column: illustrated clipboard checklist. Bottom dark navy banner callout: 'PENDING ≠ SUBMITTED'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
