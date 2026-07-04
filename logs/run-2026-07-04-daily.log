@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **2026-07-04**:
+
+---
+
+**Post type:** `inspiration` — short contrarian insight, no bullets, prose only  
+**Topic:** `gsa_basics` (not used in 5+ days)  
+**Hook:** `contrarian` — reframes the US government as the world's largest buyer, flipping the "too intimidating" assumption  
+**Template:** `single-03-quote` (cream serif) — avoids the two recent dark-navy cards  
+**Word count:** 117 (within 50–150 range)
+
+**The angle:** It's Independence Day. Rather than a cheerful holiday post, this uses the date as quiet context for a sharp business argument — the country small businesses are celebrating is also the most reliable high-volume buyer they're ignoring. The pull quote ("You don't need to be large. You need to be on the list.") is built to carry the feed stop.
+
+**Community question:** Invites readers to name the assumption that almost stopped them — low friction, psychologically honest, designed to surface real comments rather than generic engagement.
+
+**Files written:**
+- `drafts/2026-07-04/post.md`
+- `drafts/2026-07-04/post.meta.json`
+- `drafts/2026-07-04/hypothesis.md`
+- `logs/run-2026-07-04.md`

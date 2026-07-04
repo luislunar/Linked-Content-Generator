@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "gsa_basics",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Hard Truth",
+    "index": "No. 029 · GSA Basics",
+    "quote_html": "You don't need to be large.<br>You need to be <em>on the list.</em>",
+    "footer_left": "Independence Day Edition",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "YOUR BIGGEST CUSTOMER HAS BEEN WAITING",
+    "image_prompt": "Infographic story layout, cream background. Bold headline top in dark navy: 'YOUR BIGGEST CUSTOMER HAS BEEN WAITING'. Left side: illustrated professional in blazer, confident stance, holding a GSA contract folder. Right side: large bold '$700B' label in dark navy with accent highlight, three stacked 2-word labels below — 'ONE VEHICLE', 'EVERY AGENCY', 'OPEN NOW'. Bottom dark navy banner with short callout: 'GSA SCHEDULE'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
