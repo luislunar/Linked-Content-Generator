@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "myth-bust",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Cert Reality Check",
+    "module": "Module 07 · Certifications",
+    "headline_html": "Five things no one tells you about <span class='accent'>small business certifications.</span>",
+    "items": [
+      {
+        "title": "Certs expand where you compete",
+        "sub": "Status gets you in — strategy wins the bid"
+      },
+      {
+        "title": "You can stack certifications",
+        "sub": "WOSB + 8(a) is legal — two pools, one entity"
+      },
+      {
+        "title": "8(a) has a 9-year clock",
+        "sub": "When you enter determines how much runway you keep"
+      },
+      {
+        "title": "SDVOSB needs CVE verification",
+        "sub": "SAM registration alone won't cover VA set-asides"
+      },
+      {
+        "title": "HUBZone compliance is ongoing",
+        "sub": "Zone residency requirements persist through contract performance"
+      }
+    ],
+    "footer_left": "Five Hard Truths",
+    "footer_right": "Certifications Guide",
+    "image_headline": "CERTS OPEN DOORS. STRATEGY WINS BIDS.",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline at top: 'CERTS OPEN DOORS. STRATEGY WINS BIDS.' with shield icon. Left column: illustrated professional woman in blazer holding a certification badge, confident posture. Right column: 5 checklist rows with green checkmarks and short 3-word labels: 'EXPAND COMPETITION', 'STACK THEM', '9-YEAR CLOCK', 'CVE REQUIRED', 'ONGOING COMPLIANCE'. Bottom coral accent banner with short phrase: 'Tools, not guarantees.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

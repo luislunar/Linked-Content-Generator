@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-07-05/`:
+
+**Post type:** `tips_list` — not used in the last 3 days, breaks the prose streak with numbered items.
+
+**Topic:** `certifications` — last 5 days covered pipeline, sam, gsa_basics, pricing, compliance. Certifications was wide open and sits high on ICP pain: they believe certs = contracts.
+
+**Hook:** `myth-bust` — opens with `"Getting certified gets you contracts." Here's what's actually true.` Avoids yesterday's contrarian and the day before's question.
+
+**Template:** `single-06-checklist` (dark navy) — dark-bg was clear since last 2 were both cream.
+
+**Five items covered:**
+1. Certs expand where you compete, strategy wins the bid
+2. WOSB + 8(a) can be stacked (common myth: choose one)
+3. 8(a) has a 9-year clock — entering late means less runway
+4. SDVOSB for VA set-asides requires CVE verification, not just SAM
+5. HUBZone compliance is ongoing through contract performance
+
+**Community question:** Asks which specific certification is on their radar + what one obstacle is blocking them — specific enough to pull real responses rather than generic agreement.
