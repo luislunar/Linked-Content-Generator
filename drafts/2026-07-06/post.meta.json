@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "12-Month Shift",
+    "case_num": "Case · 018",
+    "headline_html": "What changes when you <span class='accent'>stop going it alone.</span>",
+    "before_items": [
+      "No federal past performance",
+      "Bid after bid rejected",
+      "Stuck in commercial only"
+    ],
+    "after_items": [
+      "First task order awarded",
+      "Past performance established",
+      "Bidding as prime, winning"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "THE DOOR THAT TEAMING OPENS.",
+    "image_prompt": "Before/after split infographic. Left panel dark navy, bold label 'BEFORE' with red X icon. Illustrated professional alone at desk surrounded by rejected document folders. Three short labels below: 'NO PAST PERF', 'EVERY BID LOST', 'COMMERCIAL ONLY'. Right panel cream, bold label 'AFTER' with green checkmark. Illustrated two professionals in suits shaking hands. Three short labels: 'FIRST AWARD', 'RECORD BUILT', 'NOW THE PRIME'. Bold headline spanning top: 'THE DOOR THAT TEAMING OPENS.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

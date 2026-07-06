@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Run complete. Here's what was produced in `drafts/2026-07-06/`:
+
+**Post type:** `client_story` — not used in the last 3 days, good contrast with the recent tips_list and inspiration formats.
+
+**Topic:** `teaming` — fresh in the rotation, addresses the past-performance catch-22 which is one of the highest-friction ICP pain points.
+
+**Hook:** Opens cold in the client's stuck state ("Two years of submitting bids… same rejection every time") before introducing the teaming solution — classic story hook that creates immediate ICP identification before any solution is revealed.
+
+**Template:** `single-05-beforeafter` (cream/navy split) — visually contrasts with the dark single-06-checklist used two days ago. Before/after card maps the 12-month arc from "no past performance / commercial only" to "first award / now the prime."
+
+**Format:** Pure prose, no bullets — breaks the checklist pattern from 07-05 and keeps the 40% non-arrow rotation on track.
+
+**Community question:** Tiered and specific ("finding the right prime, agreement terms, or something else?") to lower the reply barrier and surface real friction data from the audience.
+
+**Word count:** 231 words — within the 200–300 range for `client_story`.
