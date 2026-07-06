@@ -250,11 +250,27 @@ Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
 
 ## Active experiment
 
-None. (Weekly research will propose the first experiment after week 1 data is collected.)
+**EXP-001 — question-myth-hook-priority** (2026-07-07 to 2026-07-13)
+
+Variable: hook_pattern selection rules. One variable only — template, format, topics, and CTA are unchanged.
+
+Forced hook assignments for this experiment window:
+
+| Topic | hook_pattern (forced) |
+|---|---|
+| `myths` | `myth-bust` |
+| `certifications` | `myth-bust` |
+| `vehicles` | `question` |
+| `pipeline` | `question` |
+| all other topics | use normal rotation rules |
 
 ---
 
 ## Rotation tracker (updated by agent each run)
 
 Last 5 (topic, format, hook):
-- (none yet — first run)
+- (2026-07-05) certifications, checklist, myth-bust
+- (2026-07-04) gsa_basics, prose, contrarian
+- (2026-07-03) sam, prose, question
+- (2026-07-02) pipeline, prose, truth
+- (2026-07-01) pricing, story, blunt
