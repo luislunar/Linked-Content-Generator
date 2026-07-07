@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's run:
+
+**Post type:** `personal_story` (unused in 7-day window)
+**Topic:** `pricing` (unused in 5+ days)
+**Hook:** `blunt` — opens with a paradox: "She had everything... And zero awards after two years."
+**Template:** `single-07-story` (cream bg — correct contrast after 07-05's dark navy)
+**Word count:** 234 (within 200–400 range)
+
+**The story:** A client with an active Schedule, clean SAM, and zero awards for two years. Root cause: Basis of Award pricing set 20–30% above what comparable primes had negotiated down to, causing automated CO filtering tools to exclude her before a human saw the proposal. Fix: Schedule modification. Result: first award 90 days later.
+
+**Community question** targets a specific diagnostic behavior — comparing your Schedule rates to what primes in your NAICS are actually charging — designed to surface comments from holders who've hit this same invisible wall.

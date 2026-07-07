@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Three · Client 041",
+    "lead_html": "Active Schedule. Two years. <em>Zero awards.</em> The price was the problem.",
+    "rows": [
+      {
+        "when": "Month 01",
+        "what_html": "<strong>Full audit: Schedule active 2 years</strong> <span class='light'>— no RFQ responses, no awards</span>"
+      },
+      {
+        "when": "Month 02",
+        "what_html": "<strong>Found it: Basis of Award misaligned</strong> <span class='light'>— rates 20–30% above comparable primes</span>"
+      },
+      {
+        "when": "Month 03+",
+        "what_html": "<strong>Mod filed, pricing corrected</strong> <span class='light'>— first award landed 90 days later</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE WAS FINE. THE PRICE WASN'T.",
+    "image_headline": "THE SCHEDULE WAS FINE. THE PRICE WASN'T.",
+    "image_prompt": "Infographic story layout. Left side: illustrated timeline with 3 milestone markers labeled 'AUDIT', 'FOUND IT', 'FIRST WIN' connected by a vertical path. Right side: illustrated professional woman in blazer reviewing a pricing document on a laptop, expression shifting from worried to confident. Dark navy header band with bold white headline: 'THE SCHEDULE WAS FINE. THE PRICE WASN'T.' Small callout box mid-card: 'BASIS OF AWARD'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
