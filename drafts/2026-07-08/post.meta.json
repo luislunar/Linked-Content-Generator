@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pipeline Truth",
+    "headline_html": "THE RFP<br>IS ALREADY<br><span class='accent'>TOO LATE.</span>",
+    "sub": "By the time the solicitation posts, the best vendors are already on the CO's shortlist.",
+    "issue": "Issue 022"
+  },
+  "image_headline": "THE RFP IS ALREADY TOO LATE.",
+  "image_prompt": "Alert infographic, dark navy background. Bold white headline top: 'THE RFP IS ALREADY TOO LATE.' Left column: illustrated professional in blazer reviewing documents at a desk. Right column: vertical three-step timeline — steps labeled 'SOURCES SOUGHT' with green checkmark, 'INDUSTRY DAY' with green checkmark, 'RFP DROPS' with red alert icon. Bottom accent band in coral: 'SHOW UP FIRST.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

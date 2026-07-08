@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Today's draft is in `drafts/2026-07-08/`.
+
+**What was produced:**
+
+- **post_type:** `hot_take` (not used in last 3 days ✓)
+- **topic:** `pipeline` (not used in last 5 days ✓)
+- **hook:** `contrarian` — "Wrong question. Here's the right one." (yesterday was `blunt` ✓)
+- **format:** `prose` — no bullets, per hot_take structure rules
+- **template:** `single-01-bold` (dark navy — contrast after two cream posts ✓)
+- **word count:** ~162 (under 180 mandatory ceiling ✓)
+
+**The post's central reframe:** Small businesses treat the RFP as the starting line. Strong contractors are already on the CO's shortlist by then — via Sources Sought responses, industry days, and informational meetings. Your GSA Schedule is the credential; pre-solicitation presence is the edge.
+
+**CTA:** "What's your go-to method for getting in front of a contracting officer before an RFP drops?" — specific, experience-share style, not generic.
