@@ -4,7 +4,8 @@ on:
   schedule:
     # Scheduled at 10:17 UTC (6:17 AM EDT) to compensate for GitHub Actions free-tier delays
     # of ~4h. Aims to land around 10 AM EDT. Non-zero minute reduces top-of-hour rush delay.
-    - cron: "17 10 * * *"
+    # Weekdays only (1-5 = Mon-Fri).
+    - cron: "17 10 * * 1-5"
   workflow_dispatch: {}
 
 permissions:

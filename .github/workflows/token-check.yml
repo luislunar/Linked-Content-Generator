@@ -1,0 +1,36 @@
+name: LinkedIn token check
+
+on:
+  schedule:
+    # Mondays 13:00 UTC — warns (via failure email) when a token is about to expire.
+    - cron: "0 13 * * 1"
+  workflow_dispatch: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      CLIENT_ID: ${{ secrets.LINKEDIN_CLIENT_ID }}
+      CLIENT_SECRET: ${{ secrets.LINKEDIN_CLIENT_SECRET }}
+      TOKEN_JOSH: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+    steps:
+      - name: Check token expiry
+        run: |
+          check() {
+            local name="$1" token="$2"
+            if [ -z "$token" ]; then echo "$name: sin token configurado — omitido"; return 0; fi
+            local resp expires now days
+            resp=$(curl -s -X POST https://www.linkedin.com/oauth/v2/introspectToken \
+              -d client_id="$CLIENT_ID" -d client_secret="$CLIENT_SECRET" -d token="$token")
+            expires=$(echo "$resp" | python3 -c "import sys,json; print(json.load(sys.stdin).get('expires_at',0))")
+            now=$(date +%s)
+            days=$(( (expires - now) / 86400 ))
+            echo "$name: $days días restantes"
+            if [ "$days" -lt 10 ]; then
+              echo "::error::El token de LinkedIn de $name caduca en $days días. Renovar con: .venv/bin/python scripts/linkedin-token.py"
+              return 1
+            fi
+          }
+          FAIL=0
+          check "Josh" "$TOKEN_JOSH" || FAIL=1
+          exit $FAIL
