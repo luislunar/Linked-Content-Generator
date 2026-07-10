@@ -13,6 +13,7 @@ jobs:
       CLIENT_ID: ${{ secrets.LINKEDIN_CLIENT_ID }}
       CLIENT_SECRET: ${{ secrets.LINKEDIN_CLIENT_SECRET }}
       TOKEN_JOSH: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+      URN_JOSH: ${{ secrets.LINKEDIN_PERSON_URN }}
     steps:
       - name: Check token expiry
         run: |
@@ -37,6 +38,22 @@ jobs:
               return 1
             fi
           }
+          check_urn() {
+            local name="$1" token="$2" urn="$3"
+            if [ -z "$token" ] || [ -z "$urn" ]; then return 0; fi
+            local info sub member
+            info=$(curl -s -H "Authorization: Bearer $token" https://api.linkedin.com/v2/userinfo)
+            sub=$(echo "$info" | python3 -c "import sys,json; print(json.load(sys.stdin).get('sub',''))")
+            member=$(echo "$info" | python3 -c "import sys,json; print(json.load(sys.stdin).get('name','?'))")
+            if [ "urn:li:person:$sub" = "$urn" ]; then
+              echo "$name: URN coincide ✓ (token pertenece a: $member)"
+            else
+              echo "::error::$name: el URN guardado NO coincide con el dueño del token ($member). El post fallará con 403. Renovar con scripts/linkedin-token.py autorizando con la cuenta correcta."
+              echo "$name: urn guardado termina en ...${urn: -6} | urn del token termina en ...${sub: -6}"
+              return 1
+            fi
+          }
           FAIL=0
           check "Josh" "$TOKEN_JOSH" || FAIL=1
+          check_urn "Josh" "$TOKEN_JOSH" "$URN_JOSH" || FAIL=1
           exit $FAIL
