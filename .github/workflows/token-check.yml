@@ -23,6 +23,10 @@ jobs:
             resp=$(curl -s -X POST https://www.linkedin.com/oauth/v2/introspectToken \
               -d client_id="$CLIENT_ID" -d client_secret="$CLIENT_SECRET" -d token="$token")
             expires=$(echo "$resp" | python3 -c "import sys,json; print(json.load(sys.stdin).get('expires_at',0))")
+            if [ "$expires" = "0" ]; then
+              echo "$name: LinkedIn no devolvió expiración. Respuesta: $resp"
+              return 1
+            fi
             now=$(date +%s)
             days=$(( (expires - now) / 86400 ))
             echo "$name: $days días restantes"
