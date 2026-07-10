@@ -1,27 +1,23 @@
-"""publish-linkedin.py — upload an image + publish a LinkedIn post via the LinkedIn REST API v2.
+"""publish-linkedin.py — upload an image/PDF + publish a LinkedIn post via the versioned REST API.
 
 Usage:
-  python scripts/publish-linkedin.py <image_path> <drafts_dir> [--at ISO_8601]
+  python scripts/publish-linkedin.py <media_path> <drafts_dir> [--dry-run] [--upload-only]
 
-  <image_path>   e.g. drafts/2026-04-30/card.jpg
+  <media_path>   e.g. drafts/2026-04-30/card.jpg (image) or card.pdf (carousel)
   <drafts_dir>   e.g. drafts/2026-04-30  (must contain post.md)
-  --at           ISO-8601 scheduled time (not supported natively by UGC Posts API —
-                 if you need scheduling, use --at to print the payload for manual review)
+  --upload-only  upload the media but do NOT create the post (safe end-to-end auth test)
 
 Env:
   LINKEDIN_ACCESS_TOKEN    OAuth 2.0 access token (scope: w_member_social)
   LINKEDIN_PERSON_URN      e.g. urn:li:person:AbCdEfGhIj
 
-Setup (one-time, done by Josh):
-  1. Create a LinkedIn Developer App at developer.linkedin.com
-  2. Add "Share on LinkedIn" product (grants w_member_social scope)
-  3. Complete OAuth 2.0 Authorization Code Flow to get access token
-  4. Token is valid for 60 days — refresh before expiry and update GitHub Secret
+Token renewal (every ~55 days): .venv/bin/python scripts/linkedin-token.py
 
-API flow:
-  Step 1: POST /v2/assets?action=registerUpload   → upload URL + asset URN
-  Step 2: PUT  <upload_url>                        → upload image bytes
-  Step 3: POST /v2/ugcPosts                        → create post with image
+API flow (versioned REST API — the legacy /v2/assets + /v2/ugcPosts was sunset mid-2026):
+  Step 1: POST /rest/images?action=initializeUpload    → upload URL + image URN
+          (or /rest/documents for PDF carousels)
+  Step 2: PUT  <upload_url>                            → upload bytes
+  Step 3: POST /rest/posts                             → create post with media
 """
 
 from __future__ import annotations
@@ -33,7 +29,11 @@ from pathlib import Path
 
 import requests
 
-API_BASE = "https://api.linkedin.com/v2"
+API_BASE = "https://api.linkedin.com/rest"
+API_VERSION = "202506"
+
+# Characters reserved by LinkedIn's "Little Text Format" in post commentary.
+LITTLE_TEXT_RESERVED = "\\|{}@[]()<>#*_~"
 
 
 def env(name: str) -> str:
@@ -47,7 +47,7 @@ def env(name: str) -> str:
 def auth_headers(content_type: str | None = None) -> dict:
     h = {
         "Authorization": f"Bearer {env('LINKEDIN_ACCESS_TOKEN')}",
-        "LinkedIn-Version": "202401",
+        "LinkedIn-Version": API_VERSION,
         "X-Restli-Protocol-Version": "2.0.0",
     }
     if content_type:
@@ -55,35 +55,28 @@ def auth_headers(content_type: str | None = None) -> dict:
     return h
 
 
-def register_upload(person_urn: str, recipe: str = "feedshare-image") -> tuple[str, str]:
-    """Step 1: Register an upload. `recipe` is "feedshare-image" or "feedshare-document".
-    Returns (upload_url, asset_urn).
+def escape_commentary(text: str) -> str:
+    for ch in LITTLE_TEXT_RESERVED:
+        text = text.replace(ch, "\\" + ch)
+    return text
+
+
+def initialize_upload(person_urn: str, kind: str) -> tuple[str, str]:
+    """Step 1: initialize an upload. `kind` is "images" or "documents".
+    Returns (upload_url, media_urn).
     """
-    payload = {
-        "registerUploadRequest": {
-            "recipes": [f"urn:li:digitalmediaRecipe:{recipe}"],
-            "owner": person_urn,
-            "serviceRelationships": [
-                {
-                    "relationshipType": "OWNER",
-                    "identifier": "urn:li:userGeneratedContent",
-                }
-            ],
-        }
-    }
+    payload = {"initializeUploadRequest": {"owner": person_urn}}
     r = requests.post(
-        f"{API_BASE}/assets?action=registerUpload",
+        f"{API_BASE}/{kind}?action=initializeUpload",
         headers=auth_headers("application/json"),
         json=payload,
         timeout=30,
     )
     if r.status_code >= 400:
-        print(f"error registering upload {r.status_code}: {r.text}", file=sys.stderr)
+        print(f"error initializing upload {r.status_code}: {r.text}", file=sys.stderr)
         sys.exit(1)
-    data = r.json()
-    upload_url = data["value"]["uploadMechanism"]["com.linkedin.digitalmedia.uploading.MediaUploadHttpRequest"]["uploadUrl"]
-    asset_urn = data["value"]["asset"]
-    return upload_url, asset_urn
+    value = r.json()["value"]
+    return value["uploadUrl"], value["image" if kind == "images" else "document"]
 
 
 def upload_binary(upload_url: str, file_path: str, content_type: str) -> None:
@@ -93,7 +86,10 @@ def upload_binary(upload_url: str, file_path: str, content_type: str) -> None:
     r = requests.put(
         upload_url,
         data=data,
-        headers={"Content-Type": content_type},
+        headers={
+            "Authorization": f"Bearer {env('LINKEDIN_ACCESS_TOKEN')}",
+            "Content-Type": content_type,
+        },
         timeout=120,
     )
     if r.status_code >= 400:
@@ -101,38 +97,26 @@ def upload_binary(upload_url: str, file_path: str, content_type: str) -> None:
         sys.exit(1)
 
 
-# Keep old name for backward compat
-upload_image = upload_binary
-
-
-def create_post(person_urn: str, text: str, asset_urn: str,
-                category: str = "IMAGE", doc_title: str = "") -> str:
-    """Step 3: Create a UGC post. `category` is "IMAGE" or "DOCUMENT".
-    Returns the post URN.
-    """
+def create_post(person_urn: str, text: str, media_urn: str, doc_title: str = "") -> str:
+    """Step 3: Create the post. Returns the post URN."""
+    media: dict = {"id": media_urn}
+    if doc_title:
+        media["title"] = doc_title
     payload = {
         "author": person_urn,
+        "commentary": escape_commentary(text),
+        "visibility": "PUBLIC",
+        "distribution": {
+            "feedDistribution": "MAIN_FEED",
+            "targetEntities": [],
+            "thirdPartyDistributionChannels": [],
+        },
+        "content": {"media": media},
         "lifecycleState": "PUBLISHED",
-        "specificContent": {
-            "com.linkedin.ugc.ShareContent": {
-                "shareCommentary": {"text": text},
-                "shareMediaCategory": category,
-                "media": [
-                    {
-                        "status": "READY",
-                        "description": {"text": ""},
-                        "media": asset_urn,
-                        "title": {"text": doc_title},
-                    }
-                ],
-            }
-        },
-        "visibility": {
-            "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
-        },
+        "isReshareDisabledByAuthor": False,
     }
     r = requests.post(
-        f"{API_BASE}/ugcPosts",
+        f"{API_BASE}/posts",
         headers=auth_headers("application/json"),
         json=payload,
         timeout=60,
@@ -140,37 +124,25 @@ def create_post(person_urn: str, text: str, asset_urn: str,
     if r.status_code >= 400:
         print(f"error creating post {r.status_code}: {r.text}", file=sys.stderr)
         sys.exit(1)
-    post_urn = r.headers.get("X-RestLi-Id") or r.json().get("id", "<no id>")
-    return post_urn
-
-
-def urn_to_url(post_urn: str, person_urn: str) -> str:
-    """Convert post URN to LinkedIn URL (best-effort, URN format varies)."""
-    ugc_id = post_urn.split(":")[-1] if ":" in post_urn else post_urn
-    person_id = person_urn.split(":")[-1] if ":" in person_urn else person_urn
-    return f"https://www.linkedin.com/feed/update/{post_urn}/"
+    return r.headers.get("x-restli-id") or r.headers.get("X-RestLi-Id") or "<no id>"
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("media_path", help="Path to card.jpg (image) or card.pdf (carousel)")
     ap.add_argument("drafts_dir")
-    ap.add_argument("--at", dest="scheduled_time", default=None,
-                    help="ISO-8601 time (informational only — UGC Posts API posts immediately)")
     ap.add_argument("--dry-run", action="store_true",
-                    help="Print payload without posting")
+                    help="Print payload without calling the API")
+    ap.add_argument("--upload-only", action="store_true",
+                    help="Upload media but skip post creation (auth/endpoint test)")
     args = ap.parse_args()
 
     person_urn = env("LINKEDIN_PERSON_URN")
     post_text = Path(args.drafts_dir, "post.md").read_text().strip()
 
     media_path = Path(args.media_path)
-    suffix = media_path.suffix.lower()
-    if suffix == ".pdf":
-        recipe = "feedshare-document"
-        content_type = "application/pdf"
-        category = "DOCUMENT"
-        # LinkedIn shows the document title on the swipe card; pull from meta if available.
+    if media_path.suffix.lower() == ".pdf":
+        kind, content_type = "documents", "application/pdf"
         meta_for_title = Path(args.drafts_dir, "post.meta.json")
         doc_title = ""
         if meta_for_title.exists():
@@ -181,34 +153,33 @@ def main() -> None:
                               .get("edition", "")) or m.get("topic", "")
             except Exception:
                 pass
+        doc_title = doc_title or "Guide"
     else:
-        recipe = "feedshare-image"
-        content_type = "image/jpeg"
-        category = "IMAGE"
+        kind, content_type = "images", "image/jpeg"
         doc_title = ""
 
     if args.dry_run:
         print("=== DRY RUN ===")
         print(f"person_urn:  {person_urn}")
-        print(f"media_path:  {args.media_path}  ({category})")
+        print(f"media_path:  {args.media_path}  ({kind})")
         print(f"post_text:\n{post_text[:300]}...")
-        print(f"Would call: registerUpload({recipe}) → PUT {content_type} → ugcPosts({category})")
+        print(f"Would call: initializeUpload({kind}) → PUT {content_type} → POST /rest/posts")
         return
 
-    if args.scheduled_time:
-        print(f"note: --at is informational; LinkedIn UGC Posts API publishes immediately.")
-
-    print(f"Registering {category} upload...", flush=True)
-    upload_url, asset_urn = register_upload(person_urn, recipe=recipe)
+    print(f"Initializing {kind} upload...", flush=True)
+    upload_url, media_urn = initialize_upload(person_urn, kind)
 
     print(f"Uploading {content_type}...", flush=True)
     upload_binary(upload_url, args.media_path, content_type)
 
-    print(f"Creating {category} post...", flush=True)
-    post_urn = create_post(person_urn, post_text, asset_urn,
-                           category=category, doc_title=doc_title)
+    if args.upload_only:
+        print(f"upload OK — media URN: {media_urn} (post NOT created, --upload-only)")
+        return
 
-    linkedin_url = urn_to_url(post_urn, person_urn)
+    print("Creating post...", flush=True)
+    post_urn = create_post(person_urn, post_text, media_urn, doc_title=doc_title)
+
+    linkedin_url = f"https://www.linkedin.com/feed/update/{post_urn}/"
     print(f"post URN: {post_urn}")
     print(f"URL:      {linkedin_url}")
 

@@ -1,0 +1,21 @@
+name: Test LinkedIn upload (no post)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+      LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - name: Upload latest draft media (no post created)
+        run: |
+          DIR=$(ls -d drafts/*/ | sort | tail -1)
+          MEDIA=$(ls "$DIR"card.pdf 2>/dev/null || ls "$DIR"card.jpg)
+          python scripts/publish-linkedin.py "$MEDIA" "$DIR" --upload-only
