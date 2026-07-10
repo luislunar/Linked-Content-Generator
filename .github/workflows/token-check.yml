@@ -31,7 +31,7 @@ jobs:
             fi
             now=$(date +%s)
             days=$(( (expires - now) / 86400 ))
-            echo "$name: $days días restantes"
+            echo "$name: $days días restantes | permisos: $(echo "$resp" | python3 -c "import sys,json; print(json.load(sys.stdin).get('scope','?'))")"
             if [ "$days" -lt 10 ]; then
               echo "::error::El token de LinkedIn de $name caduca en $days días. Renovar con: .venv/bin/python scripts/linkedin-token.py"
               return 1
