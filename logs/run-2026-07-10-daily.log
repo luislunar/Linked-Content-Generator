@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary:
+
+**Today's post — `carousel` / `myths` / `myth-bust`**
+
+Three files written to `drafts/2026-07-10/`:
+
+| File | What's in it |
+|---|---|
+| `post.md` | 88-word carousel caption opening with the "need federal contracts first" myth quote |
+| `post.meta.json` | `carousel-01-myths` template with all 3 myth/reality pairs + close slide + image prompt |
+| `hypothesis.md` | Why this post is expected to drive comments (personal confession format) and reactions (validation + share) |
+
+**Rotation choices made:**
+- `carousel` picked because it hasn't appeared in 5+ days and `myths` has exactly 5 distinct beats
+- `myths` topic is clean — all 5 recent posts used different topics
+- `myth-bust` hook breaks the story/blunt/contrarian pattern of the prior 3 days
+- Caption at 88 words satisfies the "under 180" constraint (last 3 averaged 209 words)
+- `carousel-01-myths` is a cream/light-bg template, balancing the dark-bg `single-01-bold` used yesterday

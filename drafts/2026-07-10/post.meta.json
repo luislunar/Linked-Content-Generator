@@ -1,0 +1,39 @@
+{
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "carousel-01-myths",
+  "image_headline": "3 MYTHS KEEPING YOU OFF THE SCHEDULE",
+  "image_prompt": "Carousel cover slide design. Dark navy background. Bold ALL CAPS headline top: '3 MYTHS KEEPING YOU OFF THE SCHEDULE'. Center: illustrated professional woman in blazer holding a checklist, looking up with an expression of realization. Three floating card stubs below labeled 'MYTH 1', 'MYTH 2', 'MYTH 3' each with a bold red X icon. Lower right coral accent stripe. Footer text: 'Josh Ladick · GSA Focus'.",
+  "template_data": {
+    "cover": {
+      "top_label": "Field Guide / Vol. 01",
+      "headline_html": "3 myths that <span class='accent'>stop</span> small businesses cold.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
+      {
+        "label": "The Past Performance Lie",
+        "myth_text": "You need federal contracts before GSA will approve you.",
+        "reality_text": "GSA only looks at your commercial track record. Three years of commercial revenue and solid references is enough to qualify. Federal history is not a requirement."
+      },
+      {
+        "label": "The Auto-Discovery Myth",
+        "myth_text": "Once you're on the Schedule, agencies will find you.",
+        "reality_text": "The Schedule is a vehicle, not a marketplace. It gives agencies a fast way to buy from you — but you still have to find them. Active outreach wins contracts. Waiting doesn't."
+      },
+      {
+        "label": "The Easy Application Fantasy",
+        "myth_text": "Any prepared company can just fill out the application and get approved.",
+        "reality_text": "GSA rejects roughly half of first-time applicants. Pricing errors, wrong NAICS codes, and incomplete documents are the three biggest culprits. Most self-filed attempts stall or get withdrawn."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which myth almost stopped you?",
+      "close_question": "Drop the belief you had to unlearn before you could move forward in GovCon."
+    }
+  },
+  "experiment_id": null
+}
