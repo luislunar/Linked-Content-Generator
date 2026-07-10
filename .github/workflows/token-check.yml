@@ -21,7 +21,9 @@ jobs:
             if [ -z "$token" ]; then echo "$name: sin token configurado — omitido"; return 0; fi
             local resp expires now days
             resp=$(curl -s -X POST https://www.linkedin.com/oauth/v2/introspectToken \
-              -d client_id="$CLIENT_ID" -d client_secret="$CLIENT_SECRET" -d token="$token")
+              --data-urlencode "client_id=$CLIENT_ID" \
+              --data-urlencode "client_secret=$CLIENT_SECRET" \
+              --data-urlencode "token=$token")
             expires=$(echo "$resp" | python3 -c "import sys,json; print(json.load(sys.stdin).get('expires_at',0))")
             if [ "$expires" = "0" ]; then
               echo "$name: LinkedIn no devolvió expiración. Respuesta: $resp"
