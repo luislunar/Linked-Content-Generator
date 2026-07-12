@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quote</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=Instrument+Serif&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      width: 1080px;
+      height: 1080px;
+      overflow: hidden;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+      background: #f5f1ea;
+      color: #0b1f3a;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .card {
+      width: 1080px;
+      height: 1080px;
+      padding: 90px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+    .section-label {
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #1a6fff;
+    }
+    .index {
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(11, 31, 58, 0.5);
+    }
+
+    .quote-mark {
+      font-family: 'Instrument Serif', Georgia, serif;
+      font-size: 280px;
+      line-height: 0.6;
+      color: #1a6fff;
+      height: 100px;
+      margin-bottom: 20px;
+    }
+
+    .quote {
+      font-family: 'Instrument Serif', Georgia, serif;
+      font-size: 92px;
+      line-height: 1.05;
+      letter-spacing: -0.02em;
+      font-weight: 400;
+      max-width: 880px;
+    }
+
+    .quote em {
+      font-style: italic;
+      color: #1a6fff;
+    }
+
+    .footer {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(11, 31, 58, 0.6);
+    }
+    .footer-dot {
+      width: 6px;
+      height: 6px;
+      background: rgba(11, 31, 58, 0.4);
+      border-radius: 50%;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="top">
+      <div class="section-label">Field Note</div>
+      <div class="index">No. 028 · Pipeline</div>
+    </div>
+
+    <div>
+      <div class="quote-mark">"</div>
+      <div class="quote">
+        The Schedule doesn't sell. <em>Your follow-up does.</em>
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>One Hard Truth</span>
+      <span class="footer-dot"></span>
+      <span>Weekly Field Notes</span>
+    </div>
+  </div>
+</body>
+</html>

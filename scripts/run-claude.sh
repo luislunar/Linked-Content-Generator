@@ -9,11 +9,13 @@
 
 set -euo pipefail
 
-MODE=${1:?"usage: run-claude.sh daily|weekly"}
+MODE=${1:?"usage: run-claude.sh daily|daily-william|daily-jason|weekly"}
 
 case "$MODE" in
-  daily)  PROMPT_FILE=".claude/commands/daily-magnet.md" ;;
-  weekly) PROMPT_FILE=".claude/commands/weekly-research.md" ;;
+  daily)         PROMPT_FILE=".claude/commands/daily-magnet.md" ;;
+  daily-william) PROMPT_FILE=".claude/commands/daily-magnet-william.md" ;;
+  daily-jason)   PROMPT_FILE=".claude/commands/daily-magnet-jason.md" ;;
+  weekly)        PROMPT_FILE=".claude/commands/weekly-research.md" ;;
   *) echo "unknown mode: $MODE" >&2; exit 2 ;;
 esac
 

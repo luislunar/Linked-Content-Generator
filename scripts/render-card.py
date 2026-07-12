@@ -7,9 +7,10 @@ fills placeholders from `meta.template_data`, renders with Playwright.
 - Carousel template → drafts_dir/card.pdf  (5 pages × 1080x1080)
 
 Usage:
-  python scripts/render-card.py <drafts_dir>
+  python scripts/render-card.py <drafts_dir> [--theme josh|william|jason]
 """
 from __future__ import annotations
+import argparse
 import html
 import json
 import sys
@@ -18,6 +19,32 @@ from pathlib import Path
 
 TEMPLATES_DIR = Path("assets/templates")
 VIEWPORT = (1080, 1080)
+
+# Per-profile visual identity: (find, replace) pairs applied to the template HTML.
+# Base (josh): navy #0b1f3a / blue #1a6fff / coral #ef4444 / cream #f5f1ea / Inter.
+THEMES = {
+    "josh": [],
+    "william": [  # deep forest + amber, Sora
+        ("family=Inter:wght@400;500;600;700;800;900", "family=Sora:wght@400;500;600;700;800"),
+        ("family=Inter:wght@400;500;600;700;900", "family=Sora:wght@400;500;600;700;800"),
+        ("'Inter'", "'Sora'"),
+        ("font-weight: 900", "font-weight: 800"),  # Sora tops out at 800
+        ("#0b1f3a", "#0d2818"), ("11, 31, 58", "13, 40, 24"),
+        ("#1a6fff", "#eaa62a"),
+        ("#ef4444", "#d97706"), ("239, 68, 68", "217, 119, 6"),
+    ],
+    "jason": [  # charcoal + cyan, Space Grotesk
+        ("family=Inter:wght@400;500;600;700;800;900", "family=Space+Grotesk:wght@400;500;600;700"),
+        ("family=Inter:wght@400;500;600;700;900", "family=Space+Grotesk:wght@400;500;600;700"),
+        ("'Inter'", "'Space Grotesk'"),
+        ("font-weight: 900", "font-weight: 700"),  # Space Grotesk tops out at 700
+        ("font-weight: 800", "font-weight: 700"),
+        ("#0b1f3a", "#131518"), ("11, 31, 58", "19, 21, 24"),
+        ("#1a6fff", "#0891b2"),
+        ("#ef4444", "#0891b2"), ("239, 68, 68", "8, 145, 178"),
+        ("#f5f1ea", "#f2f3f5"), ("245, 241, 234", "242, 243, 245"),
+    ],
+}
 
 
 def esc(s: str) -> str:
@@ -173,13 +200,34 @@ CAROUSEL_TEMPLATES = {"carousel-01-myths"}
 
 # ── Render ────────────────────────────────────────────────────────────────────
 
+# Injected into every card before screenshot: shrinks any oversized headline until
+# it fits inside its container, so a long word can never bleed past the card margin.
+FIT_SCRIPT = """
+<script>
+(function () {
+  var SEL = ['.headline', '.quote', '.lead', '.big-number', '.close-headline'];
+  document.querySelectorAll(SEL.join(',')).forEach(function (el) {
+    var guard = 0;
+    var size = parseFloat(getComputedStyle(el).fontSize);
+    // scrollWidth > clientWidth means content (e.g. a long word) overflows the box.
+    while (el.scrollWidth > el.clientWidth + 1 && size > 20 && guard < 300) {
+      size -= 2;
+      el.style.fontSize = size + 'px';
+      guard++;
+    }
+  });
+})();
+</script>
+"""
+
+
 def fill(template_html: str, slots: dict) -> str:
     for k, v in slots.items():
         template_html = template_html.replace("{{" + k + "}}", str(v))
     return template_html
 
 
-def render(drafts_dir: Path) -> Path:
+def render(drafts_dir: Path, theme: str = "josh") -> Path:
     meta = json.loads((drafts_dir / "post.meta.json").read_text())
     template_name = meta.get("template")
     template_data = meta.get("template_data", {})
@@ -196,8 +244,14 @@ def render(drafts_dir: Path) -> Path:
         print(f"error: template not found at {template_path}", file=sys.stderr)
         sys.exit(1)
 
+    template_html = template_path.read_text()
+    for find, replace in THEMES[theme]:
+        template_html = template_html.replace(find, replace)
+
     slots = BUILDERS[template_name](template_data)
-    rendered_html = fill(template_path.read_text(), slots)
+    rendered_html = fill(template_html, slots)
+    rendered_html = rendered_html.replace("</body>", FIT_SCRIPT + "</body>", 1) \
+        if "</body>" in rendered_html else rendered_html + FIT_SCRIPT
 
     is_carousel = template_name in CAROUSEL_TEMPLATES
     output_name = "card.pdf" if is_carousel else "card.jpg"
@@ -241,14 +295,15 @@ def _screenshot(html_path: Path, output_path: Path, pdf: bool) -> None:
 
 
 def main() -> None:
-    if len(sys.argv) < 2:
-        print("usage: python scripts/render-card.py <drafts_dir>", file=sys.stderr)
-        sys.exit(1)
-    drafts_dir = Path(sys.argv[1])
+    ap = argparse.ArgumentParser()
+    ap.add_argument("drafts_dir")
+    ap.add_argument("--theme", default="josh", choices=sorted(THEMES))
+    args = ap.parse_args()
+    drafts_dir = Path(args.drafts_dir)
     if not drafts_dir.is_dir():
         print(f"error: {drafts_dir} is not a directory", file=sys.stderr)
         sys.exit(1)
-    out = render(drafts_dir)
+    out = render(drafts_dir, theme=args.theme)
     print(f"card saved: {out}")
 
 

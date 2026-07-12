@@ -1,11 +1,9 @@
-name: Daily publish
+name: Daily publish (Jason)
 
 on:
   schedule:
-    # Scheduled at 10:17 UTC (6:17 AM EDT) to compensate for GitHub Actions free-tier delays
-    # of ~4h. Aims to land around 10 AM EDT. Non-zero minute reduces top-of-hour rush delay.
-    # Weekdays only (1-5 = Mon-Fri).
-    - cron: "17 10 * * 1-5"
+    # 12:32 UTC (8:32 AM EDT) weekdays — after Josh and William so drafts never collide.
+    - cron: "32 12 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
@@ -16,48 +14,64 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-      LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
-      LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+      LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN_JASON }}
+      LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN_JASON }}
 
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check token configured
+        id: guard
+        run: |
+          if [ -z "$LINKEDIN_ACCESS_TOKEN" ]; then
+            echo "No LinkedIn token for Jason yet — skipping (no API spend) until it's added."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.guard.outputs.ready == 'true'
         with: { python-version: "3.12" }
 
       - uses: actions/setup-node@v4
+        if: steps.guard.outputs.ready == 'true'
         with: { node-version: "20" }
 
       - name: Install deps
+        if: steps.guard.outputs.ready == 'true'
         run: |
           pip install requests playwright
           npx playwright install --with-deps chromium
           npm install -g @anthropic-ai/claude-code
 
       - name: Generate draft (skip if already exists)
+        if: steps.guard.outputs.ready == 'true'
         run: |
           DATE=$(date -u +%Y-%m-%d)
-          if [ -f "drafts/$DATE/post.md" ]; then
+          if [ -f "drafts/jason/$DATE/post.md" ]; then
             echo "Draft for $DATE already exists — skipping Claude generation."
           else
-            ./scripts/run-claude.sh daily
+            ./scripts/run-claude.sh daily-jason
           fi
 
       - name: Verify draft exists
         id: draft
+        if: steps.guard.outputs.ready == 'true'
         run: |
           DATE=$(date -u +%Y-%m-%d)
-          if [ ! -f "drafts/$DATE/post.md" ]; then
+          if [ ! -f "drafts/jason/$DATE/post.md" ]; then
             echo "ERROR: no draft produced for $DATE" >&2
             exit 1
           fi
           echo "date=$DATE" >> "$GITHUB_OUTPUT"
-          echo "dir=drafts/$DATE" >> "$GITHUB_OUTPUT"
+          echo "dir=drafts/jason/$DATE" >> "$GITHUB_OUTPUT"
 
-      - name: Render card (template-based, no AI image)
+      - name: Render card (Jason theme)
         id: card
+        if: steps.guard.outputs.ready == 'true'
         run: |
-          python scripts/render-card.py "${{ steps.draft.outputs.dir }}"
+          python scripts/render-card.py "${{ steps.draft.outputs.dir }}" --theme jason
           DIR="${{ steps.draft.outputs.dir }}"
           if [ -f "$DIR/card.pdf" ]; then
             echo "media=$DIR/card.pdf" >> "$GITHUB_OUTPUT"
@@ -66,15 +80,17 @@ jobs:
           fi
 
       - name: Commit draft + card to main
+        if: steps.guard.outputs.ready == 'true'
         run: |
           git config user.name "linked-content-bot"
           git config user.email "bot@users.noreply.github.com"
           git add "drafts/" "logs/"
-          git diff --cached --quiet || git commit -m "publish: ${{ steps.draft.outputs.date }} daily post"
+          git diff --cached --quiet || git commit -m "publish: ${{ steps.draft.outputs.date }} jason daily post"
           git pull --rebase origin main
           git push
 
       - name: Publish to LinkedIn
+        if: steps.guard.outputs.ready == 'true'
         run: |
           python scripts/publish-linkedin.py \
             "${{ steps.card.outputs.media }}" \

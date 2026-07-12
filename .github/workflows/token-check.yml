@@ -14,6 +14,10 @@ jobs:
       CLIENT_SECRET: ${{ secrets.LINKEDIN_CLIENT_SECRET }}
       TOKEN_JOSH: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
       URN_JOSH: ${{ secrets.LINKEDIN_PERSON_URN }}
+      TOKEN_WILLIAM: ${{ secrets.LINKEDIN_ACCESS_TOKEN_WILLIAM }}
+      URN_WILLIAM: ${{ secrets.LINKEDIN_PERSON_URN_WILLIAM }}
+      TOKEN_JASON: ${{ secrets.LINKEDIN_ACCESS_TOKEN_JASON }}
+      URN_JASON: ${{ secrets.LINKEDIN_PERSON_URN_JASON }}
     steps:
       - name: Check token expiry
         run: |
@@ -56,4 +60,8 @@ jobs:
           FAIL=0
           check "Josh" "$TOKEN_JOSH" || FAIL=1
           check_urn "Josh" "$TOKEN_JOSH" "$URN_JOSH" || FAIL=1
+          check "William" "$TOKEN_WILLIAM" || FAIL=1
+          check_urn "William" "$TOKEN_WILLIAM" "$URN_WILLIAM" || FAIL=1
+          check "Jason" "$TOKEN_JASON" || FAIL=1
+          check_urn "Jason" "$TOKEN_JASON" "$URN_JASON" || FAIL=1
           exit $FAIL

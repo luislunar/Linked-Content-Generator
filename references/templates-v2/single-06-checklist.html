@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Visual Checklist</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      width: 1080px;
+      height: 1080px;
+      overflow: hidden;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+      background: #0b1f3a;
+      color: #f5f1ea;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .card {
+      width: 1080px;
+      height: 1080px;
+      padding: 80px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 50px;
+    }
+    .section-label {
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #1a6fff;
+    }
+    .index {
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: rgba(245, 241, 234, 0.5);
+    }
+
+    .headline {
+      font-size: 76px;
+      font-weight: 900;
+      line-height: 0.98;
+      letter-spacing: -0.03em;
+      margin-bottom: 70px;
+      max-width: 900px;
+    }
+    .headline .accent {
+      color: #1a6fff;
+    }
+
+    .list {
+      display: flex;
+      flex-direction: column;
+      gap: 26px;
+      flex-grow: 1;
+    }
+
+    .item {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+      padding: 22px 0;
+      border-bottom: 1px solid rgba(245, 241, 234, 0.12);
+    }
+    .item:last-child { border-bottom: none; }
+
+    .check {
+      flex-shrink: 0;
+      width: 56px;
+      height: 56px;
+      border-radius: 12px;
+      background: #1a6fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .check svg { width: 32px; height: 32px; }
+
+    .item-text {
+      font-size: 32px;
+      font-weight: 700;
+      line-height: 1.1;
+      letter-spacing: -0.015em;
+    }
+    .item-text .sub {
+      display: block;
+      font-size: 18px;
+      font-weight: 400;
+      color: rgba(245, 241, 234, 0.65);
+      margin-top: 4px;
+      letter-spacing: 0;
+    }
+
+    .footer {
+      padding-top: 24px;
+      display: flex;
+      justify-content: space-between;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: rgba(245, 241, 234, 0.5);
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="top">
+      <div class="section-label">Eligibility Check</div>
+      <div class="index">Module 03 · Readiness</div>
+    </div>
+
+    <div class="headline">
+      Five boxes you must <span class="accent">already</span> tick.
+    </div>
+
+    <div class="list">
+      <div class="item">
+        <div class="check"><svg viewBox="0 0 24 24" fill="none"><polyline points="20 6 9 17 4 12" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="item-text">Two years in business <span class="sub">Hard line — federal requires the runway</span></div>
+      </div>
+      <div class="item">
+        <div class="check"><svg viewBox="0 0 24 24" fill="none"><polyline points="20 6 9 17 4 12" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="item-text">$25K minimum revenue <span class="sub">Past 12 months, documented</span></div>
+      </div>
+      <div class="item">
+        <div class="check"><svg viewBox="0 0 24 24" fill="none"><polyline points="20 6 9 17 4 12" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="item-text">Active SAM.gov registration <span class="sub">Renewed in the last 12 months</span></div>
+      </div>
+      <div class="item">
+        <div class="check"><svg viewBox="0 0 24 24" fill="none"><polyline points="20 6 9 17 4 12" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="item-text">Commercial pricing logic <span class="sub">Defendable for the BOA negotiation</span></div>
+      </div>
+      <div class="item">
+        <div class="check"><svg viewBox="0 0 24 24" fill="none"><polyline points="20 6 9 17 4 12" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div class="item-text">Two past performance refs <span class="sub">Or one teaming partner with theirs</span></div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>Quick Self-Audit</span>
+      <span>Page 1 of 1</span>
+    </div>
+  </div>
+</body>
+</html>

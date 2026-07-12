@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Carousel — Myths</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    @page {
+      size: 1080px 1080px;
+      margin: 0;
+    }
+
+    html, body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .slide {
+      width: 1080px;
+      height: 1080px;
+      padding: 80px;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      page-break-after: always;
+    }
+    .slide:last-child { page-break-after: auto; }
+
+    .slide-meta {
+      position: absolute;
+      bottom: 60px;
+      left: 80px;
+      right: 80px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 14px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+
+    /* ── SLIDE 1: COVER ─────────────────────────── */
+    .cover {
+      background: #0b1f3a;
+      color: #f5f1ea;
+      justify-content: space-between;
+    }
+    .cover .top-label {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #1a6fff;
+    }
+    .cover .headline {
+      font-size: 124px;
+      font-weight: 900;
+      line-height: 0.92;
+      letter-spacing: -0.04em;
+      margin-top: 60px;
+    }
+    .cover .headline .accent {
+      color: #1a6fff;
+    }
+    .cover .swipe {
+      align-self: flex-end;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 22px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: rgba(245, 241, 234, 0.8);
+    }
+    .cover .swipe-arrow {
+      font-size: 36px;
+      line-height: 1;
+    }
+    .cover .slide-meta { color: rgba(245, 241, 234, 0.5); }
+
+    /* ── SLIDES 2-4: MYTH/REALITY ───────────────── */
+    .myth {
+      background: #f5f1ea;
+      color: #0b1f3a;
+    }
+    .myth .num-row {
+      display: flex;
+      align-items: baseline;
+      gap: 24px;
+      margin-bottom: 50px;
+    }
+    .myth .num {
+      font-size: 220px;
+      font-weight: 900;
+      line-height: 0.85;
+      letter-spacing: -0.05em;
+      color: #0b1f3a;
+    }
+    .myth .of {
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: rgba(11, 31, 58, 0.5);
+    }
+    .myth .label-myth {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #ef4444;
+      margin-bottom: 16px;
+    }
+    .myth .myth-text {
+      font-size: 60px;
+      font-weight: 800;
+      line-height: 1.05;
+      letter-spacing: -0.025em;
+      margin-bottom: 60px;
+      text-decoration: line-through;
+      text-decoration-color: rgba(239, 68, 68, 0.5);
+      text-decoration-thickness: 4px;
+    }
+    .myth .label-reality {
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #1a6fff;
+      margin-bottom: 16px;
+    }
+    .myth .reality-text {
+      font-size: 36px;
+      font-weight: 500;
+      line-height: 1.3;
+      letter-spacing: -0.01em;
+      color: rgba(11, 31, 58, 0.85);
+      max-width: 880px;
+    }
+    .myth .slide-meta { color: rgba(11, 31, 58, 0.4); }
+
+    /* ── SLIDE 5: CLOSE ─────────────────────────── */
+    .close {
+      background: #0b1f3a;
+      color: #f5f1ea;
+      justify-content: center;
+      align-items: flex-start;
+    }
+    .close .close-tag {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #1a6fff;
+      margin-bottom: 40px;
+    }
+    .close .close-headline {
+      font-size: 92px;
+      font-weight: 900;
+      line-height: 0.98;
+      letter-spacing: -0.035em;
+      margin-bottom: 60px;
+      max-width: 920px;
+    }
+    .close .close-question {
+      font-size: 32px;
+      font-weight: 400;
+      line-height: 1.35;
+      color: rgba(245, 241, 234, 0.8);
+      max-width: 880px;
+    }
+    .close .slide-meta { color: rgba(245, 241, 234, 0.5); }
+  </style>
+</head>
+<body>
+
+  <!-- Slide 1: Cover -->
+  <div class="slide cover">
+    <div>
+      <div class="top-label">Field Guide / Vol. 03</div>
+      <div class="headline">5 myths that <span class="accent">kill</span> new GovCon shops.</div>
+    </div>
+    <div class="swipe">
+      Swipe <span class="swipe-arrow">→</span>
+    </div>
+    <div class="slide-meta">
+      <span>01 / 05</span>
+      <span>Myths Edition</span>
+    </div>
+  </div>
+
+  <!-- Slide 2: Myth 1 -->
+  <div class="slide myth">
+    <div class="num-row">
+      <div class="num">01</div>
+      <div class="of">of five</div>
+    </div>
+    <div>
+      <div class="label-myth">The Myth</div>
+      <div class="myth-text">You need past performance before you can win anything.</div>
+      <div class="label-reality">What's actually true</div>
+      <div class="reality-text">Teaming agreements let new shops piggy-back on a prime's history. First award doesn't require yours — it requires theirs.</div>
+    </div>
+    <div class="slide-meta">
+      <span>02 / 05</span>
+      <span>The Past-Performance Lie</span>
+    </div>
+  </div>
+
+  <!-- Slide 3: Myth 2 -->
+  <div class="slide myth">
+    <div class="num-row">
+      <div class="num">02</div>
+      <div class="of">of five</div>
+    </div>
+    <div>
+      <div class="label-myth">The Myth</div>
+      <div class="myth-text">Big primes always beat small businesses.</div>
+      <div class="label-reality">What's actually true</div>
+      <div class="reality-text">Most federal dollars are set-aside or sole-source eligible for small businesses. Primes literally can't bid on those.</div>
+    </div>
+    <div class="slide-meta">
+      <span>03 / 05</span>
+      <span>The Size Lie</span>
+    </div>
+  </div>
+
+  <!-- Slide 4: Myth 3 -->
+  <div class="slide myth">
+    <div class="num-row">
+      <div class="num">03</div>
+      <div class="of">of five</div>
+    </div>
+    <div>
+      <div class="label-myth">The Myth</div>
+      <div class="myth-text">GSA Schedule means automatic revenue.</div>
+      <div class="label-reality">What's actually true</div>
+      <div class="reality-text">The Schedule is a license to compete, not a contract. Without an active BD motion, holders sit untouched for years.</div>
+    </div>
+    <div class="slide-meta">
+      <span>04 / 05</span>
+      <span>The Passive-Income Lie</span>
+    </div>
+  </div>
+
+  <!-- Slide 5: Close -->
+  <div class="slide close">
+    <div>
+      <div class="close-tag">Your turn</div>
+      <div class="close-headline">Which one almost stopped you?</div>
+      <div class="close-question">Drop the myth you believed when you started — the one that almost made you quit before the first opportunity.</div>
+    </div>
+    <div class="slide-meta">
+      <span>05 / 05</span>
+      <span>End of Issue</span>
+    </div>
+  </div>
+
+</body>
+</html>
