@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Today's run is complete. Here's a summary:
+
+**Post type**: `behind_scenes` | **Topic**: `sam` | **Hook**: `question` | **Template**: `single-07-story`
+
+**Post** (191 words): Opens with a question ("When did you last actually audit your SAM.gov profile — not just hit renew?") to satisfy the mandatory hook rotation (all 3 prior posts opened with statements). The body reveals GSA Focus's internal 47-point checklist, names the actual tool (GSA eOffer/eMod), and walks through a real client case where a NAICS code hadn't been updated in three years — costing them visibility without any warning from SAM.gov. Closes with a fill-in-the-blank CTA designed to drive comments.
+
+**Rotation check**:
+- Type not in last 3 days ✓ (was carousel / hot_take / personal_story)
+- Topic not in last 5 days ✓ (was myths / pipeline / pricing / teaming / certifications)
+- Hook is question ✓ (required: last 3 were all statements)
+- Template is cream (`single-07-story`) ✓ (no dark-bg conflict)
+- Length 191 words within 100–200 range ✓
+
+**Files written**: `drafts/2026-07-13/post.md`, `post.meta.json`, `hypothesis.md`, `logs/run-2026-07-13.md`

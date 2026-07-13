@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Week 28 · SAM.gov Audit",
+    "lead_html": "A 47-point checklist. One wrong NAICS code. <em>Three years undetected.</em>",
+    "rows": [
+      {
+        "when": "Step 01",
+        "what_html": "<strong>NAICS code audit</strong> <span class='light'>— the field that determines who finds you in search</span>"
+      },
+      {
+        "when": "Step 02",
+        "what_html": "<strong>UEI / CAGE cross-check</strong> <span class='light'>— one mismatch triggers a manual review delay</span>"
+      },
+      {
+        "when": "Step 03",
+        "what_html": "<strong>Bank routing verification</strong> <span class='light'>— wrong here, every payment post-award is delayed</span>"
+      }
+    ],
+    "closer": "SAM DOESN'T FLAG ERRORS. IT JUST ACCEPTS THEM.",
+    "image_headline": "SAM.GOV DOESN'T FLAG YOUR ERRORS",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: 'SAM.GOV DOESN'T FLAG YOUR ERRORS' with orange caution icon. Left side: illustrated professional in blazer reviewing a laptop screen with SAM.gov-style interface. Right side: three rows, each with a short 2-3 word label and an orange warning dot: 'NAICS CHECK', 'UEI MATCH', 'BANK ROUTING'. Bottom dark navy banner with short callout: 'IT JUST ACCEPTS'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
