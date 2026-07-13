@@ -16,10 +16,12 @@ The app must have http://localhost:8912/callback registered as a redirect URL
 from __future__ import annotations
 import argparse
 import http.server
+import os
 import subprocess
 import threading
 import urllib.parse
 import webbrowser
+from pathlib import Path
 
 import requests
 
@@ -27,6 +29,19 @@ REPO = "luislunar/Linked-Content-Generator"
 PORT = 8912
 REDIRECT_URI = f"http://localhost:{PORT}/callback"
 SCOPE = "openid profile w_member_social"
+
+
+def app_credential(name: str) -> str:
+    """Read a LinkedIn app credential from the environment, else from .env, else prompt."""
+    if os.environ.get(name):
+        return os.environ[name].strip()
+    env_file = Path(__file__).resolve().parent.parent / ".env"
+    if env_file.exists():
+        for line in env_file.read_text().splitlines():
+            key, _, value = line.partition("=")
+            if key.strip() == name and value.strip():
+                return value.strip()
+    return input(f"{name}: ").strip()
 
 result: dict = {}
 
@@ -54,8 +69,8 @@ def main() -> None:
                     help='p.ej. "_WILLIAM" guarda en LINKEDIN_ACCESS_TOKEN_WILLIAM')
     args = ap.parse_args()
 
-    client_id = input("Client ID de la app de LinkedIn: ").strip()
-    client_secret = input("Client Secret: ").strip()
+    client_id = app_credential("LINKEDIN_CLIENT_ID")
+    client_secret = app_credential("LINKEDIN_CLIENT_SECRET")
 
     server = http.server.HTTPServer(("localhost", PORT), Handler)
     threading.Thread(target=server.handle_request, daemon=True).start()
