@@ -250,7 +250,9 @@ Every post needs an `image_prompt` in post.meta.json for gpt-image-2.
 
 ## Active experiment
 
-None. (Weekly research will propose the first experiment after week 1 data is collected.)
+**EXP-001 — fill-in-the-blank-cta-priority** (2026-07-14 to 2026-07-20)
+
+Variable: CTA style. During the test window, use ONLY the "fill-in-the-blank" CTA — do not rotate to other styles. See `experiments/EXP-001-fill-in-the-blank-cta-priority.md`.
 
 ---
 
