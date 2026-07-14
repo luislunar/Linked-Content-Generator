@@ -1,0 +1,30 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year One · Client 019",
+    "lead_html": "Fourteen months, zero awards — then <em>she changed one thing.</em>",
+    "rows": [
+      {
+        "when": "Month 01–14",
+        "what_html": "<strong>Passive waiting</strong> <span class='light'>— approved Schedule, no active outreach</span>"
+      },
+      {
+        "when": "Month 14–16",
+        "what_html": "<strong>Sources Sought + industry days</strong> <span class='light'>— showing up before solicitations drop</span>"
+      },
+      {
+        "when": "Month 17",
+        "what_html": "<strong>First federal award</strong> <span class='light'>— recompete she'd been tracking for months</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE IS THE START, NOT THE FINISH LINE.",
+    "image_headline": "SHOW UP BEFORE ANYONE IS WATCHING",
+    "image_prompt": "Infographic story layout. Cream background. Left side: illustrated timeline path with three milestone icons labeled '14 MONTHS', 'SOURCES SOUGHT', 'FIRST AWARD' — each with a short 2-word descriptor beneath. Right side: illustrated professional woman in blazer looking forward confidently, holding a folder. Bold headline top: 'SHOW UP BEFORE ANYONE IS WATCHING'. One highlighted dark navy callout box with short phrase: 'PASSIVE → ACTIVE'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
