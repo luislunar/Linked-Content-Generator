@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for Jason today:
+
+**drafts/jason/2026-07-14/**
+- `post.md` — 158-word `hot_take`, myth-bust hook, busting the "2–3 years to pay off" objection Jason hears constantly on prospecting calls. Three `→` bullets identify the pipeline gaps behind the delay. Closes with a specific, low-friction question.
+- `post.meta.json` — `single-01-bold` template (dark navy), tag "Myth Busted", split-panel image prompt with myth/reality columns, footer `'Jason · GSA Focus'`.
+- `hypothesis.md` — tests whether data-anchored myth-busts (with a specific call-volume stat) outperform generic tips on reactions + comments.
+
+**logs/jason/run-2026-07-14.md** — created (first Jason log entry, establishing rotation baseline).
+
+**Uniqueness checks passed:**
+- Topic `myths` — neither Josh (`certifications`) nor William (`pipeline`) used it today.
+- Post type `hot_take` — neither Josh (`tips_list`) nor William (`client_story`) used it today.
+- Hook `myth-bust` — neither Josh (`truth`) nor William (`story`) used it today.

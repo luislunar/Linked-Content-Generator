@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Myth Busted",
+    "headline_html": "PIPELINE<br>NOT THE<br><span class='accent'>SCHEDULE.</span>",
+    "sub": "The 2–3 year wait isn't a product problem. It's a pipeline problem.",
+    "issue": "Issue 001",
+    "image_headline": "YOUR ROI DELAY IS A PIPELINE PROBLEM",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE MYTH' with red X icon. Three short myth labels (2-3 words each): 'WAIT FOR AWARDS', '2–3 YEAR ROI', 'SCHEDULE DOES WORK'. Right panel white/light, bold label 'THE REALITY' with green checkmarks. Three short reality labels: 'BUILD PIPELINE FIRST', 'YEAR-ONE AWARDS', 'YOU DO THE WORK'. Center: illustrated professional man in business casual walking confidently from dark side to light side. Bold headline top: 'YOUR ROI DELAY IS A PIPELINE PROBLEM'. Bottom dark navy banner with short callout: 'PIPELINE → ROI'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
