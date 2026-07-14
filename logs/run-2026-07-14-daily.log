@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-07-14**:
+
+---
+
+**Post type:** `tips_list` | **Topic:** `certifications` | **Hook:** `truth`
+**Template:** `single-06-checklist` (dark navy)
+**Word count:** ~237 (within 150–280 range)
+
+**Hook:** "Nobody talks enough about how certifications can work against you — if you earn them without a strategy."
+
+**5 items:**
+1. 8(a) ends at year nine — plan your revenue around the graduation exit
+2. HUBZone requires a live address for principal office + 35% of employees
+3. SDVOSB is two separate processes (VA + SBA) — most businesses miss one
+4. WOSB narrows competition, it doesn't win contracts — evaluators still score everything
+5. Certification stacking (WOSB + HUBZone + 8(a)) is legal and most businesses never check
+
+**Closing line:** "The certification is the door. Your strategy is the key."
+
+**Community question:** "Which certification has had the biggest impact on your pipeline — or which one are you still working toward?"
+
+**Rotation enforced:** `tips_list` + `certifications` + `truth` — none repeated from the last 3 days. Length (237 words) and template color (dark navy, fine since last 2 weren't both dark) both compliant.

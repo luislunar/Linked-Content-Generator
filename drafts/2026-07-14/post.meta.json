@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "truth",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Certification Traps",
+    "module": "Module 05 · Certifications",
+    "headline_html": "Five things small businesses <span class='accent'>get wrong</span> about set-asides.",
+    "items": [
+      {
+        "title": "8(a) ends at year nine",
+        "sub": "Your graduation date is set on approval day — plan your revenue around that exit."
+      },
+      {
+        "title": "HUBZone requires a live address",
+        "sub": "Principal office and 35% of employees must actually reside in a HUBZone area."
+      },
+      {
+        "title": "SDVOSB is two separate processes",
+        "sub": "VA verification and SBA self-certification are distinct — missing one leaves you exposed."
+      },
+      {
+        "title": "WOSB narrows competition, not evaluators",
+        "sub": "Capability statement, past performance, and pricing still decide the award."
+      },
+      {
+        "title": "Certification stacking is legal",
+        "sub": "WOSB + HUBZone + 8(a) can qualify you for four set-aside types. Most businesses never check."
+      }
+    ],
+    "footer_left": "Certification Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "CERTIFICATIONS OPEN DOORS. YOUR STRATEGY WINS THEM.",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline top: 'CERTIFICATIONS OPEN DOORS. STRATEGY WINS THEM.' with key icon. Left side: illustrated professional woman in blazer holding a certificate document and reviewing a clipboard. Right side: 5 checklist rows with green checkmarks and short labels: '8(A) TIMELINE', 'HUBZONE ADDRESS', 'SDVOSB TWO STEPS', 'WOSB FIELD NARROWED', 'STACK THEM'. Bottom dark band with callout: 'CERT IS THE DOOR.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
