@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's William Hill draft:
+
+**`drafts/william/2026-07-15/`**
+
+| Field | Value |
+|---|---|
+| post_type | `tips_list` |
+| topic | `sam` |
+| hook_pattern | `question` |
+| template | `single-06-checklist` (dark navy) |
+| word count | ~168 |
+
+**Why these choices:**
+- No type repeat (Josh today = `client_story`, William yesterday = `client_story`)
+- No topic conflict (Josh today = `pricing`, William yesterday = `pipeline`)
+- `question` hook fits William's preferred style and differs from yesterday's `story`
+- Length ~168 corrects against yesterday's 237 words per the length-variation rule
+- SAM angle is William's: "here's what I see when we actually go look together" — pure discovery-call observation, no founder claims, warm and practical throughout

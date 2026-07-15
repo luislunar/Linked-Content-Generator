@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM.gov Audit",
+    "module": "Module 01 · Registration",
+    "headline_html": "Five errors that <span class='accent'>stall</span> your application before it starts.",
+    "items": [
+      { "title": "Expired registration", "sub": "SAM auto-expires every 12 months — no reminder sent" },
+      { "title": "Wrong NAICS codes", "sub": "Missing the categories agencies actually buy from you" },
+      { "title": "Outdated point of contact", "sub": "The person who registered left the company years ago" },
+      { "title": "Entity name mismatch", "sub": "Doesn't match legal docs — triggers verification delays" },
+      { "title": "Exclusions check skipped", "sub": "Rare, but it surfaces the moment you submit" }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "STALE SAM STOPS YOUR SCHEDULE COLD",
+    "image_prompt": "Infographic alert layout on dark navy background. Bold warning headline across top: 'STALE SAM STOPS YOUR SCHEDULE COLD' with a caution triangle icon. Left column: illustrated professional man in business casual reviewing a laptop screen, expression of concern. Right column: 5 checklist rows, each with a red X icon and a SHORT 2-3 word label stacked vertically: 'EXPIRED REG', 'WRONG NAICS', 'OLD POC', 'NAME MISMATCH', 'EXCL. SKIPPED'. Bottom: lighter navy banner with short callout: 'AUDIT FIRST'. Clean, minimal. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
