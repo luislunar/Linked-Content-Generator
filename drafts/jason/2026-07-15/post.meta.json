@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 002 · Vehicles",
+    "quote_html": "Pick the vehicle that <em>matches where you are,</em> not where you want to be.",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "WRONG VEHICLE. WRONG TIMING. REAL PROBLEM.",
+    "image_prompt": "Infographic quote-card layout. Cream background. Top: bold dark navy ALL CAPS headline 'WRONG VEHICLE. WRONG TIMING.' with a small caution icon. Center: illustrated professional man in business casual standing at a four-way signpost — each arm labeled with a short 2-word vehicle name: 'GSA MAS', 'SEWP V', 'OASIS+', 'CIO-SP4'. Character looks analytical, not confused — pen in hand, reviewing a clipboard. Bottom: dark navy banner with short pull quote 4-5 words: 'MATCH WHERE YOU ARE'. Clean, minimal, modern. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
