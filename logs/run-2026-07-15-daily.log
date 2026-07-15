@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-07-15/`:
+
+**Post type:** `client_story` — chosen because tips_list, behind_scenes, and carousel filled the last 3 days; client stories are the strongest comment drivers.
+
+**Topic:** `pricing` — not touched since before 07-10, high ICP pain point (active Schedule holders with no awards).
+
+**Hook:** `blunt` — opener "Two years on the GSA Schedule. Zero awards. This wasn't bad luck." hits Schedule holders who are silently stuck. Avoids the truth/question/myth-bust/contrarian patterns from recent days.
+
+**Template:** `single-05-beforeafter` (cream bg) — contrast after the dark-navy checklist card from 07-14.
+
+**Format:** prose with no bullets — adds bullet variety (recent posts used checklist and prose with arrow lists).
+
+**Word count:** ~202 (within 200–300 range for client_story).
+
+**Community question:** asks for a specific pricing mistake, not a generic opinion — designed to unlock experience-share comments from holders who've faced silent rejection cycles.

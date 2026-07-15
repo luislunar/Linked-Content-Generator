@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "18-Month Shift",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when the <span class='accent'>pricing finally fits.</span>",
+    "before_items": [
+      "2 years, zero awards",
+      "Rates 20% above market",
+      "Lost bids, no feedback"
+    ],
+    "after_items": [
+      "Pricing renegotiated",
+      "First award at month 8",
+      "Federal pipeline active"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "WRONG PRICE. NO CONTRACT. EVER.",
+    "image_prompt": "Split-panel infographic. Left dark navy panel, bold label 'BEFORE' with red X icon. Three short 2-3 word labels stacked: 'RATES TOO HIGH', 'ZERO AWARDS', 'LOST BIDS'. Right cream panel, bold label 'AFTER' with green checkmarks. Three short labels stacked: 'MARKET RATES', 'FIRST AWARD', 'PIPELINE LIVE'. Center: illustrated professional in suit reviewing a contract document at a desk. Bold headline across top: 'WRONG PRICE. NO CONTRACT. EVER.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
