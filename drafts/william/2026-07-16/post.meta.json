@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "First Call Pattern",
+    "year_client": "Every Week · Sales Floor",
+    "lead_html": "The fear hiding behind <em>\"is this worth it?\"</em>",
+    "rows": [
+      {
+        "when": "The first question",
+        "what_html": "<strong>\"How long does it take?\"</strong> <span class='light'>— what they ask to open the call</span>"
+      },
+      {
+        "when": "Five minutes in",
+        "what_html": "<strong>\"What if we never win anything?\"</strong> <span class='light'>— what they actually mean</span>"
+      },
+      {
+        "when": "The real answer",
+        "what_html": "<strong>The Schedule is infrastructure</strong> <span class='light'>— what you build on it is the work</span>"
+      }
+    ],
+    "closer": "THE DOOR OPENS. YOU STILL HAVE TO WALK THROUGH.",
+    "image_headline": "THE FEAR BEHIND THE QUESTION",
+    "image_prompt": "Infographic story layout. Warm forest-green and amber palette, cream background. Left side: illustrated professional man in business casual, sitting at desk on a phone call, looking engaged and curious, warm amber desk lamp light. Right side: three-row conversation arc timeline with small icons — row 1 label 'THE FIRST QUESTION' with speech bubble icon, row 2 label 'THE REAL QUESTION' with lightbulb icon, row 3 label 'THE REAL ANSWER' with open-door icon. Each row has a 2-3 word callout in forest green. Bold headline top: 'THE FEAR BEHIND THE QUESTION'. One highlighted callout box in amber: 'THE DOOR OPENS'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
