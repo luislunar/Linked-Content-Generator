@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "GovCon Truth",
+    "headline_html": "TEAMING IS<br>CREDIBILITY<br><span class='accent'>TRANSFER.</span>",
+    "sub": "You don't sub to fill a skills gap. You sub to build the record that opens the next door.",
+    "issue": "Issue 016",
+    "image_headline": "TEAMING IS CREDIBILITY TRANSFER.",
+    "image_prompt": "Dark navy bold statement card. Large bold headline top: 'TEAMING IS CREDIBILITY TRANSFER.' Left section: illustrated prime figure holding large shield labeled 'PAST PERF', arrow pointing right to sub figure holding growing badge labeled 'NEW RECORD'. Label below arrow: 'YOU EARN IT'. Right column: three stacked short labels with green checks — 'CPARS RATING', 'DOLLAR VALUE', 'TRACK RECORD'. Clean dark navy background throughout. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

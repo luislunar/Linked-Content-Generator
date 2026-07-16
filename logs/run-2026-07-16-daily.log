@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run:
+
+---
+
+**2026-07-16 — Josh Ladick daily post**
+
+- **Post type:** `hot_take` (not used in last 3 days)
+- **Topic:** `teaming` (last appeared 5+ days ago)
+- **Hook:** `contrarian` — "Wrong reason to team up." (last 3 hooks were `blunt`, `truth`, `question`)
+- **Format:** Pure prose, no bullets (last 3 avg was 210 words → today is 161, under the 180 target)
+- **Template:** `single-01-bold` (dark navy)
+
+**Core argument:** Most businesses team to fill capability gaps. The real power is credibility transfer — subcontracting builds documented past performance, CPARS ratings, and citable contract values that break the new-entrant catch-22.
+
+**Files written:**
+- `drafts/2026-07-16/post.md`
+- `drafts/2026-07-16/post.meta.json`
+- `drafts/2026-07-16/hypothesis.md`
+- `logs/run-2026-07-16.md`
