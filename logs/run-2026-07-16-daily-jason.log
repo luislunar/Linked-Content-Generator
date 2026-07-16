@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's Jason draft:
+
+**`drafts/jason/2026-07-16/`**
+
+| Field | Value |
+|---|---|
+| post_type | `tips_list` |
+| topic | `certifications` |
+| hook_pattern | `blunt` |
+| format | `checklist` |
+| template | `single-06-checklist` |
+| word_count | ~196 |
+
+**Rotation logic applied:**
+- Avoided `behind_scenes` (his yesterday + William today) and `hot_take` (his 07-14 + Josh today)
+- Avoided `vehicles` (Jason 07-15), `myths` (Jason 07-14), `teaming` (Josh today), `gsa_basics` (William today)
+- Avoided `contrarian` (Jason yesterday + Josh today) and `truth` (William today)
+- Used `blunt` hook — Jason's preferred, fresh for this run
+
+**Post angle:** Jason as sales rep who sees certifications sitting idle on company profiles — opens with a blunt data observation, walks through all 4 set-asides with real figures, closes with a USASpending.gov action step. Certifications are Jason's 1x/week weighted topic.

@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Cert Reality Check",
+    "module": "Module 04 · Certifications",
+    "headline_html": "Four certs. Which one <span class='accent'>actually</span> moves?",
+    "items": [
+      { "title": "8(a)", "sub": "Sole-source to $4.5M — highest ceiling if you survive eligibility." },
+      { "title": "WOSB", "sub": "Only authorized in specific NAICS codes. Check the list first." },
+      { "title": "SDVOSB", "sub": "VA and DoD pull is real — and you can sub to holders too." },
+      { "title": "HUBZone", "sub": "Geography-locked. The eligible map updates yearly — verify your address." },
+      { "title": "None yet?", "sub": "Pull USASpending.gov for your NAICS before you apply to anything." }
+    ],
+    "footer_left": "Cert Strategy",
+    "footer_right": "Field Notes",
+    "image_headline": "PICK THE CERT THAT WINS",
+    "image_prompt": "Infographic checklist layout. Dark navy background throughout. Bold headline top: 'PICK THE CERT THAT WINS' in white. Five horizontal checklist rows stacked vertically, each with a short 1-3 word label in cyan on the left and a tiny icon on the right — row 1: '8(a)' with briefcase icon, row 2: 'WOSB' with star badge icon, row 3: 'SDVOSB' with shield icon, row 4: 'HUBZONE' with map pin icon, row 5: 'NO CERT YET' with magnifying glass icon. Each row separated by a thin navy divider line. Left accent stripe in bright cyan running full height. Small green checkmarks beside active rows. Bottom banner: dark charcoal strip with label 'KNOW YOUR SET-ASIDE DATA'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
