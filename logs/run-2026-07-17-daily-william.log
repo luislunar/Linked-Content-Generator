@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written for William today:
+
+---
+
+**Draft:** `drafts/william/2026-07-17/`
+
+| Field | Value |
+|---|---|
+| `post_type` | `personal_story` |
+| `topic` | `teaming` |
+| `hook_pattern` | `story` |
+| `format` | `bullets` |
+| `template` | `single-03-quote` |
+| `word_count` | ~228 |
+
+**Rotation logic:**
+- Avoided William's last 3 post types (`behind_scenes`, `tips_list`, `client_story`)
+- Avoided Josh's topic today (`pipeline`) and post type (`milestone`)
+- `story` hook not used in last 2 days (yesterday was `truth`)
+- `single-03-quote` (cream/serif) breaks the streak of `single-07-story` appearances
+
+**The post** opens with the question William hears on nearly every first call — *"how do we win if we have no federal record?"* — anchors it to a real Texas manufacturer profile, then walks through the teaming path (find prime → sub on their bid → earn your record → bid prime later). Closes with a targeted community question about which specific step is hardest: finding the right prime, or making the pitch.

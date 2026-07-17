@@ -1,0 +1,17 @@
+{
+  "post_type": "personal_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 008 · Teaming",
+    "quote_html": "The prime brings the past performance. <em>You bring the capability.</em>",
+    "footer_left": "One Real Pattern",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "TEAMING IS YOUR WAY IN",
+    "image_prompt": "Infographic split-panel layout. Left panel dark navy: bold label 'THE BLOCK' at top, illustrated professional looking uncertain, short label 'NO FEDERAL RECORD' below with red X icon. Right panel cream/white: bold label 'THE MOVE' at top, illustrated two professionals shaking hands, short label 'FIND A PRIME' below with green arrow icon. Center dividing line with upward arrow. Bold headline at top: 'TEAMING IS YOUR WAY IN'. Bottom callout box dark navy: short phrase 'PRIME BRINGS RECORD. YOU BRING SKILL.' Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
