@@ -1,0 +1,33 @@
+name: Weekly GovCon data digest
+
+on:
+  schedule:
+    # Mondays 08:00 UTC — before the daily publish crons, so the week's posts can use it.
+    - cron: "0 8 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: Generate digest from USAspending
+        run: |
+          pip install requests
+          python scripts/govcon-data.py
+
+      - name: Commit digest
+        run: |
+          git config user.name "linked-content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add research/
+          git diff --cached --quiet || git commit -m "data: weekly GovCon digest $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push

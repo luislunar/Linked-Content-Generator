@@ -22,7 +22,7 @@ jobs:
           LINKEDIN_ACCESS_TOKEN: ${{ secrets[matrix.token] }}
           LINKEDIN_PERSON_URN: ${{ secrets[matrix.urn] }}
         run: |
-          DIR=$(ls -d drafts/*/ | sort | tail -1)
+          DIR=$(ls -d drafts/2*/ | sort | tail -1)
           MEDIA=$(ls "$DIR"card.pdf 2>/dev/null || ls "$DIR"card.jpg)
           echo "Testing ${{ matrix.who }} with $MEDIA"
           python scripts/publish-linkedin.py "$MEDIA" "$DIR" --upload-only

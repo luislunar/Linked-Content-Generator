@@ -16,6 +16,13 @@ Only if you need hook phrasing inspiration: read `reference-posts.md`. Skip it i
 
 If a `research/reddit-trends-*.md` file exists from the last 7 days, read it. Use trending topics only as inspiration — stay within the ICP topics in `brand-context.md`. Never write about topics outside the GSA/federal contracting space.
 
+## Check for fresh data (optional inspiration)
+
+If a `research/govcon-data-*.md` file exists from the last 8 days, read it. It contains real small-business federal spending figures from USAspending.gov. Rules:
+- The normal topic bank remains the default. Use a figure only when it genuinely strengthens today's idea — at most 1-2 data-led posts per week.
+- Check the other profiles' drafts for today: never use a figure another profile already used today.
+- Always credit `Source · USAspending.gov` on the card when using a figure.
+
 ## Pick the post type FIRST (this drives everything else)
 
 1. Read `logs/run-*.md` for the last 3 days. List the `post_type` used each day.

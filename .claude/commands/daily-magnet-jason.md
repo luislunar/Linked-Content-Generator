@@ -24,6 +24,14 @@ Three people at GSA Focus post every weekday: Josh (`drafts/YYYY-MM-DD/`), Willi
 
 If a `research/reddit-trends-*.md` file exists from the last 7 days, read it. Use trending topics only as inspiration — stay within the ICP topics. Never write about topics outside the GSA/federal contracting space.
 
+## Check for fresh data (optional inspiration)
+
+If a `research/govcon-data-*.md` file exists from the last 8 days, read it. It contains real small-business federal spending figures from USAspending.gov. Rules:
+- The normal topic bank remains the default. Use a figure only when it genuinely strengthens today's idea — at most 1-2 data-led posts per week.
+- Jason's angle: lead with the number to kill an objection ("too expensive", "only for the big guys") — this is prime `single-04-stat` material.
+- Check the other profiles' drafts for today: never use a figure another profile already used today.
+- Always credit `Source · USAspending.gov` on the card when using a figure.
+
 ## Pick the post type FIRST
 
 1. Read `logs/jason/run-*.md` for the last 3 days. List the `post_type` used each day.
