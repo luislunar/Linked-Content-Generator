@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Small Business Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "Federal awards to small businesses, Q2 2026",
+    "big_number_html": "$<span class='accent'>11.8B</span>",
+    "context_html": "Eight industries. One quarter. Most small businesses in those exact spaces <strong>weren't registered</strong> to compete for any of it.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "THE MONEY IS REAL. ARE YOU IN?",
+    "image_prompt": "Infographic stat layout. Dark navy background. Center: giant bold number '$11.8B' with label 'Q2 2026 SMALL BIZ AWARDS' below it. Three short callout labels beneath: 'DOD $5.5B', 'VA $3.6B', 'DHS $3.2B' each with a small arrow icon. Left side: illustrated professional in business casual looking at an upward-trending bar chart. Bold headline at top: 'THE MONEY IS REAL. ARE YOU IN?' One highlighted callout box bottom-center: 'BARRIER IS ACCESS, NOT ODDS'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

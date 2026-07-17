@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run:
+
+**Post type:** `milestone` — first choice template `single-04-stat`
+**Topic:** `pipeline` (not used in 5 days)
+**Hook:** `question` — required today since the last 3 posts all used statement-style openers (contrarian, blunt, truth)
+**Data used:** $11.8B in Q2 2026 small-business federal awards from `govcon-data-2026-07-16.md`, credited to USAspending.gov
+**Format:** prose (no bullets) — variation after checklist/numbered on 07-14
+
+**Files written:**
+- `drafts/2026-07-17/post.md` — ~172 words, within the 150–250 milestone range
+- `drafts/2026-07-17/post.meta.json` — `single-04-stat` template with full `template_data`
+- `drafts/2026-07-17/hypothesis.md` — testing data-led stat post + question hook after 3 statement openers
+- `logs/run-2026-07-17.md` — rotation log for the next agent
