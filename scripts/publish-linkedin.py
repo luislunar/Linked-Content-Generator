@@ -30,7 +30,9 @@ from pathlib import Path
 import requests
 
 API_BASE = "https://api.linkedin.com/rest"
-API_VERSION = "202506"
+# LinkedIn API versions sunset ~1 year after release. If publishing fails with
+# 426 NONEXISTENT_VERSION, bump this to a currently active YYYYMM version.
+API_VERSION = "202606"
 
 # Characters reserved by LinkedIn's "Little Text Format" in post commentary.
 LITTLE_TEXT_RESERVED = "\\|{}@[]()<>#*_~"
