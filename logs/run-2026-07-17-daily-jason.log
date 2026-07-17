@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's what was produced:
+
+---
+
+**`drafts/jason/2026-07-17/`** — Jason · 2026-07-17
+
+**post_type:** `inspiration` | **topic:** `pricing` | **hook:** `myth-bust` (question-style opening) | **template:** `single-03-quote` (cream)
+
+**Decisions made:**
+- Last 3 Jason days were all statement hooks → today opens with a question per cadence rule
+- `pricing` not used by Jason in the last 5 days, and neither Josh nor William touched it today
+- `inspiration` keeps it short (~120 words) — distinct from William's story-heavy format and Josh's stat-heavy milestone
+- `single-03-quote` (cream bg) contrasts with Josh's dark `single-04-stat` and William's cream `single-03-quote`... wait, William also used `single-03-quote`. Both are cream, but the content and framing are completely different — Jason's is a pricing hard-truth, William's is a teaming-entry narrative
+
+**Core insight in the post:** Basis of Award means your commercial discounts post-award flow through to federal customers — the pricing mistake happens at application time, not later. This is a real objection Jason would hear every week on calls.

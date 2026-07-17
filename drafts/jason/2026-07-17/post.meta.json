@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "pricing",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 004 · Pricing",
+    "quote_html": "Your GSA price isn't a bid. <em>It's a ceiling you'll live with for years.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "YOUR PRICE IS YOUR CEILING",
+    "image_prompt": "Infographic pull-quote layout. Cream/off-white background with a thin dark navy border frame. Center: large bold serif quote text in dark navy reading 'YOUR PRICE IS YOUR CEILING'. Below the quote, a short 2-word label 'BASIS OF AWARD' in small caps with a thin horizontal rule above it. Upper left corner: small muted grey label 'FIELD NOTE'. Upper right corner: label 'No. 004 · PRICING' in small caps. Bottom third: illustrated professional in business casual reviewing a contract at a desk, looking focused and analytical. A small red warning icon near a line item on the document. Dark navy accent stripe at very bottom. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
