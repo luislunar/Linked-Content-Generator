@@ -1,0 +1,39 @@
+{
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "carousel-01-myths",
+  "template_data": {
+    "cover": {
+      "top_label": "Field Guide / Vol. 04",
+      "headline_html": "3 myths that <span class='accent'>stall</span> new GovCon shops.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
+      {
+        "label": "The Past Performance Trap",
+        "myth_text": "You need federal contracts on your résumé before GSA will look at you.",
+        "reality_text": "The MAS application is built on commercial past performance — not federal. Two solid commercial references and clean financials are what the contracting officer actually reviews."
+      },
+      {
+        "label": "The 'It Finds You' Illusion",
+        "myth_text": "Once you're on the Schedule, agencies will search and find you.",
+        "reality_text": "The Schedule gets you in the room. It doesn't book the meeting. You still have to market, follow contracting officers, and respond to sources sought notices to generate revenue."
+      },
+      {
+        "label": "The IT-Only Myth",
+        "myth_text": "GSA Schedule is really just for tech companies.",
+        "reality_text": "The Multiple Award Schedule covers professional services, construction, healthcare, staffing, office products, and more. If you have a commercial client base, there's likely a SIN for you."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which one almost stopped you?",
+      "close_question": "Drop the myth you were carrying when you first looked at the GSA Schedule."
+    },
+    "image_headline": "3 MYTHS STALLING YOUR GOVCON START",
+    "image_prompt": "Carousel cover card. Dark navy background. Large bold headline centered: '3 MYTHS STALLING YOUR GOVCON START' in white, word 'MYTHS' in coral accent. Small top label in light gray: 'FIELD GUIDE / VOL. 04'. Bottom right: illustrated professional in blazer holding clipboard, confident posture. Badge centered near bottom: 'MYTHS EDITION' in cream text on darker band. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
