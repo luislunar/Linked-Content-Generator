@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Teaming Reality",
+    "headline_html": "THE SUB<br>ISN'T THE<br><span class='accent'>FALLBACK</span>",
+    "sub": "Companies rushing to prime with zero past performance lose. The sub position is the strategic year-one move.",
+    "issue": "Issue 031",
+    "image_headline": "THE SUB IS THE STRATEGY",
+    "image_prompt": "Split-panel infographic, horizontal layout. Left panel dark navy: bold label 'WRONG MOVE' at top-left with red X icon. Three short stacked labels in lighter gray: 'ZERO HISTORY', 'BID AS PRIME', 'LOSE BID'. Illustrated professional in business casual looking frustrated, arms crossed. Right panel cream/white: bold label 'RIGHT MOVE' at top-right with green checkmark icon. Three short stacked labels: 'BUILD HISTORY', 'WORK AS SUB', 'PRIME YEAR 3'. Illustrated professional in blazer shaking hands confidently. Bold headline centered at top across both panels: 'THE SUB IS THE STRATEGY'. Thin vertical dividing line between panels. Dark navy bottom band. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

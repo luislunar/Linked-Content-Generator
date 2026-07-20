@@ -1,0 +1,9 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary of what was produced:
+
+**Topic:** `teaming` — fresh for Jason (not in last 4 runs), blocked `myths`/`pipeline` (today's other profiles)
+**Post type:** `hot_take` — not in Jason's last 3 days (`inspiration`, `tips_list`, `behind_scenes`)
+**Hook:** `contrarian` — opens with a question (required: all 3 prior Jason posts opened with statements)
+**Template:** `single-01-bold` (dark navy) — last Jason card was cream, color contrast is fine
+
+**The angle:** Jason challenges the GovCon instinct to rush into priming — subcontracting in year one is the *strategic* play that builds past performance and sets up a prime position in year three. Classic Jason: numbers-driven, debunks a bad assumption, no founder claims, ends with an experience-share CTA.
