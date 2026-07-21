@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary for today's Josh post:
+
+**Type:** `tips_list` | **Topic:** `sam` | **Hook:** `alert` | **Template:** `single-06-checklist`
+
+**The angle:** An alert-style opener ("your SAM.gov registration expired while you were busy") triggers immediate self-checking. The five numbered items cover the five most-missed SAM profile gaps: renewal timing (365 days from *last renewal*, not calendar year), NAICS code staleness, validation lead time, banking details, and stale points of contact. Closes with a specific experience-share CTA that invites people to share what they found when they last reviewed.
+
+**Rotation rationale:**
+- `tips_list` last used 7/14 — 7 days clear
+- `sam` not in last 5 days (7/20 myths, 7/17 pipeline, 7/16 teaming, 7/15 pricing, 7/14 certifications)
+- `alert` hook not used in any recent run — fresh
+- Numbered format breaks the run of `comparison`/`prose`/`prose` from prior 3 posts
+- `single-06-checklist` (5-item) matches tips_list spec exactly; not blocked by color rule (only one of the last 2 templates was in the dark-bg list)

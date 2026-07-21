@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM.gov Audit",
+    "module": "Module 04 · SAM",
+    "headline_html": "Five SAM.gov gaps that <span class='accent'>quietly disqualify</span> you.",
+    "items": [
+      { "title": "Annual renewal", "sub": "Expires 365 days from last renewal, not the calendar year" },
+      { "title": "NAICS codes review", "sub": "Wrong codes = invisible to agencies searching for your services" },
+      { "title": "Validation buffer", "sub": "Re-validation takes 7–10 days — don't wait on an active RFQ" },
+      { "title": "Banking details", "sub": "Awards route to the bank on file, not what you tell the CO" },
+      { "title": "Points of contact", "sub": "Government contacts whoever is listed — keep it current" }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE SAM GAPS THAT DISQUALIFY YOU",
+    "image_prompt": "Infographic checklist layout on dark navy background. Bold headline top: 'FIVE SAM GAPS THAT DISQUALIFY YOU' with orange warning icon. Left side: illustrated professional woman in blazer at laptop reviewing a federal portal. Right side: 5 checklist rows, each with a bold green checkmark and a short 2-3 word label — 'Annual Renewal', 'NAICS Codes', 'Validation Buffer', 'Bank Details', 'Contact Info'. Bottom stripe: white callout text 'Check yours before an RFQ lands.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
