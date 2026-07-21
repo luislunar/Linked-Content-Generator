@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "GovCon Reality",
+    "headline_html": "A DOOR,<br>NOT A<br><span class='accent'>CONTRACT</span>",
+    "sub": "The Schedule earns you access. Winning is still on you.",
+    "issue": "Field Note 021"
+  },
+  "experiment_id": "",
+  "image_headline": "A DOOR, NOT A CONTRACT",
+  "image_prompt": "Infographic truth reveal layout, dark navy background. Bold headline centered at top: 'A DOOR, NOT A CONTRACT' in large white caps. Center: illustrated professional man in business casual holding a credential badge, standing at an open federal building doorway. Left callout zone labeled 'THE MYTH' with short red label 'AUTO REVENUE'. Right callout zone labeled 'THE TRUTH' with short green label 'ACCESS GRANTED'. Bottom banner in forest green with short callout: 'STARTING LINE NOT FINISH'. Footer text: 'William Hill · GSA Focus'."
+}

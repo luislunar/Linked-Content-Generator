@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**William Hill — 2026-07-21**
+
+**post_type:** `hot_take` | **topic:** `gsa_basics` | **hook:** `truth` | **template:** `single-01-bold` (dark navy) | **165 words**
+
+**Why these picks:**
+- Blocked types: `client_story`, `personal_story`, `behind_scenes` (last 3 William days) + `tips_list` (Josh today)
+- Blocked topics: `sam` (Josh today), `pipeline` (William yesterday)
+- Under-180 rule triggered (last 3 William posts averaged 210 words)
+- `truth` hook not used since 07/16; `question` used yesterday → rotated correctly
+- Dark template contrasts last 2 cream posts
+
+**The post** reframes the GSA Schedule as a *credential*, not a contract — the #1 misconception William hears on first calls. Three `→` bullets make it actionable, and the closing CTA ("what do you wish someone told you before you applied?") invites personal-story comments rather than simple reactions.
