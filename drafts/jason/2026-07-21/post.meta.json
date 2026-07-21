@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Small Business Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "Small business federal awards, top-8 industries Q2 2026",
+    "big_number_html": "$<span class='accent'>12.1B</span>",
+    "context_html": "One quarter. Eight industries. Small businesses — <strong>not just the big primes</strong>.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "SMALL BUSINESS WON $12.1B LAST QUARTER",
+    "image_prompt": "Split-panel infographic on dark navy background. Left panel: bold label 'THE MYTH' with red X icon, short red label text 'TOO SMALL TO WIN'. Right panel lighter zone: bold label 'THE DATA' with green checkmark, large accent number '$12.1B' centered, sub-label 'Q2 2026 · 8 INDUSTRIES'. Center: illustrated professional man in business casual reviewing federal contract documents at a desk. Bold headline at top: 'SMALL BUSINESS WON $12.1B' in white caps. Bottom banner: short white callout 'ONE QUARTER · NOT THE YEAR'. Credit line: 'USAspending.gov'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

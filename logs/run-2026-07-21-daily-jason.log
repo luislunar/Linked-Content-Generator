@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-07-21/`:
+
+**post_type:** `milestone` | **topic:** `myths` | **hook_pattern:** `myth-bust`
+**template:** `single-04-stat` | **format:** `comparison` | **word_count:** ~178
+
+**Post opens with:** `"We're too small for federal contracts." — $12.1 billion disagrees.`
+
+**Rotation decisions:**
+- `milestone` not used in Jason's last 3 days (`hot_take`, `inspiration`, `tips_list`), and not used today by Josh (`tips_list`) or William (`hot_take`)
+- `myths` is Jason's top priority; not used by either profile today
+- `myth-bust` hook last used 2026-07-17, not yesterday — valid rotation
+- Govcon data ($12.1B, Q2 2026 top-8 industries) used here only; Josh and William used no stat today
+- Format is `comparison` — breaks the three-day `bullets` streak
+- `single-04-stat` (dark navy) is fine — last two Jason templates were dark + cream
