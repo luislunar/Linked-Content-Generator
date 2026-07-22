@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Today's draft is in `drafts/2026-07-22/`.
+
+**What was generated:**
+
+- **Type:** `inspiration` — not used in the last 5 days
+- **Topic:** `certifications` — not used in the last 5 days
+- **Hook:** `truth` ("Nobody talks enough about...") — avoids yesterday's `alert`
+- **Template:** `single-03-quote` (cream + serif) — contrast after yesterday's dark-navy checklist card
+- **Format:** prose, no bullets — variety after two consecutive list/checklist posts
+- **Word count:** ~113 (within 50–150 target)
+
+**Core message:** Certifications (8(a), WOSB, SDVOSB, HUBZone) are access tools, not revenue guarantees. The companies winning on them treat the cert as a starting gun, not a finish line. Community question invites certified holders to share what the reality didn't deliver — high comment potential.

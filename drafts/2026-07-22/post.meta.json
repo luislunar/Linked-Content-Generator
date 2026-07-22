@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "certifications",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Certifications",
+    "quote_html": "A certification opens the door. <em>Only your pipeline walks through it.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes"
+  },
+  "image_headline": "CERT OPENS DOORS. YOU WALK THROUGH.",
+  "image_prompt": "Infographic story layout. Dark navy background. Left: tall illustrated doorway with glowing green frame, bold label 'ACCESS' at top, four short certification labels around the door: '8(a)', 'WOSB', 'SDVOSB', 'HUBZONE'. Right: illustrated professional in suit stepping confidently forward through the doorway. Bold white headline at top: 'CERT OPENS DOORS. YOU WALK THROUGH.' Highlighted coral callout box center-bottom with label 'PIPELINE = WINS'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
