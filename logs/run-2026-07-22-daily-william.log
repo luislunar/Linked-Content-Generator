@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for William today (2026-07-22):
+
+---
+
+**Post type:** `tips_list` — not used in William's last 3 days; avoids Josh's `inspiration` today
+
+**Topic:** `myths` — fresh (not in William's recent logs); avoids Josh's `certifications` and his own 07/15 `sam` repeat
+
+**Hook:** `question` — William's preferred hook, last used 07/20 (not consecutive); yesterday was `truth`
+
+**Template:** `single-02-numbered` (cream) — alternates with yesterday's dark `single-01-bold`; avoids the 07/15 `single-06-checklist` that ran with the same post_type
+
+**Word count:** 153 words — well under the 180-word cap triggered by the last-3-post average of 211
+
+**Rotation logic:** The `tips_list/myths/question` combo is distinct from the 07/15 `tips_list/sam/question` run. The four myths are framed around what William literally hears on first calls ("What almost stopped you from reaching out?") — landing in his authentic sales-rep voice without any founder claims.
+
+**Files written:**
+- `drafts/william/2026-07-22/post.md`
+- `drafts/william/2026-07-22/post.meta.json`
+- `drafts/william/2026-07-22/hypothesis.md`
+- `logs/william/run-2026-07-22.md`

@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "myths",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "First-Call Myths",
+    "index": "Vol. 05 · Myths",
+    "headline_html": "Four beliefs that <span class='accent'>cost businesses</span> their federal window.",
+    "items": [
+      {
+        "num": "01",
+        "title": "\"No federal contracts yet\"",
+        "desc": "You don't need them. Two years in business and commercial revenue is what GSA requires."
+      },
+      {
+        "num": "02",
+        "title": "\"GSA is only for IT\"",
+        "desc": "The MAS covers 30+ categories — construction, consulting, health, logistics, and more."
+      },
+      {
+        "num": "03",
+        "title": "\"The process takes years\"",
+        "desc": "It takes 6–12 months. Our team handles the 100+ paperwork hours; you provide about three."
+      },
+      {
+        "num": "04",
+        "title": "\"Contracts come automatically\"",
+        "desc": "The Schedule opens the door. Your pipeline and follow-through walk through it."
+      }
+    ]
+  },
+  "image_headline": "FOUR MYTHS BLOCKING YOUR GSA START",
+  "image_prompt": "Infographic numbered list layout. Cream background. Bold dark-navy headline at top: 'FOUR MYTHS BLOCKING YOUR GSA START'. Left column: illustrated professional man in a blazer, arms slightly open as if explaining something on a call, expression warm and engaged. Right side: four numbered rows in dark-navy blocks — '01 NO PAST CONTRACTS', '02 ONLY FOR IT', '03 TAKES YEARS', '04 CONTRACTS AUTO' — each with a small amber circle icon on the left. Bottom dark-navy banner with short label 'HEAR THESE DAILY'. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
