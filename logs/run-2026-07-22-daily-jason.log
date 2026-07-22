@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for `drafts/jason/2026-07-22/`:
+
+**post_type:** `client_story` | **topic:** `vehicles` | **hook:** `blunt` | **template:** `single-05-beforeafter` (cream bg)
+
+**Why these choices:**
+- Last 3 Jason types were `milestone`, `hot_take`, `inspiration` → all blocked. `client_story` is fresh and untouched by Josh/William today.
+- `vehicles` is a Jason priority topic not used by him recently and not touched by today's other posts (Josh: certifications, William: myths).
+- `blunt` hook — Jason's preferred, not used today by others, and yesterday was `myth-bust` so rotating correctly.
+- Cream template required — his last two (`single-04-stat`, `single-01-bold`) were both dark-navy, triggering the color contrast rule.
+
+**Post angle:** A real client story — IT consultant locked in SEWP V for 7 months with the wrong SIN for their offering. Catalog assessment, pivot to correct GSA MAS SIN, 3 RFQs in 5 months. Followed by a quick comparison of SEWP V / CIO-SP4 / OASIS+ / GSA MAS — what each is actually for. 221 words, within the 200–300 range.

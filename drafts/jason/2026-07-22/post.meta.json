@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "vehicles",
+  "hook_pattern": "blunt",
+  "format": "comparison",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Vehicle Audit",
+    "case_num": "Case · 019",
+    "headline_html": "What changes when you <span class='accent'>pick the right door.</span>",
+    "before_items": [
+      "Seven months, zero traction",
+      "Wrong vehicle, right service",
+      "Cold outreach stalling"
+    ],
+    "after_items": [
+      "Correct SIN, right market",
+      "3 RFQs in 5 months",
+      "Pipeline actually moving"
+    ],
+    "footer_left": "One Vehicle Fix",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "THE WRONG DOOR COSTS YOU MONTHS",
+  "image_prompt": "Split-panel infographic, horizontal layout. Top half cream background: bold dark-navy label 'WRONG VEHICLE' with red X icon, three short stacked labels: 'WRONG LANE', 'ZERO TRACTION', 'STALLED'. Illustrated professional in business casual standing in front of a closed dark door, expression flat and frustrated. Bottom half dark navy: bold white label 'RIGHT VEHICLE' with green checkmark icon, three short stacked labels: 'CORRECT SIN', '3 RFQS', 'PIPELINE LIVE'. Same illustrated professional opening a glowing green-framed door with confidence. Bold headline centered across both panels in large caps: 'THE WRONG DOOR COSTS YOU MONTHS'. Thin horizontal dividing line between panels. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
