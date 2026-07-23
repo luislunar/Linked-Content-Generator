@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-07-23/`:
+
+**Post type:** `tips_list` | **Topic:** `pricing` | **Hook:** `question` | **Template:** `single-06-checklist`
+
+**Why these choices:**
+- Last 3 Jason posts all opened with statements → today's must open with a question (cadence rule hit)
+- Last 3 averaged ~187 words → today targets under 180 (162 words)
+- `pricing` is Jason's weighted topic, unused by any profile today or by Jason in the last 3 days
+- `tips_list` is unused by Jason in his last 3 days and by Josh/William today
+- `question` hook keeps Jason's preferred patterns while satisfying the hook-variation rule
+
+**Post angle:** 5 pricing mistakes Jason sees in proposals weekly — Basis of Award trail, MFC rate violations, no escalation clause, bundled deliverables, and skipping price realism. Closes with an experience-share question that targets ICP owners who've already gone through the process or are mid-application.

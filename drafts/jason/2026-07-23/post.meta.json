@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pricing Audit",
+    "module": "Module 07 · Pricing",
+    "headline_html": "Five pricing errors <span class='accent'>before</span> you submit.",
+    "items": [
+      { "title": "No commercial price trail", "sub": "Basis of Award needs documentation — COs have full discretion without it" },
+      { "title": "Rates above your commercial", "sub": "GSA requires Most Favored Customer pricing — charging a private client less is a violation" },
+      { "title": "No escalation clause", "sub": "Flat rates lock you into stale labor costs for the full schedule term" },
+      { "title": "Bundled services, no breakout", "sub": "Agencies can't order what they can't price line by line" },
+      { "title": "Skipping price realism", "sub": "Too low = performance risk flag. Too high = no award. Both lose." }
+    ],
+    "footer_left": "Quick Pricing Audit",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "FIVE PRICING ERRORS BEFORE YOU SUBMIT",
+  "image_prompt": "Infographic checklist layout. Dark carbon background with cyan accent color, Space Grotesk typeface. Bold headline top: 'FIVE PRICING ERRORS BEFORE YOU SUBMIT'. Left side: illustrated professional man in dark suit jacket reviewing a printed proposal at a clean desk, focused expression. Right column: 5 checklist rows, each with a cyan checkmark icon and a short 3-word label — 'NO PRICE TRAIL', 'RATES TOO HIGH', 'NO ESCALATION CLAUSE', 'NO LINE ITEMS', 'SKIP REALISM CHECK'. Bottom dark banner with short callout: 'WRONG PRICE = MARGIN TRAP'. Clean professional illustration style. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": ""
+}
