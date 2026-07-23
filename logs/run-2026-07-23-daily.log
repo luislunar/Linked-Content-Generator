@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **Josh Ladick · 2026-07-23**:
+
+---
+
+**Post type:** `hot_take` — the only type not blocked by the last 3 days and not yet counted in this week's 7-day variety window.
+
+**Topic:** `teaming` — hadn't appeared in any of the last 5 logs.
+
+**Hook:** `contrarian` — opens by quoting the ICP's exact belief verbatim, then immediately demolishes the premise. Avoids the last 3 patterns (truth / alert / myth-bust).
+
+**Template:** `single-01-bold` (dark navy) — first choice for `hot_take`. Last 2 templates were cream + dark, so no cream-only constraint applied.
+
+**Core argument:** Teaming agreements are specifically designed to solve the past-performance catch-22. Companies with zero federal history can and do win in under 12 months by finding the right prime. The barrier is network, not credentials.
+
+**Card headline:** `TEAM UP. WIN FASTER. FULL STOP.`
+
+**Files written:**
+- `drafts/2026-07-23/post.md` (162 words — within 150–300 range)
+- `drafts/2026-07-23/post.meta.json`
+- `drafts/2026-07-23/hypothesis.md`
+- `logs/run-2026-07-23.md`

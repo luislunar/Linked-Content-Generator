@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Field Take",
+    "headline_html": "TEAM UP.<br>WIN FASTER.<br><span class='accent'>FULL STOP.</span>",
+    "sub": "Past performance isn't the barrier to your first federal award. Your network is.",
+    "issue": "Issue 031",
+    "image_headline": "PAST PERF IS NOT THE BARRIER.",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold red label 'WRONG PREMISE' with red X icon. Three short myth labels in white: 'No Past Perf', 'Can't Compete', 'Wait For Record'. Right panel white/cream, bold green label 'RIGHT MOVE' with checkmarks. Three action labels in dark text: 'Find Prime', 'Structure Agreement', 'Win Together'. Center vertical divider with illustrated professional in suit extending handshake across panels. Bold headline top: 'PAST PERF IS NOT THE BARRIER.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
