@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's what was produced for today:
+
+---
+
+**Post type:** `personal_story` — not used in William's last 3 days, avoids Josh's `hot_take` today  
+**Topic:** `sam` — William priority topic, last used 8 days ago; `teaming` was blocked by Josh  
+**Hook:** `story` — "I was on a call a few weeks ago…" — breaks from yesterday's question opener  
+**Format:** `story` (pure narrative, no bullets) — contrasts with 2 consecutive bullet posts  
+**Template:** `single-07-story` (cream + serif) — varies from yesterday's cream-numbered and day-before's dark navy  
+**Word count:** 245 — within the 200–400 personal_story range  
+
+**The post** tells the story of a facilities management owner in Georgia who had a live GSA Schedule for two years, got a real inbound RFQ from an agency CO who found him on SAM.gov — then lost it because his registration had quietly lapsed three weeks earlier. No email, no warning, no grace period. The practical takeaways (check expiration date, renew 60 days early, verify NAICS codes) are woven into prose rather than bullets. The CTA asks specifically when the reader last logged into SAM.gov — specific enough to trigger honest replies.

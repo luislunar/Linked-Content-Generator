@@ -1,0 +1,21 @@
+{
+  "post_type": "personal_story",
+  "topic": "sam",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Discovery Call · 2026",
+    "lead_html": "Two years with a Schedule. <em>SAM lapsed. The RFQ walked.</em>",
+    "rows": [
+      { "when": "Months 01–24", "what_html": "<strong>Schedule active, SAM registered</strong> <span class='light'>— waiting for the right federal opportunity</span>" },
+      { "when": "The Call", "what_html": "<strong>Inbound RFQ from an agency CO</strong> <span class='light'>— found through SAM.gov market research</span>" },
+      { "when": "Three Days Later", "what_html": "<strong>Registration flagged as lapsed</strong> <span class='light'>— expired 3 weeks prior, CO moved on</span>" }
+    ],
+    "closer": "THE REGISTRATION EXPIRED. THE OPPORTUNITY DIDN'T WAIT."
+  },
+  "image_headline": "REGISTRATION EXPIRED. OPPORTUNITY GONE.",
+  "image_prompt": "Infographic story layout. Forest green and amber color palette, cream background, Sora typeface. Left side: illustrated professional man on a phone at his desk, expression shifting from hopeful to concerned, suit jacket. Right side: a vertical 3-step timeline path — clock icon labeled 'SCHEDULE ACTIVE', envelope icon labeled 'RFQ ARRIVES', red X icon labeled 'SAM LAPSED'. Bold headline centered at top: 'REGISTRATION EXPIRED'. Amber highlighted callout box with short phrase 'NO GRACE PERIOD'. Clean professional illustration style. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": ""
+}
