@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Field Note",
+    "headline_html": "YOU DON'T<br>NEED THEIR<br><span class='accent'>HISTORY.</span>",
+    "sub": "Nearly every first call hits the same wall. But teaming agreements exist for exactly this moment.",
+    "issue": "No. 031",
+    "image_headline": "THE PAST PERFORMANCE WALL HAS A DOOR",
+    "image_prompt": "Infographic story layout. Dark navy background with forest green and amber accent colors (William theme), Sora typeface. Bold headline top: 'THE PAST PERFORMANCE WALL HAS A DOOR'. Left side: illustrated professional man in business casual wearing a headset, warm confident expression. Right side: simple two-path flowchart with arrows — Path 1 red X short label 'NO HISTORY' hitting a solid wall, Path 2 green arrow short label 'TEAMING' going around the wall through a door icon short label 'FEDERAL AWARD'. Callout box: 'FIND A PRIME. BRING THE WORK.' Clean professional illustration style. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written to `drafts/william/2026-07-24/`. Here's the summary:
+
+---
+
+**Today's post — William Hill · 2026-07-24**
+
+| Field | Value |
+|---|---|
+| post_type | `inspiration` |
+| topic | `teaming` |
+| hook_pattern | `question` |
+| template | `single-01-bold` (dark navy) |
+| word_count | 134 |
+
+**Post angle:** The "we don't have past performance yet" wall — what William hears on almost every first call — reframed through teaming agreements as the practical path in. Short, conversational, no bullets. Opens with "Before you cross federal contracts off your list..." and closes with a personal question designed to surface comment-worthy stories.
+
+**Rotation logic:**
+- `inspiration` avoids William's last 3 types (personal_story, tips_list, hot_take)
+- `teaming` is a William priority topic, last used 07/17 (7 days clear)
+- `pricing` blocked by Josh today; `sam`/`gsa_basics`/`myths`/`pipeline` all blocked by recency
+- Dark navy template contrasts last 2 cream posts
+- `question` hook is William-preferred, not used since 07/22 (non-consecutive)
