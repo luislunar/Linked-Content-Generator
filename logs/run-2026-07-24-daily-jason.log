@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of what was generated for Jason today:
+
+---
+
+**`drafts/jason/2026-07-24/`**
+
+**Post type:** `hot_take` | **Topic:** `certifications` | **Hook:** `contrarian`
+
+The post opens with the wrong assumption ("all certs are created equal"), immediately flips it, then ranks the four main set-aside certifications by actual federal impact — SDVOSB → 8(a) → WOSB/EDWOSB → HUBZone — with the rationale for each ranking. Closes with Jason's line: "Certification opens the door. It doesn't ring the doorbell." Community question asks which cert they're pursuing and whether they've mapped agency set-aside history.
+
+**Rotation decisions:**
+- `tips_list`, `client_story`, `milestone` were Jason's last 3 types → used `hot_take`
+- `pricing` (Josh today) and `teaming` (William today) excluded → `certifications` (Jason priority topic, not used in 5+ days)
+- Yesterday's hook was `question` → switched to `contrarian`
+- Template `single-02-numbered` (cream bg, 4-item ranking): distinct from Josh's `single-05-beforeafter` (cream/navy split) and William's `single-01-bold` (dark navy)

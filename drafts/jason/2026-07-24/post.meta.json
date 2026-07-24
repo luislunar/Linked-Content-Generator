@@ -1,0 +1,37 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Cert Ranking",
+    "index": "Vol. 04 · Certifications",
+    "headline_html": "Four certs ranked by <span class='accent'>actual federal impact.</span>",
+    "items": [
+      {
+        "num": "01",
+        "title": "SDVOSB",
+        "desc": "Highest ROI if you qualify. VA/DoD set-asides run deep, verification is cleaner now. Apply immediately."
+      },
+      {
+        "num": "02",
+        "title": "8(a)",
+        "desc": "Nine years of prioritized access. Painful application — no cert gives more runway to build past performance."
+      },
+      {
+        "num": "03",
+        "title": "WOSB / EDWOSB",
+        "desc": "Effective in the right NAICS codes. Pull your target agencies' set-aside history before you invest."
+      },
+      {
+        "num": "04",
+        "title": "HUBZone",
+        "desc": "Real impact in specific regions and sectors. Often oversold everywhere else — run the research first."
+      }
+    ],
+    "image_headline": "FOUR CERTS, RANKED BY REAL IMPACT",
+    "image_prompt": "Infographic numbered breakdown layout. Cream/off-white background with dark navy and cian accent colors, Space Grotesk typeface. Bold headline top: 'FOUR CERTS, RANKED BY REAL IMPACT'. Four numbered rows stacked vertically: row 01 label 'SDVOSB' with solid cian bar right-aligned labeled 'HIGH IMPACT'; row 02 label '8(A)' with solid cian bar labeled 'HIGH IMPACT'; row 03 label 'WOSB/EDWOSB' with shorter amber bar labeled 'SITUATIONAL'; row 04 label 'HUBZONE' with shorter amber bar labeled 'SITUATIONAL'. Illustrated professional man in business attire pointing confidently at the ranked list. Small callout box with label 'KNOW YOUR AGENCIES'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
