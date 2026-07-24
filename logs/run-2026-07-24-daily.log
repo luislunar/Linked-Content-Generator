@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's run:
+
+**Post type:** `client_story` — blocked types were hot_take / inspiration / tips_list (last 3 days); client_story was overdue.
+
+**Topic:** `pricing` — teaming, certifications, sam, myths, pipeline all used in the last 5 days.
+
+**Hook:** `story` — required because the last 3 hooks were all statements (contrarian / truth / alert).
+
+**Template:** `single-05-beforeafter` (cream background) — fits the before/after arc of the story and balances the recent dark-bg templates.
+
+**The post:** A business owner three months into her GSA prep had her rate card built on commercial instinct — no Basis of Award docs, no Schedule comparison. We caught it, did a pricing audit, rebuilt before submission. Nine months later: first federal award, margins intact. Closes with an experience-share question about what surprised people most.
+
+**Files written:**
+- `drafts/2026-07-24/post.md` (213 words)
+- `drafts/2026-07-24/post.meta.json`
+- `drafts/2026-07-24/hypothesis.md`
+- `logs/run-2026-07-24.md`

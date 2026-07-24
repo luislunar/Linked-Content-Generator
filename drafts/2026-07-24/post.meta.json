@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pricing",
+  "hook_pattern": "story",
+  "format": "prose",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pricing Audit",
+    "case_num": "Case · 031",
+    "headline_html": "What the <span class='accent'>pricing fix</span> actually protected.",
+    "before_items": [
+      "Gut-feel GSA rates",
+      "No Basis of Award docs",
+      "Margins locked in wrong"
+    ],
+    "after_items": [
+      "Audited rate structure",
+      "Competitive on Schedule",
+      "First award, margins intact"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "PRICING IS WHERE FEDERAL WINS ARE LOST",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold red label 'BEFORE' with red X icon. Three 2-word labels in white: 'GUT-FEEL RATES', 'NO BASIS DOCS', 'WRONG MARGINS'. Right panel cream/white, bold green label 'AFTER' with green checkmarks. Three 2-word labels in dark text: 'AUDITED RATES', 'SCHEDULE-READY', 'MARGINS INTACT'. Center: illustrated professional woman in blazer reviewing a rate sheet. Bold headline top: 'PRICING IS WHERE FEDERAL WINS ARE LOST'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
