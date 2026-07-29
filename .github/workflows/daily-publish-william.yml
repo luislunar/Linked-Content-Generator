@@ -42,7 +42,7 @@ jobs:
         if: steps.guard.outputs.ready == 'true'
         run: |
           pip install requests playwright
-          npx playwright install --with-deps chromium
+          python -m playwright install --with-deps chromium
           npm install -g @anthropic-ai/claude-code
 
       - name: Generate draft (skip if already exists)

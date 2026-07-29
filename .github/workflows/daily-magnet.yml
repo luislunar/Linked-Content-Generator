@@ -1,0 +1,60 @@
+name: Daily magnet draft
+
+on:
+  schedule:
+    # 11:00 UTC = 06:00 America/New_York during EST, 07:00 during EDT. Adjust if needed.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+      NOTION_POSTS_DB_ID: ${{ secrets.NOTION_POSTS_DB_ID }}
+      NOTION_EXPERIMENTS_DB_ID: ${{ secrets.NOTION_EXPERIMENTS_DB_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Python deps
+        run: pip install requests
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Run daily generator
+        run: ./scripts/run-claude.sh daily
+
+      - name: Create branch + PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          BRANCH="draft/$DATE"
+          git config user.name "linked-content-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add drafts/ logs/
+          if git diff --cached --quiet; then
+            echo "no draft produced"; exit 1
+          fi
+          git commit -m "draft: $DATE daily magnet"
+          git push -u origin "$BRANCH"
+          BODY=$(cat drafts/$DATE/post.md 2>/dev/null || echo "(post.md missing)")
+          gh pr create \
+            --title "Draft: $DATE daily magnet" \
+            --body "$(printf '## LinkedIn post\n\n```\n%s\n```\n\n## Hypothesis\n\n%s\n\nMerge to publish via Blotato.\n' "$BODY" "$(cat drafts/$DATE/hypothesis.md 2>/dev/null)")" \
+            --base main --head "$BRANCH"
