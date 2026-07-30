@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of what was produced in `drafts/jason/2026-07-30/`:
+
+**Post type:** `inspiration` (115 words)
+**Topic:** `myths` — Jason's 2x/week priority, 9 days since last use
+**Hook:** `myth-bust` — opens by naming the exact objection ("you need prior federal contracts") then dismantles it
+**Template:** `single-03-quote` (cream) — required after two consecutive dark templates
+
+**Pull quote on card:** *"Past federal work isn't the door — the Schedule is."*
+
+**Uniqueness check passed:**
+- Josh today: `milestone` / `pipeline` / `blunt` / `single-04-stat`
+- William today: `client_story` / `certifications` / `story` / `single-05-beforeafter`
+- Jason: completely distinct on all four dimensions
+
+**Cadence rules met:** cream template (broke dark streak), shorter word count (after 221/162/183 avg ≈ 189), `myth-bust` hook not used since 7/21.

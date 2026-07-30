@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Myth Dispatch",
+    "index": "No. 08 · Myths",
+    "quote_html": "Past federal work isn't the door — <em>the Schedule is.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes"
+  },
+  "image_headline": "NO PAST FEDERAL WORK REQUIRED",
+  "image_prompt": "Split-panel infographic. Dark carbon-black background overall. Left panel: muted dark zone, bold white label 'THE MYTH' with a red X icon. Single short myth label below in off-white: 'PRIOR CONTRACTS NEEDED'. Dividing line center with a subtle arrow pointing right. Right panel: bright cyan accent zone, bold dark-navy label 'THE REALITY' with green checkmark icon. Three short reality labels stacked in dark navy: '2 YRS IN BUSINESS', 'SAM.GOV ACTIVE', 'COMMERCIAL REVENUE'. Center bottom: illustrated professional man in dark blazer, arms crossed, confident stance, standing between the two panels facing viewer. Bold headline centered at top in white uppercase: 'NO PAST FEDERAL WORK REQUIRED'. Small callout box lower-right with cyan fill and dark text: 'SCHEDULE = THE DOOR'. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
