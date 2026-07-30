@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files created. Here's the run summary:
+
+---
+
+**Post type:** `client_story` · **Topic:** `certifications` · **Hook:** `story`
+
+**The post** opens with a specific call — a woman-owned construction firm who'd been sitting on her GSA Schedule application for four months, waiting for WOSB certification to clear first. William walks through three bullet points explaining why that sequence is wrong (certifications and the Schedule are parallel, not sequential), then closes with the outcome: her Schedule was approved *before* her WOSB came through. CTA asks readers to name the cert they're pursuing and whether they're using it as a gate.
+
+**Rotation logic:**
+- Josh took milestone/pipeline/blunt today → both blocked for William
+- Last 3 William types (inspiration, personal_story, tips_list) all avoided
+- `certifications` not used in any recent William log; not used by Josh today (07/22 was 8 days ago)
+- `story` hook breaks from 07/24's `question`; format `bullets` breaks two consecutive `story` posts
+- Template `single-05-beforeafter` (cream+navy split) contrasts last two cards

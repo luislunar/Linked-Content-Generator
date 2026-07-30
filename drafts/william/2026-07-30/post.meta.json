@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "certifications",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Parallel Path",
+    "case_num": "Case · 048",
+    "headline_html": "The cert and the Schedule <span class='accent'>don't wait</span> for each other.",
+    "before_items": [
+      "WOSB pending, Schedule on hold",
+      "4+ months with zero pipeline",
+      "Waiting to look 'stronger'"
+    ],
+    "after_items": [
+      "Schedule started that same week",
+      "Approved before the cert landed",
+      "Pipeline building the whole time"
+    ],
+    "footer_left": "One Real Shift",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "CERTIFICATIONS DON'T BLOCK YOUR SCHEDULE",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE WAIT' with red X icon at top. Three 2-3 word labels stacked below: 'CERT PENDING', 'SCHEDULE PAUSED', 'NO PIPELINE'. Right panel cream/white, bold label 'PARALLEL PATH' with green checkmark icon at top. Three 2-3 word labels stacked: 'BOTH RUNNING', 'SCHEDULE APPROVED', 'PIPELINE ACTIVE'. Center: illustrated professional woman in blazer stepping forward from dark left panel into light right panel. Bold headline centered at top: 'CERTIFICATIONS DON'T BLOCK YOUR SCHEDULE'. Small callout box on right side: 'RUN THEM TOGETHER'. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
