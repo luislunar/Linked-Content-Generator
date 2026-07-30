@@ -1,14 +1,19 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for 2026-07-30:
+Done. Here's what was generated for **2026-07-30**:
 
-**post_type:** `milestone` — not used in any of the last 5 logged runs  
-**topic:** `pipeline` — clear of the 5-day rotation (last 5 were pricing, teaming, certifications, sam, myths)  
-**hook:** `blunt` — leads with the raw number, no warmup  
-**template:** `single-04-stat` (dark navy, big number card)  
-**data used:** $13.1B small business awards Q2 2026 from `govcon-data-2026-07-27.md`; credited `Source · USAspending.gov` on the card
+---
 
-**Files written:**
-- `drafts/2026-07-30/post.md` — ~194 words, 3-paragraph prose + community question
-- `drafts/2026-07-30/post.meta.json` — full template_data for render-card.py, image_headline, image_prompt
-- `drafts/2026-07-30/hypothesis.md` — explains what's being tested and why
-- `logs/run-2026-07-30.md` — rotation log for tomorrow's agent
+**Post type:** `personal_story`
+**Topic:** `gsa_basics`
+**Hook:** `truth` — opens with "Nobody talks about the call that almost ends the engagement."
+**Template:** `single-07-story` (cream serif, 3-row timeline)
+**Word count:** ~314 (within 200–400 range)
+**Format:** prose narrative arc, no bullets
+
+**Rotation rationale:**
+- `milestone`, `client_story`, `hot_take` used in last 3 days → `personal_story` was clear
+- Only `pipeline` used within 5-day topic window → `gsa_basics` was open
+- Last 3 hooks: `blunt`, `story`, `contrarian` → `truth` was unused and fit the angle
+- Last 2 templates were dark (`single-04`) + cream (`single-05`) → `single-07` (cream) maintains visual variety
+
+**Central argument:** Most small businesses don't have a qualification problem — they have a decision problem. The self-doubt call that arrives at week 3 is the real barrier, not the paperwork. Designed to drive comments from owners currently on the fence.

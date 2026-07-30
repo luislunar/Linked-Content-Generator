@@ -1,19 +1,21 @@
 {
-  "post_type": "milestone",
-  "topic": "pipeline",
-  "hook_pattern": "blunt",
-  "format": "prose",
-  "template": "single-04-stat",
+  "post_type": "personal_story",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
   "template_data": {
-    "section_label": "Federal Market",
-    "snapshot": "Snapshot · Q2 2026",
-    "label_above": "Small business federal awards, Q2 2026",
-    "big_number_html": "$<span class='accent'>13.1B</span>",
-    "context_html": "Small businesses captured <strong>$13.1B in one quarter</strong> — the barrier isn't the odds. <em>It's visibility.</em>",
-    "source": "Source · USAspending.gov",
-    "by_line": "By the Numbers"
+    "section_label": "Field Report",
+    "year_client": "Year 18 · Pattern 001",
+    "lead_html": "The call that <em>almost ends the engagement</em> — it's never about the paperwork.",
+    "rows": [
+      { "when": "Week 01–02", "what_html": "<strong>Documents in, momentum building</strong> <span class='light'>— client engaged, application moving forward</span>" },
+      { "when": "Week 03", "what_html": "<strong>'Maybe I should wait'</strong> <span class='light'>— the doubt call, nearly every single time</span>" },
+      { "when": "The turn", "what_html": "<strong>Decision over readiness</strong> <span class='light'>— those who push through build real pipelines</span>" }
+    ],
+    "closer": "MOST BUSINESSES DON'T HAVE A QUALIFICATION PROBLEM."
   },
-  "image_headline": "$13.1B IN ONE QUARTER. ARE YOU IN THE PIPELINE?",
-  "image_prompt": "Infographic stat layout. Dark navy background. Massive bold number '$13.1B' in coral accent color, centered prominently. Label above in white: 'SMALL BUSINESS AWARDS Q2 2026'. Smaller white label below number: 'ONE QUARTER'. Right side: illustrated professional business owner in blazer reviewing a laptop showing a contract pipeline dashboard. Bottom strip dark navy with white callout: 'VISIBILITY IS THE BARRIER'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "image_headline": "THE DOOR WAS OPEN ALL ALONG",
+  "image_prompt": "Infographic story layout. Cream background. Left side: illustrated professional business owner in blazer standing confidently at an open doorway with light streaming through. Center: three-row vertical timeline with bold labels '01 MOMENTUM', '02 THE DOUBT', '03 DECISION', each with a 2-3 word dark-text descriptor beside it. Right callout box in dark navy with white text: 'DECIDE YOU BELONG'. Bold headline at top: 'THE DOOR WAS OPEN ALL ALONG'. Footer text: 'Josh Ladick · GSA Focus'.",
   "experiment_id": null
 }

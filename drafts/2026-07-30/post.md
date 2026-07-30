@@ -1,17 +1,13 @@
-$13.1 billion.
+Nobody talks about the call that almost ends the engagement.
 
-That's what small businesses received in federal contracts in a single quarter — Q2 2026. Not the year. One quarter.
+It usually happens around week 3. The client has submitted their documents, we've completed the pricing audit, and we're deep into the Schedule application. Then the voicemail: "I'm not sure I'm ready for this. Maybe I should wait until we're bigger." I've gotten that call dozens of times in 18 years. And I understand it — the federal market looks enormous from the outside, like something built for Booz Allen and Leidos, not for a $3M IT shop in Phoenix or a 14-person consulting firm in Virginia.
 
-I talk to business owners every week who assume the federal market belongs to Booz Allen and Lockheed. The data doesn't agree. Small businesses captured $13.1B in Q2 alone — across IT, construction, consulting, engineering, and facility management. The Department of Defense awarded $8.2B to small businesses in that window. The VA awarded another $3.6B.
+Here's what I've learned after doing this for nearly two decades: the doubt is almost never about the business. The business is usually ready. The eligibility bar for a GSA Schedule is concrete — two years in business, documented past performance, a clean SAM.gov registration, and a relevant service or product. Most owners who call me saying "I don't think I qualify" actually qualify. They've just never seen someone who looks like them on the other side of a federal award.
 
-The government has mandated small business spending goals. They are legally required to route a percentage of every contract dollar to companies your size. The barrier isn't access — it's visibility. GSA Schedule on file. SAM.gov current. The right NAICS codes registered. An active pipeline of RFQs you're actually responding to.
+The clients who push through that call are the ones who build real pipelines. Not because the process gets easier — because they stopped waiting to feel ready. The GSA Schedule doesn't make you a winner. It makes you visible. The proposals, the relationships, the awards — those come from showing up consistently. But you can't show up if you're standing at the starting line waiting for permission that was never coming.
 
-Most small businesses that "can't break into federal" aren't locked out. They're just invisible when the awards are made.
+Most small businesses don't have a qualification problem. They have a decision problem.
 
-The money is real. The pipeline is real. The question is whether your company shows up when it counts.
+What's the story you've been telling yourself about why your company isn't ready for federal contracting? Genuinely curious how many of those reasons hold up under scrutiny.
 
-What's the one thing holding your company back from pursuing federal contracts right now?
-
-Source · USAspending.gov
-
-#govcon #gsa #federalcontracting #smallbusiness #pipeline
+#govcon #gsa #smallbusiness #federalcontracting
