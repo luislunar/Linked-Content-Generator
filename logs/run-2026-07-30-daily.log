@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for 2026-07-30:
+
+**post_type:** `milestone` — not used in any of the last 5 logged runs  
+**topic:** `pipeline` — clear of the 5-day rotation (last 5 were pricing, teaming, certifications, sam, myths)  
+**hook:** `blunt` — leads with the raw number, no warmup  
+**template:** `single-04-stat` (dark navy, big number card)  
+**data used:** $13.1B small business awards Q2 2026 from `govcon-data-2026-07-27.md`; credited `Source · USAspending.gov` on the card
+
+**Files written:**
+- `drafts/2026-07-30/post.md` — ~194 words, 3-paragraph prose + community question
+- `drafts/2026-07-30/post.meta.json` — full template_data for render-card.py, image_headline, image_prompt
+- `drafts/2026-07-30/hypothesis.md` — explains what's being tested and why
+- `logs/run-2026-07-30.md` — rotation log for tomorrow's agent

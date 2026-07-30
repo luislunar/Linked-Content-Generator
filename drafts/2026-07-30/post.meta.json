@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "Small business federal awards, Q2 2026",
+    "big_number_html": "$<span class='accent'>13.1B</span>",
+    "context_html": "Small businesses captured <strong>$13.1B in one quarter</strong> — the barrier isn't the odds. <em>It's visibility.</em>",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "image_headline": "$13.1B IN ONE QUARTER. ARE YOU IN THE PIPELINE?",
+  "image_prompt": "Infographic stat layout. Dark navy background. Massive bold number '$13.1B' in coral accent color, centered prominently. Label above in white: 'SMALL BUSINESS AWARDS Q2 2026'. Smaller white label below number: 'ONE QUARTER'. Right side: illustrated professional business owner in blazer reviewing a laptop showing a contract pipeline dashboard. Bottom strip dark navy with white callout: 'VISIBILITY IS THE BARRIER'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
