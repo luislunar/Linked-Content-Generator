@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+**`drafts/jason/2026-07-31/`**
+
+- **Type:** `milestone` / **Topic:** `gsa_basics` / **Hook:** `blunt`
+- **Template:** `single-04-stat` — big number card in Jason's dark charcoal + cyan theme
+
+**Post angle:** Uses the Q2 2026 USAspending.gov figure ($13.1B to small businesses in top 8 industries in a single quarter) to kill the "federal market is for big players" objection — Jason's core move. Six `→` bullets showing where the money went by industry, followed by the hard truth ("You're not waiting to get big enough. You're waiting on a decision."), then a specific community question asking which industry they're in.
+
+**Uniqueness checks passed:**
+- Topic/type/hook differ from Josh (`sam`/`tips_list`/`checklist`) and William (`pipeline`/`behind_scenes`/`truth`)
+- No figure overlap — neither Josh nor William used govcon data today
+- Hook differs from Jason's yesterday (`myth-bust` → `blunt`)
+- Opens differently than yesterday (number statement vs. myth statement)

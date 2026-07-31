@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "gsa_basics",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Q2 2026 · Small Business",
+    "label_above": "Top-8 industries, small business awards, Q2 2026",
+    "big_number_html": "$<span class='accent'>13.1B</span>",
+    "context_html": "In <strong>one quarter</strong>. Eight industries. Companies that look exactly like your business.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "image_headline": "ONE QUARTER. $13.1B. SMALL BUSINESS.",
+  "image_prompt": "Bold stat infographic, dark charcoal background. Dominant center: oversized number '$13.1B' in bright cyan, subtitle below in small caps 'Q2 2026 · SMALL BUSINESS AWARDS'. Short section label 'FEDERAL MARKET' in top-left small caps. Below the number: a horizontal row of three short industry labels with small green dollar icons — 'IT SERVICES', 'CONSTRUCTION', 'CONSULTING'. Right side: illustrated professional in smart business casual pointing confidently toward the large stat display. Bold white headline across the top: 'ONE QUARTER. $13.1B. SMALL BUSINESS.' Bottom strip: dark charcoal with 'Source · USAspending.gov' in small white text. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
