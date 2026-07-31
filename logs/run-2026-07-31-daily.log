@@ -1,19 +1,25 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the run summary for **2026-07-31**:
+Today's post for Josh Ladick was already generated and committed in the last commit ("publish: 2026-07-31 daily post"). The drafts are complete and there's nothing left to produce. Here's the summary of what was generated:
 
 ---
 
-**post_type:** `tips_list` — blocked types were milestone, client_story, hot_take (last 3 Josh runs)  
-**topic:** `sam` — pipeline blocked (07/30); sam last used 12+ days ago  
-**hook_pattern:** `checklist` — "honest check" opener breaks the blunt/story/contrarian streak; avoids blunt (used yesterday)  
-**format:** numbered (breaks 3-consecutive prose streak)  
-**template:** `single-06-checklist` (dark navy) — last 2 templates were mixed dark/cream, no restriction  
-**word_count:** 229 (within 150–280 range for tips_list)
+**Run: 2026-07-31 — Josh Ladick (GSA Focus)**
 
-**The post:** Opens with Josh's signature "Be honest. 😅" honest-check hook asking when the reader last reviewed their SAM.gov registration. Five numbered audit items — expiration date, NAICS codes, points of contact, banking/EFT info, exclusions status. Closes with a numbered-choice community question that lowers the barrier to comment.
+| Field | Value |
+|---|---|
+| `post_type` | `tips_list` |
+| `topic` | `sam` |
+| `hook_pattern` | `checklist` |
+| `format` | `checklist` |
+| `template` | `single-06-checklist` |
+| `word_count` | 229 |
 
-**Files written:**
-- `drafts/2026-07-31/post.md` — 229 words, numbered checklist format
-- `drafts/2026-07-31/post.meta.json` — full template_data for render-card.py, image_headline, image_prompt
-- `drafts/2026-07-31/hypothesis.md` — tests checklist hook + numbered format on sam topic for comment lift
-- `logs/run-2026-07-31.md` — rotation log for tomorrow's agent
+**Hook:** *"When did you last open your SAM.gov registration and actually review it? Be honest. 😅"*
+
+**5 audit items:** Expiration date · NAICS codes · Points of contact · Banking & EFT info · Exclusions status
+
+**Card:** rendered to `drafts/2026-07-31/card.jpg` via `single-06-checklist` template — dark navy checklist layout, headline "Five checks most businesses never run."
+
+**Community question:** *"Which of these five have you actually verified this year — or is your SAM.gov running on autopilot?"*
+
+The only uncommitted change is `logs/run-2026-07-31-daily.log`, which contains only a workspace permissions warning from the runner environment — no agent output to persist there. Today's run is complete.
