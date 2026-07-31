@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Discovery Call · Pipeline",
+    "lead_html": "Nobody warns you: <em>federal pipeline starts before your Schedule does.</em>",
+    "rows": [
+      { "when": "Min 01–05", "what_html": "<strong>The prospect's plan</strong> <span class='light'>— show up on SAM.gov and start applying for work</span>" },
+      { "when": "Min 06–25", "what_html": "<strong>The reality</strong> <span class='light'>— sources sought, agency forecasts, 6–18 month lead time</span>" },
+      { "when": "After call", "what_html": "<strong>The shift</strong> <span class='light'>— Schedule becomes a starting block, not a finish line</span>" }
+    ],
+    "closer": "THE PIPELINE STARTS BEFORE THE SCHEDULE."
+  },
+  "image_headline": "FEDERAL PIPELINE STARTS BEFORE YOU WIN",
+  "image_prompt": "Infographic story layout. Cream background. Left side: illustrated professional man in business casual on a phone call, notepad open, actively listening. Right side: three-step vertical timeline with milestone icons — label 'THE PLAN' in dark navy, label 'REALITY CHECK' in amber, label 'THE SHIFT' in forest green. Bold headline at top: 'FEDERAL PIPELINE STARTS BEFORE YOU WIN'. One highlighted callout box with short phrase: 'SOURCES SOUGHT'. Bottom dark navy footer banner. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}

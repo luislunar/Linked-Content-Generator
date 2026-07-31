@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **William Hill · 2026-07-31**:
+
+---
+
+**Post type:** `behind_scenes` — not used in William's last 3 days (client_story, inspiration, personal_story); not used by Josh today (tips_list)
+
+**Topic:** `pipeline` — William's highest-priority rotation (2x/week), last used 11+ days ago. SAM blocked by Josh today; certifications blocked by yesterday's William post.
+
+**Hook:** `truth` — "Nobody talks about the moment a business owner realizes federal pipeline isn't like their commercial pipeline." Avoids story (used 07/30) and question (used 07/24).
+
+**Format:** story, no bullets — breaks from yesterday's bullet format. 172 words, meeting the sub-180 ceiling (last 3 posts averaged 200+ words).
+
+**Template:** `single-07-story` (cream + serif) — contrasts yesterday's cream/navy split and 07/24's dark navy.
+
+**Angle:** A construction company owner's assumption on a discovery call — "I'll just show up on SAM and apply" — becomes a 20-minute reframe around sources sought, industry days, and the 6–18 month pipeline lead time. The Schedule is the starting block, not the finish line.
+
+**Files created:**
+- `drafts/william/2026-07-31/post.md`
+- `drafts/william/2026-07-31/post.meta.json`
+- `drafts/william/2026-07-31/hypothesis.md`
+- `logs/william/run-2026-07-31.md`
