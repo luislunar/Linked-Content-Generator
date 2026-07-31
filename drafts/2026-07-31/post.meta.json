@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "checklist",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM.gov Audit",
+    "module": "Module 05 · SAM",
+    "headline_html": "Five checks most businesses <span class='accent'>never</span> run.",
+    "items": [
+      { "title": "Expiration date", "sub": "Annual renewal required — lapse freezes all active payments" },
+      { "title": "NAICS codes", "sub": "Match what you sell today, not what you filed in year one" },
+      { "title": "Points of contact", "sub": "Stale emails mean missed solicitations" },
+      { "title": "Banking and EFT info", "sub": "One wrong routing digit delays payments indefinitely" },
+      { "title": "Exclusions status", "sub": "Most companies flagged here don't know until a CO catches it" }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "SAM.GOV IS LIVE. IS YOURS CURRENT?",
+  "image_prompt": "Infographic alert layout. Dark navy background. Bold warning headline top: 'SAM.GOV IS LIVE. IS YOURS CURRENT?' with yellow caution icon. Left column: illustrated professional in blazer holding a clipboard and reviewing a laptop screen. Right column: 5 checklist rows, each with a green checkmark and a short 2-3 word label: 'EXPIRATION DATE', 'NAICS CODES', 'KEY CONTACTS', 'BANK INFO', 'EXCLUSION CHECK'. Bottom dark navy banner with white callout text: '20 MINUTES NOW'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
