@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Contrarian Take",
+    "index": "No. 031 · Vehicles",
+    "quote_html": "The vehicle doesn't win contracts. <em>Your positioning does.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "BEST VEHICLE? THE ONE YOU USE.",
+    "image_prompt": "Cream-background pull-quote infographic. Bold serif headline top-center: 'BEST VEHICLE? THE ONE YOU USE.' centered in dark navy. Center: illustrated professional man in blazer standing at a crossroads sign — one arrow labeled 'OASIS+', one 'SEWP', one 'GSA MAS'. He faces toward 'GSA MAS'. Left side: two-word label 'WRONG FOCUS' with a faint red X. Right side: two-word label 'RIGHT START' with a green checkmark. Bottom accent bar in dark navy. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

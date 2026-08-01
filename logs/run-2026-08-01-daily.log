@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the run summary for **2026-08-01**:
+
+---
+
+**post_type:** `inspiration` — blocked types were `tips_list` (07-31) and `milestone` (07-30); length rule required sub-180 words; inspiration at 148 words hits perfectly.
+
+**topic:** `vehicles` — clear of the 5-day rotation (last 5: sam, pipeline, pricing, teaming, certifications).
+
+**hook_pattern:** `contrarian` — breaks the checklist/blunt streak from prior 2 days; opens by mirroring the ICP's own question, then pivoting with "Wrong question."
+
+**template:** `single-03-quote` (cream bg) — required since last 2 templates were both dark-bg (single-06, single-04); cream pull-quote card fits the short inspirational format.
+
+**format:** prose, no bullets — varies from yesterday's numbered checklist.
+
+**word_count:** 148 (within 50–150 range for inspiration).
+
+**The post:** Reframes the "which vehicle is best?" obsession that stops small businesses from moving. Core argument: the vehicle doesn't win contracts — positioning, relationships, and pipeline discipline do. GSA MAS framed as the accessible on-ramp, not the ultimate destination. Closes with a self-disclosure question targeting the "waiting to feel ready" hesitation.
+
+**Files written:**
+- `drafts/2026-08-01/post.md` — 148 words, prose, no bullets
+- `drafts/2026-08-01/post.meta.json` — full template_data for render-card.py (single-03-quote), image_headline, image_prompt
+- `drafts/2026-08-01/hypothesis.md` — tests contrarian hook + sub-150 prose on vehicles topic for reaction and comment lift
+- `logs/run-2026-08-01.md` — rotation log for tomorrow's agent
