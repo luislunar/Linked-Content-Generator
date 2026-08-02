@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Run complete. Here's what was produced:
+
+**Post type:** `inspiration` · **Topic:** `gsa_basics` · **Template:** `single-03-quote` (cream)
+
+**The post** opens with a truth hook — "Nobody talks enough about how ready the federal market already is" — anchored by the Q2 2026 $13.1B figure from govcon-data (credited to USAspending.gov). It closes with the distilled insight: *"The market isn't the obstacle. The on-ramp is."* followed by a specific community question about what's actually blocking readers from going federal.
+
+**Rotation rationale:**
+- `inspiration` breaks a tips_list → milestone run; `single-03-quote` (cream) breaks a two-dark-bg streak
+- 118 words satisfies the mandatory under-180 constraint (last 3 posts averaged 212 words)
+- `truth` hook contrasts with yesterday's `checklist` and Thursday's `blunt`
+- `gsa_basics` hasn't appeared in logs within the last 5 days; $13.1B figure unused by other profiles today
+
+Files written to `drafts/2026-08-02/` and run logged to `logs/run-2026-08-02.md`.

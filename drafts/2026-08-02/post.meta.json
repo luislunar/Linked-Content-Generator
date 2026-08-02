@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · GSA Basics",
+    "quote_html": "The market isn't the obstacle. <em>The on-ramp is.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE MARKET IS READY. ARE YOU?",
+    "image_prompt": "Clean cream-background pull-quote card layout. Left dark navy accent stripe. Centered large serif quote: 'MARKET ISN'T THE OBSTACLE'. Small bottom stat callout box: '$13.1B · Q2 SMALL BIZ'. Illustrated small business professional to the right, confident posture, looking forward. Minimal whitespace layout. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
