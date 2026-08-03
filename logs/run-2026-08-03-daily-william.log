@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's what was produced for **William Hill — 2026-08-03**:
+
+---
+
+**Post type:** `tips_list` · **Topic:** `sam` · **Hook:** `question` · **Template:** `single-06-checklist` (dark navy)
+
+**Rotation logic:**
+- Blocked post types (last 3 William days): `behind_scenes`, `client_story`, `inspiration` — `tips_list` last used 12 days ago ✓
+- `behind_scenes` also blocked by Josh today
+- Blocked topics: `pipeline` (William 07/31), `certifications` (William 07/30), `compliance` (Josh today)
+- `sam` last used by William 07/23 (11 days ago), no same-day conflict ✓
+- Hook: `truth` used 07/31 → avoided; `question` last used 07/24 ✓
+- Template color: last 2 William templates were cream-bg → dark navy is valid today ✓
+- Word count 246 — inside `tips_list` range (150–280), no length-cap constraint triggered
+
+**Post angle:** The five SAM.gov profile gaps William finds most often on discovery calls — expired registration, wrong NAICS codes, entity name mismatch, missing government POC, and unreviewed Reps & Certs — framed as a practical "before you apply" self-audit. Two-part CTA ("when did you last check? what did you find?") designed to pull specific comments rather than generic reactions. Data file reviewed; Q2 figures not used — SAM registration errors are call-observation-based and stat insertion would dilute the conversational voice.

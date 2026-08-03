@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM Audit",
+    "module": "Module 01 · Registration",
+    "headline_html": "Five SAM errors <span class='accent'>hiding</span> in plain sight.",
+    "items": [
+      { "title": "Annual registration lapsed", "sub": "Goes inactive quietly — blocks every award and payment" },
+      { "title": "NAICS codes mismatched", "sub": "Wrong primary code makes you invisible to the right RFQs" },
+      { "title": "Entity name conflict", "sub": "Legal name vs. UEI mismatch creates a compliance flag" },
+      { "title": "No government POC listed", "sub": "A CO who can't reach you moves on to the next vendor" },
+      { "title": "Reps & Certs not reviewed", "sub": "Stale representations are a quiet compliance gap" }
+    ],
+    "footer_left": "Quick SAM Audit",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "FIVE SAM GAPS BLOCKING YOUR AWARDS",
+  "image_prompt": "Infographic checklist layout, dark navy background with forest-green and amber accents (William Hill GSA Focus brand). Bold headline at top: 'FIVE SAM GAPS BLOCKING YOUR AWARDS.' Left column: illustrated professional man in blazer at a desk, reviewing a laptop screen with a focused expression. Right column: 5 checklist rows arranged vertically, each with a red warning icon and a short 2–3 word label: 'LAPSED RENEWAL,' 'WRONG NAICS,' 'NAME MISMATCH,' 'NO POC,' 'STALE REPS.' Bottom: amber banner with short callout 'FIX BEFORE YOU APPLY.' Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
