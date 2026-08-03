@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "compliance",
+  "hook_pattern": "alert",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Q2 2026 · Compliance Audit",
+    "lead_html": "The hard part isn't <em>getting</em> the Schedule — it's <em>keeping</em> it clean.",
+    "rows": [
+      {
+        "when": "Step 01",
+        "what_html": "<strong>Quarterly BOA review</strong> <span class='light'>— commercial prices vs. Schedule rates, side by side</span>"
+      },
+      {
+        "when": "Step 02",
+        "what_html": "<strong>Pricing gap flagged</strong> <span class='light'>— Q4 invoice changes never filed as a modification</span>"
+      },
+      {
+        "when": "Step 03",
+        "what_html": "<strong>Mod filed same day</strong> <span class='light'>— 20 minutes to catch, one business day to close</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE IS A LIVING CONTRACT."
+  },
+  "image_headline": "THE WORK NOBODY WARNS YOU ABOUT",
+  "image_prompt": "Infographic story layout, cream background with dark navy accents. Left side: illustrated professional man in blazer at a desk, reviewing a laptop screen showing a pricing spreadsheet with one row highlighted in red. Right side: vertical timeline with 3 milestone icons — bold short labels 'BOA REVIEW,' 'GAP FOUND,' 'MOD FILED' each with a small connector line. Bold headline at top: 'THE WORK NOBODY WARNS YOU ABOUT.' Small dark navy callout box: 'COMPLIANCE NEVER STOPS.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

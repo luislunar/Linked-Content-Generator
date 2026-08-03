@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run:
+
+**Post type:** `behind_scenes` — not used in last 3 days, fits the word count constraint (<180)
+**Topic:** `compliance` — clear of the 5-day repeat window
+**Hook:** `alert` — avoided yesterday's `checklist` pattern
+**Template:** `single-07-story` (cream-bg) — satisfied the "no dark-bg 3rd day in a row" rule
+**Word count:** ~160 words
+
+**The post:** A specific behind-the-scenes moment — catching a Basis of Award pricing gap in a quarterly audit spreadsheet before it became a formal compliance issue. The "twenty minutes to catch" detail creates tension against the implied price reduction clause consequence. Community question targets Schedule holders with maintenance experience, which should pull specific, shareable comments rather than generic responses.
+
+Files written to `drafts/2026-08-03/`: `post.md`, `post.meta.json`, `hypothesis.md`. Run logged to `logs/run-2026-08-03.md`.
