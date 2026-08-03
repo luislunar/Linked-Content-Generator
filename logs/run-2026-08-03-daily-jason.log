@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-08-03/`:
+
+**post_type:** `client_story` · **topic:** `pricing` · **hook_pattern:** `question` · **template:** `single-05-beforeafter`
+
+**Rotation decisions:**
+- `milestone`, `inspiration`, `hot_take` blocked (Jason's last 3 days)
+- `behind_scenes`, `tips_list` blocked (Josh + William today)
+- Last 3 Jason hooks were all statements → forced `question` hook today
+- `compliance`, `sam`, `gsa_basics`, `myths`, `certifications` all blocked by recency rules
+- Template is cream-bg (`single-05-beforeafter`) after last Jason card was dark (`single-04-stat`)
+
+**Post angle:** A company that anchored their Schedule to drifting commercial rates — classic Basis of Award mistake. They resubmitted with a proper BOA analysis and rates came in 12% higher and got approved. Closing question invites readers to share their own first-negotiation pricing mistake.

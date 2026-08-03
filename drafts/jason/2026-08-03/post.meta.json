@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pricing",
+  "hook_pattern": "question",
+  "format": "comparison",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pricing Audit",
+    "case_num": "Case · 032",
+    "headline_html": "What changes when you fix <span class='accent'>the pricing.</span>",
+    "before_items": [
+      "Rates anchored to drifting prices",
+      "BOA basis never audited",
+      "Submitted below fair market rate"
+    ],
+    "after_items": [
+      "Rates 12% higher — defensible",
+      "Clean BOA documentation",
+      "Approved on first resubmission"
+    ],
+    "footer_left": "One Real Pricing Fix",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "PRICE IT WRONG, LOSE THE RENEWAL",
+  "image_prompt": "Split-panel infographic, Space Grotesk bold typography. Left panel: dark charcoal/carbon background, bold red label 'BEFORE' top-left. Three short stacked labels in white: 'DRIFTING RATES,' 'NO BOA AUDIT,' 'BELOW MARKET.' Right panel: slightly lighter charcoal with bright cyan accents, bold cyan label 'AFTER' top-right. Three short stacked labels: '12% HIGHER RATE,' 'CLEAN BOA,' 'APPROVED.' Center divider: thin cyan vertical line. Above panels: illustrated professional man in blazer reviewing a printed document, red pen in hand crossing out a number. Bold headline at top in white Space Grotesk: 'PRICE IT WRONG, LOSE THE RENEWAL.' Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
