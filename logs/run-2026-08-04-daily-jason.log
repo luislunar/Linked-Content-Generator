@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for `drafts/jason/2026-08-04/`:
+
+**Post type:** `tips_list` — avoided last 3 Jason types (client_story, milestone, inspiration) and today's other types (hot_take, inspiration)
+
+**Topic:** `vehicles` — not used by Jason in recent rotation, not used by Josh (gsa_basics) or William (teaming) today
+
+**Hook:** `contrarian` — "Wrong question. The real one: which vehicle are your target agencies actually buying from?" — avoids yesterday's `question` hook and today's `truth`/`story` hooks from other profiles
+
+**Card:** `single-06-checklist` (dark navy) with 5 buyer-decision criteria, dark-bg contrasting with yesterday's cream `single-05-beforeafter`
+
+**Voice check:** analytical, data-driven, objection-reframing — all Jason. No founder claims, no revenue guarantees, no lead magnet CTA. Closing question is specific and invites practitioner experience.

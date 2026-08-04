@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Vehicle Check",
+    "module": "Module 05 · Vehicles",
+    "headline_html": "Ask these five before you <span class='accent'>pick a vehicle.</span>",
+    "items": [
+      { "title": "Who's buying your category?", "sub": "Research which vehicle your CO uses — not which vehicle is most popular online" },
+      { "title": "What's your typical deal size?", "sub": "Under $250K: GSA MAS. $5M+ services: look at OASIS+." },
+      { "title": "Do you have past performance?", "sub": "SEWP V and CIO-SP4 require it upfront. GSA MAS does not." },
+      { "title": "When is the next on-ramp?", "sub": "GSA MAS is open year-round. Other vehicles have periodic windows — miss one and you wait." },
+      { "title": "Can you maintain two vehicles?", "sub": "Holding multiple vehicles doubles the admin. Most small shops start with one and grow." }
+    ],
+    "footer_left": "Vehicle Quick-Check",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "WRONG QUESTION. RIGHT VEHICLE.",
+  "image_prompt": "Checklist infographic layout, dark navy background. Bold headline at top: 'WRONG QUESTION. RIGHT VEHICLE.' Below headline: four icon-labeled horizontal rows, each row a vehicle name in cyan bold followed by a 2-3 word callout in white — 'GSA MAS · ANY AGENCY', 'SEWP V · IT ONLY', 'CIO-SP4 · PAST PERF REQUIRED', 'OASIS+ · BIG DEALS'. Left side: illustrated professional man in business casual holding a short checklist clipboard, expression focused and analytical. Bottom callout box in dark cyan border: 'ASK YOUR CO FIRST' in white bold. Overall palette: dark navy base, cyan accents, white text, Space Grotesk typeface. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
