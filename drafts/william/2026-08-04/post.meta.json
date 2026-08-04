@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Teaming",
+    "quote_html": "No past performance?<br><em>That's exactly when teaming pays off.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes"
+  },
+  "image_headline": "PAST PERFORMANCE ISN'T THE STARTING LINE",
+  "image_prompt": "Infographic story layout, cream/off-white background. Left side: illustrated professional man in business casual standing at a fork-in-the-road path — one branch labeled 'WAIT' with a faded stop icon, the other labeled 'TEAM UP' with a bold green arrow pointing forward. Right side: a simple two-step journey with icons — step 1 two-handshake icon labeled 'FIND A PRIME', step 2 document-checkmark icon labeled 'EARN PAST PERF'. Bold headline centered at top: 'PAST PERFORMANCE ISN'T THE STARTING LINE'. Small highlighted callout box with short phrase: '1 SUBCONTRACT = 1 RECORD'. Overall palette: warm cream background, forest green and amber accents, Sora typeface. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}

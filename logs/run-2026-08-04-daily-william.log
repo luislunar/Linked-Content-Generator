@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today (`drafts/william/2026-08-04/`):
+
+---
+
+**Post:** `inspiration` · `teaming` · `story` hook · `single-03-quote` card · **137 words**
+
+**Why these choices:**
+- `inspiration` was the only post type not in William's last 3 days (tips_list, behind_scenes, client_story) and not used by Josh today (hot_take)
+- `teaming` is a William priority topic, clear of his 5-day window (last 07/24), and distinct from Josh's `gsa_basics` today
+- `story` hook is William-native; `question` was blocked (used yesterday)
+- Length constraint triggered: last 3-post average was 213 words → must stay under 180; landed at 137
+- `single-03-quote` (cream+serif) contrasts Josh's dark navy card today
+
+**Card quote:** *"No past performance? That's exactly when teaming pays off."*
+
+**Post angle:** A prospect call story — owner ready to abandon the GSA Schedule ("no past performance, no shot") → William reframes teaming as the parallel-path solution: find a prime, sub one contract, that *is* the record.
