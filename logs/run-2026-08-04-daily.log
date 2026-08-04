@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Today's files are in `drafts/2026-08-04/`:
+
+**Post:** `hot_take` · `gsa_basics` · `truth` hook · prose · 171 words
+
+The hook opens with "Nobody talks enough about the actual scale of the federal market" — then grounds it with the fresh Q2 2026 data: $14.2B to small businesses in one quarter across 8 industries (DoD $10.9B, VA $3.6B, DHS $3.2B from USAspending.gov). Three short declarative paragraphs, no bullets, closes with a specific question about personal blockers to entry.
+
+**Rotation rationale:**
+- `behind_scenes`, `tips_list`, `milestone` blocked (last 3 days) → picked `hot_take`
+- Skipped carousel: 2026-07-20 already ran carousel + myths/myth-bust — too close to duplicate
+- `gsa_basics` and `truth` pattern both clear of recent repeats
+- `single-01-bold` (dark navy) fine for color contrast — last 2 templates were cream and dark navy, not both dark
+- Data credited: `Source · USAspending.gov` in post and card source field

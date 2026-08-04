@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Market Reality",
+    "headline_html": "$14.2B<br>ONE<br><span class='accent'>QUARTER.</span>",
+    "sub": "Small businesses captured that in Q2 2026 — 8 industries, 3 agencies alone. The barrier isn't the market.",
+    "issue": "Issue 015"
+  },
+  "image_headline": "$14.2B IN ONE QUARTER. STILL WAITING?",
+  "image_prompt": "Infographic alert layout, dark navy background. Large bold stat centered: '$14.2B' in white with 'ONE QUARTER' below in coral accent. Left: illustrated professional woman in blazer gesturing at an upward-trending bar chart icon. Right column: three short agency labels with dollar figures — 'DOD $10.9B', 'VA $3.6B', 'DHS $3.2B' — each with a green upward arrow icon. Bold headline top: 'STILL ON THE SIDELINE?' Small bottom banner: 'SOURCE — USASPENDING.GOV'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
