@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Myth Alert",
+    "headline_html": "THE CERT<br>IS NOT<br><span class='accent'>THE CONTRACT</span>",
+    "sub": "Certifications improve your odds on work you pursue. They can't find the work for you.",
+    "issue": "Issue 019"
+  },
+  "image_headline": "THE CERT IS NOT THE CONTRACT",
+  "image_prompt": "Split-panel infographic. Left panel dark carbon black, bold label 'THE MYTH' in white with red X icon. Three short myth labels (2-3 words each): 'CERT BRINGS WORK', 'BUYERS FIND YOU', 'NO SALES NEEDED'. Right panel white/light, bold label 'THE REALITY' in dark with cyan checkmarks. Three short reality labels (2-3 words each): 'CERT OPENS DOORS', 'YOU MUST PURSUE', 'VEHICLE REQUIRED'. Center: illustrated professional man in business casual attire, walking from dark to light side, expression focused and analytical. Bold headline top: 'THE CERT IS NOT THE CONTRACT' in Space Grotesk bold, cyan accent on last three words. Carbon black and cyan color palette throughout. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}

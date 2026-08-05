@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+---
+
+**2026-08-05 · Jason · `hot_take` / `certifications` / `myth-bust`**
+
+**post.md** — Opens with the myth ("You just got your SDVOSB cert. Now the federal contracts will come."), kills it with four `→` bullets explaining why certs alone don't work (no vehicle = can't respond, COs search catalogs not cert databases), then delivers the payoff comparison: `Cert + no vehicle + no prospecting = badge, not revenue` vs `Cert + vehicle + active pursuit = an actual channel`. Closing reinforces the central message; community question asks which cert they assumed would bring inbound work and how long until they realized they still had to sell. ~196 words.
+
+**post.meta.json** — Template `single-01-bold`, headline "THE CERT / IS NOT / THE CONTRACT" (accent on last line), tag "Myth Alert". Image prompt is a split-panel myth-vs-reality layout in Jason's carbon black + cyan palette with Space Grotesk, footer `Jason · GSA Focus`.
+
+**Uniqueness check passed:** Josh used `teaming` / `tips_list` / `question` today; William used `gsa_basics` / `personal_story` / `truth` today. Jason's `certifications` / `hot_take` / `myth-bust` is fully distinct from both.
