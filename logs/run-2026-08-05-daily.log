@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for `drafts/2026-08-05/`:
+
+---
+
+**Post type:** `tips_list` — avoided last 3 Josh types (hot_take, behind_scenes) and fits today's need for non-prose format after two consecutive prose posts
+
+**Topic:** `teaming` — not used by Josh in the visible rotation, distinct from yesterday's `gsa_basics`
+
+**Hook:** `question` — "Before you sign a teaming agreement, ask these five questions." Breaks the last two statement-style hooks (truth, alert)
+
+**Format:** `checklist` (numbered items) — deliberately not prose after two prose days in a row
+
+**Card:** `single-06-checklist` (dark navy) — checks out against last 2 templates: single-01-bold (dark) and single-07-story (cream); not two consecutive dark, so it's fine
+
+**Word count:** 228 — within the 150–280 range for `tips_list`
+
+**Post angle:** 5 concrete due-diligence questions every small business should verify before signing a teaming agreement — pipeline reality check, scope in writing, sub percentage specificity, customer relationship ownership, and past performance credit. Closing question invites teaming war stories from the community.
