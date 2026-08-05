@@ -1,39 +1,27 @@
 {
-  "post_type": "tips_list",
-  "topic": "teaming",
-  "hook_pattern": "question",
-  "format": "checklist",
-  "template": "single-06-checklist",
-  "image_headline": "FIVE QUESTIONS BEFORE YOU SIGN ANYTHING",
-  "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline top: 'FIVE QUESTIONS BEFORE YOU SIGN ANYTHING'. Left side: illustrated professional man in blazer reviewing a document with pen, expression focused and deliberate. Right side: 5 checklist rows each with a green checkmark icon and a short 2-3 word label — 'REAL PIPELINE', 'SCOPE IN WRITING', 'EXACT SUB %', 'CUSTOMER RIGHTS', 'PAST PERF CREDIT'. Bottom navy banner with white text: 'ONE VAGUE DEAL. 18 MONTHS GONE.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "image_headline": "WAITING IS NOT A PIPELINE",
+  "image_prompt": "Infographic before/after layout. Left panel cream/light, bold label 'BEFORE' with red X icon, three short 2-3 word labels: 'ZERO AWARDS', 'JUST WAITING', 'OFF RADAR'. Center: illustrated professional woman in blazer walking from light side to dark navy side, posture confident and purposeful. Right panel dark navy, bold label 'AFTER' with green checkmark icon, three short labels: 'RECOMPETES TRACKED', 'SOURCES SOUGHT', 'FIRST AWARD'. Bold headline at top: 'WAITING IS NOT A PIPELINE'. Footer text: 'Josh Ladick · GSA Focus'.",
   "template_data": {
-    "section_label": "Teaming Check",
-    "module": "Module 05 · Teaming",
-    "headline_html": "Five questions before you <span class='accent'>sign</span> anything.",
-    "items": [
-      {
-        "title": "Who's bringing the work?",
-        "sub": "Confirm the prime has an active pipeline — not just a plan to find work someday."
-      },
-      {
-        "title": "Who owns the customer post-award?",
-        "sub": "That relationship is worth more than this contract. Don't let it default by accident."
-      },
-      {
-        "title": "Is your scope in writing?",
-        "sub": "Verbal agreements vanish. If it's not in the teaming agreement, it doesn't exist."
-      },
-      {
-        "title": "What's your exact sub percentage?",
-        "sub": "\"Best efforts\" is not a number. Get a written percentage before you sign."
-      },
-      {
-        "title": "Can you claim past performance?",
-        "sub": "Confirm it explicitly — that credit is often the entire point of teaming as a new entrant."
-      }
+    "section_label": "14-Month Shift",
+    "case_num": "Case · 008",
+    "headline_html": "When the Schedule <em>isn't</em> the problem. <span class='accent'>The pipeline is.</span>",
+    "before_items": [
+      "Schedule active, zero awards",
+      "Waiting for inbound RFQs",
+      "Off agencies' radar entirely"
     ],
-    "footer_left": "Team Smart",
-    "footer_right": "Teaming Field Guide"
+    "after_items": [
+      "Recompetes tracked weekly",
+      "Sources Sought answered",
+      "First award: month 11"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series"
   },
   "experiment_id": null
 }
