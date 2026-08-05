@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**Today's William Hill post — 2026-08-05**
+
+| Field | Value |
+|---|---|
+| `post_type` | `personal_story` |
+| `topic` | `gsa_basics` |
+| `hook_pattern` | `truth` |
+| `format` | `story` |
+| `template` | `single-07-story` (cream + serif) |
+| `word_count` | 249 |
+
+**Rotation logic:**
+- `inspiration` / `tips_list` / `behind_scenes` — all blocked (William's last 3 days)
+- `teaming` blocked (Josh today + William yesterday); `sam` blocked (William 8/03); `question` hook blocked (Josh today); `story` hook blocked (William yesterday)
+- `gsa_basics` is a William priority topic (1x/week), clear since Josh used it on 8/04 *yesterday* — not today — so uniqueness rule doesn't apply
+- `truth` hook is the right fit and hasn't been used since 7/31
+
+**Post angle:** Opens with "The question on almost every first call isn't pricing or past performance — it's 'what even is a GSA Schedule?'" then explains the pre-approval mechanism, three eligibility basics (2 years, commercial history, NAICS match), and lands the reframe: the barrier is paperwork, not qualifications. CTA asks readers to share the biggest misconception they had when they first looked into federal contracting.

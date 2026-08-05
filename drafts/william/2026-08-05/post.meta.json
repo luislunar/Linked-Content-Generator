@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "image_headline": "THE QUESTION ON EVERY CALL",
+  "image_prompt": "Infographic story layout. Forest green background with amber accents, Sora typography throughout. Bold headline at top: 'THE QUESTION ON EVERY CALL'. Left side: illustrated professional man in smart casual attire (button-up shirt, no tie), seated at a desk on a call, expression warm and engaged. Center: vertical three-step journey path with connecting line and milestone circle icons, each labeled with short 2-word text — 'THE QUESTION', 'THE ANSWER', 'THE BARRIER'. Right side: three amber-outlined callout boxes with short labels — '2 YR RUNWAY', 'REAL CLIENTS', 'NAICS MATCH'. Bottom dark green banner with white text: 'PROCESS NOT CRITERIA'. Footer text: 'William Hill · GSA Focus'.",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "First Calls · No. 019",
+    "lead_html": "The question I answer <em>on almost every call.</em>",
+    "rows": [
+      {
+        "when": "The Question",
+        "what_html": "<strong>\"What IS a GSA Schedule?\"</strong> <span class='light'>— asked on nearly every first call, across every industry</span>"
+      },
+      {
+        "when": "The Answer",
+        "what_html": "<strong>A pre-approval, not a contract</strong> <span class='light'>— one federal vetting opens the door to every agency in the country</span>"
+      },
+      {
+        "when": "The Barrier",
+        "what_html": "<strong>100+ hours of paperwork</strong> <span class='light'>— most businesses already qualify; the process is what stops them</span>"
+      }
+    ],
+    "closer": "THE BARRIER IS THE PROCESS, NOT THE CRITERIA."
+  },
+  "experiment_id": null
+}
