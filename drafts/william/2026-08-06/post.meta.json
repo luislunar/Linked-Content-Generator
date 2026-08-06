@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pipeline Shift",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you stop <span class='accent'>waiting.</span>",
+    "before_items": [
+      "Eight months, zero RFQs",
+      "Sources sought ignored",
+      "No CO relationships"
+    ],
+    "after_items": [
+      "Sources sought reviewed weekly",
+      "Two COs now know his name",
+      "First RFQ response submitted"
+    ],
+    "footer_left": "One Real Turnaround",
+    "footer_right": "Field Case Series",
+    "image_headline": "STOP WAITING. BUILD YOUR PIPELINE.",
+    "image_prompt": "Split-panel infographic. Left dark navy panel, bold label 'BEFORE' with red X icons. Three short labels: '8 MONTHS NO RFQS', 'SOURCES IGNORED', 'NO CO CONTACT'. Right cream/white panel, bold label 'AFTER' with green checkmarks. Three short labels: 'WEEKLY MONITORING', 'TWO COs ENGAGED', 'FIRST RFQ OUT'. Center: illustrated business professional in blazer reviewing a laptop screen showing a pipeline chart. Bold headline at top: 'STOP WAITING. BUILD YOUR PIPELINE.' Dark navy footer strip at bottom. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
