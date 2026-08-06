@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Observation",
+    "year_client": "Every Week · Discovery Calls",
+    "lead_html": "Your SAM registration expired. <em>You didn't notice. The CO did.</em>",
+    "rows": [
+      {
+        "when": "Discovery call",
+        "what_html": "<strong>We pull up SAM.gov together</strong> <span class='light'>— expired 60 days ago, or NAICS codes don't match what they're selling</span>"
+      },
+      {
+        "when": "The silence",
+        "what_html": "<strong>No alert, no email, no flag</strong> <span class='light'>— the system quietly drops you from the eligible vendor pool</span>"
+      },
+      {
+        "when": "The cost",
+        "what_html": "<strong>RFQs skipped, recompetes missed</strong> <span class='light'>— all while ineligible, all without anyone telling you</span>"
+      }
+    ],
+    "closer": "THE LICENSE THAT LAPSES SILENTLY COSTS THE MOST.",
+    "image_headline": "SAM EXPIRED. YOUR PIPELINE DOESN'T KNOW.",
+    "image_prompt": "Infographic story layout on dark carbon/charcoal background with cyan accent. Bold top label 'FIELD OBSERVATION' in cyan. Large bold headline: 'SAM EXPIRED. YOUR PIPELINE DOESN'T KNOW.' Center: illustrated professional in blazer looking at a laptop screen, expression of concern. Left side: vertical timeline with 3 milestone nodes labeled 'DISCOVERY', 'SILENCE', 'THE COST' — each node has a short 2-word callout in white. Right side: bold callout box with red warning icon and text 'OFF THE MARKET'. Bottom full-width dark strip. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

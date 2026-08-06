@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary for today's Jason run:
+
+---
+
+**2026-08-06 · Jason**
+
+| Field | Value |
+|---|---|
+| `post_type` | `behind_scenes` |
+| `topic` | `sam` |
+| `hook_pattern` | `blunt` |
+| `template` | `single-07-story` (cream — satisfies color-contrast rule after two dark templates) |
+| `word_count` | 163 |
+
+**Why this combination:**
+- Post types `hot_take`, `tips_list`, `client_story` were all used in Jason's last 3 days — `behind_scenes` was clear.
+- `myths` (Josh today) and `pipeline` (William today) were off-limits; `certifications`/`vehicles`/`pricing` too recent for Jason — `sam` was the strongest available topic with Jason's objection-killer angle.
+- `blunt` hook ("not maybe — regularly") matches Jason's analytical, no-excuses tone and avoids `myth-bust` (yesterday) and the hooks both other profiles used today.
+- The closing prompt ("If I pulled up your SAM registration right now, what would I find?") puts the reader in Jason's discovery-call seat — personal enough to trigger comments.
