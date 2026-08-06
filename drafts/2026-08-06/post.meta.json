@@ -1,39 +1,19 @@
 {
-  "post_type": "carousel",
-  "topic": "myths",
-  "hook_pattern": "myth-bust",
-  "format": "comparison",
-  "template": "carousel-01-myths",
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
   "template_data": {
-    "cover": {
-      "top_label": "Field Guide / Vol. 04",
-      "headline_html": "3 myths that <span class='accent'>kill</span> new GovCon shops.",
-      "edition": "Myths Edition"
-    },
-    "myths": [
-      {
-        "label": "The Past-Performance Trap",
-        "myth_text": "You can't win federal contracts without prior federal performance.",
-        "reality_text": "Teaming agreements let new shops partner with established primes — you inherit their track record. Mentor-protégé programs work the same way. The first contract is rarely won alone."
-      },
-      {
-        "label": "The Set-It-Forget-It Myth",
-        "myth_text": "Getting on the GSA Schedule means contracts will come to you.",
-        "reality_text": "The Schedule is a pre-approved vendor list, not a lead machine. It removes the barrier to entry — but selling, follow-up, and BD are still yours to own."
-      },
-      {
-        "label": "The Time-and-Cost Lie",
-        "myth_text": "The GSA Schedule costs too much and takes too long to be worth it.",
-        "reality_text": "Most small businesses spend $5K–$15K and 6–9 months to get approved. Once on, the Schedule is valid for 20 years. The question isn't what it costs to get in — it's what you lose by staying out."
-      }
-    ],
-    "close": {
-      "close_tag": "Your turn",
-      "close_headline": "Which one almost stopped you?",
-      "close_question": "Drop the biggest GovCon myth you believed before you started pursuing federal contracts."
-    },
-    "image_headline": "3 MYTHS KILLING YOUR GOVCON BEFORE IT STARTS",
-    "image_prompt": "Infographic carousel cover. Dark navy background. Bold top label 'FIELD GUIDE VOL. 04' in white. Large bold headline: '3 MYTHS KILLING YOUR GOVCON BEFORE IT STARTS.' Center: illustrated business professional in blazer, arms crossed confidently. Three floating badge labels with red X icons: 'NO PAST PERF', 'AUTO WINS', 'TOO SLOW'. Cream footer strip at bottom. Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "6-Month Shift",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you finally <span class='accent'>learn the market.</span>",
+    "before_items": ["No federal pipeline", "Cold outreach failing", "No roadmap for RFQs"],
+    "after_items": ["Structured BD process", "Inbound RFQs landing", "First proposal submitted"],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "FROM ZERO PIPELINE TO FEDERAL BD SYSTEM",
+    "image_prompt": "Split-panel before-after infographic. Left panel dark navy, bold label 'BEFORE' with red X icon. Three short labels stacked: 'NO PIPELINE', 'COLD OUTREACH', 'NO ROADMAP'. Right panel cream background, bold label 'AFTER' with green checkmarks. Three short labels: 'BD SYSTEM BUILT', 'RFQS LANDING', 'FIRST PROPOSAL'. Center: illustrated professional in blazer walking confidently from left dark panel into right light panel. Bold headline top: 'FROM ZERO PIPELINE TO FEDERAL BD SYSTEM'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

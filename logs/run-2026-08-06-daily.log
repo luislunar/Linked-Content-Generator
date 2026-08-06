@@ -1,20 +1,20 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was generated for 2026-08-06:
+Done. Here's what was generated for **2026-08-06**:
 
-**Post type:** `carousel` (last used 17 days ago — well past the 4-day rule)
-**Topic:** `myths` (not used in the last 5+ days)
-**Hook:** `myth-bust` — opens with the #1 objection killing GovCon pipelines before they start
+---
 
-**5 slides:**
-1. Cover — "3 myths that kill new GovCon shops"
-2. Myth: "You can't win without past federal performance" → Reality: teaming + mentor-protégé
-3. Myth: "Getting on the Schedule means contracts come to you" → Reality: it's a vendor list, not a lead machine
-4. Myth: "Too expensive and too slow to be worth it" → Reality: 20-year Schedule vs. the cost of staying out
-5. Close — community question: which myth almost stopped you?
+**Post type:** `client_story` — avoids the last 3 used types (carousel, tips_list, hot_take, behind_scenes)
 
-**Cadence checks:**
-- No type repeat (last 3: tips_list / hot_take / behind_scenes) ✓
-- Carousel gap > 4 days ✓
-- Last 2 templates were dark-bg (single-06, single-01) → carousel PDF output sidesteps this constraint ✓
-- Last 3 posts averaged 186 words → caption at 72 words keeps length low ✓
-- Hook rotated away from last 3 patterns (question / truth / alert) ✓
+**Topic:** `pipeline` — all five prior topics (myths, teaming, gsa_basics, compliance, sam) were off-limits; pipeline was the natural fit for a client transformation story
+
+**Hook:** `story` — opens mid-scene with a relatable client struggle; the last 3 hooks were myth-bust/question/truth (statements/question), so a story opener adds variation
+
+**Template:** `single-05-beforeafter` (cream background) — first-choice for `client_story`, cream avoids the dark-navy run from 08-05 (single-06-checklist)
+
+**The post** follows a consulting firm that spent 2 years failing to break into federal contracting before learning how to build a real pipeline process using FPDS, Sources Sought, eBuy, and NAICS mapping. Before/after: zero federal pipeline → structured BD, inbound RFQs, first proposal submitted.
+
+**Files written:**
+- `drafts/2026-08-06/post.md` (~207 words, within 200–300 range)
+- `drafts/2026-08-06/post.meta.json`
+- `drafts/2026-08-06/hypothesis.md`
+- `logs/run-2026-08-06.md` (updated)
