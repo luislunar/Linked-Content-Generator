@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+**Draft:** `drafts/jason/2026-08-07/`
+
+| Field | Value |
+|---|---|
+| post_type | `milestone` |
+| topic | `myths` |
+| hook_pattern | `myth-bust` |
+| template | `single-04-stat` |
+| format | `bullets` |
+| word_count | ~157 |
+
+**The angle:** "$14.2 billion went to small businesses in Q2 2026 — one quarter, top 8 industries." Kills the "federal market is only for the big guys" objection that Jason hears constantly on prospecting calls. The industry breakdown (IT, engineering, construction) triggers recognition from the ICP and the CTA ("which industry surprised you most?") is designed for low-effort, high-specificity replies.
+
+**Uniqueness check passed:**
+- Josh today: `client_story` / `pipeline` / `story` — no overlap
+- William today: `tips_list` / `pricing` / `truth` — no overlap
+- Neither used today's USAspending.gov Q2 2026 figures

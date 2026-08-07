@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "image_headline": "SMALL BUSINESS WON $14.2B",
+  "image_prompt": "Split infographic. Dark navy background. Top bold headline: 'SMALL BUSINESS WON $14.2B' with a green upward arrow icon. Center: oversized stat display '$14.2B' in bright cyan accent color, with label 'Q2 2026 · TOP 8 INDUSTRIES' in small white text below. Right side: 2x3 grid of short industry callout labels in white pill badges — 'COMPUTER SERVICES', 'ENGINEERING', 'CONSTRUCTION', 'IT SYSTEMS', 'PROGRAMMING', 'FACILITIES'. Left side: illustrated professional man in navy blazer holding a data printout, confident expression, slight lean forward. Bottom dark strip: 'Source · USAspending.gov' in small white text. Footer text: 'Jason · GSA Focus'.",
+  "template_data": {
+    "section_label": "Small Business Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "Small business federal awards, Q2 2026 — top 8 industry categories",
+    "big_number_html": "$<span class='accent'>14.2B</span>",
+    "context_html": "Companies with 10–50 employees — <strong>not defense primes</strong> — collected most of this. In one quarter. The barrier isn't the market. <em>It's the paperwork.</em>",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "experiment_id": null
+}
