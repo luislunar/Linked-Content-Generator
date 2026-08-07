@@ -1,21 +1,19 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Today's draft is in `drafts/2026-08-07/`.
+Today's post for Josh Ladick was already generated and committed. All draft files exist and the run log is complete.
 
-**Run summary:**
+**Already done today (2026-08-07):**
 
-| Field | Value |
-|---|---|
-| post_type | `client_story` |
-| topic | `pipeline` |
-| hook_pattern | `story` |
-| format | `story` (prose, no bullets) |
-| template | `single-07-story` (cream bg) |
-| word_count | 213 |
+- **post_type:** `client_story`
+- **topic:** `pipeline`
+- **hook_pattern:** `story`
+- **format:** prose (no bullets)
+- **word_count:** 213
+- **template:** `single-07-story`
 
-**Rotation reasoning:**
-- Post types avoided (last 3 days): carousel, tips_list, hot_take
-- Color contrast: last 2 templates were dark-bg → picked cream `single-07-story`
-- Topic: pipeline not used in 5+ days
-- Hook: story, rotating away from yesterday's myth-bust
+**Post summary:** A concrete before→after transformation story about a Schedule holder who was approved for 18 months with zero federal revenue — until she switched from passive waiting to active pipeline work (daily SAM.gov reading → industry days → teaming agreement → first award by month 7, second by month 9). Closes with "The Schedule is not a passive vehicle. It's a door. You still have to knock."
 
-**Post angle:** A client who had an approved GSA Schedule for 18 months with zero revenue. The story walks through how three months of active SAM.gov reading → two industry days → a teaming agreement → first award. Closes with "The Schedule is a door. You still have to knock." The CTA asks readers to identify their specific pipeline gap, designed to surface detailed comment responses rather than generic reactions.
+**Card headline:** `18 MONTHS. ZERO REVENUE. THEN SHE KNOCKED.`
+
+**CTA:** "What's the biggest gap in your federal pipeline right now — awareness, relationships, or something else?"
+
+The post targets the "I have a Schedule but I've never won a contract" ICP persona, contrasts with the previous two posts (carousel + checklist) with full prose, and is committed in the repo. No further action needed — the publish workflow will handle LinkedIn delivery.
