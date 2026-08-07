@@ -1,0 +1,30 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "image_headline": "18 MONTHS. ZERO REVENUE. THEN SHE KNOCKED.",
+  "image_prompt": "Infographic story layout. Cream background. Left column: illustrated professional woman in navy blazer, seated at a desk reviewing a laptop, expression determined. Right column: vertical timeline with three milestone markers and short labels — 'READS SAM.GOV', 'TEAMS UP', 'FIRST AWARD'. Bold headline top center: '18 MONTHS. ZERO REVENUE. THEN SHE KNOCKED.' Dark navy callout strip at bottom with white text: 'THE DOOR WAS ALWAYS OPEN.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year One · Client 018",
+    "lead_html": "Eighteen months with an active GSA Schedule. <em>Not a single federal dollar earned.</em>",
+    "rows": [
+      {
+        "when": "Month 01–03",
+        "what_html": "<strong>SAM.gov becomes the daily brief</strong> <span class='light'>— Sources Sought, presolicitations, agency spend history revealed three real NAICS matches</span>"
+      },
+      {
+        "when": "Month 04–06",
+        "what_html": "<strong>Two industry days, one teaming agreement</strong> <span class='light'>— prime needed a certified sub on an upcoming recompete; signed within the week</span>"
+      },
+      {
+        "when": "Month 07–09",
+        "what_html": "<strong>First award. Then a second.</strong> <span class='light'>— a CO found her on GSA Advantage after catalog cleanup; direct award, no competition</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE IS A DOOR. YOU STILL HAVE TO KNOCK."
+  },
+  "experiment_id": null
+}

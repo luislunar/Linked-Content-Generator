@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Today's draft is in `drafts/2026-08-07/`.
+
+**Run summary:**
+
+| Field | Value |
+|---|---|
+| post_type | `client_story` |
+| topic | `pipeline` |
+| hook_pattern | `story` |
+| format | `story` (prose, no bullets) |
+| template | `single-07-story` (cream bg) |
+| word_count | 213 |
+
+**Rotation reasoning:**
+- Post types avoided (last 3 days): carousel, tips_list, hot_take
+- Color contrast: last 2 templates were dark-bg → picked cream `single-07-story`
+- Topic: pipeline not used in 5+ days
+- Hook: story, rotating away from yesterday's myth-bust
+
+**Post angle:** A client who had an approved GSA Schedule for 18 months with zero revenue. The story walks through how three months of active SAM.gov reading → two industry days → a teaming agreement → first award. Closes with "The Schedule is a door. You still have to knock." The CTA asks readers to identify their specific pipeline gap, designed to surface detailed comment responses rather than generic reactions.
