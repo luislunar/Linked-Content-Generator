@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "image_headline": "FIVE GSA PRICING MISTAKES",
+  "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline top: 'FIVE GSA PRICING MISTAKES' with a warning icon. Five checklist rows, each with a red X icon and a short 2-3 word label: 'RACK RATE', 'BASIS OF AWARD', 'NO ESCALATION', 'UNDERPRICED', 'SKIPPED REVIEW'. Illustrated professional man in navy blazer on the left side, seated at a desk reviewing documents with a concerned expression. Bottom: light amber callout strip with white text 'CHECK BEFORE YOU SIGN'. Footer text: 'William Hill · GSA Focus'.",
+  "template_data": {
+    "section_label": "Pricing Audit",
+    "module": "Module 04 · GSA Pricing",
+    "headline_html": "Five pricing mistakes that <span class='accent'>haunt</span> new holders.",
+    "items": [
+      { "title": "Rack rate as your offer", "sub": "CO compares against your best commercial price — and finds the gap" },
+      { "title": "Missing Basis of Award", "sub": "Commercial price drops later? Your GSA price must follow" },
+      { "title": "No escalation clause", "sub": "Inflation quietly eats your margin over a 5-year base period" },
+      { "title": "Underpricing to win", "sub": "You're locked in until you file a formal modification" },
+      { "title": "Skipping price reasonableness", "sub": "A rate fair to you may not survive the GSA review" }
+    ],
+    "footer_left": "Field Call Notes",
+    "footer_right": "Page 1 of 1"
+  },
+  "experiment_id": null
+}

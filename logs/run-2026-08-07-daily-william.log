@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-08-07**:
+
+---
+
+**Post** (`drafts/william/2026-08-07/post.md`) — 162 words
+
+Truth hook on GSA pricing: nobody warns new holders about the five negotiation mistakes that determine whether a Schedule ever makes money. Five `→` bullets covering: rack rate vs. best commercial price, Basis of Award discount obligations, missing escalation clauses, underpricing lock-in, and price reasonableness. Closes with a specific pricing question to the community.
+
+**Card** (`post.meta.json`)
+- `template`: `single-06-checklist` (dark navy) — breaks two consecutive cream templates
+- `image_headline`: FIVE GSA PRICING MISTAKES
+- 5 checklist items with short titles + descriptive subs
+
+**Rotation decisions:**
+| Constraint | Ruling |
+|---|---|
+| Blocked post_types | client_story, personal_story, inspiration (last 3 days) → picked `tips_list` |
+| Blocked topics | pipeline, gsa_basics, teaming, sam (5-day window) → picked `pricing` |
+| Blocked hooks | story (Josh today), question (William yesterday) → picked `truth` |
+| Length | Last 3 avg 212 words → must be under 180 → landed at 162 |
+| Format | 3 consecutive story → switched to bullets |
+| Color | 2 cream templates → switched to dark navy |
