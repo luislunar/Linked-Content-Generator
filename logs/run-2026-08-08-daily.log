@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Josh today:
+
+**Draft:** `drafts/2026-08-08/`
+
+| Field | Value |
+|---|---|
+| post_type | `behind_scenes` |
+| topic | `sam` |
+| hook_pattern | `alert` |
+| template | `single-07-story` (cream) |
+| format | `prose` |
+| word_count | ~171 |
+
+**The angle:** A specific process reveal — the 47-day SAM lapse Josh's team almost missed for a client, and the 90/60/30-day internal tracking system that exists because of it. The hook leads with the silent failure mode rather than a fact, and the closing question ("what's your renewal reminder system?") is designed to surface honest admissions in the comments from owners who have no system at all.
+
+**Rotation checks passed:**
+- Type: `behind_scenes` — not used in last 3 days (`client_story`, `carousel`, `tips_list`)
+- Topic: `sam` — not used in last 5 days
+- Hook: `alert` — not used yesterday (`story`) or the day before (`myth-bust`)
+- Template: `single-07-story` (cream) — contrasts last carousel dark scheme
+- Length: 171 words — short variation after the longer recent posts
+- No USAspending.gov data used (Jason used the $14.2B figure today)

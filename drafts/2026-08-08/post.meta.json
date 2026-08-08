@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Behind the Process",
+    "year_client": "Spring 2025 · Client 031",
+    "lead_html": "Their SAM had lapsed <em>47 days</em> before we caught it.",
+    "rows": [
+      {
+        "when": "Day −90",
+        "what_html": "<strong>Renewal alert fires</strong> <span class='light'>— auto-flag in our tracking system, 90 days out</span>"
+      },
+      {
+        "when": "Day −60",
+        "what_html": "<strong>CAGE + NAICS audit</strong> <span class='light'>— confirm all active info before touching submit</span>"
+      },
+      {
+        "when": "Day −30",
+        "what_html": "<strong>Submission locked in</strong> <span class='light'>— minimum safe buffer for GSA processing time</span>"
+      }
+    ],
+    "closer": "SAM LAPSE = PAYMENT FREEZE. DON'T FIND OUT THE HARD WAY.",
+    "image_headline": "SAM LAPSE FREEZES YOUR PAYMENTS. CATCH IT FIRST.",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: 'SAM LAPSE = PAYMENT FREEZE' with a red caution icon. Left side: illustrated professional man in blazer reviewing a laptop showing a red alert notification. Right column: three dark navy timeline rows stacked vertically, each with a short 2-word label: '90-DAY ALERT', 'NAICS AUDIT', 'SUBMIT BUFFER' — each with a small arrow icon. Bottom callout band, dark navy: bold text 'DON'T FIND OUT THE HARD WAY.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
