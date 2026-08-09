@@ -1,0 +1,26 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **2026-08-09**:
+
+---
+
+**Post** (`drafts/2026-08-09/post.md`) — ~200 words
+
+`hot_take` / `teaming` / `truth` hook / prose format
+
+Angle: Most teaming agreements fail not because of timing or the prime — but because small businesses pitch "bandwidth" instead of a specific gap they fill. The post names the four things primes actually need (NAICS coverage, a socioeconomic cert, a cleared facility, an agency-specific past performance) and closes with the blunt line: "no amount of follow-up emails will fix a pitch that never had a hook."
+
+**Card** (`post.meta.json`)
+- Template: `single-01-bold` (dark navy) — breaks the recent cream-template streak
+- Image headline: `TEAMING FAILS FOR ONE REASON`
+- Headline: `TEAMING / FAILS / FOR ONE REASON.`
+
+**Rotation decisions:**
+
+| Constraint | Ruling |
+|---|---|
+| Blocked post_types | `client_story`, `carousel`, `behind_scenes` (last 3 days) → picked `hot_take` |
+| Blocked topics | `pipeline`, `myths` (last 5 days) → picked `teaming` |
+| Blocked hooks | `story` (yesterday), `myth-bust` (day before) → picked `truth` |
+| Format | `prose` — hot_take spec discourages bullets; breaks any `→` streak |
+| Color | Last cream (`single-07`) + carousel → free to pick dark navy (`single-01`) |
+| Data | Jason used $14.2B Q2 figure; no teaming-specific data in file → skipped data angle |

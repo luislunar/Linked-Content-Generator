@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Teaming Reality",
+    "headline_html": "TEAMING<br>FAILS<br><span class='accent'>FOR ONE REASON.</span>",
+    "sub": "Most small businesses come to the table with nothing specific to offer — and wonder why primes don't call back.",
+    "issue": "Issue 029",
+    "image_headline": "TEAMING FAILS FOR ONE REASON",
+    "image_prompt": "Infographic bold statement layout. Dark navy background. Large bold headline top: 'BRING A HOOK OR GO HOME.' Left: illustrated small business owner holding a blank pitch deck, red X icon above. Right: illustrated prime contractor at desk reviewing a shortlist, green checkmarks beside 3 specific labels (2-3 words each: 'NAICS GAP', 'CERT NEEDED', 'REGION COVERAGE'). Amber callout box center: 'NO SPEC = NO DEAL'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

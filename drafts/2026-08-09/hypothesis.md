@@ -1,0 +1,5 @@
+This draft tests a `truth` hook on the `teaming` topic, using a pure prose format (no bullets) to create a peer-to-peer conversational tone rather than an educational list.
+
+The central bet: the "bandwidth pitch" failure mode is something many ICP members have lived — either as the small business who got ghosted, or as someone who has watched others repeat the mistake. Naming the specific reason (no differentiator, not bad timing) should generate the "this is exactly what happened to us" recognition that drives reactions. The prose structure removes the visual escape of bullet-scanning, forcing the reader to follow the argument through to the punchline ("no amount of follow-up emails will fix a pitch that never had a hook"), which is the most shareable line in the post.
+
+The community question ("what differentiator do you lead with?") invites specific, experienced answers — not generic replies — which should lift comment quality and count relative to the recent story and myth-bust posts. Expected uplift: reactions (recognition of a painful truth) and comments (practitioners sharing their actual positioning strategy).
