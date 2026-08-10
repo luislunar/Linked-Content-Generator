@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written to `drafts/2026-08-10/`. Here's a summary of today's decisions:
+
+**Post type:** `personal_story` — not used in last 3 days; adds variety to the week.
+
+**Topic:** `sam` — last used more than 5 days ago; due this week.
+
+**Hook:** `blunt` — "SAM.gov doesn't send you a goodbye email when your registration expires. I wish it did." Not used in last 3 days.
+
+**Template:** `single-07-story` (cream serif layout) — matches the narrative arc format.
+
+**The angle:** A first-person story about a client who had everything in place — Schedule approved, COs engaged — and lost a shot at an RFQ because SAM.gov registration lapsed silently four months earlier. Resolves with a concrete fix (90-day calendar reminder). The closing line — "The Schedule is the key. SAM.gov is the door. Don't let it lock itself." — is designed to be quotable and drive saves. Community question targets honest self-disclosure in comments, which should move the engagement score on the 30× comments multiplier.

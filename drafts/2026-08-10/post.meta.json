@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "sam",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year One · Client 003",
+    "lead_html": "SAM.gov doesn't send a <em>goodbye email</em> when your registration expires.",
+    "rows": [
+      {
+        "when": "Month 01–06",
+        "what_html": "<strong>GSA Schedule approved</strong> <span class='light'>— positioned, relationship built, ready to bid</span>"
+      },
+      {
+        "when": "Month 09",
+        "what_html": "<strong>Registration lapses silently</strong> <span class='light'>— no alert, no email, no warning from SAM</span>"
+      },
+      {
+        "when": "Month 10",
+        "what_html": "<strong>RFQ surfaces. Can't bid.</strong> <span class='light'>— one missed date froze everything they'd built</span>"
+      }
+    ],
+    "closer": "THE DOOR LOCKED WHILE THEY WEREN'T LOOKING.",
+    "image_headline": "SAM.GOV DOESN'T WAIT FOR YOU",
+    "image_prompt": "Infographic story layout. Left side: three-phase vertical timeline labeled '1 APPROVED', '2 LAPSED', '3 FROZEN' — green check on phase 1, yellow caution on phase 2, red X on phase 3. Right side: illustrated professional man in suit standing before a locked door, hands at sides. Bold headline top: 'SAM.GOV DOESN'T WAIT FOR YOU'. Highlighted callout box bottom center: 'ONE MISSED DATE'. Dark navy accent on the locked phase zone. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
