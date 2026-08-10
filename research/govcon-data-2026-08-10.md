@@ -1,24 +1,24 @@
-# GovCon data digest — week of 2026-07-20
+# GovCon data digest — week of 2026-08-10
 
 Federal awards to **small businesses**, Q2 2026 (source: USAspending.gov —
 cite it on any card that uses these numbers).
 
 ## Top industries (Q2 2026, small business recipients)
 
-- Other Computer Related Services: **$3.3B**
-- Commercial and Institutional Building Construction: **$1.7B**
-- Computer Systems Design Services: **$1.4B**
-- Engineering Services: **$1.4B**
-- Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology): **$1.3B**
-- Custom Computer Programming Services: **$1.2B**
-- Facilities Support Services: **$947M**
-- Administrative Management and General Management Consulting Services: **$845M**
+- Other Computer Related Services: **$3.7B**
+- Engineering Services: **$2.2B**
+- Commercial and Institutional Building Construction: **$2.0B**
+- Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology): **$1.9B**
+- Computer Systems Design Services: **$1.6B**
+- Custom Computer Programming Services: **$1.3B**
+- Facilities Support Services: **$1.1B**
+- Administrative Management and General Management Consulting Services: **$955M**
 
-Top-8 industries combined: **$12.1B** in one quarter.
+Top-8 industries combined: **$14.8B** in one quarter.
 
 ## Top awarding agencies (Q2 2026, small business recipients)
 
-- Department of Defense: **$6.2B**
+- Department of Defense: **$12.7B**
 - Department of Veterans Affairs: **$3.6B**
 - Department of Homeland Security: **$3.2B**
 - Department of Agriculture: **$2.5B**
