@@ -1,12 +1,21 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-All four files written to `drafts/2026-08-10/`. Here's a summary of today's decisions:
+Today's post for Josh Ladick (2026-08-10) has already been generated and committed. Here's what's in place:
 
-**Post type:** `personal_story` — not used in last 3 days; adds variety to the week.
+**Draft: `drafts/2026-08-10/`**
+- `post.md` — Personal story about a client whose SAM.gov registration lapsed silently 4 months before an RFQ they were perfectly positioned for. Clean narrative arc with the "be honest" check CTA.
+- `post.meta.json` — `personal_story` / `sam` / `blunt` hook / `single-07-story` template
+- `hypothesis.md` — Tests the `blunt` hook on the universal SAM lapse fear angle
+- `card.jpg` — Already rendered by the card renderer
 
-**Topic:** `sam` — last used more than 5 days ago; due this week.
+**Run log: `logs/run-2026-08-10.md`**
+```
+- post_type: personal_story
+- topic: sam
+- hook_pattern: blunt
+- format: story
+- word_count: 237
+```
 
-**Hook:** `blunt` — "SAM.gov doesn't send you a goodbye email when your registration expires. I wish it did." Not used in last 3 days.
+**Git:** Commit `25d65bf` ("publish: 2026-08-10 daily post") is already merged to `main`. The only modified file is `logs/run-2026-08-10-daily.log`, which just contains a permissions warning from the CI runner — not content that needs intervention.
 
-**Template:** `single-07-story` (cream serif layout) — matches the narrative arc format.
-
-**The angle:** A first-person story about a client who had everything in place — Schedule approved, COs engaged — and lost a shot at an RFQ because SAM.gov registration lapsed silently four months earlier. Resolves with a concrete fix (90-day calendar reminder). The closing line — "The Schedule is the key. SAM.gov is the door. Don't let it lock itself." — is designed to be quotable and drive saves. Community question targets honest self-disclosure in comments, which should move the engagement score on the 30× comments multiplier.
+No action needed — today's run is complete.
