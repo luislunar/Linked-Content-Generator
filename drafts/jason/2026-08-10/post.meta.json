@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pipeline Playbook",
+    "module": "Module 04 · Pipeline",
+    "headline_html": "Four moves that get you to the <span class='accent'>table early.</span>",
+    "items": [
+      {
+        "title": "Track Sources Sought",
+        "sub": "They surface 6–18 months before RFQs — comment on them and get on the CO's radar first"
+      },
+      {
+        "title": "Own 2 agencies, not 20",
+        "sub": "VA+DoD+DHS+USDA awarded $22B to small businesses Q2 2026. Source · USAspending.gov"
+      },
+      {
+        "title": "Map recompetes in FPDS-NG",
+        "sub": "Most contracts re-compete. Find the incumbent. Study their scope before the RFQ drops"
+      },
+      {
+        "title": "Register in agency portals now",
+        "sub": "PIEE for DoD, agency systems for others — some COs only look at vendors already in their registry"
+      },
+      {
+        "title": "Show up to industry days",
+        "sub": "Free intel on upcoming scope, CO introductions, and a chance to get on a prime's teaming radar"
+      }
+    ],
+    "footer_left": "Early Pipeline Guide",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "GET TO THE TABLE EARLY",
+    "image_prompt": "Infographic checklist layout. Bold headline top center: 'GET TO THE TABLE EARLY'. Left side: illustrated professional man in a sharp dark suit holding a clipboard, looking focused and decisive. Right side: vertical list of 5 checklist rows, each with a cyan checkmark icon and a short 2-3 word label — 'SOURCES SOUGHT', 'OWN 2 AGENCIES', 'MAP RECOMPETES', 'AGENCY PORTALS', 'INDUSTRY DAYS'. Top left pill label: 'PIPELINE PLAYBOOK'. Background: dark carbon black with cyan accent highlights on each checkmark. Small source line below item 2: 'USAspending.gov'. Bottom: dark carbon-black footer banner full width. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

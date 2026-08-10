@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today (`2026-08-10`):
+
+**Files written:**
+- `drafts/jason/2026-08-10/post.md`
+- `drafts/jason/2026-08-10/post.meta.json`
+- `drafts/jason/2026-08-10/hypothesis.md`
+- `logs/jason/run-2026-08-10.md`
+
+**Decisions made:**
+
+| Field | Value | Reason |
+|---|---|---|
+| `post_type` | `tips_list` | Not used in last 3 Jason runs (milestone/behind_scenes/hot_take) |
+| `topic` | `pipeline` | Unused in Jason's last 5 logs; clear of Josh (sam) and William (teaming) today |
+| `hook_pattern` | `question` | **Cadence rule forced this:** last 3 Jason hooks were all statements (myth-bust × 2, blunt) |
+| `template` | `single-06-checklist` | First-choice for tips_list; dark carbon bg (not repeated 2× in a row) |
+| `format` | `bullets` | → bullets, appropriate for analytical list content |
+
+**Data used:** VA + DoD + DHS + USDA = $22B to small businesses Q2 2026 (USAspending.gov). No other profile used a figure today. Credit line appears in item 2's sub field and image prompt.
+
+**Post angle:** The "you're finding federal opportunities too late" contrarian premise, framed as a question hook — designed to get readers to self-disclose their pipeline stage in comments.
