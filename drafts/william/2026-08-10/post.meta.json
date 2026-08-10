@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · Teaming",
+    "quote_html": "The door into federal contracting is usually one <em>you've already opened commercially.</em>",
+    "footer_left": "One Pattern I Keep Seeing",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "YOUR FIRST TEAM IS IN YOUR NETWORK",
+    "image_prompt": "Infographic story layout. Left side: illustrated vertical two-step journey — step one labeled 'COMMERCIAL WORK' with a green checkmark, step two labeled 'FIRST SUB' with an amber forward arrow. Right side: illustrated professional man in business casual on a phone call, relaxed and confident. Bold headline top center: 'YOUR FIRST TEAM IS IN YOUR NETWORK'. Highlighted callout box at bottom: 'WARM INTRO'. Forest green and amber color palette, clean white background. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

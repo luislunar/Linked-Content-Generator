@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+**Today's post:** `behind_scenes` / `teaming` / `story` hook / `single-03-quote` (cream+serif) / 169 words
+
+The post opens with a call story about an IT owner who had no federal past performance but a five-year commercial relationship that was a ready-made teaming partner. The insight: teaming isn't cold outreach — it's a warm GovCon conversation with someone who already knows your work. Closing line distills it into a quotable line; CTA asks what assumption they had to drop when first exploring federal work.
+
+**Constraints satisfied:**
+- No repeat post_type from last 3 days (tips_list, client_story, personal_story all blocked)
+- Teaming: 6 days since last used, not blocked by any profile today
+- No sam (Josh today), no truth hook (William yesterday), no blunt (Josh today)
+- 169 words — under the 180 mandatory ceiling triggered by 220-word average
+- Template single-03-quote contrasts Josh's single-07-story and William's last two templates
