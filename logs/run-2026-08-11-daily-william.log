@@ -1,0 +1,6 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for `drafts/william/2026-08-11/`:
+
+**Post type:** `personal_story` | **Topic:** `sam` | **Hook:** `question` | **~267 words**
+
+The post opens with the "A question I hear on almost every first call" framing — William's natural voice — then tells a compact call story: a well-qualified prospect who hadn't checked his SAM registration in years, only to discover it had lapsed six months prior with zero notification. The resolution is fast (two-day renewal, application back on track), and the closing CTA asks readers to actually log in and check, not just assume. Template is `single-07-story` (cream+serif), contrasting both Josh's dark navy today and William's recent dark-navy `single-06-checklist` from 08/07.

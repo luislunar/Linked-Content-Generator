@@ -1,0 +1,21 @@
+{
+  "post_type": "personal_story",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Call Log · Case 031",
+    "lead_html": "Six months lapsed. <em>Zero notifications sent.</em>",
+    "rows": [
+      { "when": "The Call", "what_html": "<strong>Everything checked out</strong> <span class='light'>— revenue, NAICS codes, two years in business</span>" },
+      { "when": "The Check", "what_html": "<strong>SAM registration: lapsed</strong> <span class='light'>— six months prior, no alert sent</span>" },
+      { "when": "The Fix", "what_html": "<strong>Renewed in two days</strong> <span class='light'>— application on track, nothing lost</span>" }
+    ],
+    "closer": "SAM DOESN'T WARN YOU. YOU HAVE TO CHECK."
+  },
+  "image_headline": "SAM EXPIRED. NOBODY TOLD YOU.",
+  "image_prompt": "Infographic story layout, forest green and amber color palette on cream background. Bold serif headline at top: 'SAM EXPIRED. NOBODY TOLD YOU.' Left side: three-row vertical timeline with small milestone icons connected by a dotted line. Row 1 short label 'THE CALL' with 2-word callout 'ALL GREEN'; Row 2 short label 'THE CHECK' with 2-word callout 'LAPSED 6 MO' in amber; Row 3 short label 'THE FIX' with 2-word callout 'RENEWED'. Right side: illustrated professional man in blazer seated at a desk, looking at a laptop with a calm, focused expression. One highlighted callout box in amber with short phrase 'SET YOUR REMINDER.' Bottom cream-to-forest-green banner. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
