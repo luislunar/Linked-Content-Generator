@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pricing Alert",
+    "headline_html": "PRICE NOW.<br>LIABILITY<br><span class='accent'>LATER.</span>",
+    "sub": "GSA Basis of Award ties your Schedule rates to your best commercial discounts — get it wrong and the modifications start.",
+    "issue": "Issue 043"
+  },
+  "image_headline": "PRICE NOW. LIABILITY LATER.",
+  "image_prompt": "Dark navy infographic alert layout. Bold centered white headline: 'PRICE NOW. LIABILITY LATER.' Below: two-row comparison grid. Row 1: left label 'YOUR PRICE' with upward arrow icon, right label 'BOA LOCKS IN' with coral lock icon. Row 2: left label 'DISCOUNT GIVEN' with downward arrow in coral, right label 'MODIFICATION DUE' with red warning triangle. Center dividing line in coral. Illustrated professional man in blazer reviewing a contract on a desk, looking concerned. Bottom dark navy banner with short callout label 'FIVE-YEAR COMMITMENT.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
