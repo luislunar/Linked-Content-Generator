@@ -1,16 +1,24 @@
 {
-  "post_type": "hot_take",
-  "topic": "pricing",
-  "hook_pattern": "contrarian",
-  "format": "prose",
-  "template": "single-01-bold",
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "truth",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "tag": "Pricing Alert",
-    "headline_html": "PRICE NOW.<br>LIABILITY<br><span class='accent'>LATER.</span>",
-    "sub": "GSA Basis of Award ties your Schedule rates to your best commercial discounts — get it wrong and the modifications start.",
-    "issue": "Issue 043"
+    "section_label": "Certification Reality",
+    "module": "Module 07 · Certifications",
+    "headline_html": "Five things no one tells you <span class='accent'>before</span> you certify.",
+    "items": [
+      { "title": "Eligibility ≠ wins", "sub": "Certifications open the door — they don't hand you the award." },
+      { "title": "8(a) is nine years", "sub": "Know the timeline. Plan for open-market reality when it ends." },
+      { "title": "SAM lapse = cert suspended", "sub": "Let your registration expire and your certification goes dark with it." },
+      { "title": "Stacking adds lanes, not volume", "sub": "One set-aside type per solicitation — flexibility, not a multiplier." },
+      { "title": "Schedule + cert = easier to buy", "sub": "The vehicle and the lane together make award simpler for agencies." }
+    ],
+    "footer_left": "Know Before You Apply",
+    "footer_right": "Page 1 of 1"
   },
-  "image_headline": "PRICE NOW. LIABILITY LATER.",
-  "image_prompt": "Dark navy infographic alert layout. Bold centered white headline: 'PRICE NOW. LIABILITY LATER.' Below: two-row comparison grid. Row 1: left label 'YOUR PRICE' with upward arrow icon, right label 'BOA LOCKS IN' with coral lock icon. Row 2: left label 'DISCOUNT GIVEN' with downward arrow in coral, right label 'MODIFICATION DUE' with red warning triangle. Center dividing line in coral. Illustrated professional man in blazer reviewing a contract on a desk, looking concerned. Bottom dark navy banner with short callout label 'FIVE-YEAR COMMITMENT.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "image_headline": "WHAT YOUR CERTIFICATION DOESN'T TELL YOU.",
+  "image_prompt": "Infographic checklist layout, dark navy background. Bold white headline top: 'WHAT YOUR CERT DOESN'T TELL YOU.' Below: five horizontal checklist rows with coral check icons and short 2-3 word labels only: 'ELIGIBLE NOT WIN', 'NINE-YEAR CLOCK', 'SAM STAYS ACTIVE', 'LANES NOT VOLUME', 'SCHEDULE PLUS CERT.' Right side: illustrated professional woman in blazer holding a certification document, confident expression. Bottom banner: short callout 'STRATEGY FIRST.' Footer text: 'Josh Ladick · GSA Focus'.",
   "experiment_id": null
 }

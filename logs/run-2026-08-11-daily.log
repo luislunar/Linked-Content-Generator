@@ -1,16 +1,24 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of today's decisions:
+Done. Here's the summary of what was generated:
 
-**Post type:** `hot_take` (last used Aug 4 — 7 days ago, fully available)  
-**Topic:** `pricing` (outside 5-day block window)  
-**Hook:** `contrarian` — flips "what price should I list?" into "what discount policies can I commit to for 5 years?"  
-**Format:** prose (bullets discouraged for hot_take)  
-**Template:** `single-01-bold` (dark navy — needed after two consecutive cream-bg posts)
+---
 
-**The angle:** GSA Basis of Award is the pricing trap most small businesses never see coming. Listing a Schedule price without understanding how BOA connects to your commercial discount practices creates retroactive modification liability. The post names the wrong question first (ICP's actual question), then gives the right one — a classic contrarian structure that drives comments from both burned veterans and surprised early-stage prospects.
+**2026-08-11 — Josh Ladick daily post**
 
-**Files written:**
-- `drafts/2026-08-11/post.md`
-- `drafts/2026-08-11/post.meta.json`
-- `drafts/2026-08-11/hypothesis.md`
-- `logs/run-2026-08-11.md` updated
+- **post_type:** `tips_list`
+- **topic:** `certifications`
+- **hook_pattern:** `truth` ("Nobody tells small businesses what certifications actually unlock...")
+- **template:** `single-06-checklist` (dark navy, 5 items)
+- **format:** numbered prose (no `→` bullets)
+- **word_count:** 262
+
+**5 items on the card:**
+1. Eligibility ≠ wins
+2. 8(a) is nine years
+3. SAM lapse = cert suspended
+4. Stacking adds lanes, not volume
+5. Schedule + cert = easier to buy
+
+**Why this type:** `hot_take/personal_story/client_story` all used in the last 3 days — `tips_list` was the next clean rotation. Certifications is outside the 5-day topic window. The `truth` hook avoids the contrarian/blunt/story patterns used on recent days.
+
+**Community question:** Asks 8(a)/WOSB/SDVOSB/HUBZone holders what the certification has specifically opened up — specific experience-share, not generic opinion.

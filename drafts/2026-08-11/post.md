@@ -1,17 +1,24 @@
-Your GSA price isn't a price. It's a legal commitment.
+Nobody tells small businesses what certifications actually unlock — until they've spent two years chasing the wrong one.
 
-Most small businesses approach GSA Schedule pricing the same way they'd price a commercial job: build in a margin, protect the margin, move on.
+Here are five things you need to know before you start:
 
-That framing is the problem.
+1. Certifications create set-aside eligibility — not set-aside wins.
+Being 8(a) or WOSB certified means you can compete in set-asides. It doesn't mean you automatically win them. The work still has to be competitive.
 
-The GSA Basis of Award (BOA) ties your Schedule rates to the most favorable pricing you offer any comparable commercial customer. Sign a commercial deal at a 20% discount after you're on Schedule? You've likely triggered a modification requirement — sometimes retroactively. Miss it, and you're looking at audit exposure and contract modifications you never planned for.
+2. The 8(a) program is a nine-year commitment, not a shortcut.
+You get nine years in the program. After that, you're back competing in the open market. Know that before you apply — and plan for what comes after.
 
-The question I hear constantly is "what price should I list?" The right question is "what discount policies can I honestly commit to for the next five years?"
+3. SDVOSB and WOSB certifications go dark the moment your SAM.gov registration lapses.
+Let SAM expire mid-contract period and your certification is effectively suspended. This happens more than it should.
 
-Because if those two things don't align, the Schedule becomes a liability instead of an asset.
+4. Stacking certifications doesn't multiply your pipeline.
+Agencies run one solicitation at a time under one set-aside type. Being 8(a) and WOSB doesn't double your opportunities — it adds flexibility, which is a different thing entirely.
 
-Build your GSA price around your actual commercial pricing practices — not around what you think the government wants to see.
+5. A GSA Schedule paired with a certification is where things get interesting.
+The Schedule gives you a vehicle. The certification gives you a lane. Together, they give agencies a simple, compliant path to award — and that makes you measurably easier to do business with.
 
-Which caught you off guard first — pricing too low, or not understanding what Basis of Award actually locks you into?
+Don't treat certifications as a contracting strategy — they amplify one that's already moving.
 
-#govcon #gsa #pricing #federalcontracting #smallbusiness
+If you're 8(a), WOSB, SDVOSB, or HUBZone — what's the most useful thing that certification has actually opened up for you? Specific is better than general here.
+
+#govcon #certifications #gsa #smallbusiness #federalcontracting
