@@ -1,0 +1,9 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary of today's decisions:
+
+**Post type:** `client_story` — not used in Jason's last 3 days; personal_story and hot_take were blocked by William/Josh
+**Topic:** `certifications` — last used by Jason 6 days ago (Aug 5), not used by either other profile today
+**Hook:** `blunt` — skipped `question` (Jason's yesterday + William today) and `contrarian` (Josh today)
+**Template:** `single-05-beforeafter` (cream) — required since last 2 Jason templates were both dark-bg
+
+**The post** kills the "cert = contract vehicle" objection with a concrete prospecting pattern: company with SDVOSB for 3 years, zero federal revenue, no Schedule — then the 3-month turnaround once they added the vehicle. The closing line and CTA aim to pull comments from cert holders stuck in the same gap.

@@ -1,0 +1,19 @@
+{
+  "post_type": "client_story",
+  "topic": "certifications",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "3-Month Unlock",
+    "case_num": "Case · 047",
+    "headline_html": "What changes when the <span class='accent'>vehicle lands.</span>",
+    "before_items": ["Cert held 3 years", "Zero federal revenue", "No contract vehicle"],
+    "after_items": ["Schedule awarded", "Set-aside RFQs landing", "First award pipeline"],
+    "footer_left": "One Real Shift",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "THE CERT ALONE WON'T WIN IT",
+  "image_prompt": "Before/after split infographic, dark carbon black and cream color palette. Left panel cream background, bold dark navy label 'CERT ONLY' at top with a coral minus icon. Three short stacked labels in dark navy text: 'CERT: 3 YEARS', 'REVENUE: ZERO', 'NO VEHICLE'. Right panel dark carbon black background, bold cyan label 'CERT + SCHEDULE' at top with a green check icon. Three short stacked labels in white: 'SCHEDULE ACTIVE', 'RFQS LANDING', 'PIPELINE OPEN'. Thin vertical cyan divider line at center. Illustrated professional man in a sharp dark blazer standing confidently on the right (dark) side, holding a contract folder. Bold headline spanning the full top: 'THE CERT ALONE WON'T WIN IT'. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
