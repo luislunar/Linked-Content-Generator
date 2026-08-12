@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "certifications",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Certifications",
+    "quote_html": "Certifications create eligibility. <em>Not awareness.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "CERTIFIED. STILL INVISIBLE.",
+    "image_prompt": "Infographic story layout, cream background. Left side: illustrated professional in business casual holding an official certification badge, looking at an empty laptop inbox with a confused expression. Three short dark navy labels stacked on the right: 'ELIGIBLE ✓', 'KNOWN?', 'PIPELINE?'. Bold headline top center: 'CERTIFIED. STILL INVISIBLE.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
