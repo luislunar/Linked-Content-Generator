@@ -1,17 +1,24 @@
 {
-  "post_type": "inspiration",
-  "topic": "certifications",
-  "hook_pattern": "truth",
-  "format": "prose",
-  "template": "single-03-quote",
+  "post_type": "tips_list",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "section_label": "Field Note",
-    "index": "No. 029 · Certifications",
-    "quote_html": "Certifications create eligibility. <em>Not awareness.</em>",
-    "footer_left": "One Hard Truth",
-    "footer_right": "Weekly Field Notes",
-    "image_headline": "CERTIFIED. STILL INVISIBLE.",
-    "image_prompt": "Infographic story layout, cream background. Left side: illustrated professional in business casual holding an official certification badge, looking at an empty laptop inbox with a confused expression. Three short dark navy labels stacked on the right: 'ELIGIBLE ✓', 'KNOWN?', 'PIPELINE?'. Bold headline top center: 'CERTIFIED. STILL INVISIBLE.' Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "Teaming Checkpoints",
+    "module": "Module 07 · Teaming",
+    "headline_html": "Five things to check <span class='accent'>before</span> you sign.",
+    "items": [
+      { "title": "Workshare percentage", "sub": "A vague number is not a commitment — get the exact split in writing" },
+      { "title": "Customer relationship ownership", "sub": "If the prime controls all agency contact, you lose visibility when work shifts" },
+      { "title": "Exclusivity clauses", "sub": "Some primes restrict you from pursuing the same opportunity independently" },
+      { "title": "Non-compete scope", "sub": "Broad clauses can freeze you out of an entire agency for years" },
+      { "title": "Performance obligations", "sub": "Undefined deliverables mean shared blame for delays you didn't cause" }
+    ],
+    "footer_left": "Quick Teaming Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "READ BEFORE YOU SIGN.",
+    "image_prompt": "Infographic checklist layout, dark navy background. Bold headline top: 'READ BEFORE YOU SIGN.' with a caution icon. Left: illustrated professional in business blazer holding a contract document, focused expression. Right column: 5 checklist rows with green checkmarks and short 2-3 word labels: 'WORKSHARE %', 'CLIENT OWNERSHIP', 'EXCLUSIVITY', 'NON-COMPETE', 'YOUR OBLIGATIONS'. Bottom teal accent banner with short text 'PROTECT YOUR POSITION'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

@@ -1,11 +1,17 @@
-Nobody talks enough about what happens the week your 8(a), HUBZone, or WOSB certification comes through.
+What does your teaming agreement actually promise you?
 
-The phone doesn't ring. The set-asides don't find you. The badge is real — the pipeline is still empty.
+Most small businesses treat teaming agreements like handshakes. Sign, trust the prime, and hope the work flows in. But the document you sign determines whether you see real subcontracting dollars — or get sidelined once the award lands.
 
-Certifications create eligibility, not awareness. Someone still has to know you exist, trust your capability, and choose to include you in an opportunity. The certification just means you're allowed in the room. It doesn't seat you at the table.
+Five things to read before you sign:
 
-Build the pipeline while you're earning the credential. Not after.
+1. **Workshare percentage.** If it's not a specific number in writing, it's not a commitment.
+2. **Who owns the customer relationship.** If the prime controls all agency contact, you lose visibility when work gets reallocated.
+3. **Exclusivity clauses.** Some primes restrict you from pursuing the same opportunity independently — know what you're giving up.
+4. **Non-compete scope.** A broad clause can freeze you out of an entire agency for the full length of the contract.
+5. **Your performance obligations.** Undefined deliverables mean shared blame for delays you didn't cause.
 
-**Which small business certification creates the most confusion about what it actually delivers? What did you expect vs. what you got?**
+Teaming is a legitimate path into federal contracting. But only when the agreement protects you — not just the prime.
 
-#govcon #smallbusiness #certifications #federalcontracting
+What's one clause you wish someone had warned you about before you signed your first teaming agreement?
+
+#govcon #teaming #federalcontracting #smallbusiness

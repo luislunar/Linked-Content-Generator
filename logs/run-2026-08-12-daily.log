@@ -1,22 +1,23 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the run summary:
+Done. Here's a summary of today's run:
 
 ---
 
-**2026-08-12 · Josh Ladick · GSA Focus**
+**2026-08-12 — Josh Ladick / GSA Focus**
 
-- **Post type:** `inspiration` — excluded hot_take/personal_story/client_story (last 3 days); word constraint < 180 forced a short format
-- **Topic:** `certifications` — free slot (not used in last 5+ days)
-- **Hook:** `truth` — "Nobody talks enough about..." — avoids contrarian used yesterday; shifts from statement to grounded observation
-- **Template:** `single-03-quote` (cream serif) — first choice for inspiration type; alternates from the dark-bg templates of recent days
-- **Word count:** 83 words — well under the < 180 constraint
+| Field | Value |
+|---|---|
+| `post_type` | `tips_list` |
+| `topic` | `teaming` |
+| `hook_pattern` | `question` |
+| `format` | `checklist` |
+| `template` | `single-06-checklist` |
+| `word_count` | ~178 |
 
-**Core idea:** Certifications (8(a), HUBZone, WOSB) create *eligibility*, not *awareness*. The badge doesn't generate pipeline. Small businesses wait months after certification before realizing they still have to do all the same BD work. Build the pipeline in parallel.
+**Why this combination:**
+- Last 3 types (personal_story, hot_take, inspiration) were all excluded → `tips_list` was unused
+- Last 3 hooks were all statement openers → forced a `question` opener today
+- Last 2 formats were prose → numbered checklist breaks the pattern
+- `teaming` hasn't appeared in the visible log history; `sam`/`pricing`/`certifications` were all off-limits
 
-**Community question:** Asks about the certification that creates the most confusion — specific enough to generate real answers, not just reactions.
-
-**Files written:**
-- `drafts/2026-08-12/post.md`
-- `drafts/2026-08-12/post.meta.json`
-- `drafts/2026-08-12/hypothesis.md`
-- `logs/run-2026-08-12.md`
+**Card concept:** Dark navy checklist card — "READ BEFORE YOU SIGN." as the image headline with 5 short labels (WORKSHARE %, CLIENT OWNERSHIP, EXCLUSIVITY, NON-COMPETE, YOUR OBLIGATIONS) and an illustrated professional holding a contract.
