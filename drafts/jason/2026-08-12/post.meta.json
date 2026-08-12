@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "comparison",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pricing Myth",
+    "headline_html": "YOUR GSA RATE<br>IS A<br><span class='accent'>CEILING.</span>",
+    "sub": "The 'undercut commercial' assumption is the wrong problem to solve.",
+    "issue": "Issue 031",
+    "image_headline": "YOUR GSA RATE IS A CEILING",
+    "image_prompt": "Split-panel infographic, dark carbon black background with cyan accent. Left side: bold coral pill label 'WRONG ASSUMPTION' at top. Three short stacked labels in white text with a red X icon: 'UNDERCUT COMMERCIAL', 'PRICE = WEAPON', 'LOWEST WINS'. Illustrated professional man in a dark blazer looking uncertain, holding a spreadsheet. Right side separated by a thin cyan vertical line: bold cyan label 'WHAT'S TRUE' at top. Three stacked labels in cyan with a green checkmark icon: 'RATE = CEILING', 'BOA DEFINES FLOOR', 'JUSTIFY THE NUMBER'. Same illustrated man now confident, holding a contract folder. Bold headline spanning full top in white ALL CAPS: 'YOUR GSA RATE IS A CEILING.' Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

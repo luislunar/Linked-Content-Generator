@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for Jason today:
+
+---
+
+**Post:** `drafts/jason/2026-08-12/`
+
+- **Type:** `hot_take` — avoids Jason's last 3 (client_story, tips_list, milestone) and today's others (inspiration/client_story)
+- **Topic:** `pricing` — not used by Jason in recent rotation; clear of today's certifications (Josh) and pipeline (William)
+- **Hook:** `contrarian` — opens by naming the myth directly, then flips it. Avoids blunt (yesterday) and question (2 days ago)
+- **Format:** `comparison` — Wrong Assumption / What's Actually True structure, breaking the 3-post bullets streak
+- **Template:** `single-01-bold` (dark carbon black + cyan per Jason's theme)
+- **~193 words** — within the 150–300 hot_take range
+
+**Core argument:** GSA Schedule rate is a ceiling, not a competitive weapon. The real game is Basis of Award (your commercial floor), the Price Reductions Clause (a compliance trap most don't know exists), and rate reasonableness over raw cheapness. Closing question invites ICP owners to share their own first pricing misconception.
