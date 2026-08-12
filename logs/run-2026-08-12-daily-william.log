@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**William Hill — 2026-08-12**
+
+**Post type:** `client_story` | **Topic:** `pipeline` | **Hook:** `story` | **Template:** `single-05-beforeafter`
+
+**Angle:** An IT consulting prospect who had done everything right — industry days, agency contacts, SAM.gov monitoring, capability statement ready — but couldn't bid on a single RFQ because he didn't have the GSA Schedule. Every time a solicitation closed, he defaulted to sub position by circumstance, not by choice. The emotional anchor: *"I feel like I've been warming up the market for everybody else."*
+
+**Rotation logic:**
+- `personal_story`, `behind_scenes`, `tips_list` blocked (last 3 days)
+- `inspiration` blocked (Josh today); `certifications` blocked (Josh today); `truth` hook blocked (Josh today); `question` hook blocked (William yesterday)
+- `pipeline` priority 2x/week, last William use 08/06 (6 days out) — clear
+- `story` hook is William's preferred; `single-05-beforeafter` contrasts yesterday's `single-07-story`
+
+**Hypothesis:** Tests whether validating the prospect's existing habits (vs. correcting a mistake) drives stronger reactions and more concrete-answer comments via a specific-opportunity CTA.

@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Turning Point",
+    "case_num": "Case · 031",
+    "headline_html": "All the right pipeline work. <span class='accent'>No vehicle to bid.</span>",
+    "before_items": [
+      "Right contacts, no contract",
+      "RFQs closing unanswered",
+      "Default sub by circumstance"
+    ],
+    "after_items": [
+      "First RFQ response in",
+      "Schedule matches the network",
+      "Pipeline finally pays off"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "PIPELINE READY. MISSING THE VEHICLE.",
+    "image_prompt": "Split-panel infographic, cream and dark navy. Left panel (dark navy): bold label 'BEFORE' at top with red indicator. Three short labels stacked: 'NO CONTRACT VEHICLE', 'RFQS UNANSWERED', 'DEFAULT SUB'. Illustrated professional man in business casual looking frustrated at a laptop screen showing a closed solicitation. Right panel (cream/white): bold label 'AFTER' at top with green indicator. Three short labels: 'SCHEDULE ON', 'FIRST BID IN', 'PIPELINE PAYS'. Illustrated same professional, now confident, submitting a proposal document. Bold headline top center: 'PIPELINE READY. MISSING THE VEHICLE.' Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
