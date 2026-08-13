@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "compliance",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Compliance Check",
+    "module": "Module 05 · Schedule Health",
+    "headline_html": "Five things small businesses forget <span class='accent'>before renewal.</span>",
+    "items": [
+      { "title": "Pricing matches commercial rate", "sub": "Basis of Award drift can trigger retroactive GSA price reductions" },
+      { "title": "SAM.gov registration is active", "sub": "Expired SAM freezes payments and can void contract status" },
+      { "title": "All sales reps are listed", "sub": "Unlisted personnel selling under your Schedule is a compliance breach" },
+      { "title": "Sales reporting current in 72A", "sub": "Late IFF filings are a top trigger for Contractor Assessments" },
+      { "title": "Company info matches everywhere", "sub": "UEI, name, NAICS mismatches across SAM and invoices get flagged" }
+    ],
+    "footer_left": "Schedule Compliance",
+    "footer_right": "Annual Readiness",
+    "image_headline": "CATCH IT BEFORE GSA DOES",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: 'CATCH IT BEFORE GSA DOES' with caution icon. Left side: illustrated professional woman in blazer reviewing a clipboard with a focused expression. Right side: 5 checklist rows, each with a green checkmark and a short 3-word label: 'PRICING DRIFT', 'SAM EXPIRED', 'REPS UNLISTED', 'IFF LATE', 'DATA MISMATCH'. Bottom dark navy banner with white text callout. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

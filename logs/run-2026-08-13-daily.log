@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Three files written to `drafts/2026-08-13/`:
+
+**Post type:** `tips_list` — blocked types from last 3 days (`inspiration`, `hot_take`, `personal_story`) all avoided.
+
+**Key rotation decisions:**
+- **Hook:** `question` — required because last 3 posts all opened with statements
+- **Format:** numbered checklist (no `→`) — breaks two consecutive prose posts
+- **Topic:** `compliance` — avoided certifications, pricing, SAM, pipeline, myths (all used within last 5 days)
+- **Template:** `single-06-checklist` (dark navy) — last two templates were cream/dark alternating, no conflict
+
+**The post:** 5 annual compliance checks every GSA Schedule holder should run — pricing drift, SAM expiration, unlisted reps, IFF reporting, and data mismatches across systems. Closing CTA invites stories about compliance surprises to drive comments.
