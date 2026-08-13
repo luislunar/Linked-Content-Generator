@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-08-13/`:
+
+**Post type:** `behind_scenes` — satisfies length constraint (148 words, well under 180), not used in last 3 days, not used by Josh or William today.
+
+**Topic:** `vehicles` — Jason priority topic, not used in any profile's post today, not used by Jason in the last 5 days.
+
+**Hook:** Opens with the "OASIS+ will replace GSA Schedule" myth — then shows the three questions Jason actually asks on the call to right-size the vehicle. Classic Jason myth-bust: lead with the objection, kill it with the framework.
+
+**Template:** `single-07-story` (cream bg) — visually distinct from the dark-bg posts other profiles ran today.
+
+**CTA:** Specific and open-ended — asks about the vehicle comparison that confused them when starting, not a generic "thoughts?" prompt.

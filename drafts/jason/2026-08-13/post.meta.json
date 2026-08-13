@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "vehicles",
+  "hook_pattern": "myth-bust",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Sales Desk",
+    "year_client": "Call Pattern · Vehicles",
+    "lead_html": "A prospect brings up <em>OASIS+.</em> Here's how I run that call.",
+    "rows": [
+      {
+        "when": "Ask 01",
+        "what_html": "<strong>Set-aside status?</strong> <span class='light'>— no cert + no past performance means OASIS+ unrestricted is a dead end for most small businesses</span>"
+      },
+      {
+        "when": "Ask 02",
+        "what_html": "<strong>What industry?</strong> <span class='light'>— OASIS+ is professional services only; products, construction, staffing don't fit</span>"
+      },
+      {
+        "when": "Ask 03",
+        "what_html": "<strong>What do you want to bid?</strong> <span class='light'>— most land on GSA MAS: 12M+ offerings, no revenue floor, open to new entrants</span>"
+      }
+    ],
+    "closer": "THE VEHICLE FOLLOWS YOUR BUSINESS. NOT THE REVERSE.",
+    "image_headline": "OASIS+ VS GSA: THE REAL CALL",
+    "image_prompt": "Infographic story layout. Cream background. Bold headline top: 'OASIS+ VS GSA: THE REAL CALL'. Left side: illustrated professional man in business casual seated at a desk, phone to ear, laptop open — representing a sales rep mid-call. Right side: three stacked rows labeled 'ASK 01', 'ASK 02', 'ASK 03' in dark navy, each with a 2-3 word answer label beside it: 'SET-ASIDE STATUS?', 'WHAT INDUSTRY?', 'WHAT TO BID?'. Bottom dark navy banner with bold white text: 'VEHICLE FOLLOWS THE BUSINESS.' Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
