@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "First Call Truth",
+    "headline_html": "DO WE<br>EVEN<br><span class='accent'>QUALIFY?</span>",
+    "sub": "Most small businesses asking this question — actually do.",
+    "issue": "Field Note 013"
+  },
+  "experiment_id": "",
+  "image_headline": "DO WE EVEN QUALIFY",
+  "image_prompt": "Infographic truth layout. Dark navy background. Bold headline centered near top: 'DO WE EVEN QUALIFY' in large white sans-serif type. Left third: illustrated professional man in business casual, holding a phone to his ear, slight lean forward — representing a small business owner on a discovery call, expression thoughtful. Right two-thirds: three stacked callout rows in forest-green accent panels, each with a checkmark icon and a short 3-word label: '2 YEARS IN BUSINESS', 'COMMERCIAL REVENUE', 'NAICS CODE FITS' — white type on deep forest-green bands. Below the three rows: a wide amber band with bold white text: 'MOST DO.' in large type. Bottom footer dark navy strip. Footer text: 'William Hill · GSA Focus'."
+}
