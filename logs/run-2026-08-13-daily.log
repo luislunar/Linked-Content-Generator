@@ -1,12 +1,34 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Three files written to `drafts/2026-08-13/`:
+Today's draft was already completed in a previous run this morning. Let me confirm quality by validating against all cadence rules before wrapping up.
 
-**Post type:** `tips_list` — blocked types from last 3 days (`inspiration`, `hot_take`, `personal_story`) all avoided.
+**Rotation audit (last 3 days, no-repeat check):**
+- 08-12: `inspiration` / certifications / truth
+- 08-11: `hot_take` / pricing / contrarian
+- 08-10: `personal_story` / sam / blunt
+- **Today: `tips_list` / compliance / question** — all three are fresh, no repeats ✓
 
-**Key rotation decisions:**
-- **Hook:** `question` — required because last 3 posts all opened with statements
-- **Format:** numbered checklist (no `→`) — breaks two consecutive prose posts
-- **Topic:** `compliance` — avoided certifications, pricing, SAM, pipeline, myths (all used within last 5 days)
-- **Template:** `single-06-checklist` (dark navy) — last two templates were cream/dark alternating, no conflict
+**Additional cadence checks:**
+- Topic `compliance` last used: not in past 5 days ✓
+- Hook `question` not used in last 2 days ✓
+- Last 3 posts averaged ~165 words (83+176+237) — no forced-short rule triggered; 249 words fits `tips_list` range (150–280) ✓
+- Bullet format: numbered `1.` style — breaks the streak of prose-only posts on 08-11 and 08-12 ✓
+- Template: `single-06-checklist` matches `tips_list` first-choice per generator.md ✓
+- Color: last 2 templates were single-03-quote (cream) and single-01-bold (dark) — not both dark, so single-06 (dark) is permitted ✓
+- All `template_data` keys present including `image_headline` and `image_prompt` ✓
+- No lead magnet CTA — community question used instead ✓
+- 5 hashtags including `#govcon` ✓
 
-**The post:** 5 annual compliance checks every GSA Schedule holder should run — pricing drift, SAM expiration, unlisted reps, IFF reporting, and data mismatches across systems. Closing CTA invites stories about compliance surprises to drive comments.
+**Content quality:**
+The five compliance points are specific and accurate (Basis of Award pricing drift, SAM expiration, authorized negotiators in the 72A system, IFF reporting, UEI/name consistency). The closing question ("What's the one compliance gap that surprised you most?") is an experience-share CTA that lowers comment friction by inviting a story.
+
+---
+
+Today's run is already complete and committed (`d3289ea publish: 2026-08-13 daily post`). All files are in order:
+
+- `drafts/2026-08-13/post.md` — 249-word tips_list, compliance, question hook, numbered format
+- `drafts/2026-08-13/post.meta.json` — single-06-checklist, all template_data present
+- `drafts/2026-08-13/hypothesis.md` — complete
+- `drafts/2026-08-13/card.jpg` — rendered
+- `logs/run-2026-08-13.md` — logged
+
+No action needed. The content is solid and all rotation rules are satisfied.
