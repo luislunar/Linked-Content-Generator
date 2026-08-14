@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM.gov Audit",
+    "module": "Module 01 · Readiness",
+    "headline_html": "Five SAM.gov gaps that <span class='accent'>silently</span> block awards.",
+    "items": [
+      { "title": "Registration status", "sub": "Active, expired, or pending — pending holds up awards" },
+      { "title": "NAICS codes", "sub": "Must match what you're actually quoting on" },
+      { "title": "CAGE code accuracy", "sub": "Entity name and EIN must be exact — mismatches flag COs" },
+      { "title": "Points of contact", "sub": "Right people, working emails — stale contacts lose RFQs" },
+      { "title": "Renewal date", "sub": "365-day cycle moves fast — don't let it lapse mid-bid" }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE SAM GAPS THAT BLOCK AWARDS",
+    "image_prompt": "Infographic checklist layout. Dark carbon-black background with cyan accent color, Space Grotesk typography. Bold headline at top: 'FIVE SAM GAPS THAT BLOCK AWARDS' in white. Below: five horizontal checklist rows, each with a small cyan checkbox icon on the left, a short 2-3 word title in white, and a 3-4 word sub-label in muted gray. Left side column: illustrated professional in dark blazer reviewing a laptop displaying a government portal interface, confident posture. Bottom: dark navy banner with short callout text in cyan: 'CHECK YOURS NOW'. Clean, minimal layout with generous spacing. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

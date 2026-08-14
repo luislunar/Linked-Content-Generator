@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-08-14/`:
+
+**Decisions made:**
+| Field | Choice | Reason |
+|---|---|---|
+| `post_type` | `tips_list` | Not in Jason's last 3 days; differs from Josh (`client_story`) and William (`behind_scenes`) today |
+| `topic` | `sam` | Only free topic after excluding: myths/teaming (today's other profiles), vehicles/pricing/certifications/pipeline (Jason's last 4 days) |
+| `hook_pattern` | `blunt` | Jason's preferred set; avoids `myth-bust` (Jason yesterday), `question` (William today), `story` (Josh today) |
+| `template` | `single-06-checklist` | Best fit for SAM audit checklist format |
+
+**Post angle:** "3 out of 5 prospects I talk to have a SAM.gov issue they don't know about" — Jason's call-data framing, 5 specific gaps, blunt closer ("federal buyers don't chase errors"). 158 words, fits within `tips_list` range. Community question invites experience-share responses.
