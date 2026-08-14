@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Four files written. Here's the summary:
+
+**Today's William post — 2026-08-14**
+
+| Field | Value |
+|---|---|
+| `post_type` | `behind_scenes` |
+| `topic` | `myths` |
+| `hook_pattern` | `question` |
+| `format` | `bullets` |
+| `template` | `single-03-quote` |
+| `word_count` | 160 |
+
+**Constraint checks:**
+- Under 180 words ✓ (avg of last 3 = 222.7)
+- No blocked post_type (inspiration/client_story/personal_story all avoided) ✓
+- No topic overlap with Josh today (`teaming`) or blocked 5-day window ✓
+- Hook `question` — valid (last William use 3 days ago; not Josh/Jason today) ✓
+- Certifications avoided — Josh used it 2 days ago, different angle but too close in the feed
+- Bullets format breaks 3 consecutive story-format posts ✓
+- Cream `single-03-quote` card contrasts yesterday's dark navy `single-01-bold` ✓
+
+**The post** opens with a verbatim call objection — the kind William fields weekly — then names four specific myths with short corrective phrases. The closing CTA gives readers four concrete beliefs to respond to, which lowers comment friction and drives the experience-share engagement the scoring formula rewards.

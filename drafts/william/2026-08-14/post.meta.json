@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "myths",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · Myths",
+    "quote_html": "The Schedule doesn't require federal history. <em>It's how you start building one.</em>",
+    "footer_left": "Common Misconceptions",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "MYTHS THAT STOP QUALIFIED COMPANIES",
+    "image_prompt": "Clean pull-quote infographic, cream background with serif typography. Large centered quote text in dark navy: 'THE SCHEDULE DOESN'T REQUIRE FEDERAL HISTORY.' Below it in italic forest-green accent: 'IT'S HOW YOU START BUILDING ONE.' Top left label pill in amber: 'FIELD NOTE'. Small index label top right: 'NO. 031 · MYTHS'. Bottom row: left text 'Common Misconceptions', right text 'Weekly Field Notes', both in small dark navy serif. Minimalist layout — no characters, generous white space. Bottom footer bar in forest green. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
