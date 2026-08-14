@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Teaming to Prime",
+    "case_num": "Case · 031",
+    "headline_html": "How a zero-history firm built <span class='accent'>federal proof.</span>",
+    "before_items": [
+      "No federal past performance",
+      "Outside every solicitation",
+      "Commercial-only revenue"
+    ],
+    "after_items": [
+      "3 CPARS ratings earned",
+      "GSA MAS approved",
+      "First direct award landed"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "NO PAST PERFORMANCE? START SUBBING.",
+    "image_prompt": "Before/after infographic. Left panel dark navy, bold label 'BEFORE' with red X icons, three short 3-word status labels stacked: 'No Federal Work', 'No Past Performance', 'Commercial Only'. Right panel cream/white, bold label 'AFTER' with green checkmarks, three short result labels: '3 CPARS Ratings', 'GSA Approved', 'Direct Awards'. Center: illustrated professional in a suit stepping across a threshold line from dark left to light right side, confident posture. Bold headline top: 'NO PAST PERFORMANCE? START SUBBING.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
