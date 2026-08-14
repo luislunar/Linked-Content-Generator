@@ -1,19 +1,11 @@
-Two years in. Strong commercial revenue. A solid team and a reputation built on delivering results.
+Most GSA Schedule holders don't find out about a recompete until someone else wins it.
 
-And zero federal contracts.
+That's not a shot at anyone — it's a structural problem. The sources sought notice went up on beta.SAM.gov six months ago. The industry day was in April. The award dropped last week. And the holder who should have been positioned found out on usaspending.gov after the fact.
 
-Not because the demand wasn't there — federal agencies award billions to small IT firms every quarter. They just couldn't reach those opportunities without past performance. Every federal solicitation felt like a door that only opens from the inside.
+Inside GSA Focus, we keep what we call a recompete calendar — a rolling 18-month window for each active client, built from beta.SAM.gov NAICS-code watchers and agency procurement history. When a sources sought notice lands in a client's category, it goes into the tracker the same day. Industry days get flagged 90 days out. Pre-brief sessions run 60 days before the RFP window opens.
 
-That's where this firm was when they first called us.
+The firms landing federal awards consistently aren't smarter or better-connected. They're just watching the right signals earlier than everyone else.
 
-Our advice wasn't to immediately file a GSA Schedule application. It was to team. We helped them identify a prime contractor with an active MAS contract in their NAICS code, structured a legitimate subcontracting arrangement, and got them placed on a DOD task order. Twelve months of delivery. Three CPARS ratings. A track record that finally spoke the federal government's language.
+What does your pipeline monitoring process actually look like right now?
 
-Eighteen months later, they submitted their own GSA MAS application — not as an unknown, but as a verified vendor with documented past performance.
-
-Approval came in nine months. Their first direct federal award followed four months after that.
-
-Past performance isn't a wall you wait to climb over. It's a door you walk through with someone else — until the day you can open it on your own.
-
-If you're sitting on solid commercial revenue with zero federal history right now, what's your first move?
-
-#govcon #gsa #federalcontracting #smallbusiness #teaming
+#govcon #gsa #federalcontracting #pipeline #smallbusiness

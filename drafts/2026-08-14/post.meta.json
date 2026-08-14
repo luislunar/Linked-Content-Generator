@@ -1,27 +1,21 @@
 {
-  "post_type": "client_story",
-  "topic": "teaming",
-  "hook_pattern": "story",
-  "format": "story",
-  "template": "single-05-beforeafter",
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "alert",
+  "format": "prose",
+  "template": "single-07-story",
   "template_data": {
-    "section_label": "Teaming to Prime",
-    "case_num": "Case · 031",
-    "headline_html": "How a zero-history firm built <span class='accent'>federal proof.</span>",
-    "before_items": [
-      "No federal past performance",
-      "Outside every solicitation",
-      "Commercial-only revenue"
+    "section_label": "Pipeline Ops",
+    "year_client": "Internal System · Active Clients",
+    "lead_html": "Most Schedule holders discover a recompete <em>after someone else wins it.</em>",
+    "rows": [
+      { "when": "Day 0", "what_html": "<strong>Sources sought lands</strong> <span class='light'>— enters recompete calendar same day via beta.SAM.gov alert</span>" },
+      { "when": "90 Days Out", "what_html": "<strong>Industry day flagged</strong> <span class='light'>— client pre-briefed before the crowd shows up</span>" },
+      { "when": "60 Days Out", "what_html": "<strong>RFP pre-brief runs</strong> <span class='light'>— positioning strategy locked before the window opens</span>" }
     ],
-    "after_items": [
-      "3 CPARS ratings earned",
-      "GSA MAS approved",
-      "First direct award landed"
-    ],
-    "footer_left": "One Real Transformation",
-    "footer_right": "Field Case Series",
-    "image_headline": "NO PAST PERFORMANCE? START SUBBING.",
-    "image_prompt": "Before/after infographic. Left panel dark navy, bold label 'BEFORE' with red X icons, three short 3-word status labels stacked: 'No Federal Work', 'No Past Performance', 'Commercial Only'. Right panel cream/white, bold label 'AFTER' with green checkmarks, three short result labels: '3 CPARS Ratings', 'GSA Approved', 'Direct Awards'. Center: illustrated professional in a suit stepping across a threshold line from dark left to light right side, confident posture. Bold headline top: 'NO PAST PERFORMANCE? START SUBBING.' Footer text: 'Josh Ladick · GSA Focus'."
+    "closer": "WIN THE RACE BEFORE THE GUN FIRES.",
+    "image_headline": "THE RECOMPETE WAS ALREADY HAPPENING.",
+    "image_prompt": "Infographic story layout. Bold alert headline top: 'THE RECOMPETE WAS ALREADY HAPPENING.' with orange warning icon. Left side: illustrated professional at a laptop, multiple beta.SAM.gov browser alert panels visible on screen, focused expression. Right side: vertical timeline with 3 milestones labeled '18 MO OUT', '90 DAYS', '60 DAYS', each with a green checkmark icon. Dark navy callout banner at bottom: short label 'WATCH EARLY · WIN EARLY'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

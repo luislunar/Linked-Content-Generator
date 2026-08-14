@@ -1,18 +1,19 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was generated for **2026-08-14**:
+Done. Here's the summary for today's run:
 
-**Post type:** `client_story` — hadn't appeared in the last 3 days (or 5 visible days).
+---
 
-**Topic:** `teaming` — not used in the last 5 days.
+**2026-08-14 · Josh Ladick · GSA Focus**
 
-**Hook:** `story` — opens in the "before" state rather than a myth-bust or question (both used in last 2 days).
+| Field | Value |
+|---|---|
+| `post_type` | `behind_scenes` |
+| `topic` | `pipeline` |
+| `hook_pattern` | `alert` |
+| `format` | `prose` |
+| `template` | `single-07-story` |
+| `word_count` | ~162 |
 
-**Template:** `single-05-beforeafter` — cream background, good contrast after yesterday's dark `single-06-checklist`.
+**Rotation logic:** Last 3 days were hot_take/inspiration/tips_list, so those were excluded. Alert hook avoids the recent contrarian/truth/question run. Pipeline is fresh — not touched in 5+ days.
 
-**The post** follows a concrete transformation arc: IT firm with zero federal history → teaming with a MAS prime → 3 CPARS ratings → GSA approval → first direct award. The closing line ("It's a door you walk through with someone else") is the central message distilled to a shareable phrase. Community question targets owners at exactly the same starting point.
-
-**Files written:**
-- `drafts/2026-08-14/post.md` (237 words)
-- `drafts/2026-08-14/post.meta.json`
-- `drafts/2026-08-14/hypothesis.md`
-- `logs/run-2026-08-14.md`
+**The post:** Opens with the uncomfortable reality that most GSA holders miss recompetes because they're watching reactively. Reveals GSA Focus's internal "recompete calendar" process (beta.SAM.gov NAICS watchers, 18-month rolling window, 90-day industry day flags, 60-day RFP pre-briefs). Closes with a specific community question designed to surface whether readers have any monitoring system at all.
