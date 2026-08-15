@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Behind the Process",
+    "year_client": "Field Practice · Pipeline",
+    "lead_html": "Real pipeline discipline: <em>here's what it looks like from the inside.</em>",
+    "rows": [
+      {
+        "when": "90 Days Out",
+        "what_html": "<strong>Sources Sought pulled</strong> <span class='light'>— before the RFQ ever drops</span>"
+      },
+      {
+        "when": "Monthly",
+        "what_html": "<strong>Industry days tracked by agency</strong> <span class='light'>— not just by keyword</span>"
+      },
+      {
+        "when": "Weekly",
+        "what_html": "<strong>Recompete tracker reviewed</strong> <span class='light'>— incumbents the buyer is quietly tired of</span>"
+      }
+    ],
+    "closer": "SHOW UP BEFORE THE RFQ DROPS.",
+    "image_headline": "YOUR PIPELINE IS A WISH LIST.",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional man at desk, reviewing a laptop with a checklist spreadsheet visible on screen. Right side: vertical timeline with three milestone markers labeled '90 DAYS OUT', 'MONTHLY', 'WEEKLY', each with a short 2-word label: 'SOURCES SOUGHT', 'INDUSTRY DAYS', 'RECOMPETES'. Bold headline at top: 'YOUR PIPELINE IS A WISH LIST.' Bottom: dark navy banner with white text callout '5-FILTER SAM SEARCH'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

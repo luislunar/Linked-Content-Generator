@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today:
+
+**Post type:** `behind_scenes` | **Topic:** `pipeline` | **Hook:** `blunt` | **Template:** `single-07-story` (cream)
+
+**The post** opens with the blunt observation that most GovCon companies have a wish list, not a pipeline — then reveals the actual discipline: Sources Sought notices pulled 90 days out, SAM.gov Saved Search with five specific filters, a recurring weekly review block. 168 words, pure prose (no bullets), ends with a candid self-report CTA about review cadence.
+
+**Rotation logic:**
+- Type: `behind_scenes` not used in last 3 days ✓
+- Topic: `pipeline` not used in last 5 days ✓  
+- Hook: `blunt` last used Aug 10, not yesterday (`story`) ✓
+- Template: cream bg (`single-07-story`) contrasts with Aug 13's dark navy checklist ✓
+- Length: 168 words — shorter than the 237/249-word posts on Aug 13–14 ✓
+
+Files written to `drafts/2026-08-15/` and `logs/run-2026-08-15.md`.
