@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **2026-08-16**:
+
+**Post type:** `behind_scenes` — not used in the last 5 visible days; word count (147) satisfies the under-180 rule triggered by the last 3 posts averaging ~189 words.
+
+**Topic:** `pipeline` — not touched in the last 5 days (`sam`, `pricing`, `certifications`, `compliance`, `teaming` all used).
+
+**Hook:** `blunt` — drops the reader into the core tension immediately ("wait for the RFP = lose the relationship"). Last hook was `story`; `blunt` not used in 5 days.
+
+**Template:** `single-07-story` (cream + serif lead) — good feed contrast after `single-05-beforeafter` (cream) and `single-06-checklist` (dark navy) on the two prior days.
+
+**The post** names two specific public documents most small business owners have never used: the GSA Acquisition Forecast and SAM.gov Sources Sought notices. The process reveal is grounded in a real Monday cadence — specific enough to feel operational, not advisory. Closing question targets both beginners ("I don't have a system") and veterans ("here's mine"), which maximizes comment diversity.
+
+**Files written:**
+- `drafts/2026-08-16/post.md` (147 words)
+- `drafts/2026-08-16/post.meta.json`
+- `drafts/2026-08-16/hypothesis.md`
+- `logs/run-2026-08-16.md`

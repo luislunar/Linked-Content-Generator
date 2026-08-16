@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Behind the Build",
+    "year_client": "Every Monday · Active Clients",
+    "lead_html": "Most small businesses <em>wait for the RFP.</em> Here's what we do instead.",
+    "rows": [
+      {
+        "when": "Step 01",
+        "what_html": "<strong>Pull the GSA Acquisition Forecast</strong> <span class='light'>— flag every recompete within 12 months in their NAICS codes</span>"
+      },
+      {
+        "when": "Step 02",
+        "what_html": "<strong>Filter SAM.gov Sources Sought notices</strong> <span class='light'>— early signals a contract is being shaped</span>"
+      },
+      {
+        "when": "Step 03",
+        "what_html": "<strong>Drop intel into a client folder</strong> <span class='light'>— who holds it, was it set-aside, what's next</span>"
+      }
+    ],
+    "closer": "PIPELINE IS BUILT BEFORE THE RFP DROPS.",
+    "image_headline": "PIPELINE IS BUILT BEFORE THE RFP DROPS.",
+    "image_prompt": "Story timeline layout. Left side: illustrated professional man at desk, laptop open, reviewing federal documents. Right side: three-step vertical process — '1. FORECAST', '2. SAM SEARCH', '3. CLIENT MAP' — each labeled 1-2 words with small icons. Bold headline top: 'PIPELINE BEFORE THE RFP'. One dark navy callout bar at bottom: short punchy phrase. Light cream background. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
