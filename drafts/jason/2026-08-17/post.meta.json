@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "The Schedule Myth",
+    "case_num": "Case · 031",
+    "headline_html": "What <span class='accent'>actually</span> happens after the approval lands.",
+    "before_items": [
+      "Held Schedule 14 months",
+      "Zero federal awards",
+      "Waited for RFQs to land"
+    ],
+    "after_items": [
+      "Weekly SAM.gov searches",
+      "Sources Sought responses sent",
+      "First award — month 3"
+    ],
+    "footer_left": "One Real Client Shift",
+    "footer_right": "Field Case Series",
+    "image_headline": "THE SCHEDULE IS A DOOR. KNOCK.",
+    "image_prompt": "Split-panel infographic, Jason GSA Focus brand. Left panel dark charcoal background, bold label 'THE MYTH' with red X icon at top. Three short myth labels stacked: 'PASSIVE WAIT', '14 MONTHS', 'ZERO AWARDS' — each in a dark charcoal row with muted text. Right panel white/light background, bold label 'THE REALITY' with teal checkmark at top. Three short reality labels stacked: 'WEEKLY SEARCH', 'SOURCES SOUGHT', 'MONTH 3 WIN' — each with a teal checkmark icon. Center seam: illustrated professional man in a dark blazer walking from the charcoal side through a doorway into the light side, briefcase in hand. Bold headline across the top in all caps: 'THE SCHEDULE IS A DOOR. KNOCK.' Thin dark bottom banner with label 'GSA SCHEDULE · MYTH VS REALITY'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

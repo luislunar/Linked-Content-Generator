@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today (`drafts/jason/2026-08-17/`):
+
+**Post type:** `client_story` — 207 words  
+**Topic:** `myths` (Jason's 2x/week priority; clear of all 5 recent Jason topics and today's Josh/William)  
+**Hook:** Question opener ("How long have you had your GSA Schedule…") satisfying the cadence rule (last 3 posts all started with statements), then myth-bust structure  
+**Template:** `single-05-beforeafter` — before side shows the passive-wait myth (14 months, zero awards), after side shows active behavior (weekly SAM searches, Sources Sought, month-3 win)  
+**Card headline:** `THE SCHEDULE IS A DOOR. KNOCK.`
+
+**Uniqueness check:**
+- Josh (today): pipeline / milestone / blunt / stat card — no overlap
+- William (today): teaming / tips_list / story / numbered card — no overlap
+- No USAspending figures used (Josh already used $15.7B)
