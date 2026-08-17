@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-08-17**:
+
+---
+
+**Post type:** `milestone` — not used in 5+ days, fits the stat anchor perfectly
+**Topic:** `pipeline` — not used in 5+ days; data shows where the money flows
+**Hook:** `blunt` — hard fact lead, not used in last 3 days
+**Template:** `single-04-stat` (dark navy) — appropriate color contrast after two cream-bg posts
+**Word count:** 178 (within 150–250 milestone range)
+**Data used:** $15.7B Q2 2026 small-business awards (USAspending.gov) — first profile to claim this figure today
+
+**Files written:**
+- `drafts/2026-08-17/post.md` — stat-led prose post, no bullets, blunt open, specific community question
+- `drafts/2026-08-17/post.meta.json` — `single-04-stat` template with full `template_data` including image headline and prompt
+- `drafts/2026-08-17/hypothesis.md` — testing blunt/stat hook for reactions + specific question for comment quality
+- `logs/run-2026-08-17.md` — rotation log for tomorrow's agent

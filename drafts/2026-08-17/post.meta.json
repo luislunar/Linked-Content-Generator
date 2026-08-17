@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Small Business Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "Top-8 industry federal awards to small businesses, Q2 2026",
+    "big_number_html": "$<span class='accent'>15.7B</span>",
+    "context_html": "In a single quarter. DoD contributed <strong>$15.3B</strong>, VA added <strong>$3.6B</strong>, GSA routed <strong>$1.6B</strong> — to companies your size.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "$15.7B TO SMALL BUSINESS. ONE QUARTER.",
+    "image_prompt": "Infographic stat layout. Dark navy background. Bold headline top: '$15.7B TO SMALL BUSINESS. ONE QUARTER.' Center: oversized white numeral '$15.7B' with teal accent. Three callout blocks in a row below: label 'DoD $15.3B', label 'VA $3.6B', label 'GSA $1.6B', each in a small rounded white box. Right side: illustrated confident small business owner in blazer, holding a government document, looking forward. Bottom dark banner with label 'Q2 2026 · SMALL BUSINESS AWARDS'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
