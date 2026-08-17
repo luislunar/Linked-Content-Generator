@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William today:
+
+**Post type**: `tips_list` — `single-02-numbered` (cream card)
+**Topic**: `teaming` (William's weighted 1x/week topic; 7 days since last use)
+**Hook**: `story` — opens with a verbatim first-call objection: *"Teaming sounds good in theory. But are we just going to be someone else's sub forever?"*
+**Word count**: ~201 words (within 150–280 range)
+
+**Four tips**:
+1. Start with your warm list — commercial clients/vendors already include primes
+2. You're solving their mandate — primes are required to sub to small businesses
+3. Get it in writing — a signed agreement, not a verbal promise
+4. Log every dollar of sub work — that file becomes your future prime bid
+
+**Uniqueness**: No overlap with Josh (milestone/pipeline/blunt/dark-navy) or Jason (no draft today). Cream card contrasts Josh's dark navy in the feed. No govcon data figure used — Josh already used the $15.7B figure, and teaming is relationship mechanics, not market size.
+
+Files written:
+- `drafts/william/2026-08-17/post.md`
+- `drafts/william/2026-08-17/post.meta.json`
+- `drafts/william/2026-08-17/hypothesis.md`
+- `logs/william/run-2026-08-17.md`

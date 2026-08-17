@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Teaming Basics",
+    "index": "Vol. 05 · Teaming",
+    "headline_html": "Four moves that actually <span class='accent'>build</span> your way in.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Start with your warm list",
+        "desc": "Your commercial clients and vendors include federal primes. That's where to start — not cold outreach."
+      },
+      {
+        "num": "02",
+        "title": "You're solving their mandate",
+        "desc": "Federal primes are contractually required to sub to small businesses. Find them before the solicitation drops."
+      },
+      {
+        "num": "03",
+        "title": "Get it in writing",
+        "desc": "\"We'll work together\" is not a teaming agreement. A signed document is what shows up in your past performance record."
+      },
+      {
+        "num": "04",
+        "title": "Log every dollar of sub work",
+        "desc": "Agency, amount, deliverable. That file is what you bring to your own prime bid two or three years from now."
+      }
+    ],
+    "image_headline": "FOUR MOVES THAT BUILD YOUR WAY IN",
+    "image_prompt": "Infographic numbered breakdown layout. Cream background. Bold headline top: 'FOUR MOVES THAT BUILD YOUR WAY IN'. Left side: illustrated confident professional woman in blazer, holding a clipboard with a checklist, looking toward a building labeled 'FEDERAL PRIME' in the background. Right side: four numbered rows stacked vertically, each with a teal circle number (01–04) and a SHORT 3-word label — '01 WARM LIST', '02 THEIR MANDATE', '03 IN WRITING', '04 LOG IT'. Bottom: light cream banner with label 'SUB → PRIME PATH'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
