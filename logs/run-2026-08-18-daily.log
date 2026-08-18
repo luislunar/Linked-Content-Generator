@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run:
+
+**Post type:** `hot_take` — eligible (last 3 were milestone, client_story, tips_list)
+**Topic:** `sam` — not used in any of the last 5 runs
+**Hook:** `alert` — fresh; last 5 hooks were blunt, story, question, truth, contrarian
+**Template:** `single-01-bold` (dark navy) — color rules satisfied
+**Word count:** 174 — under the 180 ceiling set by the last-3-average rule
+
+**The angle:** SAM.gov registration is the compliance floor, not a market entry strategy. Federal buyers aren't browsing SAM — they're sourcing through vehicles, eBuy, and agency portals. The post corrects the "I registered, now I wait" assumption that traps most new entrants, and closes with a community question designed to surface personal war stories from owners who learned this the hard way.
+
+Files written to `drafts/2026-08-18/`: `post.md`, `post.meta.json`, `hypothesis.md`, and `logs/run-2026-08-18.md`.

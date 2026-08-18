@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "SAM Reality",
+    "headline_html": "SAM.GOV<br>IS NOT<br><span class='accent'>MARKET ENTRY.</span>",
+    "sub": "Registration makes you eligible to receive federal funds. It doesn't make you visible to the buyers awarding them.",
+    "issue": "Issue 031"
+  },
+  "image_headline": "SAM IS THE FLOOR. NOT THE PLAN.",
+  "image_prompt": "Alert-style infographic. Dark navy background. Bold headline top: 'SAM IS THE FLOOR.' Illustrated professional figure standing at an open door, looking in. Left panel: label 'REGISTRATION ONLY' with red X and three 2-word labels: 'JUST ELIGIBLE', 'NO VISIBILITY', 'NO PIPELINE'. Right panel: label 'FULL STRATEGY' with green checks and three 2-word labels: 'CONTRACT VEHICLE', 'ACTIVE PURSUIT', 'BUYER SHORTLIST'. Bottom navy banner with short callout: 'SAM ≠ STRATEGY'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
