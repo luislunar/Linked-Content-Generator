@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-08-18/`:
+
+**Post type:** `milestone` — not used in Jason's last 3 days, not used by Josh or William today.
+
+**Topic:** `gsa_basics` — clean slate (not in Jason's last 5 logs), distinct from Josh's `sam` and William's `certifications` today.
+
+**Hook:** Opens with a question ("When was the last time someone told you…") — required because Jason's last 3 posts all started with statements. Contrarian structure: challenge the belief, then deliver the number that kills it.
+
+**The stat:** $15.3B from DoD to small businesses in Q2 2026 (USAspending.gov) — neither Josh nor William used this figure today. Jason's prescribed angle per `brand-context.md`: lead with the number to kill the "only for big guys" objection.
+
+**Template:** `single-04-stat` (dark carbon + cyan per Jason's `jason` theme). All required keys filled.
+
+**Word count:** ~169 — within the 150–250 range for `milestone`, and under the 180-word cap is not required (last 3 avg was ~171, not >200).

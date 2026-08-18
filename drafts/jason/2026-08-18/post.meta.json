@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "gsa_basics",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "DoD awards to small businesses, Q2 2026",
+    "big_number_html": "$<span class='accent'>15.3B</span>",
+    "context_html": "One agency. One quarter. <strong>Not reserved for big primes</strong> — by federal law.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "image_headline": "DOD PAID SMALL BUSINESS $15.3B IN Q2",
+  "image_prompt": "Bold stat infographic. Dark carbon background with cyan accent color. Space Grotesk typography. Bold headline top: 'DOD PAID SMALL BUSINESS $15.3B IN Q2'. Center: oversized number '$15.3B' in large cyan accent type. Below the number, two short labels side by side — left: icon of a government building with label 'ONE AGENCY', right: calendar icon with label 'ONE QUARTER'. Bottom section: illustrated professional man in business casual holding a federal contract document, looking confident. Dark navy banner across the bottom with short white callout text: 'THE MARKET WAS NEVER CLOSED'. Small source line: 'USAspending.gov'. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
