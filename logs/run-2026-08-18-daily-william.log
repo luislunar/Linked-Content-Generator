@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary for today's William post:
+
+---
+
+**2026-08-18 — William Hill**
+
+**Type:** `client_story` | **Topic:** `certifications` | **Hook:** `question` | **Template:** `single-07-story` | **Words:** 224
+
+**The post** opens with a verbatim first-call question — "Does my WOSB certification actually help me get federal contracts?" — then tells the story of an Atlanta IT consultant who'd had her WOSB for seven years without ever connecting it to set-aside contracts. The resolution ("the hardest part? She'd already done it") lands the emotional payoff. Closes by widening to SDVOSB, HUBZone, and 8(a) holders, then asks the community a specific barrier question to pull high-signal comments.
+
+**Rotation logic:**
+- All 3 recent post types (tips_list, behind_scenes, inspiration) were blocked; client_story last used 08/12 (6 days) ✓
+- All of William's weighted topics unavailable today; certifications fresh in his log and not touched by Josh (sam) or Jason (no draft) ✓
+- `story` hook blocked (yesterday); `question` last used 08/14 — 4 days ago ✓
+- Josh using dark navy today; William's cream+serif card provides feed contrast ✓

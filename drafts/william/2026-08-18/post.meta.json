@@ -1,0 +1,30 @@
+{
+  "post_type": "client_story",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Call 041 · WOSB IT Firm",
+    "lead_html": "Seven years in business. <em>Certification in a folder. Zero federal contracts.</em>",
+    "rows": [
+      {
+        "when": "The Call",
+        "what_html": "<strong>WOSB certified — never connected to federal work</strong> <span class='light'>— set-asides were an unknown opportunity</span>"
+      },
+      {
+        "when": "The Gap",
+        "what_html": "<strong>Set-aside competition: a fraction of open market</strong> <span class='light'>— agencies required to hit WOSB award goals</span>"
+      },
+      {
+        "when": "The Shift",
+        "what_html": "<strong>Certification becomes a market filter</strong> <span class='light'>— buyers actively looking for WOSB holders</span>"
+      }
+    ],
+    "closer": "THE HARDEST PART? SHE'D ALREADY DONE IT."
+  },
+  "image_headline": "YOUR CERTIFICATION IS THE KEY",
+  "image_prompt": "Infographic story layout. Forest green and amber color palette. Bold headline top: 'YOUR CERTIFICATION IS THE KEY'. Illustrated professional woman in blazer holding a folder, standing at a government building entrance. Left side: vertical timeline with 3 milestone icons, each labeled with 2-3 words: 'CERT IGNORED', 'SET-ASIDE POOL', 'DOOR OPENS'. Right side: large amber key graphic overlapping a dark forest-green door. Bottom forest-green banner with short callout: 'THE ADVANTAGE WAS ALWAYS THERE'. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
