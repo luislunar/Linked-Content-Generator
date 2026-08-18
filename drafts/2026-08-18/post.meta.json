@@ -1,16 +1,21 @@
 {
-  "post_type": "hot_take",
-  "topic": "sam",
-  "hook_pattern": "alert",
-  "format": "prose",
-  "template": "single-01-bold",
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-02-numbered",
   "template_data": {
-    "tag": "SAM Reality",
-    "headline_html": "SAM.GOV<br>IS NOT<br><span class='accent'>MARKET ENTRY.</span>",
-    "sub": "Registration makes you eligible to receive federal funds. It doesn't make you visible to the buyers awarding them.",
-    "issue": "Issue 031"
+    "section_label": "Certification Basics",
+    "index": "Vol. 14 · Certifications",
+    "headline_html": "Five things federal <span class='accent'>certifications</span> actually do.",
+    "items": [
+      { "num": "01", "title": "Open set-aside doors", "desc": "Agencies reserve certain contracts for certified firms — you compete in a smaller, better pool." },
+      { "num": "02", "title": "Accelerate past performance", "desc": "Set-aside contracts are smaller and less competitive — fastest path to stacking first wins." },
+      { "num": "03", "title": "Create teaming leverage", "desc": "Primes seek certified subs to hit subcontracting goals. Your cert is their compliance solution." },
+      { "num": "04", "title": "They don't close deals", "desc": "A cert on a dormant Schedule stays dormant. The paperwork doesn't prospect for you." }
+    ]
   },
-  "image_headline": "SAM IS THE FLOOR. NOT THE PLAN.",
-  "image_prompt": "Alert-style infographic. Dark navy background. Bold headline top: 'SAM IS THE FLOOR.' Illustrated professional figure standing at an open door, looking in. Left panel: label 'REGISTRATION ONLY' with red X and three 2-word labels: 'JUST ELIGIBLE', 'NO VISIBILITY', 'NO PIPELINE'. Right panel: label 'FULL STRATEGY' with green checks and three 2-word labels: 'CONTRACT VEHICLE', 'ACTIVE PURSUIT', 'BUYER SHORTLIST'. Bottom navy banner with short callout: 'SAM ≠ STRATEGY'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "image_headline": "CERTIFICATIONS OPEN DOORS. BD CLOSES THEM.",
+  "image_prompt": "Infographic numbered-list layout. Cream background, dark navy accents. Bold headline top: 'CERTIFICATIONS OPEN DOORS. BD CLOSES THEM.' Left side: illustrated professional woman in blazer holding a federal document with a certification badge visible. Right side: four numbered rows with short 2-3 word labels — '01 SET-ASIDE POOL', '02 PAST PERFORMANCE', '03 TEAMING LEVERAGE', '04 STILL YOUR GAME'. Bottom dark navy banner with short callout: 'Tools. Not Guarantees.' Footer text: 'Josh Ladick · GSA Focus'.",
   "experiment_id": null
 }
