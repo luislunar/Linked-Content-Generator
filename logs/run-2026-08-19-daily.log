@@ -1,16 +1,27 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the run summary:
+Done. Here's a summary of today's run:
 
-**Post type:** `tips_list` — not used in last 3 days ✓  
-**Topic:** `pricing` — last used 08-11 (8 days ago) ✓  
-**Hook:** `contrarian` — last used 08-11, not in last 3 days ✓  
-**Template:** `single-02-numbered` (cream) — breaks the last two dark-navy cards ✓  
-**Word count:** ~185 (within 150–280 for tips_list) ✓
+---
 
-**The post** challenges the assumption that GSA pricing is just rate submission, then walks through four mechanics that silently determine competitiveness: Basis of Award definition, the price reduction clause, labor category precision, and pre-submission benchmarking. The price reduction clause is the high-surprise element — most ICP prospects don't know it exists, which should drive both reactions and comments.
+**2026-08-19 Daily Post — Josh Ladick / GSA Focus**
 
-Files written:
-- `drafts/2026-08-19/post.md`
-- `drafts/2026-08-19/post.meta.json`
-- `drafts/2026-08-19/hypothesis.md`
-- `logs/run-2026-08-19.md`
+| Field | Value |
+|---|---|
+| `post_type` | `carousel` |
+| `topic` | `myths` |
+| `hook_pattern` | `myth-bust` |
+| `format` | `comparison` |
+| `template` | `carousel-01-myths` |
+| Word count (caption) | ~94 words |
+
+**Rotation rationale:**
+- Last 3 days used: `milestone` (8/17), `hot_take` (8/18), `tips_list` (8/19 prior run) — all avoided
+- Last carousel: 2026-08-06 (13 days ago) — well past the 4-day minimum
+- Last hook: `contrarian` — chose `myth-bust` for variety
+
+**3 myths covered:**
+1. *"You need past federal performance before GSA will approve you"* → Eligibility requires 2 years in business + $25K revenue, not federal history
+2. *"Getting on Schedule means agencies will call you"* → Schedule removes procurement friction; demand is still on you to generate
+3. *"The application takes a few weeks"* → Typical approval is 6–12 months with pricing audits, CO negotiations, and clarification rounds
+
+**Why this works:** Each myth is a belief ICP prospects use to rule themselves out before filing — making the close slide ("which myth almost stopped you?") a natural comment trigger.

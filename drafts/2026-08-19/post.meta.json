@@ -1,37 +1,37 @@
 {
-  "post_type": "tips_list",
-  "topic": "pricing",
-  "hook_pattern": "contrarian",
-  "format": "numbered",
-  "template": "single-02-numbered",
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "carousel-01-myths",
   "template_data": {
-    "section_label": "Pricing Pitfalls",
-    "index": "Vol. 07 · Pricing",
-    "headline_html": "Four things that <span class='accent'>silently lock</span> your GSA rates.",
-    "items": [
+    "cover": {
+      "top_label": "Field Guide / Vol. 08",
+      "headline_html": "3 myths that <span class='accent'>block</span> your federal entry.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
       {
-        "num": "01",
-        "title": "Basis of Award",
-        "desc": "Tied to your best commercial rate — define it wrong and you carry that discount for the contract's life."
+        "label": "The Past-Performance Block",
+        "myth_text": "You need past federal performance before GSA will approve you.",
+        "reality_text": "GSA Schedule eligibility requires 2 years in business and $25K in revenue — not federal experience. Confusing eligibility with winning task orders is what keeps most businesses from ever applying."
       },
       {
-        "num": "02",
-        "title": "Price reduction clause",
-        "desc": "Lower your commercial price post-award and GSA rates drop automatically. Most don't know this exists."
+        "label": "The Guarantee Assumption",
+        "myth_text": "Getting on Schedule means agencies will start calling you.",
+        "reality_text": "The Schedule removes procurement friction — it doesn't generate demand. You still need to market, respond to RFQs, and build agency relationships. The Schedule opens the door; you still have to walk through it."
       },
       {
-        "num": "03",
-        "title": "Labor category precision",
-        "desc": "Vague SIN descriptions mean agencies can't find you in search. Visibility lives in the definition."
-      },
-      {
-        "num": "04",
-        "title": "Pre-submission benchmarking",
-        "desc": "Know what approved vendors in your SIN charge before you submit. Pricing blind is pricing out."
+        "label": "The Timeline Trap",
+        "myth_text": "The GSA application takes a few weeks if you're organized.",
+        "reality_text": "Typical GSA Schedule approval: 6–12 months from submission to award. Pricing audits, compliance review, CO negotiations, clarification rounds. Plan for it — or get caught by it."
       }
     ],
-    "image_headline": "YOUR RATES ARE LOCKED IN. KNOW THE RULES.",
-    "image_prompt": "Infographic numbered-list layout, cream background. Bold dark-navy headline top: 'YOUR RATES ARE LOCKED IN.' Four numbered rows 01 through 04, each row has a short bold label: '01 BASIS OF AWARD', '02 PRICE REDUCTION', '03 CATEGORY PRECISION', '04 BENCHMARK FIRST'. Each row accented with a small lock icon in coral. Right side: illustrated professional man in suit reviewing a printed contract, expression focused and confident. Thin dark-navy rule separating sections. Footer text: 'Josh Ladick · GSA Focus'."
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which myth almost stopped you?",
+      "close_question": "Drop the assumption you held longest about federal contracting — and what changed your mind."
+    }
   },
   "experiment_id": null
 }
