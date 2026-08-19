@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "checklist",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Cert Check",
+    "headline_html": "YOUR CERT<br>IS NOT YOUR<br><span class='accent'>SALES REP.</span>",
+    "sub": "Here's what each certification actually unlocks — and what it doesn't.",
+    "issue": "No. 019",
+    "image_headline": "YOUR CERT IS NOT YOUR SALES REP",
+    "image_prompt": "Bold-statement infographic, dark charcoal background. Small cyan pill label 'CERT CHECK' in upper-left corner. Bold white headline at top: 'YOUR CERT IS NOT YOUR SALES REP.' Illustrated professional man in business casual attire, confident neutral expression, standing on the left side. Right side: four short white labels stacked vertically — 'SDVOSB', 'WOSB', '8(a)', 'HUBZONE' — each with a small cyan arrow icon pointing right. Thin cyan horizontal rule separating the headline from the label list. Bottom dark bar in deep charcoal with 'No. 019' in small light text. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

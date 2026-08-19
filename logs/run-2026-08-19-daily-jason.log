@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today (`drafts/jason/2026-08-19/`):
+
+**Post type:** `hot_take` | **Topic:** `certifications` | **Hook:** `checklist` | **Template:** `single-01-bold`
+
+**Card headline:** `YOUR CERT / IS NOT YOUR / SALES REP.` (dark charcoal + cyan, Jason theme)
+
+**Post opens with:** "Certification health check. Here's what each one actually unlocks — and what it doesn't." — leads with the checklist hook, then the objection Jason hears most ("I got my 8(a), why is my pipeline empty?").
+
+**Key moves:**
+- Anchors SDVOSB with the VA $3.6B Q2 2026 figure from this week's govcon-data file — kills the "VA market is too niche" objection
+- Four certs decoded in one bullet each (no bloat), then the kicker: none replace a GSA Schedule, they're stackable
+- Closes with a direct pipeline question that invites readers to self-disclose their cert situation — low-barrier comment trigger
+
+**Rotation compliance:** topic/type/hook all clear of Jason's last 3 days and today's Josh (tips_list/pricing/contrarian) and William (personal_story/pipeline/story) posts.
