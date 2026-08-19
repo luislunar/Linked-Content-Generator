@@ -1,0 +1,17 @@
+{
+  "post_type": "personal_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · Pipeline",
+    "quote_html": "The market was never the problem. <em>The search method was.</em>",
+    "footer_left": "A Call Last Week",
+    "footer_right": "William's Weekly Field Notes",
+    "image_headline": "THE MARKET WAS NEVER THE PROBLEM",
+    "image_prompt": "Infographic pull-quote layout, cream background with forest-green and amber accents. Bold dark-navy headline at top: 'THE MARKET WAS NEVER THE PROBLEM'. Center: large pull-quote in serif font — 'The search method was.' in italic. Left: illustrated professional man in business casual on a phone call at a desk, expression thoughtful and engaged. Small forest-green pill label 'PIPELINE' above the quote block. Dark-navy bottom bar: 'FIELD NOTE · No. 031 · PIPELINE'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

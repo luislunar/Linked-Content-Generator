@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's the summary:
+
+**Post:** `personal_story` · `pipeline` · `story` hook · `single-03-quote` template · 222 words
+
+**Core angle:** William recounts a call with an engineering firm owner who had been "looking" for two years — then the $2.5B Q2 2026 Engineering Services figure (USAspending.gov) lands mid-conversation: *"That's just last quarter?"* Four bullet observations on what pipeline-conscious prospects do differently, closing with a pull-quote card: *"The market was never the problem. The search method was."*
+
+**Key decisions:**
+- `pipeline` chosen: highest-weight William topic (2x/week), 7 days since last use, unused by Josh/Jason today
+- `story` hook: William-preferred, distinct from yesterday's `question`; `personal_story` type not in last 3 days
+- `$2.5B Engineering Services` figure: distinct from Josh's $15.7B combined figure used 08/17 (not today); cited `Source · USAspending.gov` in post body
+- `single-03-quote`: pull-quote card visually distinct from Josh's numbered-list cream card today
