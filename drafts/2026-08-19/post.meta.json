@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "numbered",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Pricing Pitfalls",
+    "index": "Vol. 07 · Pricing",
+    "headline_html": "Four things that <span class='accent'>silently lock</span> your GSA rates.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Basis of Award",
+        "desc": "Tied to your best commercial rate — define it wrong and you carry that discount for the contract's life."
+      },
+      {
+        "num": "02",
+        "title": "Price reduction clause",
+        "desc": "Lower your commercial price post-award and GSA rates drop automatically. Most don't know this exists."
+      },
+      {
+        "num": "03",
+        "title": "Labor category precision",
+        "desc": "Vague SIN descriptions mean agencies can't find you in search. Visibility lives in the definition."
+      },
+      {
+        "num": "04",
+        "title": "Pre-submission benchmarking",
+        "desc": "Know what approved vendors in your SIN charge before you submit. Pricing blind is pricing out."
+      }
+    ],
+    "image_headline": "YOUR RATES ARE LOCKED IN. KNOW THE RULES.",
+    "image_prompt": "Infographic numbered-list layout, cream background. Bold dark-navy headline top: 'YOUR RATES ARE LOCKED IN.' Four numbered rows 01 through 04, each row has a short bold label: '01 BASIS OF AWARD', '02 PRICE REDUCTION', '03 CATEGORY PRECISION', '04 BENCHMARK FIRST'. Each row accented with a small lock icon in coral. Right side: illustrated professional man in suit reviewing a printed contract, expression focused and confident. Thin dark-navy rule separating sections. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

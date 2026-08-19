@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the run summary:
+
+**Post type:** `tips_list` — not used in last 3 days ✓  
+**Topic:** `pricing` — last used 08-11 (8 days ago) ✓  
+**Hook:** `contrarian` — last used 08-11, not in last 3 days ✓  
+**Template:** `single-02-numbered` (cream) — breaks the last two dark-navy cards ✓  
+**Word count:** ~185 (within 150–280 for tips_list) ✓
+
+**The post** challenges the assumption that GSA pricing is just rate submission, then walks through four mechanics that silently determine competitiveness: Basis of Award definition, the price reduction clause, labor category precision, and pre-submission benchmarking. The price reduction clause is the high-surprise element — most ICP prospects don't know it exists, which should drive both reactions and comments.
+
+Files written:
+- `drafts/2026-08-19/post.md`
+- `drafts/2026-08-19/post.meta.json`
+- `drafts/2026-08-19/hypothesis.md`
+- `logs/run-2026-08-19.md`
