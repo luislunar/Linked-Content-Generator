@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Today's draft is in `drafts/2026-08-20/`.
+
+**What was produced:**
+
+- **post_type:** `personal_story` (not used in last 3 days)
+- **topic:** `certifications` (last used: not in recent rotation)
+- **hook_pattern:** `truth` — breaks the `contrarian → alert → blunt` streak
+- **template:** `single-07-story` (cream bg — breaks 3 consecutive dark-bg posts)
+- **word_count:** ~199 words
+
+**The post:** A 3-paragraph narrative about a WOSB holder who had her certification for 14 months with zero awards. The core truth — certifications signal eligibility, they don't build pipeline — is delivered through a specific client moment rather than a list, giving the ICP a mirror to look into. The card timeline (Cert Arrives → Still Waiting → Calls Me) maps directly to the `single-07-story` template rows. CTA asks for a concrete weekly habit, designed to pull comments from both active practitioners (who share what they do) and passive holders (who feel the productive friction).

@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "certifications",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "14 Months · Zero Awards",
+    "lead_html": "Her <em>WOSB certification</em> wasn't broken.<br>Her follow-up was.",
+    "rows": [
+      {
+        "when": "Month 01–06",
+        "what_html": "<strong>Certification arrives</strong> <span class='light'>— she waits for the government to come calling</span>"
+      },
+      {
+        "when": "Month 07–10",
+        "what_html": "<strong>Still waiting</strong> <span class='light'>— no capability statement sent, no CO outreach, no bids submitted</span>"
+      },
+      {
+        "when": "Month 11–14",
+        "what_html": "<strong>Calls me</strong> <span class='light'>— \"my certification isn't working.\" It is. You aren't.</span>"
+      }
+    ],
+    "closer": "THE CERT OPENS THE DOOR. YOU STILL HAVE TO KNOCK.",
+    "image_headline": "THE CERT OPENS THE DOOR. KNOCK.",
+    "image_prompt": "Infographic story layout. Light cream background. Left side: illustrated vertical timeline with 3 milestone icons labeled 'CERT ARRIVES', 'STILL WAITING', 'CALLS FOR HELP'. Right side: illustrated professional woman in blazer standing at an open doorway, arms at sides, not entering. Bold headline top: 'THE CERT OPENS THE DOOR.' Highlighted callout box center-right: 'YOU STILL HAVE TO KNOCK.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
