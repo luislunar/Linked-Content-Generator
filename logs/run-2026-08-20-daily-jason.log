@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's Jason draft:
+
+**Topic:** `pricing` — four GSA Schedule pricing mistakes Jason sees in proposals every week
+**Post type:** `tips_list` | **Template:** `single-02-numbered` (cream — breaks 2-day dark streak)
+**Hook:** `question` — "Before you finalize your GSA Schedule rates, read this." (breaks 3-day statement streak)
+**Format:** numbered breakdown (01–04: MFC pricing, IFF 0.75%, EPA clause, CLIN bundling)
+**Word count:** ~251 (within the 150–280 range)
+
+**Uniqueness check passed:**
+- Topic `pricing` not used by Josh (`certifications`) or William (`sam`) today, and not by Jason in last 5+ days
+- `tips_list` not used by Josh (`personal_story`) or William (`hot_take`) today, and not by Jason in last 3 days
+
+Files written: `post.md`, `post.meta.json`, `hypothesis.md`, `logs/jason/run-2026-08-20.md`

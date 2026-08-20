@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Pricing Mistakes",
+    "index": "Vol. 04 · Pricing",
+    "headline_html": "Four numbers that <span class='accent'>silently kill</span> your GSA margins.",
+    "items": [
+      {
+        "num": "01",
+        "title": "MFC pricing skipped",
+        "desc": "GSA needs your best commercial rate. Quote a higher number and the CO finds it in negotiations — every time."
+      },
+      {
+        "num": "02",
+        "title": "IFF not baked in",
+        "desc": "The 0.75% Industrial Funding Fee comes off every award automatically. Miss it and it eats margin for the contract's life."
+      },
+      {
+        "num": "03",
+        "title": "No EPA ceiling",
+        "desc": "Rates lock in at award. Without an escalation clause, inflation quietly closes your margin over five years."
+      },
+      {
+        "num": "04",
+        "title": "One CLIN for everything",
+        "desc": "COs shop by labor category. Bundle mixed skills under one rate and you lose every RFQ that needs a cheaper option."
+      }
+    ],
+    "image_headline": "FOUR GSA PRICING MISTAKES TO FIX",
+    "image_prompt": "Infographic numbered breakdown layout. Cream off-white background. Bold top section label 'PRICING MISTAKES' in dark charcoal, small caps. Below: four clean horizontal rows numbered 01 through 04, each row has a cyan accent number on the left, a bold 3-word title center-left, and a short 2-word icon label on the right (dollar icon, percent icon, calendar icon, split-column icon). Center top: bold headline 'FOUR GSA PRICING MISTAKES TO FIX' in dark charcoal. Right side: illustrated professional man in blazer reviewing a proposal document at a desk, looking focused. Color palette: cream background, dark charcoal text, cyan (#00C8D7) accent on numbers and highlights. Clean, minimal, data-forward typography. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
