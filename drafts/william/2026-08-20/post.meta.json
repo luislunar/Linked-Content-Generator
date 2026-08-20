@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "SAM Alert",
+    "headline_html": "YOUR SAM<br>MAY BE<br><span class='accent'>EXPIRED.</span>",
+    "sub": "One lapsed registration can pause your entire federal pipeline — here's how to check in 5 minutes.",
+    "issue": "Field Note 021",
+    "image_headline": "YOUR SAM MAY BE EXPIRED",
+    "image_prompt": "Infographic alert layout. Dark navy background. Bold warning headline top: 'YOUR SAM MAY BE EXPIRED' with caution icon. Left column: illustrated professional man in blazer seated at desk, looking at laptop with a concerned expression. Right column: 3 checklist rows with color-coded indicators — red X icon next to label 'EXPIRED DATE', yellow warning icon next to 'STALE CONTACTS', green check icon next to 'NAICS UPDATED'. Bottom: dark navy callout banner with short text 'RENEWAL TAKES MINUTES.' Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

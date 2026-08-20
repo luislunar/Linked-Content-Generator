@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written to `drafts/william/2026-08-20/`:
+
+---
+
+**post.md** (172 words — under the forced-<180 constraint)
+
+Opens with William's characteristic question hook ("when did you last actually log into SAM.gov?"), then surfaces the specific call scenario he hears constantly: SAM lapsed without the owner noticing. Three tightly-written bullets cover expiration date, POC staleness, and NAICS accuracy. Closes with a community question targeting a specific discovery moment rather than a general opinion.
+
+**post.meta.json**
+- `post_type`: `hot_take` (not used by William in any recent log)
+- `topic`: `sam` (last used 08/11 — 9 days ago; priority topic for William)
+- `hook_pattern`: `question` (William-preferred; last used 2 days ago, valid)
+- `template`: `single-01-bold` (dark navy — breaks two consecutive cream templates)
+
+**hypothesis.md** — tests whether a specific-audit question hook drives higher comment quality than story-led posts; expects movements in reaction rate (SAM anxiety is universal) and comment specificity.
+
+**run log** appended with all required fields.
