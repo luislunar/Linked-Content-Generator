@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Four files written to `drafts/jason/2026-08-21/`.
+
+---
+
+**Today's decisions:**
+
+| Field | Choice | Reason |
+|---|---|---|
+| `post_type` | `behind_scenes` | Last 3 used `tips_list`, `hot_take`, `milestone` — all excluded |
+| `topic` | `vehicles` | Priority topic for Jason; fresh (not in last 5 days); not used by Josh/William today |
+| `hook_pattern` | `blunt` | Last used Aug 14; avoids `question`/`checklist`/`contrarian` from recent days |
+| `format` | `comparison` | Natural fit for vehicle comparison; different from last 3 posts |
+| `template` | `single-07-story` | Cream bg — required since last 2 templates were dark navy (`single-06`, `single-01`) |
+
+**Post angle:** Jason as a sales rep who runs through a vehicle comparison on every evaluation call — GSA MAS vs OASIS+ vs SEWP/CIO-SP4. The hook calls out the default behavior ("everyone asks for the Schedule, fewer ask if it's the right one") and the closing line translates it to a concrete cost: 6–12 months of backtracking. Community question invites readers to share which vehicle they're pursuing and why.

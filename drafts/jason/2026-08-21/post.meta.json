@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "vehicles",
+  "hook_pattern": "blunt",
+  "format": "comparison",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "From The Sales Floor",
+    "lead_html": "Most companies ask for a Schedule. <em>Fewer ask if it's the right vehicle.</em>",
+    "rows": [
+      {
+        "when": "GSA MAS",
+        "what_html": "<strong>Broad commercial access</strong> <span class='light'>— 20,000+ holders, high competition</span>"
+      },
+      {
+        "when": "OASIS+",
+        "what_html": "<strong>Professional services task orders</strong> <span class='light'>— tougher eval, stronger field</span>"
+      },
+      {
+        "when": "SEWP / CIO-SP4",
+        "what_html": "<strong>IT hardware & solutions</strong> <span class='light'>— tighter scope, thinner competition</span>"
+      }
+    ],
+    "closer": "PICK THE VEHICLE THAT FITS. NOT THE ONE THAT SOUNDS FAMILIAR.",
+    "image_headline": "PICK THE RIGHT VEHICLE FIRST",
+    "image_prompt": "Three-row comparison infographic, cream/white background with Space Grotesk typography. Each row: left cell dark charcoal with bold short vehicle name ('GSA MAS', 'OASIS+', 'SEWP / CIO-SP4') in cyan accent; right cell white with a 3-word outcome label and a small icon (grid, gear, laptop). Bold headline at top: 'PICK THE RIGHT VEHICLE FIRST'. Illustrated professional man in business casual stands at left, holding a decision-tree clipboard. Bottom callout bar in dark charcoal with short white phrase: 'FIT OVER FAMILIARITY'. Clean lines, cyan highlights, charcoal and white zones. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
