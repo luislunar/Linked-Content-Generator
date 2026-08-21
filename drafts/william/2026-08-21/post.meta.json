@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 021 · GSA Basics",
+    "quote_html": "The Schedule makes you <em>eligible.</em><br>Eligible is not the same as <em>winning.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "ELIGIBLE IS NOT THE SAME AS WINNING",
+    "image_prompt": "Infographic story layout. Split horizontally: top half dark navy showing 'APPROVED' milestone with a green checkmark icon and label 'STEP ONE'; bottom half cream/white showing 'WINNING' milestone with an amber question mark icon and label 'STEP TWO'. A bold dashed arrow separates the two zones, labeled 'THE GAP'. Illustrated professional man in business casual stands at left, friendly expression, one hand open in a consultative gesture — warm and approachable. Bold headline across top: 'ELIGIBLE IS NOT THE SAME AS WINNING'. One amber callout box with short phrase: 'WHAT COMES NEXT?'. Forest green and amber accent colors throughout, Sora typography. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

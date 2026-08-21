@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William today (2026-08-21):
+
+---
+
+**Post type:** `inspiration` — 131 words (well under the <180 constraint triggered by 3-day avg of 206)
+
+**Topic:** `gsa_basics` — last used by William on 08/13 (8 days ago); not touched by Josh (teaming) or Jason today
+
+**Hook:** `truth` — "Nobody talks enough about..." — William's preferred hook; question was blocked (used yesterday), story was blocked (Josh today)
+
+**Template:** `single-03-quote` (cream+serif) — pull quote: *"The Schedule makes you eligible. Eligible is not the same as winning."*
+
+**Core angle:** The most common first-call misconception William hears — that Schedule approval = incoming contracts. Reframes it publicly: approval is the starting line, not the finish line. Short, punchy, conversational. Closes with a specific experience-share CTA asking what surprised them most about the post-approval picture.
+
+**No conflicts:** different topic, post_type, hook, and template from Josh's teaming/client_story/story post today.
