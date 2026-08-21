@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Teaming Win",
+    "case_num": "Case · 031",
+    "headline_html": "How a <span class='accent'>teaming agreement</span> unlocked the federal door.",
+    "before_items": [
+      "Zero federal contracts",
+      "No past performance",
+      "Commercial only"
+    ],
+    "after_items": [
+      "First award, month six",
+      "Past performance on file",
+      "GSA Schedule approved"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "TEAMING UNLOCKED THE FEDERAL DOOR",
+    "image_prompt": "Split before/after panel infographic. Left panel dark navy, bold label 'BEFORE' with red X icons. Three short 2-3 word labels: 'NO CONTRACTS', 'NO PAST PERF', 'COMMERCIAL ONLY'. Right panel cream/white, bold label 'AFTER' with green checkmarks. Three short 2-3 word labels: 'FIRST AWARD', 'PAST PERF BUILT', 'GSA APPROVED'. Center: illustrated professional in suit stepping through a doorway from dark left to light right side. Bold headline top: 'TEAMING UNLOCKED THE FEDERAL DOOR'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
