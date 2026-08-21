@@ -1,17 +1,14 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for 2026-08-21:
+Today's run for 2026-08-21 is already complete. The drafts were generated, committed, and published in commit `9e14983`.
 
-**Post type:** `client_story` — not used in the last 3 days (previous: personal_story, tips_list, hot_take)
-**Topic:** `teaming` — clear of the 5-day repeat window (recent: certifications, pricing, sam)
-**Hook:** `story` — required because all 3 prior hooks were statements (truth, contrarian, alert)
-**Format:** prose, no bullets (serving the 40% non-bullet rotation)
-**Template:** `single-05-beforeafter` (cream+navy split, first choice for client_story)
-**Word count:** ~261 words (within the 200–300 target for client_story)
+**What ran today:**
+- **Post type:** `client_story`
+- **Topic:** `teaming`
+- **Hook pattern:** `story` (in media res — "They had everything...")
+- **Format:** prose (no bullets — serving the 40% non-bullet rotation)
+- **Template:** `single-05-beforeafter`
+- **Word count:** 261
 
-**The post** opens in media res on a commercial IT firm that hit the past-performance wall, then walks through how a teaming agreement with a DoD prime gave them their first federal citation and eventually a GSA Schedule approval. The closing CTA offers a specific binary choice (finding the right prime vs. structuring the agreement) to lower comment friction.
+**Content summary:** A client with strong commercial IT credentials but zero federal footprint used a teaming agreement with an established DoD prime to build their first past performance citation, then secured a GSA Schedule 12 months later. The closing CTA asks whether the harder part is finding the right prime or structuring the agreement — a binary choice designed to lower friction to comment.
 
-Files written:
-- `drafts/2026-08-21/post.md`
-- `drafts/2026-08-21/post.meta.json`
-- `drafts/2026-08-21/hypothesis.md`
-- `logs/run-2026-08-21.md`
+All four draft files (`post.md`, `post.meta.json`, `hypothesis.md`, `card.jpg`) and the run log (`run-2026-08-21.md`) are committed. No further action is needed for today.
