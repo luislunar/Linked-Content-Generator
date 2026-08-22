@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "gsa_basics",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "GSA Basics",
+    "headline_html": "$1.6B<br>ONE<br><span class='accent'>QUARTER.</span>",
+    "sub": "Q2 2026: GSA awarded $1.6B to small businesses. The bottleneck is the paperwork, not eligibility.",
+    "issue": "Issue 022",
+    "image_headline": "1.6 BILLION. ONE QUARTER. YOUR MARKET.",
+    "image_prompt": "Dark navy infographic, stat layout. Bold top headline: '1.6 BILLION ONE QUARTER'. Large accent number center '$1.6B' with label 'Q2 2026 · GSA AWARDS'. Left side: illustrated professional in business casual, confident posture near government building icon. Right side: three short callout labels — 'ONE VEHICLE', 'HUNDREDS OF AGENCIES', 'YOUR RATES'. Bottom dark teal banner: '100+ HOURS IS THE BARRIER'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

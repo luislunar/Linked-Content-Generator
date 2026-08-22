@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary:
+
+**2026-08-22 · Josh Ladick · GSA Focus**
+
+- **Type:** `hot_take` — satisfies the 3-day exclusion (no repeat of client_story/personal_story/tips_list)
+- **Topic:** `gsa_basics` — unused in the last 5 days
+- **Hook:** `question` — required because last 3 posts all used statement openers
+- **Template:** `single-01-bold` (dark navy) — required because last 2 posts used cream-bg templates
+- **Word count:** ~167 — under the 180 mandate (last 3 posts averaged 215)
+- **Data:** $1.6B in Q2 2026 GSA awards to small businesses (USAspending.gov) — no other profile used this figure today
+- **Format:** prose, no bullets — breaks the bullet streak from recent days
+- **CTA:** Specific two-segment question targeting both non-applicants and dormant holders
+
+Files written to `drafts/2026-08-22/`: `post.md`, `post.meta.json`, `hypothesis.md`. Log appended to `logs/run-2026-08-22.md`.
