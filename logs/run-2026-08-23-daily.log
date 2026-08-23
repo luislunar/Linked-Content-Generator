@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Run complete. Here's what was produced for **2026-08-23**:
+
+---
+
+**Post type:** `inspiration` (not used in last 3 days)  
+**Topic:** `compliance` (not used in last 5 days)  
+**Hook:** `myth-bust` — opens with the "set it and forget it" myth, then corrects it  
+**Format:** prose, no bullets — visual break from the last three story/numbered posts  
+**Template:** `single-01-bold` (dark navy) — color contrast after two consecutive cream `single-07-story` cards  
+**Word count:** 113 — satisfies the <180 requirement triggered by last 3 posts averaging 215 words
+
+**Central idea:** "Once you're on the GSA Schedule, the hard work is done" is one of the most expensive myths in GovCon. The post names the four real ongoing obligations (SAM renewal, pricing mods, TAA reviews, audit responses) and closes with a direct community question targeting current Schedule holders.
+
+**Files written:**
+- `drafts/2026-08-23/post.md`
+- `drafts/2026-08-23/post.meta.json`
+- `drafts/2026-08-23/hypothesis.md`
+- `logs/run-2026-08-23.md`

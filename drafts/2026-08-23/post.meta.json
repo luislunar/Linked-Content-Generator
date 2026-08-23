@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "compliance",
+  "hook_pattern": "myth-bust",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Compliance Alert",
+    "headline_html": "THE SCHEDULE<br>ISN'T<br><span class='accent'>A TROPHY.</span>",
+    "sub": "Annual renewals, pricing mods, TAA reviews — miss one and GSA can cancel without warning.",
+    "issue": "Issue 023",
+    "image_headline": "THE SCHEDULE ISN'T A TROPHY.",
+    "image_prompt": "Dark navy bold statement card. Coral pill label top-left: 'COMPLIANCE ALERT'. Centered ALL CAPS headline: 'THE SCHEDULE ISN'T A TROPHY.' Below: two short supporting lines in white. Right side: illustrated professional in blazer holding a thick contract binder with a red warning badge overlay. Left side: large caution icon in muted red. Dark navy background throughout. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
