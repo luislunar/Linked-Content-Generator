@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-08-24**:
+
+---
+
+**Post type:** `client_story` — last used 6 days ago, distinct from Josh (`hot_take`) and Jason (`behind_scenes`) today
+
+**Topic:** `teaming` — William's weighted priority (1x/week), last used 7 days ago, not used by either profile today
+
+**Hook:** `story` — William's preferred, not yesterday's `truth`, not Josh's `question` today
+
+**Template:** `single-05-beforeafter` (cream+navy split) — visually distinct from Josh's dark navy and Jason's cream story card
+
+**Govcon data:** VA $3.6B to small businesses Q2 2026, introduced mid-narrative as the "aha" moment in the call story rather than as a lead stat — fits William's call-based voice and doesn't duplicate any figure used by others today
+
+**Word count:** 206 — within `client_story` range (200–300), no compression constraint triggered (last-3 avg was 175)
+
+**CTA:** "What's the real reason you haven't had the teaming conversation yet?" — self-disclosure prompt targeting the specific inaction barrier, designed to surface high-signal comments from the ICP

@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Teaming Win",
+    "case_num": "Case · 018",
+    "headline_html": "How she went from <span class='accent'>watching VA bids</span> to building a pipeline.",
+    "before_items": [
+      "No federal contracts",
+      "Blocked by past perf req.",
+      "VA doors stayed closed"
+    ],
+    "after_items": [
+      "Two teaming partners in talks",
+      "First federal proposal in",
+      "VA pipeline actively building"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "TEAMING IS THE ON-RAMP",
+    "image_prompt": "Split before/after panel infographic. Left panel dark navy, bold label 'BEFORE' with red X icons. Three short labels: 'NO PAST PERF', 'WATCHING NOT BIDDING', 'VA DOORS CLOSED'. Right panel cream/white, bold label 'AFTER' with green checkmarks. Three short labels: 'TEAMING PARTNER FOUND', 'FIRST PROPOSAL IN', 'VA PIPELINE LIVE'. Center: illustrated professional woman in business blazer stepping from dark left to light right, holding a folder. Bold headline top: 'TEAMING IS THE ON-RAMP'. Forest green and amber accent highlights on headline and checkmarks. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
