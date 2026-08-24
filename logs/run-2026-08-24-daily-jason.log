@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-08-24/`:
+
+**Post type:** `milestone` — not used by Jason in 3 days, not used by Josh/William today.
+
+**Topic:** `myths` — Jason's 2x/week priority topic, last used 7 days ago. Josh took `compliance`, William took `teaming` today.
+
+**Hook:** `myth-bust` — last used 08-17 (7 days). Josh used `question`, William used `story` today. Fresh for Jason.
+
+**Data used:** DoD $17.6B to small businesses in Q2 2026 (USAspending.gov). William already used the VA $3.6B figure, so this is clean.
+
+**Template:** `single-04-stat` (dark navy) — correct first-choice for `milestone`. All required keys populated.
+
+**Word count:** ~197 — within the 150–250 word range for `milestone`.
+
+**Voice check:** Numbers-driven ("I hear this on almost every first call", "Here's what I see in calls every week"), no founder claims, analytical and blunt — squarely Jason's lane.

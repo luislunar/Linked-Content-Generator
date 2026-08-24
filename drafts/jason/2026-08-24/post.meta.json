@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Small Business Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "DoD awards to small businesses, Q2 2026",
+    "big_number_html": "$<span class='accent'>17.6B</span>",
+    "context_html": "One quarter. One agency. <strong>Small businesses only.</strong> The market isn't closed — it's contract-vehicle gated.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "THE DOOR ISN'T LOCKED",
+    "image_prompt": "Dark navy infographic, stat-focused layout. Bold headline top: 'THE DOOR ISN'T LOCKED'. Large centered stat: '$17.6B' in cyan accent color. Below: short 3-word label 'DOD SMALL BUSINESS' in white. Left side: illustrated professional man in blazer reviewing a tablet with data, looking confident. Right side: three short 2-3 word callout labels with green check icons: 'Q2 2026', 'ONE QUARTER', 'SMALL BIZ ONLY'. Bottom strip dark navy with white text: 'Source: USAspending.gov'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
