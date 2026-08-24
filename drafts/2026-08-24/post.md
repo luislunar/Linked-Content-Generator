@@ -1,13 +1,13 @@
-Before you submit that next RFQ response — is your GSA Schedule actually compliant?
+Every Friday, our team runs the same search on USASpending.gov.
 
-Most holders treat their Schedule like a trophy. Get approved, win a few bids, repeat. But a GSA Schedule is a living contract. Every year you're required to re-certify in SAM.gov, update pricing when commercial rates change, and confirm your offerings still meet Trade Agreements Act (TAA) requirements.
+Filter by NAICS code. Award end date within the next 120 days. Export. What comes back is what we call the "recompete hot list" — a plain spreadsheet, maybe 40–50 rows, showing real federal contracts already awarded to companies the same size as our clients, in their exact industry, that are about to come back up for bid.
 
-I've seen companies mid-bid when GSA flagged a compliance gap they'd been carrying for 18 months. Not a pleasant conversation with a Contracting Officer.
+That's the pipeline most small businesses don't know exists.
 
-The fix is straightforward — if you know what to check. Annual pricelist audit. TAA country-of-origin review for every product. Pricing delta against your commercial rate card. Three hours a year to protect a contract that took nine months to earn.
+The federal government doesn't hide recompete opportunities. It just doesn't email them to you. Companies that win consistently don't get lucky — they have a repeatable process for seeing what's coming before it's officially listed.
 
-Your Schedule won't expire quietly. It'll get cancelled on a Tuesday while you're already chasing your next opportunity.
+Build the process before you need the pipeline.
 
-When did you last review your GSA Schedule for compliance gaps? Be honest. 😅
+What's your current system for tracking recompetes in your space?
 
-#govcon #gsaschedule #compliance #federalcontracting #smallbusiness
+#govcon #gsaschedule #pipeline #federalcontracting #smallbusiness

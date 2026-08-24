@@ -1,21 +1,20 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the summary for today's run:
+Done. Here's what was generated for **2026-08-24**:
 
 ---
 
-**2026-08-24 — Josh Ladick / GSA Focus**
+**Post type:** `behind_scenes` — picked because hot_take/client_story/personal_story filled the last 3 days, and the length rule (last 3 posts averaged 210 words) required coming in under 180.
 
-- **Post type:** `hot_take`
-- **Topic:** `compliance`
-- **Hook:** `question` — "Before you submit that next RFQ response — is your GSA Schedule actually compliant?"
-- **Template:** `single-01-bold` (dark navy — contrasts with the two cream cards on Aug 20–21)
-- **Word count:** 169 (under the 180-word ceiling triggered by recent avg > 200)
-- **Format:** prose, no bullets
+**Topic:** `pipeline` — all five recent topics (compliance, teaming, certifications, pricing, sam) were blocked; pipeline was the freshest available.
 
-**Post angle:** Most GSA Schedule holders treat approval as the finish line. The post reframes it — a Schedule is a living contract with annual re-certification, TAA country-of-origin checks, and pricing update obligations. One missed cycle can get the contract flagged mid-bid. Close question drives comments via self-audit confession ("when did you last check?").
+**Hook:** `blunt` — statement-style opener after question/story/truth in recent rotation.
+
+**Template:** `single-07-story` (cream background) — contrasts yesterday's dark navy `single-01-bold`.
+
+**The post** reveals the specific Friday process: USASpending.gov → NAICS filter → 120-day award end date → "recompete hot list" spreadsheet. Closes with a process-sharing community question. 127 words, within the 100–200 range for `behind_scenes`.
 
 **Files written:**
 - `drafts/2026-08-24/post.md`
 - `drafts/2026-08-24/post.meta.json`
 - `drafts/2026-08-24/hypothesis.md`
-- `logs/run-2026-08-24.md`
+- `logs/run-2026-08-24.md` (updated)
