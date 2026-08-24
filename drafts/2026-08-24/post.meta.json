@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "compliance",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Compliance Alert",
+    "headline_html": "YOUR SCHEDULE<br>ISN'T <span class='accent'>PASSIVE</span>.",
+    "sub": "Annual certifications, TAA checks, and pricing updates are live obligations — not one-time tasks.",
+    "issue": "Issue 031",
+    "image_headline": "YOUR SCHEDULE ISN'T PASSIVE.",
+    "image_prompt": "Alert layout, dark navy background. Bold headline top: 'YOUR SCHEDULE ISN'T PASSIVE.' Large red caution icon center-left. Three short 2-word labels with warning icons: 'TAA CHECK', 'PRICE AUDIT', 'SAM RENEWAL'. Right side: illustrated professional man in suit reviewing documents on a laptop with concern. Bottom strip dark navy with white text callout. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
