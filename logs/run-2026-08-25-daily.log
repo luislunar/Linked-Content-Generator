@@ -1,15 +1,18 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the summary:
+Today's daily run has already been completed. All files are in place in `drafts/2026-08-25/`:
 
-**Post type:** `behind_scenes` — not used in last 3 days, fits the ≤180-word constraint (161 words)  
-**Topic:** `pipeline` — not used in last 5 days  
-**Hook:** `blunt` — opens with the "get approved and wait" behavior pattern  
-**Template:** `single-07-story` (cream) — matches behind_scenes first choice  
+**Post summary:**
+- **Type:** `behind_scenes`
+- **Topic:** `pipeline`
+- **Hook pattern:** `blunt`
+- **Format:** `story` (prose, 161 words — under the 180-word target per cadence rules)
+- **Template:** `single-07-story`
 
-**The post** reveals the week-one strategy process before any application work begins: USAspending.gov audit → recompete mapping → agency shortlist. Closes with "The Schedule is a door. You still have to know which rooms are on the other side." — a punchy line that works well as a standalone engagement hook.
+**What the post covers:** A process reveal showing that at GSA Focus, week one with a new client isn't filing paperwork — it's building a pipeline map: USAspending.gov audit by NAICS, recompete mapping for the next 18 months, and an agency shortlist. Closes with the line "The Schedule is a door. You still have to know which rooms are on the other side."
 
-**Files written:**
-- `drafts/2026-08-25/post.md`
-- `drafts/2026-08-25/post.meta.json`
-- `drafts/2026-08-25/hypothesis.md`
-- `logs/run-2026-08-25.md`
+**Rotation check (last 3 days):**
+- 08/25: `behind_scenes` / pipeline / blunt
+- 08/24: `hot_take` / compliance / question
+- 08/21: `client_story` / teaming / story
+
+No type repeats, no hook repeats, length is under 180 words as required after a stretch of longer posts. All cadence rules satisfied. The run log at `logs/run-2026-08-25.md` is already written. The commit `publish: 2026-08-25 daily post` confirms it was already merged.
