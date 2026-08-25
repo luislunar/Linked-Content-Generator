@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "compliance",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Compliance Alert",
+    "headline_html": "APPROVED<br>ISN'T<br><span class='accent'>FINISHED.</span>",
+    "sub": "The maintenance phase is where most GSA holders quietly fall out of compliance.",
+    "issue": "Issue 041",
+    "image_headline": "APPROVED ISN'T FINISHED",
+    "image_prompt": "Infographic alert layout, dark charcoal/navy background with cyan-teal accents. Bold warning headline at top: 'APPROVED ISN'T FINISHED' with a small caution triangle icon. Left side: illustrated professional man in charcoal suit holding a thick contract binder, looking concerned, with a wall calendar showing missed dates in the background. Right side: four compliance rows, each with a red X icon and a short 2-3 word white label: 'PRICING DRIFT', 'SAM LAPSED', 'TAA MISSED', 'MASS MODS'. Bottom dark banner with cyan callout text: 'LIVE CONTRACT, REAL OBLIGATIONS'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

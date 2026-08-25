@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **Jason · 2026-08-25**:
+
+---
+
+**Post type:** `hot_take` | **Topic:** `compliance` | **Hook:** `contrarian`
+**Template:** `single-01-bold` (dark navy) | **Words:** ~155 (under 180 — length rule met)
+
+**Why these choices:**
+- Last 3 Jason types were `milestone`, `behind_scenes`, `tips_list` — all blocked
+- Josh today: `behind_scenes` / `pipeline`; William today: `tips_list` / `certifications` — avoided both
+- Hook `contrarian` avoids yesterday's `myth-bust` and today's `blunt` (Josh) and `question` (William)
+- `compliance` hasn't appeared in Jason's last 5 runs and is untouched by today's other profiles
+- Color: last 2 Jason templates were dark (`single-04-stat`) + cream (`single-07-story`) — not both dark, so dark `single-01-bold` is valid today
+
+**The angle:** Post-approval complacency — pricing modifications, SAM expiration, TAA, and mass mods are where active Schedules go quiet. Jason's voice: "I see this slip..." (sales rep observation, not founder claim). Community question invites holders to share maintenance near-misses, targeting the comment score component.
