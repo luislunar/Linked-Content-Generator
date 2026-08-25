@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Behind the Process",
+    "year_client": "Week One · Every Client",
+    "lead_html": "Before a single page is filed — we're already <em>mapping your pipeline.</em>",
+    "rows": [
+      { "when": "Day 1", "what_html": "<strong>USAspending.gov audit</strong> <span class='light'>— who paid for what, in your NAICS, last quarter</span>" },
+      { "when": "Days 2–3", "what_html": "<strong>Recompete mapping</strong> <span class='light'>— contracts coming up for rebid in the next 18 months</span>" },
+      { "when": "Days 4–5", "what_html": "<strong>Agency shortlist</strong> <span class='light'>— contracting officers who already buy what you sell</span>" }
+    ],
+    "closer": "THE SCHEDULE IS A DOOR. KNOW THE ROOMS.",
+    "image_headline": "STRATEGY BEFORE THE PAPERWORK",
+    "image_prompt": "Infographic story layout. Cream background, dark navy text and accents. Left side: illustrated professional man in navy blazer at a desk reviewing two monitors showing 'SAM.GOV' and 'USASPENDING' labels. Right side: vertical timeline with three milestone nodes labeled 'DAY 1 AUDIT', 'DAYS 2-3 RECOMPETES', 'DAYS 4-5 SHORTLIST' — each with a small arrow icon. Bold headline at top: 'STRATEGY BEFORE THE PAPERWORK'. Teal accent on timeline nodes. One highlighted callout box bottom-center: 'PAPERWORK IS STEP 2'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

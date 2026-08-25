@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary:
+
+**Post type:** `behind_scenes` — not used in last 3 days, fits the ≤180-word constraint (161 words)  
+**Topic:** `pipeline` — not used in last 5 days  
+**Hook:** `blunt` — opens with the "get approved and wait" behavior pattern  
+**Template:** `single-07-story` (cream) — matches behind_scenes first choice  
+
+**The post** reveals the week-one strategy process before any application work begins: USAspending.gov audit → recompete mapping → agency shortlist. Closes with "The Schedule is a door. You still have to know which rooms are on the other side." — a punchy line that works well as a standalone engagement hook.
+
+**Files written:**
+- `drafts/2026-08-25/post.md`
+- `drafts/2026-08-25/post.meta.json`
+- `drafts/2026-08-25/hypothesis.md`
+- `logs/run-2026-08-25.md`
