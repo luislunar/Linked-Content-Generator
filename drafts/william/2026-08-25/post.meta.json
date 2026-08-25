@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Certification Check",
+    "module": "Module 04 · Certifications",
+    "headline_html": "Five things most owners <span class='accent'>still misread</span> about certs.",
+    "items": [
+      { "title": "Certs open doors", "sub": "Not a win guarantee — you still compete" },
+      { "title": "Eligibility has clocks", "sub": "8(a) ends at nine years; check every threshold" },
+      { "title": "You can stack them", "sub": "WOSB + HUBZone = a smaller, less crowded pool" },
+      { "title": "Certs amplify a Schedule", "sub": "Set-asides still route through contract vehicles" },
+      { "title": "Agencies verify annually", "sub": "Lapsing mid-award is worse than not having it" }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "WHAT YOUR CERT ACTUALLY DOES",
+    "image_prompt": "Checklist infographic, dark navy background, green accent color. Bold headline at top: 'WHAT YOUR CERT ACTUALLY DOES' with a small certification badge icon beside it. Left side: illustrated professional woman in forest-green blazer holding a clipboard with a certification seal graphic, looking attentive. Right side: five checklist rows, each with a green checkmark icon and a short 2-3 word label in white: 'DOORS OPEN', 'CLOCK STARTS', 'STACK THEM', 'NEEDS A VEHICLE', 'RENEW OR LOSE'. Amber accent highlight on 'STACK THEM' row to signal the surprise point. Bottom dark navy banner with short white callout: 'KEY + RIGHT DOOR'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
