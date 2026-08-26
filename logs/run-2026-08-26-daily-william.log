@@ -1,0 +1,29 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for William today:
+
+---
+
+**2026-08-26 — William Hill**
+
+| Field | Value |
+|---|---|
+| post_type | `personal_story` |
+| topic | `pipeline` |
+| hook_pattern | `story` |
+| format | `bullets` |
+| template | `single-02-numbered` (cream) |
+| word_count | 283 |
+
+**Content angle:** Opens with a two-prospect contrast observed on recent calls — same GSA Schedule, totally different pipeline activity — then breaks down the 4 behaviors William consistently sees in the owner who's actually moving: responding to sources sought as conversations, showing up before RFQs post, prioritizing recompetes strategically, and setting NAICS alerts on SAM.gov.
+
+**Why each choice:**
+- `pipeline` — last William use 7 days ago (08/19), his highest-priority topic (2×/week), clear of Josh's `myths` post today
+- `personal_story` — tips_list/client_story/inspiration all blocked (last 3 days); carousel blocked (Josh today)
+- `story` hook — `question` blocked (yesterday); `myth-bust` is Josh's hook today; story is William's preferred register
+- Cream template — feeds contrast after dark navy checklist card (08/25)
+
+**Files written:**
+- `drafts/william/2026-08-26/post.md`
+- `drafts/william/2026-08-26/post.meta.json`
+- `drafts/william/2026-08-26/hypothesis.md`
+- `logs/william/run-2026-08-26.md`

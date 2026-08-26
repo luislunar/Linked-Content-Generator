@@ -1,0 +1,37 @@
+{
+  "post_type": "personal_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Pipeline Patterns",
+    "index": "Vol. 03 · Pipeline",
+    "headline_html": "Four moves that actually <span class='accent'>build</span> federal pipeline.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Respond to sources sought",
+        "desc": "Treat them like a first conversation with the agency — not pre-solicitation noise. By the time the RFQ posts, the window to be a known quantity has already closed."
+      },
+      {
+        "num": "02",
+        "title": "Show up before the RFQ",
+        "desc": "Industry days, open houses, a capability statement intro. Contracting officers remember names — and that matters when competition opens."
+      },
+      {
+        "num": "03",
+        "title": "Work recompetes first",
+        "desc": "A struggling incumbent changes the math. Businesses who know this prioritize recompetes over fresh procurements."
+      },
+      {
+        "num": "04",
+        "title": "Set NAICS alerts on SAM.gov",
+        "desc": "Know what's moving in your space before the solicitation posts. A week of lead time on a sources sought is often all it takes."
+      }
+    ],
+    "image_headline": "FOUR MOVES THAT BUILD FEDERAL PIPELINE",
+    "image_prompt": "Cream background numbered breakdown infographic. Small-caps section label 'PIPELINE PATTERNS' top-left in dark forest green. Bold headline at top: 'FOUR MOVES THAT BUILD FEDERAL PIPELINE' in dark navy. Four numbered rows (01–04) each with a short bold title and a 3-4 word visual sublabel (e.g. 'Sources Sought', 'Attend Early', 'Work Recompetes', 'SAM Alerts') with amber accent numbers. Left side: illustrated professional man in business casual — calm confident stance, holding a tablet, amber accent on clothing detail. Amber highlights on item numbers; forest green on title labels. Bottom: narrow amber footer stripe. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
