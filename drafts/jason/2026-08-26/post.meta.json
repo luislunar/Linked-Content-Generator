@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Certification Reality",
+    "index": "Vol. 10 · Certifications",
+    "headline_html": "Which certs actually <span class='accent'>move</span> federal dollars.",
+    "items": [
+      {
+        "num": "01",
+        "title": "SDVOSB",
+        "desc": "VA awarded $3.6B to small businesses in Q2 2026. Set-asides lock out most competitors by design."
+      },
+      {
+        "num": "02",
+        "title": "HUBZone",
+        "desc": "10% price evaluation preference. Real math in competitive bids — not a participation trophy."
+      },
+      {
+        "num": "03",
+        "title": "8(a)",
+        "desc": "Sole-source authority up to $4.5M ($7M for manufacturing). Competing against 5 beats competing against 500."
+      },
+      {
+        "num": "04",
+        "title": "WOSB / EDWOSB",
+        "desc": "Real set-asides exist — but only in specific NAICS codes. Most owners assume they qualify and never check."
+      }
+    ],
+    "image_headline": "WHICH CERTS MOVE FEDERAL DOLLARS",
+    "image_prompt": "Numbered breakdown infographic, warm cream background. Top: small caps dark navy label 'CERTIFICATION REALITY'. Bold headline below: 'WHICH CERTS MOVE DOLLARS'. Four horizontal rows, each with a cyan circle number (01–04) on the left and a short 2–3 word dark navy label on the right: '01 SDVOSB', '02 HUBZONE', '03 8(A)', '04 WOSB'. Each row has a small green checkmark icon. Right side: illustrated professional man in a charcoal suit holding a certification shield badge, confident posture, looking toward the list. Bottom: narrow dark navy footer bar. Source line in small text: 'Source · USAspending.gov'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

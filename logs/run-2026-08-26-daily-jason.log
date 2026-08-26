@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today:
+
+**`drafts/jason/2026-08-26/`**
+
+| Decision | Value | Reason |
+|---|---|---|
+| `post_type` | `tips_list` | Last 3 were `hot_take`, `milestone`, `behind_scenes` — excluded |
+| `topic` | `certifications` | Priority topic (1x/week), last used 08-19 (7 days ago), not used today by Josh or William |
+| `hook_pattern` | `question` | Hard cadence rule: last 3 Jason posts all opened with statements → must open with a question |
+| `template` | `single-02-numbered` | Last 2 templates were dark-bg (`single-01`, `single-04`) → cream template required |
+| `format` | `bullets` | `→` used throughout; fits tips_list |
+
+**Key choices:**
+- Used VA's $3.6B Q2 2026 figure (from govcon-data-2026-08-24.md) anchored to the SDVOSB point — a number Josh and William didn't use today. Credited USAspending.gov in both post text and card.
+- Four-cert breakdown creates a rankable framework (needle movers → overlooked → what no cert fixes) designed to drive comments.
+- No founder claims; voice stays in "I see across calls / proposals" territory.
