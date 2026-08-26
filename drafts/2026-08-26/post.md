@@ -1,11 +1,21 @@
-"We need past performance." "The Schedule sells itself." "Small businesses can't compete at that level."
+Pricing a GSA Schedule wrong rarely looks like a mistake at the time.
 
-I've heard these lines so many times they feel like GovCon folklore.
+It looks like a bid you almost won. A margin you can't explain. A clause violation that shows up 18 months after award.
 
-After 18 years in this space, here's what I know: the beliefs that stop most small businesses from pursuing federal work aren't rooted in reality. They're rooted in assumptions nobody ever checked.
+Here are 5 pricing mistakes I see in almost every first-time Schedule application:
 
-Swipe through. I'll show you the myth — and what's actually true.
+1. Using commercial rates as your starting point. Your Basis of Award ties your GSA price to the best discount you offer any commercial customer. Ignore that link and you're locked into the wrong number before you even submit.
 
-What's the one GovCon myth that almost made you walk away before you got started?
+2. Missing the Price Reductions Clause. Give a commercial client a deeper discount after your Schedule is awarded? You may owe GSA that same rate — retroactively. This one catches companies off guard years later.
 
-#govcon #gsaschedule #smallbusiness #federalcontracting
+3. Pricing to win approval instead of pricing to deliver. A low rate gets you on the Schedule. A rate that doesn't cover your actual cost of delivery eventually breaks the contract.
+
+4. Skipping price realism. Contracting officers notice desperation pricing. Rates that are too low raise questions about your capability — not your competitiveness.
+
+5. Setting your price list and walking away. GSA prices aren't permanent. Market rates shift. If yours don't move annually, you're either leaving money on the table or pricing yourself out of competitions you should win.
+
+The Schedule opens the door. Good pricing is what keeps you in the room.
+
+What's the biggest pricing assumption you had to unlearn when you started working federal contracts?
+
+#govcon #gsaschedule #pricing #federalcontracting

@@ -1,39 +1,39 @@
 {
-  "post_type": "carousel",
-  "topic": "myths",
-  "hook_pattern": "myth-bust",
-  "format": "comparison",
-  "template": "carousel-01-myths",
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "cover": {
-      "top_label": "Field Guide / Vol. 07",
-      "headline_html": "3 myths that <span class='accent'>stop</span> small businesses cold.",
-      "edition": "Myths Edition"
-    },
-    "myths": [
+    "section_label": "Pricing Mistakes",
+    "module": "Module 05 · Pricing",
+    "headline_html": "Five pricing mistakes that <span class='accent'>quietly</span> cost you before the first sale.",
+    "items": [
       {
-        "label": "The Scale Illusion",
-        "myth_text": "Federal contracts are for big corporations — small businesses can't compete at that level.",
-        "reality_text": "Small businesses took $16.6B in Q2 2026 alone — IT, engineering, construction, professional services. The money is real. The barrier is paperwork, not odds. Source · USAspending.gov"
+        "title": "Wrong commercial baseline",
+        "sub": "Basis of Award ties your GSA rate to your best commercial discount — know that link before you submit."
       },
       {
-        "label": "The Past-Performance Trap",
-        "myth_text": "You need a federal track record before any agency will look at you.",
-        "reality_text": "Teaming agreements let new shops compete under an established prime's history. Subcontracting builds your own record while you're still learning how the market moves."
+        "title": "Price Reductions Clause gap",
+        "sub": "Discount a commercial client later and you may owe GSA that same rate retroactively."
       },
       {
-        "label": "The Schedule Sells Itself",
-        "myth_text": "Getting on the GSA Schedule means the contracts start coming automatically.",
-        "reality_text": "The Schedule is a buying vehicle, not a sales engine. It opens the door — you still have to market, build relationships, and respond to RFQs. Most new holders go quiet and wonder why nothing lands."
+        "title": "Pricing to get on, not sustain",
+        "sub": "A low rate wins approval. A rate that doesn't cover delivery costs eventually breaks the contract."
+      },
+      {
+        "title": "No price realism check",
+        "sub": "Contracting officers notice desperation pricing — rates too low raise capability questions, not competitive ones."
+      },
+      {
+        "title": "Stale annual price list",
+        "sub": "Market rates shift. GSA prices that don't move leave you overpriced or priced out of winnable bids."
       }
     ],
-    "close": {
-      "close_tag": "Your turn",
-      "close_headline": "Which one almost stopped you?",
-      "close_question": "Drop the myth you believed when you first looked at federal contracting."
-    },
-    "image_headline": "3 MYTHS KILLING YOUR GOVCON BEFORE IT STARTS",
-    "image_prompt": "5-slide carousel infographic. Cover slide: dark navy background, bold ALL CAPS headline '3 MYTHS KILLING YOUR GOVCON', large Vol. 07 label top-left, illustrated professional woman in suit reviewing documents. Slides 2-4: split-panel layout — left dark navy with bold label 'THE MYTH' and red X icon, 2-3 word myth label; right white panel with bold label 'THE REALITY' and green checkmark, 2-3 word reality label. Slide 5: cream background, large question mark graphic, 'YOUR TURN' tag, bold close question text. Footer text: 'Josh Ladick · GSA Focus'."
+    "footer_left": "5-Point Pricing Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "5 PRICING MISTAKES BEFORE YOUR FIRST SALE",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold ALL CAPS headline top: '5 PRICING MISTAKES BEFORE YOUR FIRST SALE' with warning triangle icon. Left column: illustrated professional woman in blazer reviewing a contract document at a desk, concerned expression. Right column: 5 checklist rows, each with a red X icon and a short 2-3 word label (WRONG BASELINE, PRICE REDUCTIONS, MARGIN TRAP, REALISM CHECK, STALE PRICES). Bottom dark navy banner: 'GOOD PRICING KEEPS YOU IN THE ROOM.' Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }
