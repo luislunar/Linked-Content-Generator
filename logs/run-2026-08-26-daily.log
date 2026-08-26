@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run for Josh Ladick:
+
+**Post type:** `carousel` — first carousel in 6+ days, today's `myths` topic fit the 5-slide format naturally.
+
+**Three myths on the carousel:**
+1. **The Scale Illusion** — "Federal contracts are for big corporations." Reality: Small businesses captured $16.6B in Q2 2026 alone. (Source: USAspending.gov)
+2. **The Past-Performance Trap** — "You need a federal track record first." Reality: Teaming agreements solve this from day one.
+3. **The Schedule Sells Itself** — "Getting on Schedule means contracts flow automatically." Reality: It's a buying vehicle, not a sales engine — you still have to show up.
+
+**Rotation compliance:**
+- Post type: `carousel` not used in recent logs ✓
+- Topic: `myths` not used in last 5 days ✓
+- Hook: `myth-bust` — not `blunt` (08-25) or `question` (08-24) ✓
+- Format: `comparison` — breaks the recent `story`/`prose` run ✓
+
+**Files written:** `drafts/2026-08-26/post.md`, `post.meta.json`, `hypothesis.md`, `logs/run-2026-08-26.md`

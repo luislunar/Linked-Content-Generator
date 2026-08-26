@@ -1,0 +1,5 @@
+This draft tests the carousel format on a myths topic using a myth-bust hook pattern — the first carousel in 6+ days and the first myths post in the current weekly window.
+
+The three myths were chosen to span the three most common psychological blockers: "I'm too small" (scale illusion), "I have no track record" (past-performance trap), and "getting the Schedule is enough" (passive expectation). Each has a credible, specific reality that directly dismantles the assumption rather than hedging it.
+
+Myth #1 uses the $16.6B Q2 2026 USAspending.gov figure, which reframes the "too small" belief with real market data — expected to drive reactions from readers who are surprised by the number and comments from those who have heard or believed the myth themselves. The community question at the close is a personal-experience prompt ("which one almost stopped you?") designed to generate story-driven replies rather than one-word responses. Expected outcome: strong comment volume as readers share the specific myth they held, and meaningful reaction rate from the contrast-driven myth/reality framing.
