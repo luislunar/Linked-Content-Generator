@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "teaming",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 032 · Teaming",
+    "quote_html": "Teaming isn't a backup plan. <em>It's the fastest entry into the market.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "TEAMING IS THE PLAN NOT THE FALLBACK",
+    "image_prompt": "Split-panel infographic. Dark charcoal background with cyan accents, Space Grotesk typography. Left panel: dull gray zone, bold label 'THE FALLBACK' with small red X icon, illustrated professional sitting alone at a desk looking uncertain, 2-word callout below: 'REACTIVE TEAMING'. Right panel: cyan-highlighted zone, bold label 'THE PLAN' with green checkmark icon, illustrated two professionals shaking hands confidently, 2-word callout below: 'BUILT FIRST'. Cyan horizontal stripe dividing panels at center. Bold headline across top: 'TEAMING IS THE PLAN, NOT THE FALLBACK' in white. Bottom dark charcoal strip with short phrase. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

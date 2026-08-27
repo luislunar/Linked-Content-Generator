@@ -1,0 +1,10 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's Jason draft:
+
+**Post type:** `inspiration` (129 words) — `single-03-quote` cream template, breaking the two-day dark-bg streak  
+**Topic:** `teaming` — clear of Josh (`sam`), William (`pricing`), and Jason's last 3 days (myths, compliance, certifications)  
+**Hook:** `contrarian` — opens with the belief most small businesses hold ("We'll team if we have to"), then flips it  
+**Central argument:** Teaming isn't a contingency — the companies landing federal awards build prime relationships *before* the RFP exists, not after they've already lost on their own  
+**Card:** Pull-quote format, "Teaming isn't a backup plan. *It's the fastest entry into the market.*" — carbon + cyan Jason theme  
+
+Files written to `drafts/jason/2026-08-27/`: `post.md`, `post.meta.json`, `hypothesis.md`, plus `logs/jason/run-2026-08-27.md`.
