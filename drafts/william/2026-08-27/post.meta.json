@@ -1,0 +1,17 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Pricing Truth",
+    "index": "No. 031 · Pricing",
+    "quote_html": "Pricing too low locks you in. <em>For years.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "PRICING TOO LOW IS THE REAL RISK",
+    "image_prompt": "Infographic story layout. Warm cream off-white background with forest-green and amber accents, Sora-style sans-serif typography. Bold headline top center: 'PRICING TOO LOW IS THE REAL RISK' in dark navy. Left side: illustrated professional man in a blazer reviewing a pricing document at a desk, concerned expression, forest-green highlight zone behind him. Center: downward amber arrow icon labeled 'LOCKED IN' with a small padlock symbol. Right callout box in forest green with white text short phrase: 'WRONG DIRECTION'. Amber horizontal stripe along bottom border. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

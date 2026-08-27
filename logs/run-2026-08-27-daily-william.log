@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Three files written and run log appended. Here's the summary:
+
+---
+
+**William Hill — 2026-08-27**
+
+**Post type:** `hot_take` | **Topic:** `pricing` | **Hook:** `truth` | **Template:** `single-03-quote` (cream)
+
+**Why these choices:**
+- Length forced under 180 (3-day avg = 239 words) → ruled out longer post types
+- Blocked types (last 3 days): personal_story, tips_list, client_story
+- Blocked topics: pipeline, certifications, teaming (5-day window) + sam (Josh today)
+- Pricing is untouched in William's recent rotation and lives at the heart of every discovery call
+- `story` hook blocked (used yesterday) → `truth` opens the inversion
+
+**The post (161 words):** Opens by naming the fear William hears constantly ("what if the government thinks our rates are too high?"), immediately inverts it ("the fear is backward"), then explains why under-pricing is the real trap — rates lock in for years, renegotiation is a formal modification. Closes with an experience-share CTA designed to surface specific pricing regrets.
+
+**Card:** Pull-quote on cream background — `"Pricing too low locks you in. For years."` — contrasts sharply with Josh's dark navy checklist card today.
