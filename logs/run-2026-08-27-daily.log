@@ -1,21 +1,23 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for **2026-08-27**:
+Today's post was already generated and published (commit `521607b`). Here's a summary of what was produced:
 
 ---
 
-**Post type:** `tips_list` · **Topic:** `sam` · **Hook:** `alert` · **Template:** `single-06-checklist`
+**2026-08-27 — Daily Run Summary**
 
-**Rotation reasoning:**
-- Last 3 types (carousel / behind_scenes / hot_take) → picked `tips_list`
-- Last 3 hooks (myth-bust / blunt / question) → picked `alert`
-- Topics within 5 days (myths / pipeline / compliance) → picked `sam`
-- Format: numbered items (no `→`), breaking the story/prose streak from the last 3 days
-- Template color: dark navy (`single-06`) — fine since the last 2 weren't both dark-bg
+- **Post type:** `tips_list`
+- **Topic:** `sam`
+- **Hook pattern:** `alert`
+- **Format:** numbered (no `→` bullets — broke the streak intentionally)
+- **Template:** `single-06-checklist`
+- **Word count:** 217
 
-**Post summary:** Opens with the silent expiration alert ("SAM.gov doesn't send you a reminder..."), then 5 numbered mistakes: expired registration, too few NAICS codes, stale contacts, unchecked reps & certs, wrong banking info. Closes with a self-audit community question. 217 words — within the 150–280 target.
+**Post:** 5 concrete SAM.gov mistakes that freeze contracts — expired registration, wrong NAICS codes, stale contacts, unchecked reps & certs, outdated banking info. Closing CTA: "When did you last do a full audit of your SAM profile? Be honest. 😅"
 
-**Files written:**
-- `drafts/2026-08-27/post.md`
-- `drafts/2026-08-27/post.meta.json`
-- `drafts/2026-08-27/hypothesis.md`
-- `logs/run-2026-08-27.md`
+**Rotation logic applied:**
+- Last 3 days: `behind_scenes` (Aug 25) → `carousel` (Aug 26) → `tips_list` (Aug 27) — all different ✓
+- Topic `sam` hadn't been used recently ✓
+- Hook `alert` follows `blunt` and `myth-bust` — no repeat ✓
+- Last 2 templates were cream-bg (`single-07`, `carousel-01`) → `single-06` (dark navy) adds contrast ✓
+
+The `logs/run-2026-08-27-daily.log` shows a CI permissions warning (workspace trust not set) — this is a known environment artifact and doesn't affect run output.
