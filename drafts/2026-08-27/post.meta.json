@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM.gov Audit",
+    "module": "Module 01 · SAM Health",
+    "headline_html": "Five SAM.gov mistakes that <span class='accent'>freeze</span> your contracts.",
+    "items": [
+      { "title": "Expired registration", "sub": "No reminder comes — agencies can't pay you when you're lapsed" },
+      { "title": "Too few NAICS codes", "sub": "COs search by code — invisible if your service isn't listed" },
+      { "title": "Stale points of contact", "sub": "Old emails kill bid invitations before they land" },
+      { "title": "Unchecked reps & certs", "sub": "Regs update; auto-rolled answers can flag compliance issues" },
+      { "title": "Wrong banking info", "sub": "Awards delay when payment details point to a closed account" }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "5 SAM.GOV MISTAKES THAT FREEZE YOUR CONTRACTS",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: '5 SAM.GOV MISTAKES THAT FREEZE CONTRACTS' with caution icon. Left side: illustrated professional woman in blazer reviewing a laptop screen, concerned expression. Right side: 5 checklist rows, each with a red X icon and a 2-3 word label — 'EXPIRED REGISTRATION', 'WRONG NAICS', 'STALE CONTACTS', 'SKIPPED CERTS', 'WRONG BANKING'. Bottom: dark navy banner with short callout phrase. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

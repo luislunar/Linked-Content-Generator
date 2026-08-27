@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-08-27**:
+
+---
+
+**Post type:** `tips_list` · **Topic:** `sam` · **Hook:** `alert` · **Template:** `single-06-checklist`
+
+**Rotation reasoning:**
+- Last 3 types (carousel / behind_scenes / hot_take) → picked `tips_list`
+- Last 3 hooks (myth-bust / blunt / question) → picked `alert`
+- Topics within 5 days (myths / pipeline / compliance) → picked `sam`
+- Format: numbered items (no `→`), breaking the story/prose streak from the last 3 days
+- Template color: dark navy (`single-06`) — fine since the last 2 weren't both dark-bg
+
+**Post summary:** Opens with the silent expiration alert ("SAM.gov doesn't send you a reminder..."), then 5 numbered mistakes: expired registration, too few NAICS codes, stale contacts, unchecked reps & certs, wrong banking info. Closes with a self-audit community question. 217 words — within the 150–280 target.
+
+**Files written:**
+- `drafts/2026-08-27/post.md`
+- `drafts/2026-08-27/post.meta.json`
+- `drafts/2026-08-27/hypothesis.md`
+- `logs/run-2026-08-27.md`
