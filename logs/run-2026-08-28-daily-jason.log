@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's Jason draft:
+
+**2026-08-28 — Jason**
+
+| Field | Value |
+|---|---|
+| `post_type` | `milestone` |
+| `topic` | `gsa_basics` |
+| `hook_pattern` | `blunt` |
+| `format` | `bullets` |
+| `template` | `single-04-stat` |
+| `word_count` | 168 |
+
+**What it does:** Opens with the hard number — $17.6B from DoD to small businesses in a single quarter — then uses the VA and DHS figures to build to $24B+. The post kills the "federal is for the big guys" objection with sourced data, pivots to the real barrier (paperwork, not competition), and closes with two → bullets reinforcing the message. The community question asks readers to name the objection that's kept them out — which also doubles as live sales intel for Jason.
+
+**Uniqueness check:** No conflict with Josh (`teaming`, `story`) or William (`sam`, `question`). The govcon data figure ($17.6B DoD) was unused by either profile today.

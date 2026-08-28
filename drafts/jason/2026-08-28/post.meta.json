@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "gsa_basics",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "image_headline": "$17.6B TO SMALL BUSINESSES LAST QUARTER",
+  "image_prompt": "Dark charcoal infographic stat card layout with cian/teal accent. Bold header label top-left: 'DOD AWARDS · Q2 2026'. Center: massive bold number '$17.6B' in teal/cian accent color. Below number: short label 'TO SMALL BUSINESSES'. Left column: three short supporting callout labels with teal check icons: 'ONE QUARTER', 'YOUR INDUSTRY', 'YOUR SIZE'. Right column: illustrated professional male in business casual holding a printed contract report, confident posture, looking toward the number. Bottom dark strip: source text 'USAspending.gov'. Bold headline top: '$17.6B TO SMALL BUSINESSES LAST QUARTER'. Footer text: 'Jason · GSA Focus'.",
+  "template_data": {
+    "section_label": "DoD Awards · Q2 2026",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "DoD awards to small businesses, Q2 2026",
+    "big_number_html": "$<span class='accent'>17.6B</span>",
+    "context_html": "One quarter. One agency. <strong>Companies under 200 employees.</strong> The barrier isn't the competition — it's the paperwork.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "experiment_id": null
+}
