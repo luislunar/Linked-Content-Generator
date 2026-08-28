@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's William post:
+
+---
+
+**2026-08-28 — William Hill**
+
+| Field | Value |
+|---|---|
+| post_type | `behind_scenes` |
+| topic | `sam` |
+| hook_pattern | `question` |
+| format | `story` (prose) |
+| template | `single-01-bold` (dark navy) |
+| word_count | ~153 |
+
+**The post** opens with the question William asks on almost every first call — "When's the last time you actually logged into your SAM.gov account?" — then pulls back the curtain on what he finds: lapsed registrations, stale NAICS codes, former employees still listed as primary contacts. All invisible to the owner, all visible to the CO. Closes with the same question turned back on the reader.
+
+**Why these choices:**
+- Length under 180 forced by the 223.7-word average of the last 3 posts
+- `truth` and `story` hooks both blocked (used yesterday / used by Josh today) → `question` was the only William-preferred hook available
+- Dark navy `single-01-bold` breaks two consecutive cream templates for feed contrast
+- Pure prose format after two bullet-heavy posts adds rhythm variation

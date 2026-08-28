@@ -1,0 +1,16 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-01-bold",
+  "image_headline": "YOUR RECORD IS ALREADY SPEAKING",
+  "image_prompt": "Infographic alert layout on dark navy background. Bold headline top: 'YOUR RECORD IS ALREADY SPEAKING' with a radar/signal icon. Left side: illustrated professional male in business casual at a desk, reviewing a laptop screen showing a federal portal interface. Right side: three short callout boxes with amber caution icons and short labels: 'LAPSED REG', 'WRONG NAICS', 'OLD CONTACT'. Bottom: lighter navy banner with short phrase 'CHECK YOURS TODAY'. Footer text: 'William Hill · GSA Focus'.",
+  "template_data": {
+    "tag": "SAM Alert",
+    "headline_html": "YOUR RECORD<br>IS ALREADY<br><span class='accent'>SPEAKING.</span>",
+    "sub": "Most small business owners haven't checked their SAM.gov since registration. A CO checks it before you do.",
+    "issue": "Field Note 031"
+  },
+  "experiment_id": null
+}
