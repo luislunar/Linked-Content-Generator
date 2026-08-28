@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "image_headline": "NO PAST PERFORMANCE. STILL WON.",
+  "image_prompt": "Infographic story layout. Left side: illustrated professional woman in blazer confidently shaking hands with another professional. Right side: vertical timeline with 3 milestone icons labeled 'CAPABILITIES DOC', 'PRIME OUTREACH', 'SUBCONTRACT SIGNED'. Bold headline top: 'NO PAST PERFORMANCE. STILL WON.' Dark navy callout box with short phrase 'TEAMING = THE SHORTCUT'. Cream background. Footer text: 'Josh Ladick · GSA Focus'.",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year One · Client 023",
+    "lead_html": "Eight years of commercial revenue, <em>zero federal past performance</em> — and she still won her first subcontract.",
+    "rows": [
+      {
+        "when": "Month 01",
+        "what_html": "<strong>Capabilities doc drafted</strong> <span class='light'>— turned 8 years of work into 3 clear pages</span>"
+      },
+      {
+        "when": "Month 02–03",
+        "what_html": "<strong>Two primes identified & contacted</strong> <span class='light'>— clear value prop, one responded</span>"
+      },
+      {
+        "when": "Month 06",
+        "what_html": "<strong>First subcontract signed</strong> <span class='light'>— DoD task order, prime needed her team</span>"
+      }
+    ],
+    "closer": "PAST PERFORMANCE IS A DOOR, NOT A WALL."
+  },
+  "experiment_id": null
+}

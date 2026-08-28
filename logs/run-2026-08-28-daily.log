@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the run summary:
+
+**Post type:** `personal_story` — excluded `tips_list`, `carousel`, `behind_scenes` (last 3 days); chose type whose structure best fits the mandatory story hook.
+
+**Topic:** `teaming` — fresh (last used 5+ days ago); directly addresses the ICP's most common blocker (no past performance).
+
+**Hook:** `story` — mandatory today since last 3 hooks were all statements (alert → myth-bust → blunt).
+
+**Template:** `single-07-story` (cream) — creates feed contrast after dark checklist + carousel cards.
+
+**What the card shows:** A 3-row timeline (capabilities doc → prime outreach → subcontract signed) under the headline "NO PAST PERFORMANCE. STILL WON." — the tension arc compressed into the visual.
+
+**Files written:**
+- `drafts/2026-08-28/post.md` — 211-word narrative prose, no bullets, story-hook open, community question close
+- `drafts/2026-08-28/post.meta.json` — full template_data with all required `single-07-story` fields
+- `drafts/2026-08-28/hypothesis.md` — test rationale
+- `logs/run-2026-08-28.md` — rotation log for tomorrow's agent
