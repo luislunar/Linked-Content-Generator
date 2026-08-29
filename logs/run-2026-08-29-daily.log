@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-08-29 · Josh Ladick**:
+
+---
+
+**Post type:** `client_story` — not used in 3 days, cream-bg template satisfies color contrast rule
+**Topic:** `pricing` — last used >5 days ago
+**Hook:** `truth` ("Nobody talks about...") — breaks the statement streak, distinct from yesterday's `story`
+**Template:** `single-05-beforeafter` (cream+navy split) — primary choice for client_story
+
+**The story:** IT consulting firm, 14 months on a dormant Schedule. Audit revealed labor rates 18% above two SIN competitors. Renegotiated Basis of Award → first RFQ in 3 months, first award at month 5. Closing line: *The Schedule doesn't fail. The pricing does.*
+
+**Card:** Before panel (rates too high / zero awards / invisible on RFQs) → After panel (repriced / first RFQ / first award). Headline: `WRONG RATES. INVISIBLE SCHEDULE.`
+
+**Files written:**
+- `drafts/2026-08-29/post.md` (206 words)
+- `drafts/2026-08-29/post.meta.json`
+- `drafts/2026-08-29/hypothesis.md`
+- `logs/run-2026-08-29.md`
