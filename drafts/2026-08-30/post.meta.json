@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pricing Reset",
+    "case_num": "Case · 031",
+    "headline_html": "The rate card isn't the strategy. <span class='accent'>The floor is.</span>",
+    "before_items": [
+      "Priced by competition",
+      "No floor in mind",
+      "Underpriced by 12%"
+    ],
+    "after_items": [
+      "Floor-first approach",
+      "Rates rebuilt upward",
+      "Room to negotiate"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "WRONG QUESTION. RIGHT FLOOR.",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'WRONG QUESTION' with red X icon, three short labels: 'Match market,' 'No floor set,' 'Race down.' Right panel cream/white, bold label 'RIGHT QUESTION' with green checkmark, three short labels: 'Set the floor,' 'Lock margin,' 'Room to move.' Center: illustrated businesswoman in blazer gesturing at a rate sheet. Bold headline top: 'WRONG QUESTION. RIGHT FLOOR.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

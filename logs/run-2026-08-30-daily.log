@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary for today's run:
+
+---
+
+**2026-08-30 · Josh Ladick · GSA Focus**
+
+- **post_type:** `client_story`
+- **topic:** `pricing`
+- **hook:** contrarian — opens with "Wrong question."
+- **template:** `single-05-beforeafter` (cream + navy split)
+- **word count:** ~216
+
+**The post:** A client arrived with competitor benchmarks in hand, confident she was ready to price her GSA Schedule. The story reveals why that's the wrong frame — Basis of Award locks in a floor, not a flexible rate card. She revised upward 12%, got approved, and landed her first task order with negotiating room intact. Closes with a practitioner-targeted community question about pricing negotiations.
+
+**Files written:**
+- `drafts/2026-08-30/post.md`
+- `drafts/2026-08-30/post.meta.json`
+- `drafts/2026-08-30/hypothesis.md`
+- `logs/run-2026-08-30.md`
