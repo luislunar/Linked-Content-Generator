@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for Jason today (`drafts/jason/2026-08-31/`):
+
+**Routing decisions:**
+| Field | Choice | Reason |
+|---|---|---|
+| `post_type` | `behind_scenes` | Not in Jason's last 3 days; not used by Josh or William today |
+| `topic` | `pricing` | Jason's 1x/week priority; not used in 5+ days; clean today |
+| `hook_pattern` | `myth-bust` | Jason's preferred set; last used 2026-08-24 |
+| `template` | `single-03-quote` | Alternative for `behind_scenes`; primary `single-07-story` requires a timeline structure that doesn't fit a pricing insight |
+| `format` | `bullets` | Two tight `→` bullets inside a narrative frame |
+| `word_count` | ~183 | Within `behind_scenes` 100-200 range |
+
+**Post angle:** Jason kills the "price low to stay competitive" instinct — the Basis of Award mechanism means undercutting your own commercial rates locks in bad schedule rates for years, not a winning bid strategy. Told entirely from intake-call observations (no founder claims). CTA asks what pricing assumption the reader held before learning Basis of Award — experience-share style, not a lead magnet.

@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pricing",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Pricing Reality",
+    "index": "No. 019 · Pricing",
+    "quote_html": "The instinct to price low to win. <em>That instinct will cost you.</em>",
+    "footer_left": "Jason's Field Notes",
+    "footer_right": "Weekly Sales Desk",
+    "image_headline": "PRICING LOW IS NOT COMPETING",
+    "image_prompt": "Split-panel infographic. Left panel dark navy background, bold label 'THE MYTH' in red at top left with a red X icon. Short 3-word label below: 'PRICE TO WIN'. One short callout box: 'LOOKS COMPETITIVE'. Right panel charcoal/white, bold label 'THE REALITY' in cyan at top right with green checkmark. Short label: 'BASIS OF AWARD'. Callout box: 'LOCK MARGINS IN'. Bold headline across top: 'PRICING LOW IS NOT COMPETING' in white on dark strip. Center divider: illustrated professional man in blazer, arms crossed, analytical expression, reviewing a pricing document on laptop. Bottom dark navy strip with short phrase: 'RATES SET DAY ONE.' Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
