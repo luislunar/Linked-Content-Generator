@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's run:
+
+---
+
+**2026-08-31 · Josh Ladick / GSA Focus**
+
+| Field | Value |
+|---|---|
+| `post_type` | `hot_take` |
+| `topic` | `gsa_basics` |
+| `hook_pattern` | `truth` |
+| `template` | `single-01-bold` (dark navy) |
+| `format` | prose |
+| `word_count` | ~168 |
+| Data source | USAspending.gov · $17.7B Q2 2026 |
+
+**Rotation logic applied:**
+- Types avoided (last 3 days): `personal_story`, `tips_list`, `carousel` ✓
+- Hook rotated from: story → alert → myth-bust → **truth** ✓
+- Color contrast: last template was cream (single-07) → dark navy today ✓
+- Length: last 3 averaged ~171 words → today ~168, no constraint triggered ✓
+
+**Post angle:** Opens with the $17.7B Q2 2026 stat to shatter the "GovCon isn't for companies like mine" belief, closes with the sharp inversion "The market isn't closed. You are." — designed to drive comments from owners naming their real barrier.

@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Market Reality",
+    "headline_html": "THE MARKET<br>IS OPEN.<br><span class='accent'>ARE YOU?</span>",
+    "sub": "Q2 2026 federal awards to small businesses topped $17.7B. The paperwork is the only door.",
+    "issue": "Issue 031",
+    "image_headline": "THE MARKET IS OPEN. ARE YOU?",
+    "image_prompt": "Bold infographic, dark navy background. Large bold headline at top: 'THE MARKET IS OPEN. ARE YOU?' in white. Center: illustrated professional woman in blazer standing at a crossroads — one path labeled 'IGNORED' (faded gray), one labeled 'FEDERAL BUYER' (lit with green arrow). Left lower panel: big gold stat '$17.7B' with small label 'Q2 2026'. Right lower panel: three 2-word labels with green checkmarks: 'IT', 'ENGINEERING', 'CONSTRUCTION'. Bottom dark banner. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
