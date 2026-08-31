@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "compliance",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Compliance Wake-Up",
+    "case_num": "Case · 031",
+    "headline_html": "Three years in. <span class='accent'>Three things wrong.</span>",
+    "before_items": [
+      "Rates 3 years outdated",
+      "Scope no longer accurate",
+      "Address two years stale"
+    ],
+    "after_items": [
+      "Rates updated to market",
+      "Scope corrected and clean",
+      "First task order, week 6"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "THREE YEARS IN. THREE THINGS WRONG.",
+    "image_prompt": "Split-panel before/after infographic. Left panel BEFORE: muted dark tone, bold label 'BEFORE' at top left with amber warning icon. Three short labels stacked with amber icons: 'RATES STALE', 'SCOPE DRIFTED', 'INFO OUTDATED'. Right panel AFTER: cream/white, bold label 'AFTER' at top right with forest-green checkmarks. Three short labels: 'RATES CURRENT', 'SCOPE CLEAN', 'FIRST AWARD'. Center vertical divider with illustrated professional woman in blazer moving from left to right panel, laptop under her arm, expression relieved. Bold headline at top: 'THREE YEARS IN. THREE THINGS WRONG.' in deep forest green. Bottom forest-green banner with short callout: 'THE SCHEDULE NEEDS TENDING.' Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
