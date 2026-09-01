@@ -1,0 +1,21 @@
+{
+  "post_type": "hot_take",
+  "topic": "vehicles",
+  "hook_pattern": "question",
+  "format": "comparison",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Vehicle Comparison",
+    "index": "Vol. 01 · Vehicles",
+    "headline_html": "Which contract vehicle <span class='accent'>actually</span> comes first.",
+    "items": [
+      { "num": "01", "title": "GSA MAS", "desc": "Broadest coverage. Works across virtually all agencies. Often the prerequisite for other vehicles." },
+      { "num": "02", "title": "OASIS+", "desc": "Professional services only. Past performance required at application — the wall most skip over." },
+      { "num": "03", "title": "SEWP V", "desc": "IT products and services. Extremely competitive pool — check existing capacity before applying." },
+      { "num": "04", "title": "The real answer", "desc": "MAS first. Every time. The others are built on top of it, not instead of it." }
+    ],
+    "image_headline": "WHICH CONTRACT VEHICLE COMES FIRST",
+    "image_prompt": "Split-column comparison infographic, cream background. Bold dark navy headline at top: 'WHICH CONTRACT VEHICLE COMES FIRST'. Three horizontal rows below, each with a short cyan label on the left and a 2-3 word status badge on the right. Row 1 label: 'GSA MAS' with green badge reading 'FOUNDATION'. Row 2 label: 'OASIS+' with amber badge reading 'HIGHER BAR'. Row 3 label: 'SEWP V' with amber badge reading 'COMPETITIVE'. Illustrated male professional in business casual holding a clipboard, reviewing the comparison with a calm, analytical expression. Dark navy bottom banner with bold white text: 'MAS FIRST. ALWAYS.' Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

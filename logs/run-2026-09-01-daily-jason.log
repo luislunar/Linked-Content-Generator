@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+**post_type:** `hot_take` | **topic:** `vehicles` | **hook:** `question` | **format:** `comparison` | **template:** `single-02-numbered`
+
+**Key decisions:**
+- The cadence rule forced a question hook — all 3 prior Jason posts started with statements
+- `vehicles` is unrecent (not in his last 5 logs) and unused by Josh/William today
+- Format switched from bullets (Jason's last 4 posts) to a comparison breakdown — matches the vehicle-vs-vehicle angle and the numbered template
+- Template `single-02-numbered` (cream) provides color contrast after recent dark-bg posts
+
+**The post angle:** "Which vehicle first — MAS, OASIS+, or SEWP V?" walks through each in Jason's analytical, no-romance style, then lands on the contrarian close: GSA MAS isn't the fallback, it's the foundation. The community question targets holders and prospectors who have strong opinions on vehicle strategy — designed to pull comments from both camps.
