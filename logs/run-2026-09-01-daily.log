@@ -1,18 +1,29 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of today's run:
+Today's post was already generated and committed earlier in this run window. All required files are present and valid:
 
-**Post type:** `inspiration` — short (91 words), prose, no bullets. Chosen because: (1) not used in last 3 days, (2) last 3 posts averaged ~199 words — this brings length down, (3) the certifications insight is best delivered as a punchy single truth, not a list.
+---
 
-**Topic:** `certifications` — clean gap in the rotation; not touched since before Aug 25.
+**2026-09-01 · Josh Ladick — Draft Summary**
 
-**Hook:** `question` — "Before you apply for 8(a)... ask yourself one question first." Previous 3 hooks were all statement-style (alert, story, truth); this breaks the pattern as required.
+| Field | Value |
+|---|---|
+| `post_type` | `inspiration` |
+| `topic` | `certifications` |
+| `hook_pattern` | `question` |
+| `format` | `prose` |
+| `template` | `single-03-quote` |
+| `word_count` | 91 |
 
-**Template:** `single-03-quote` (cream serif card) — first-choice template for `inspiration`. Last two templates were `single-07-story` (cream) and `single-01-bold` (dark navy), so no color-repeat restriction applied.
+**Post hook:** "Before you apply for 8(a), WOSB, or HUBZone — ask yourself one question first."
 
-**Core tension:** Certifications = access multiplier, not demand creator. The "certified ≠ positioned" framing gives ICP readers something to debate and comment on from their own experience.
+**Core argument:** A certification multiplies your access to set-asides — it doesn't create demand, write your cap statement, or teach you to respond to RFQs. Get positioned before you chase the cert.
 
-**Files written:**
-- `drafts/2026-09-01/post.md`
-- `drafts/2026-09-01/post.meta.json`
-- `drafts/2026-09-01/hypothesis.md`
-- `logs/run-2026-09-01.md`
+**Community question:** "What's one thing you wish you'd built before pursuing your first federal certification?"
+
+**Rotation check:**
+- Type `inspiration` ✓ — not used in last 3 days (08-31: `hot_take`, 08-28: `personal_story`)
+- Topic `certifications` ✓ — not in last 5 days
+- Hook `question` ✓ — last hook was `truth` (08-31)
+- Format `prose` — last 2 posts were prose; inspiration at 91 words is within the 50–150 range so length variation is fine
+
+**Files:** `post.md`, `post.meta.json`, `hypothesis.md`, `card.jpg` — all present. Run log `logs/run-2026-09-01.md` already written. No further action needed.
