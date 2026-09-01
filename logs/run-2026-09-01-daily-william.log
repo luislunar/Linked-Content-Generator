@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**Today's William Hill post — 2026-09-01**
+
+| Field | Value |
+|---|---|
+| post_type | `tips_list` |
+| topic | `pipeline` |
+| hook_pattern | `truth` |
+| format | `bullets` |
+| template | `single-06-checklist` (dark navy) |
+| word_count | 232 |
+
+**Angle:** Post-approval pipeline gap — the truth that holding a GSA Schedule and winning contracts are two different disciplines. Five specific, tool-grounded actions for new holders: SAM.gov alerts, USAspending.gov award history, Sources Sought responses, recompete tracking, vendor outreach sessions.
+
+**Why this picks:**
+- Pipeline is William's highest-weight topic (2x/week) and has been clear for 6 days
+- All three blocked post types (client_story, behind_scenes, hot_take) avoided
+- `truth` hook is William's preferred range, not consecutive with yesterday's `story`, not blocked by Josh (`question`)
+- Dark navy card contrasts with Josh's cream pull-quote today
+- Angle is clearly distinct from the 8/26 pipeline personal_story (behavior observation) — today is tool-specific and sequential

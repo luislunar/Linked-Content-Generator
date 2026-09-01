@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pipeline Playbook",
+    "module": "Module 01 · New Holder",
+    "headline_html": "Five moves <span class='accent'>after</span> the Schedule lands.",
+    "items": [
+      { "title": "Set SAM.gov alerts", "sub": "Filter by NAICS — relevant RFQs come to you" },
+      { "title": "Pull award history", "sub": "USAspending.gov shows who funds your category" },
+      { "title": "Answer Sources Sought", "sub": "Build name with COs before the real post" },
+      { "title": "Flag expiring recompetes", "sub": "18-month visibility gets you in early" },
+      { "title": "Book vendor outreach", "sub": "GSA programs exist — most new holders skip them" }
+    ],
+    "footer_left": "New Holder Field Guide",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE MOVES AFTER YOUR SCHEDULE LANDS",
+    "image_prompt": "Infographic checklist layout, dark navy background with forest-green and amber accents. Bold headline at top in white: 'FIVE MOVES AFTER YOUR SCHEDULE LANDS'. Left column: illustrated professional man in business casual, looking at a laptop with a calm, confident expression. Right column: 5 checklist rows each with a forest-green checkmark icon and a short 2-3 word white label — 'SAM ALERTS', 'AWARD HISTORY', 'SOURCES SOUGHT', 'RECOMPETES', 'VENDOR OUTREACH'. Amber bottom banner with short tagline: 'PIPELINE STARTS DAY ONE'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
