@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 032 · Certifications",
+    "quote_html": "Certifications multiply your access. <em>They don't create demand.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "CERTIFIED DOESN'T MEAN POSITIONED",
+    "image_prompt": "Split-panel infographic, cream background. Left panel dark navy: large bold serif label 'THE CERT' with gold badge icon, two 2-word labels below: 'ACCESS UNLOCKED', 'SET-ASIDES OPEN'. Right panel cream with forest-green border: bold label 'STILL NEED' with three 2-word labels stacked and green checkboxes: 'CAP STATEMENT', 'RFQ SKILLS', 'POSITIONING'. Center: illustrated professional woman in blazer holding badge in one hand, clipboard in other, looking forward. Bold headline at top: 'CERTIFIED DOESN'T MEAN POSITIONED' in dark navy. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

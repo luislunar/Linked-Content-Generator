@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run:
+
+**Post type:** `inspiration` — short (91 words), prose, no bullets. Chosen because: (1) not used in last 3 days, (2) last 3 posts averaged ~199 words — this brings length down, (3) the certifications insight is best delivered as a punchy single truth, not a list.
+
+**Topic:** `certifications` — clean gap in the rotation; not touched since before Aug 25.
+
+**Hook:** `question` — "Before you apply for 8(a)... ask yourself one question first." Previous 3 hooks were all statement-style (alert, story, truth); this breaks the pattern as required.
+
+**Template:** `single-03-quote` (cream serif card) — first-choice template for `inspiration`. Last two templates were `single-07-story` (cream) and `single-01-bold` (dark navy), so no color-repeat restriction applied.
+
+**Core tension:** Certifications = access multiplier, not demand creator. The "certified ≠ positioned" framing gives ICP readers something to debate and comment on from their own experience.
+
+**Files written:**
+- `drafts/2026-09-01/post.md`
+- `drafts/2026-09-01/post.meta.json`
+- `drafts/2026-09-01/hypothesis.md`
+- `logs/run-2026-09-01.md`
