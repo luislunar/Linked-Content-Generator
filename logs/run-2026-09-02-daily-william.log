@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for `drafts/william/2026-09-02/`:
+
+**Post type:** `personal_story` | **Topic:** `gsa_basics` | **Hook:** `question`
+
+The post opens with the direct quote William hears on every first call — *"Does my company even qualify?"* — then walks through the five real qualifying criteria in his conversational call-observation voice (2 years in business, commercial revenue, clean record, SIN match, active SAM.gov). Closes with the honest reframe: most who ask the question do qualify; the barrier is the process length, not the starting line.
+
+**Key decisions:**
+- Avoided `teaming` — Josh posted personal_story/teaming/story just 5 days ago (08/28); too similar in structure to reuse so soon
+- `question` hook differentiates from Josh's `alert` today and William's `truth` yesterday
+- `single-07-story` (cream+serif) contrasts with William's dark navy yesterday and Josh's split-panel cream+navy today
+- No data figure — qualification criteria post doesn't benefit from a spending stat, and that shift would break William's conversational register

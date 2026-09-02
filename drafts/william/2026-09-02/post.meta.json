@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "gsa_basics",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "First Call",
+    "year_client": "Call Pattern · 2026",
+    "lead_html": "<em>\"Does my company even qualify?\"</em> — the first question, almost every time.",
+    "rows": [
+      {
+        "when": "The Bar",
+        "what_html": "<strong>Two years in business, commercial revenue on record</strong> <span class='light'>— lower than most owners expect</span>"
+      },
+      {
+        "when": "The Checklist",
+        "what_html": "<strong>Clean record + active SAM.gov + a matching SIN</strong> <span class='light'>— three things that unlock the application</span>"
+      },
+      {
+        "when": "The Reality",
+        "what_html": "<strong>Most who ask \"do I qualify\" — they do</strong> <span class='light'>— the process is long, the starting line isn't</span>"
+      }
+    ],
+    "closer": "THE STARTING LINE IS CLOSER THAN YOU THINK.",
+    "image_headline": "YOU PROBABLY QUALIFY.",
+    "image_prompt": "Infographic story layout, cream background with forest-green and dark navy accents. Left side: illustrated professional man in a button-down shirt on a phone call, seated at a desk, posture relaxed and approachable. Right side: three stacked milestone steps with short labels in dark navy: 'THE BAR', 'THE CHECKLIST', 'THE REALITY'. Bold headline at top: 'YOU PROBABLY QUALIFY.' One green accent callout box near the bottom with short phrase: '2 YRS · REVENUE · SAM'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
