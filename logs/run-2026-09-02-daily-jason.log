@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-09-02/`:
+
+**post.md** (202 words, `myth-bust` hook, `→` bullets)
+Opens with the actual sales-call objection Jason hears most — "We're not ready yet" — then kills 4 specific reasons behind it with data. The DoD $19.9B figure (Q2 2026, USAspending.gov) handles the "big companies only" myth. Closing line reinforces the central message; community question is specific to which myth the reader believed.
+
+**post.meta.json** — `single-06-checklist` (dark carbon-black, Jason theme). Five checklist rows reframed as realities, not myths — so the green checkmarks are logically consistent (these things are true). `footer_right` credits USAspending.gov as required by the govcon-data rules.
+
+**Rotation logic:**
+- Post type `tips_list` — not used in Jason's last 3 days ✓
+- Topic `myths` — Jason's 2x/week priority, last used 6+ days ago ✓
+- Hook `myth-bust` — not Josh's (`alert`) or William's (`question`) today ✓
+- Topic clear of Josh (`compliance`) and William (`gsa_basics`) today ✓
+- DoD figure not used by any other profile today ✓

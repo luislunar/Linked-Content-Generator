@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Reality Check",
+    "module": "Field Notes · Vol. 07",
+    "headline_html": "Five objections <span class='accent'>I kill weekly.</span>",
+    "items": [
+      {
+        "title": "No past performance needed",
+        "sub": "2 years + commercial revenue. Federal history not required."
+      },
+      {
+        "title": "Small businesses dominate",
+        "sub": "$19.9B from DoD to small biz — Q2 2026 alone."
+      },
+      {
+        "title": "Zero application fee",
+        "sub": "GSA charges nothing upfront. Time is the real cost."
+      },
+      {
+        "title": "Approval ≠ pipeline",
+        "sub": "The Schedule is access, not a sales team."
+      },
+      {
+        "title": "Most service codes qualify",
+        "sub": "Verify before assuming you're disqualified."
+      }
+    ],
+    "footer_left": "Objection Tracker",
+    "footer_right": "Source · USAspending.gov"
+  },
+  "experiment_id": "",
+  "image_headline": "5 GSA MYTHS. OFFICIALLY KILLED.",
+  "image_prompt": "Checklist infographic. Dark carbon-black background. Bold top headline '5 GSA MYTHS. OFFICIALLY KILLED.' in white. Below: five horizontally striped rows alternating dark and slightly lighter carbon, each with a green checkmark icon on the left, a short 3-5 word title in bright cyan, and a 4-7 word sub-label in light gray. Right side: illustrated professional man in dark blazer, arms crossed confidently, standing beside the checklist. Bottom strip in cyan: 'REALITY CHECK' in bold black text. Footer text: 'Jason · GSA Focus'."
+}
