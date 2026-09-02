@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "compliance",
+  "hook_pattern": "alert",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "60-Day Rescue",
+    "case_num": "Case · 031",
+    "headline_html": "What a compliance notice <span class='accent'>actually costs.</span>",
+    "before_items": [
+      "14 months, zero modifications",
+      "Pricelist outdated and stale",
+      "Termination threat from CO"
+    ],
+    "after_items": [
+      "All mods filed and current",
+      "Pricelist corrected, certified",
+      "First federal award, month 11"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "COMPLIANCE IS NOT OPTIONAL.",
+    "image_prompt": "Split-panel infographic. Left panel dark navy with bold red label 'BEFORE' and red X icons. Three short 3-word warning labels: '14-MONTH GAP', 'STALE PRICELIST', 'CO NOTICE'. Right panel cream/white with bold green label 'AFTER' and green checkmarks. Three short 3-word positive labels: 'MODS CURRENT', 'PRICELIST FIXED', 'FIRST AWARD'. Center: illustrated professional woman in blazer standing between panels, reviewing a compliance document with a relieved expression. Bold headline at top: 'COMPLIANCE IS NOT OPTIONAL.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
