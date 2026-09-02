@@ -1,19 +1,21 @@
-A compliance review notice landed in their inbox on a Tuesday.
+Your GSA pricing follows you for years.
 
-The company had held their GSA Schedule for three years — solid commercial revenue, a handful of federal bids they'd chased without success. Then priorities shifted. The Schedule got pushed to the back burner. Fourteen months passed without a single modification filed. Their pricelist was outdated. Their annual schedule-holder certifications hadn't been completed.
+Most small businesses set it wrong the first time — and the consequences compound: lost bids, margin erosion, task orders you technically win but can't afford to execute.
 
-The Contracting Officer's message was direct: come into compliance or face termination.
+Five pricing mistakes I see more than any others:
 
-They called us the same day.
+1. **Anchoring to the wrong commercial price.** GSA's Basis of Award ties directly to what you charge your best commercial customer. If your GSA rates aren't aligned, the CO will identify the gap.
 
-We went through their entire Schedule: pricing discrepancies, stale line items, three modifications that should have been filed but weren't. Over the next 60 days, we filed every outstanding mod, corrected the pricelist, completed the certifications, and submitted a formal written response to the CO.
+2. **Pricing too low to get approved.** Your GSA rate becomes your ceiling on every future task order. You can't easily raise it. Set it accurately from the start — lower isn't better, it's permanent.
 
-The termination threat was removed. Their Schedule was brought back into full compliance.
+3. **Overlooking the Price Reductions Clause.** Every time you give a commercial customer a discount below your GSA rate, you automatically owe that same reduction to federal buyers. Most people don't discover this clause exists until they're in a compliance review.
 
-Eleven months later, they won their first federal award through the MAS.
+4. **Skipping annual economic price adjustments.** GSA allows CPI-based rate increases each year. Contractors who don't file the modification leave money unclaimed across every option period.
 
-The GSA Schedule is not a one-time application. It's a live federal contract — and live contracts require active maintenance. Most companies don't realize they've slipped out of compliance until a notice shows up in their inbox.
+5. **Underloading indirect costs.** Overhead, G&A, and fringe are part of the cost of doing business. If they're not in your GSA rates, you're subsidizing the government with your own margin.
 
-When did you last audit your own GSA mods, pricelist, and certifications? If you're not sure — that's your answer right there.
+GSA pricing errors aren't a one-time loss. They follow your contract for its entire lifespan.
 
-#govcon #gsaschedule #federalcontracting #compliance #smallbusiness
+What's the one thing about GSA pricing that caught you off guard — and when did you finally figure it out?
+
+#govcon #gsaschedule #pricing #federalcontracting #smallbusiness

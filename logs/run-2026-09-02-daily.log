@@ -1,19 +1,22 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Run complete. Here's what was produced for **2026-09-02**:
+Done. Here's a summary of what was produced:
 
 ---
 
-**Post type:** `client_story` — not used in the last 5+ days  
-**Topic:** `compliance` — clean rotation (last used >5 days ago)  
-**Hook:** `alert` — inbox dread opener; rotates away from yesterday's `question`  
-**Format:** prose (no bullets — breaks the recent tips/checklist streak)  
-**Template:** `single-05-beforeafter` (cream bg)  
-**Word count:** 228 (within 200–300 target)
+**Today's post — 2026-09-02**
 
-**Story arc:** A 3-year Schedule holder goes dark for 14 months — no mods filed, stale pricelist, annual certs missed. CO issues a termination notice. GSA Focus audits, files all outstanding mods, corrects the pricelist, submits a written response. Threat removed. Schedule compliant. First MAS award at month 11.
+- **Type:** `tips_list` (avoided: client_story, inspiration, hot_take)
+- **Topic:** `pricing` (avoided: compliance, certifications, gsa_basics, teaming, sam)
+- **Hook:** `blunt` — *"Your GSA pricing follows you for years."*
+- **Format:** numbered checklist (breaking streak of prose/story formats)
+- **Template:** `single-06-checklist` (dark navy — needed after 2 cream-bg posts)
+- **Word count:** ~222 words (within 150–280 tips_list range)
 
-**Card (single-05-beforeafter):**
-- Before: "14 months, zero modifications" / "Pricelist outdated and stale" / "Termination threat from CO"
-- After: "All mods filed and current" / "Pricelist corrected, certified" / "First federal award, month 11"
+**The 5 items:**
+1. Wrong Basis of Award anchor
+2. Pricing too low to win
+3. Ignoring Price Reductions Clause
+4. Skipping annual economic price adjustments
+5. Underloading indirect costs
 
-**Community question:** "When did you last audit your own GSA mods, pricelist, and certifications? If you're not sure — that's your answer right there." (honest-check style, designed to surface self-disclosure in comments)
+**Community question:** *"What's the one thing about GSA pricing that caught you off guard — and when did you finally figure it out?"* (experience-share style — designed to surface specific disclosures, especially around the Price Reductions Clause which tends to be the most surprising item for schedule holders)

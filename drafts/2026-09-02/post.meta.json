@@ -1,27 +1,24 @@
 {
-  "post_type": "client_story",
-  "topic": "compliance",
-  "hook_pattern": "alert",
-  "format": "story",
-  "template": "single-05-beforeafter",
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "section_label": "60-Day Rescue",
-    "case_num": "Case · 031",
-    "headline_html": "What a compliance notice <span class='accent'>actually costs.</span>",
-    "before_items": [
-      "14 months, zero modifications",
-      "Pricelist outdated and stale",
-      "Termination threat from CO"
+    "section_label": "Pricing Mistakes",
+    "module": "Module 07 · Pricing",
+    "headline_html": "Five pricing errors that <span class='accent'>follow you</span> for years.",
+    "items": [
+      { "title": "Wrong Basis of Award anchor", "sub": "Your GSA rate ties to your best commercial deal — misalign it and the CO finds it." },
+      { "title": "Pricing too low to win", "sub": "GSA rate = your ceiling on every task order. Set it right from day one." },
+      { "title": "Ignoring Price Reductions Clause", "sub": "Discount a commercial client below GSA? You owe that same reduction to federal buyers." },
+      { "title": "Skipping economic price adjustments", "sub": "CPI increases are allowed annually. You must file the mod to capture them." },
+      { "title": "Underloading indirect costs", "sub": "Overhead and G&A are real costs. Miss them in your rates and your margin disappears." }
     ],
-    "after_items": [
-      "All mods filed and current",
-      "Pricelist corrected, certified",
-      "First federal award, month 11"
-    ],
-    "footer_left": "One Real Transformation",
-    "footer_right": "Field Case Series",
-    "image_headline": "COMPLIANCE IS NOT OPTIONAL.",
-    "image_prompt": "Split-panel infographic. Left panel dark navy with bold red label 'BEFORE' and red X icons. Three short 3-word warning labels: '14-MONTH GAP', 'STALE PRICELIST', 'CO NOTICE'. Right panel cream/white with bold green label 'AFTER' and green checkmarks. Three short 3-word positive labels: 'MODS CURRENT', 'PRICELIST FIXED', 'FIRST AWARD'. Center: illustrated professional woman in blazer standing between panels, reviewing a compliance document with a relieved expression. Bold headline at top: 'COMPLIANCE IS NOT OPTIONAL.' Footer text: 'Josh Ladick · GSA Focus'."
+    "footer_left": "Pricing Health Check",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE PRICING ERRORS THAT FOLLOW YOU.",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold warning headline top: 'FIVE PRICING ERRORS THAT FOLLOW YOU.' Left side: illustrated professional woman in blazer reviewing a spreadsheet on laptop, focused expression. Right side: five numbered checklist rows, each with red X icon and short label: '01 WRONG ANCHOR', '02 TOO LOW', '03 PRICE REDUCTIONS', '04 NO ADJUSTMENTS', '05 MISSING OVERHEAD'. Bottom dark navy banner with white text: 'PRICING FOLLOWS YOU. GET IT RIGHT.' Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }
