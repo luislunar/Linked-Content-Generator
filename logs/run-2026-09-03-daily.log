@@ -1,24 +1,25 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Run complete. Here's what was produced for **2026-09-03**:
+Today's run is already complete. All draft files exist in `drafts/2026-09-03/` and the run log at `logs/run-2026-09-03.md` is written. Here's a summary of what was produced:
 
 ---
 
-**Post type:** `tips_list` — last used 2026-08-27 (7 days clear)
-**Topic:** `pricing` — not used in the last 10 visible days for Josh; cleanest gap in the rotation
-**Hook:** `contrarian` — "Wrong question. Here's the right one." frame; rotates away from `alert` (yesterday), `question` (2 days ago), and `truth` (3 days ago)
-**Format:** numbered checklist — returns to structured bullets after 3 consecutive prose/story posts
-**Template:** `single-06-checklist` (dark navy) — first-choice for `tips_list`; dark bg breaks the two-post cream streak
-**Word count:** 244 (within 150–280 target)
+**2026-09-03 — Daily run summary (Josh Ladick / GSA Focus)**
 
-**Core angle:** The ICP fixates on "what price should I charge?" — the post reframes it to Basis of Award discipline. The five rules hit the specific mechanics most holders ignore post-award: BOA tracking, Price Reduction Clause exposure, pricelist maintenance, rate headroom at negotiation, and modification requirements.
+- **Post type:** `tips_list`
+- **Topic:** `pricing`
+- **Hook pattern:** `contrarian` — "Wrong question / right question" frame opening with *"What price should I charge?"* before pivoting to Basis of Award
+- **Format:** Numbered list (5 rules)
+- **Template:** `single-06-checklist` (dark navy — breaks the cream streak)
+- **Word count:** 244
 
-**Card (`single-06-checklist`):**
-Five items: Know Your BOA Customer / Price Reduction Clause Bites / Pricelist Must Stay Current / Negotiate Headroom Upfront / Every Change Needs a Mod
+**Rotation logic applied:**
+- Last 3 days: `inspiration` (09-01) → `client_story` (09-02) → `tips_list` today ✓ (no repeat)
+- Topics rotated away from `certifications` and `compliance` ✓
+- Hook rotated from `alert` → `contrarian` ✓
+- Template breaks two-post cream streak with dark navy card ✓
 
-**Community question:** "What surprised you most about GSA pricing after award — or what made you rethink your rate strategy?" (experience-share style; targets both holders and applicants)
+**Card headline:** `WRONG QUESTION. RIGHT PRICING FRAMEWORK.`
 
-**Files written:**
-- `drafts/2026-09-03/post.md`
-- `drafts/2026-09-03/post.meta.json`
-- `drafts/2026-09-03/hypothesis.md`
-- `logs/run-2026-09-03.md`
+**Community question:** *"What surprised you most about GSA pricing after award — or what made you rethink your rate strategy?"*
+
+No changes needed — the workflow log only shows a permissions advisory on this re-invocation. All output files were written in the prior run and the commit `2e6e363 publish: 2026-09-03 daily post` is already in the history.
