@@ -1,0 +1,11 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary:
+
+**Today's post — William Hill, 2026-09-03**
+
+- **Type:** `behind_scenes` | **Topic:** `teaming` | **Hook:** `story` | **~170 words**
+- **Template:** `single-03-quote` (cream bg) — contrasts Josh's dark navy today and William's own dark navy from 09/01
+
+**The post** opens with a verbatim objection William hears constantly ("We don't have past performance") then reframes it in four concrete teaming steps — find a prime, sub to them, structure around your capabilities, build the record. Closes with a targeted CTA asking owners to name the prime in their space they haven't called yet.
+
+**Rotation logic:** Length rule forced under 180w (last 3 avg = 221.7w). Blocked types: personal_story, tips_list, client_story. Blocked topics: gsa_basics, pipeline, compliance, pricing (Josh). Blocked hooks: question (consecutive), contrarian (Josh). Teaming is a William-priority topic (1x/week) that hasn't appeared in 6+ days.

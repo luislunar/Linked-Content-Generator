@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Teaming",
+    "quote_html": "Most owners call me thinking they're too early. <em>They're not — they just need a partner first.</em>",
+    "footer_left": "From the Call Log",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "TEAMING IS THE WAY IN",
+    "image_prompt": "Infographic story layout on cream/warm white background. Bold headline top: 'TEAMING IS THE WAY IN'. Left side: illustrated journey path — two company building icons connected by a wide dotted arrow, short labels 'PRIME' above and 'SUB' below in forest green. Right side: illustrated professional man in business casual, warm confident expression, holding a phone to his ear. One highlighted callout box in amber with short phrase '3 AWARDS AS SUB'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
