@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+---
+
+**`drafts/jason/2026-09-03/`**
+
+**Post type:** `milestone` | **Topic:** `certifications` | **Hook:** `blunt`  
+**Template:** `single-04-stat` (dark navy, $19.9B DoD stat from USAspending.gov Q2 2026)  
+**Word count:** 182
+
+**Post opens with:**
+> "A certification doesn't win you contracts. I know that sounds blunt — but I hear the opposite assumption on almost every prospecting call I take."
+
+Four bullets cover SDVOSB → HUBZone → 8(a) → GSA Schedule + cert stack. Closes with the "key with no door" line and a specific decision-point CTA: which cert has moved the needle (or which one are they still deciding on).
+
+**Uniqueness checks passed:**
+- Topic (`certifications`) not used by Josh (`pricing`) or William (`teaming`) today
+- Post type (`milestone`) not used by anyone today, and clear of Jason's 3-day block
+- Hook (`blunt`) not used by Jason in last 3 posts; not used by Josh (`contrarian`) or William (`story`) today
+- Stat ($19.9B DoD) not used by Josh (pricing post) or William (teaming post) today

@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "certifications",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "DoD awards to small businesses, Q2 2026",
+    "big_number_html": "$<span class='accent'>19.9B</span>",
+    "context_html": "One agency. One quarter. <strong>Your cert unlocks that lane</strong> — but only if you have the right vehicle under it.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "experiment_id": null,
+  "image_headline": "CERTS DON'T WIN CONTRACTS ALONE",
+  "image_prompt": "Split-panel infographic, dark navy and steel-blue background. Left panel: dark navy with bold white label 'THE CERT' and key icon above; three short 2-word labels stacked: 'SDVOSB', 'HUBZONE', '8(A)' each with a small shield icon. Right panel: steel-blue with bold white label 'THE VEHICLE' and door-with-arrow icon; three short labels: 'GSA SCHEDULE', 'SET-ASIDE LANE', 'SOLE SOURCE' each with a checkmark. Center divider: an illustrated professional man in a business blazer holding a key, stepping from left panel into right panel through an open federal building doorway. Bold headline at top spanning both panels: 'CERTS DON'T WIN CONTRACTS ALONE'. Bottom dark navy banner with no text. Footer text: 'Jason · GSA Focus'."
+}
