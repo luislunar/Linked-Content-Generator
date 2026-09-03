@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pricing Rules",
+    "module": "Module 05 · Pricing",
+    "headline_html": "Five pricing rules <span class='accent'>most GSA holders</span> learn the hard way.",
+    "items": [
+      { "title": "Know your BOA customer", "sub": "Your contract is priced to your best commercial deal — know who that is." },
+      { "title": "Price Reduction Clause bites", "sub": "Go below your BOA commercially post-award? Gov may recoup the difference." },
+      { "title": "Pricelist must stay current", "sub": "Stale pricelist freezes your ability to quote on any RFQ." },
+      { "title": "Negotiate headroom upfront", "sub": "The CO will push rates down — build margin before you submit." },
+      { "title": "Every change needs a mod", "sub": "New service, new rate, new discount? Formal modification, no exceptions." }
+    ],
+    "footer_left": "Pricing Audit",
+    "footer_right": "Field Notes · Vol. 05",
+    "image_headline": "WRONG QUESTION. RIGHT PRICING FRAMEWORK.",
+    "image_prompt": "Infographic checklist layout on dark navy background. Bold headline top: 'WRONG QUESTION. RIGHT PRICING FRAMEWORK.' Left column: illustrated professional man in blazer holding a federal contract document, thoughtful expression. Right column: 5 checklist rows with green checkmarks, 3-word labels: 'KNOW YOUR BOA', 'PRICE REDUCTION CLAUSE', 'CURRENT PRICELIST', 'NEGOTIATE HEADROOM', 'FILE THE MOD'. Bottom: dark navy banner with short callout 'FIVE RULES. ZERO EXCEPTIONS.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

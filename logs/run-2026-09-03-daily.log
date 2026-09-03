@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Run complete. Here's what was produced for **2026-09-03**:
+
+---
+
+**Post type:** `tips_list` — last used 2026-08-27 (7 days clear)
+**Topic:** `pricing` — not used in the last 10 visible days for Josh; cleanest gap in the rotation
+**Hook:** `contrarian` — "Wrong question. Here's the right one." frame; rotates away from `alert` (yesterday), `question` (2 days ago), and `truth` (3 days ago)
+**Format:** numbered checklist — returns to structured bullets after 3 consecutive prose/story posts
+**Template:** `single-06-checklist` (dark navy) — first-choice for `tips_list`; dark bg breaks the two-post cream streak
+**Word count:** 244 (within 150–280 target)
+
+**Core angle:** The ICP fixates on "what price should I charge?" — the post reframes it to Basis of Award discipline. The five rules hit the specific mechanics most holders ignore post-award: BOA tracking, Price Reduction Clause exposure, pricelist maintenance, rate headroom at negotiation, and modification requirements.
+
+**Card (`single-06-checklist`):**
+Five items: Know Your BOA Customer / Price Reduction Clause Bites / Pricelist Must Stay Current / Negotiate Headroom Upfront / Every Change Needs a Mod
+
+**Community question:** "What surprised you most about GSA pricing after award — or what made you rethink your rate strategy?" (experience-share style; targets both holders and applicants)
+
+**Files written:**
+- `drafts/2026-09-03/post.md`
+- `drafts/2026-09-03/post.meta.json`
+- `drafts/2026-09-03/hypothesis.md`
+- `logs/run-2026-09-03.md`
