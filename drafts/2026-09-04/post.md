@@ -1,13 +1,15 @@
-Nobody talks enough about this in GovCon:
+"You can't win federal contracts without past performance."
 
-The RFP landing in your inbox is the *last* step in pipeline-building — not the first. By the time a solicitation drops publicly, the agency has usually been signaling their intent for 6 to 12 months through Sources Sought notices, market research, and existing contract structures.
+I've heard this one a hundred times. It's also the reason dozens of capable companies never take their first step into GovCon.
 
-Here's what I actually do every morning when onboarding a new client: I pull up USAspending.gov, filter by their NAICS code, and look at who's *already* buying what they sell. Not who's actively soliciting. Who already awarded. Federal agencies rebuy on predictable cycles — typically every 3 to 5 years. Find a $1.8M award from 20 months ago, and you're likely 16 to 28 months from a recompete. That's your window.
+Here's what's actually true: teaming agreements exist specifically to solve this problem.
 
-In Q2 2026 alone, small businesses captured $17.7B across just the top 8 industries. (Source: USAspending.gov.) Most of that wasn't random luck — it was businesses that had mapped their targets months before anyone else saw the solicitation.
+When you team as a subcontractor under an established prime, their past performance covers the bid. You bring the capability. They bring the track record. The agency gets both.
 
-Your pipeline doesn't begin when the opportunity posts. It begins the moment you know who's spending money in your lane.
+Three to four contracts in, you've built your own history. You no longer need the shortcut — because you *are* the track record.
 
-What's the first thing you search when you're researching a new federal agency? Drop it below.
+The companies stuck on the sideline aren't waiting for past performance to appear. They're waiting to understand how the game actually works.
 
-#govcon #federalcontracting #pipeline #smallbusiness
+What's the biggest misconception about GovCon that almost stopped you from pursuing federal contracts?
+
+#govcon #teaming #federalcontracting #smallbusiness
