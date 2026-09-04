@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for 2026-09-04:
+
+**Post type:** `behind_scenes` — not used in the last 3 days, adds variety after tips_list → client_story → inspiration.
+
+**Topic:** `pipeline` — fresh (not used since before 08-28). The govcon-data Q2 figure ($17.7B across 8 industries) strengthens the point without forcing a data post.
+
+**Hook:** `truth` ("Nobody talks enough about this in GovCon") — different from yesterday's `contrarian` and the prior `alert`/`question`.
+
+**Core idea:** A process reveal — how Josh actually opens USAspending.gov every morning for new clients, filters by NAICS, and maps recompete windows from *existing* awards rather than waiting for solicitations. The $17.7B Q2 stat grounds it. Community question asks what readers search first — designed to pull experience-share comments.
+
+**Template:** `single-07-story` (cream background) — good contrast against what was likely a dark template on 09-03. Word count: 176 words, well within the 100–200 `behind_scenes` range.

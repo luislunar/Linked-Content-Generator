@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Pipeline Reality",
+    "year_client": "Morning Routine · Pipeline Research",
+    "lead_html": "The <em>RFP in your inbox</em> is the last step — not the first.",
+    "rows": [
+      {
+        "when": "Step 01",
+        "what_html": "<strong>Pull USAspending.gov by NAICS code</strong> <span class='light'>— map who already bought what you sell</span>"
+      },
+      {
+        "when": "Step 02",
+        "what_html": "<strong>Find awards from 12–24 months ago</strong> <span class='light'>— those are your live recompete windows</span>"
+      },
+      {
+        "when": "Step 03",
+        "what_html": "<strong>Build your target list now</strong> <span class='light'>— show up before the solicitation drops</span>"
+      }
+    ],
+    "closer": "PIPELINE STARTS BEFORE THE RFP EXISTS.",
+    "image_headline": "DON'T WAIT FOR THE RFP",
+    "image_prompt": "Infographic story layout. Left side: vertical timeline with 3 step icons labeled 'STEP 01', 'STEP 02', 'STEP 03' in bold. Each icon has a 2-3 word label below: 'NAICS SEARCH', 'MAP RECOMPETES', 'BUILD TARGETS'. Right side: illustrated professional man at laptop reviewing a data dashboard. Bold headline at top: 'DON'T WAIT FOR THE RFP'. Dark navy bottom strip with short callout: '$17.7B · Q2 2026 · SMALL BIZ'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
