@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "SAM Alert",
+    "headline_html": "YOUR SAM<br>RECORD<br><span class='accent'>INVISIBLE?</span>",
+    "sub": "COs check your SAM profile before they pick up the phone — a stale record makes you invisible.",
+    "issue": "Field Note 019",
+    "image_headline": "STALE SAM = INVISIBLE TO COs",
+    "image_prompt": "Infographic alert layout. Bold warning headline at top: 'STALE SAM = INVISIBLE TO COs' with a caution triangle icon. Left side: illustrated professional man in business casual seated at a laptop, looking concerned at the screen. Right side: dark navy panel with three stacked 2-3 word callout labels — 'RECORD LAPSED', 'WRONG POC', 'OUTDATED NAICS' — each paired with a red X icon. Bottom strip: lighter callout text 'COs CHECK SAM FIRST'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

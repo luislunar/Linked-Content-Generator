@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary for today's William Hill post:
+
+---
+
+**2026-09-04 · William Hill**
+
+| Field | Value |
+|---|---|
+| post_type | `hot_take` |
+| topic | `sam` |
+| hook_pattern | `question` |
+| format | story (prose, no bullets) |
+| template | `single-01-bold` (dark navy) |
+| word_count | 172 |
+
+**Why these choices:**
+- Last 3 avg = 208.7 words → mandatory under-180 today; `hot_take` (150–300) lands at 172 ✓
+- `sam` is a William priority topic (1×/week), last used 7 days ago — outside the 5-day block
+- `story` hook blocked (consecutive 9/03), `truth` blocked (Josh today) → `question` is the only preferred hook available
+- Prose format breaks three-consecutive-bullets streak
+- Dark navy `single-01-bold` breaks two-consecutive-cream template run; contrasts Josh's cream card today
+
+**Post angle:** Call-observation voice — COs check SAM.gov before they ever pick up the phone, but most owners treat it as a one-time setup. Three patterns William hears on every first call: lapsed registration, former-employee POC, stale NAICS codes. Closing question prompts honest self-disclosure about when they last actually logged in.
