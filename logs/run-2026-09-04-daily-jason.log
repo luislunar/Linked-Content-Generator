@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-09-04/`:
+
+**Post type:** `client_story` · **Topic:** `teaming` · **Hook:** `contrarian` · **Template:** `single-05-beforeafter` (cream)
+
+**Why these choices:**
+- Last 3 Jason post types were `milestone`, `tips_list`, `hot_take` → `client_story` is fresh
+- Last 2 Jason cards were dark-bg (`single-04`, `single-06`) → cream template required today
+- Josh used `pipeline`, William used `sam` today → `teaming` is clear
+- William used `teaming` yesterday but via a story format; Jason's angle is analytically distinct: the "wrong question → right question" reframe with a before/after case
+
+**The post** (216 words): Opens with the contrarian setup — 30 cold emails, zero takers — then pivots to the client who identified the prime's specific NAICS gap and landed a named-sub role on a $4.2M award 6 months later. Bullets only for the outcome triad; narrative carries the rest. CTA asks readers to self-diagnose whether they're pitching company or gap — specific enough to generate real replies.

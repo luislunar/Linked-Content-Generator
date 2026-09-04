@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "contrarian",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Teaming Reality",
+    "case_num": "Case · 031",
+    "headline_html": "From 30 cold emails to <span class='accent'>named sub.</span>",
+    "before_items": [
+      "Emailed 30 primes cold",
+      "No past performance",
+      "Zero federal revenue"
+    ],
+    "after_items": [
+      "Filled the prime's gap",
+      "Named sub, $4.2M award",
+      "Past performance: done"
+    ],
+    "footer_left": "One Real Shift",
+    "footer_right": "Field Case Series",
+    "image_headline": "STOP PITCHING YOURSELF",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'WRONG APPROACH' with red X icon. Three short 3-word labels stacked vertically: 'COLD OUTREACH FAILS', 'PITCH YOUR COMPANY', 'WAIT FOR A YES'. Right panel white/light, bold label 'RIGHT APPROACH' with green checkmark. Three short labels stacked: 'FIND THEIR GAP', 'PITCH YOUR FIT', 'BECOME THE ANSWER'. Center: illustrated professional man in blazer moving from dark to light panel. Bold headline at top: 'STOP PITCHING YOURSELF'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
