@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-09-05/`:
+
+**Post type:** `inspiration` · **Topic:** `gsa_basics` · **Hook:** `question` · **Template:** `single-03-quote` (cream)
+
+**Why these choices:**
+- Last 3 types were `behind_scenes`, `tips_list`, `client_story` → `inspiration` is the freshest available
+- Last 3 posts averaged 216 words → cadence rule requires under 180 today → `inspiration` (131 words) is the natural fit
+- Last 3 hooks were all statements (`truth`, `contrarian`, `alert`) → hook must be question or story today
+- `gsa_basics` untouched for 3+ days (last cycle covered `pipeline`, `pricing`, `compliance`)
+- `single-03-quote` (cream) is the first-choice template for `inspiration`; no color-repeat restriction applies
+
+**The post** (131 words): Opens with a procrastination question the ICP says to themselves constantly, empathizes in one sentence, then flips the frame — the Schedule isn't a trophy for stability, it's the tool that creates it. Closes with the "6–12 month clock starts the day you decide" line as the kicker. CTA asks readers to name the specific thing blocking them, which should surface real objections in the comments rather than generic replies.

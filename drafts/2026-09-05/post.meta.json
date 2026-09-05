@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "gsa_basics",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 030 · GSA Basics",
+    "quote_html": "The Schedule isn't a reward for being ready. <em>It's how you get ready.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE SCHEDULE IS HOW YOU GET READY",
+    "image_prompt": "Infographic quote layout. Cream background, large serif pull-quote centered: 'THE SCHEDULE IS HOW YOU GET READY.' Below: illustrated small business owner in casual blazer standing at a fork in the road — left path labeled 'WAIT' with red X icon, right path labeled 'START' with green arrow. Bold section label top-left: 'FIELD NOTE.' Small callout strip bottom-center: '6–12 MO CLOCK STARTS NOW.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
