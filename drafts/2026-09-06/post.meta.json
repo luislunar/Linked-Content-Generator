@@ -1,0 +1,37 @@
+{
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "carousel-01-myths",
+  "template_data": {
+    "cover": {
+      "top_label": "Field Guide / Vol. 04",
+      "headline_html": "3 myths that <span class='accent'>stop</span> GSA applicants cold.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
+      {
+        "label": "The Past-Performance Trap",
+        "myth_text": "You need federal past performance before GSA will even consider you.",
+        "reality_text": "GSA applications run on commercial past performance — 3 years of private-sector sales. No federal history needed. The Schedule is often your first step into federal, not a reward for already being there."
+      },
+      {
+        "label": "The Big-Company Myth",
+        "myth_text": "The GSA Schedule is built for large primes — not small businesses.",
+        "reality_text": "The majority of 20,000+ active GSA Schedule holders are small businesses. The contract was designed to level the playing field — not to reserve it for primes who already dominate it."
+      },
+      {
+        "label": "The Set-It-and-Forget-It Fantasy",
+        "myth_text": "Once you're on the Schedule, agencies will search you out and call.",
+        "reality_text": "The Schedule is a hunting license, not a sales team. You still need to market, respond to RFQs, and build relationships with contracting officers. The Schedule opens the door — you walk through it."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which one almost stopped you?",
+      "close_question": "Drop the myth you believed before you started — or the one you still hear from other small business owners."
+    }
+  },
+  "experiment_id": null
+}
