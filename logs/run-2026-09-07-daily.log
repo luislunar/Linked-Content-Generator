@@ -1,14 +1,13 @@
-Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of today's run:
+Daily run completed: 2026-09-07
 
-**post_type:** `hot_take` | **topic:** `teaming` | **hook:** `myth-bust` | **template:** `single-03-quote`
+Draft verified and ready:
+- post_type: hot_take
+- topic: teaming
+- hook_pattern: myth-bust
+- format: prose
+- word_count: 172
+- template: single-03-quote
+- files: drafts/2026-09-07/post.md, post.meta.json, hypothesis.md, card.jpg
+- run log: logs/run-2026-09-07.md
 
-**The post** opens with the myth as a direct quote ("You can't win federal contracts without past performance"), immediately signals relevance to anyone who's hit that wall, then reframes the solution in a single memorable line: *"The barrier isn't gone — it's borrowed."* Closes with a capability-specific community question designed to pull substantive comments from owners who've actually thought about their differentiation.
-
-**Why these choices:**
-- `hot_take` was 7 days unused; prose under 180 words satisfied the length-variation rule (last 3 posts averaged 216 words)
-- `teaming` was clear of the 5-day topic ban
-- `myth-bust` hook was unused since before the 5-day window; yesterday was `truth` (banned from repeating)
-- `single-03-quote` (cream) avoids a third consecutive dark template and suits the punchy pull-quote format
-
-Files written to `drafts/2026-09-07/`: `post.md`, `post.meta.json`, `hypothesis.md`. Log written to `logs/run-2026-09-07.md`.
+All rotation checks passed. No type, topic, or hook repeated from prior 3 days.
