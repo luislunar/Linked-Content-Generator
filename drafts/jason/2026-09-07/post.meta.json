@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Pricing Trap",
+    "index": "No. 031 · Pricing",
+    "quote_html": "The most expensive line in your GSA application? <em>The price you set.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Field Notes · Jason"
+  },
+  "image_headline": "YOUR GSA PRICE LOCKS YOU IN",
+  "image_prompt": "Infographic alert layout. Cream/light background. Bold headline across top: 'YOUR GSA PRICE LOCKS YOU IN'. Left side: illustrated professional man in business casual at a desk reviewing a contract document, red X icon marking a price line. Right side: two short comparison columns — left column labeled 'BAD ENTRY' in red with downward arrow and 2-word label 'HIGH / NO NEGO', right column labeled 'GOOD ENTRY' in green with upward arrow and 2-word label 'MFC / NEGOTIATED'. Center: one highlighted dark-navy callout strip with short phrase 'ONE DECISION. YEARS OF IMPACT.' Bottom navy banner strip. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}

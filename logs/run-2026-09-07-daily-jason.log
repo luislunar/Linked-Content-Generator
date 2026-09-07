@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written to `drafts/jason/2026-09-07/`:
+
+---
+
+**post_type:** `inspiration` | **topic:** `pricing` | **hook_pattern:** `blunt` | **template:** `single-03-quote`
+
+**Rotation logic:**
+- Jason's last 3: `client_story`, `milestone`, `tips_list` → all ruled out
+- Josh today: `hot_take` + `teaming` → ruled out
+- William today: `client_story` + `pipeline` → ruled out
+- Jason's last 5 topics: `teaming`, `certifications`, `myths` → `pricing` is fresh and Jason's highest-priority emphasis topic
+
+**Word count:** 141 — inside the 50–150 `inspiration` range
+
+**Post angle:** The self-inflicted pricing trap — GSA locks your ceiling at approval, so entering without negotiating your Most Favored Customer rate boxes you out of every RFQ for the life of the contract. Three-line fix, one blunt closing question asking for a specific personal mistake (low bar to comment).
+
+**Color contrast:** `single-03-quote` (cream) follows last two templates `single-05-beforeafter` (cream) + `single-04-stat` (dark) — no color constraint violated.
