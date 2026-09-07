@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**Today's post — William Hill · 2026-09-07**
+
+| Field | Value |
+|---|---|
+| post_type | `client_story` |
+| topic | `pipeline` |
+| hook_pattern | `story` |
+| format | prose (no bullets) |
+| template | `single-07-story` |
+| word_count | ~223 |
+
+**Angle:** A construction owner who had his GSA Schedule for nine months without a single contract — because he was waiting for inbound calls instead of building a pipeline. The post walks through the three moves that changed it (sources sought, agency outreach, recompete tracking) and closes with a specific three-choice question designed to draw out where readers are actually stuck.
+
+**Key decisions:**
+- `question` hook blocked (consecutive with 09/04's post); `story` used instead — fits William's warm, call-observation voice
+- `pipeline` is William's highest-priority topic (2x/week), last used 09/01 — clear
+- Switched to full prose to break three-post bullet streak and differentiate from 09/01's checklist-style pipeline post
+- Josh used `teaming` today (double-blocked for William); `single-03-quote` (cream pull-quote) — `single-07-story` (cream + serif timeline) is visually distinct on the feed

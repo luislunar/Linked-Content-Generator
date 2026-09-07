@@ -1,0 +1,30 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year One · Client 021",
+    "lead_html": "From <em>\"honestly, I've been waiting\"</em> to first federal award.",
+    "rows": [
+      {
+        "when": "Month 01–09",
+        "what_html": "<strong>Schedule approved — no pipeline activity</strong> <span class='light'>— waiting for RFQs to arrive on their own</span>"
+      },
+      {
+        "when": "Month 09",
+        "what_html": "<strong>Sources sought, agency outreach, recompete tracking</strong> <span class='light'>— started moving instead of waiting</span>"
+      },
+      {
+        "when": "Month 12",
+        "what_html": "<strong>First award lands</strong> <span class='light'>— built by action, not by luck</span>"
+      }
+    ],
+    "closer": "THE DOOR IS OPEN. YOU STILL HAVE TO KNOCK."
+  },
+  "image_headline": "THE SCHEDULE DOESN'T SELL ITSELF",
+  "image_prompt": "Infographic story layout. Left side: illustrated construction professional in hard hat and blazer looking at a laptop screen. Right side: vertical timeline path with 3 milestone icons — short labels 'APPROVED', 'ACTIVE OUTREACH', 'FIRST AWARD'. Bold headline across top: 'THE SCHEDULE DOESN'T SELL ITSELF'. Highlighted callout box in amber at the bottom with short phrase: 'DOOR OPEN. YOU DRIVE.' Color scheme: cream background, forest green accent nodes on timeline, amber callout banner. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
