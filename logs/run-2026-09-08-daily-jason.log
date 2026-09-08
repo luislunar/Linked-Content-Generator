@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-09-08/`:
+
+**Post type:** `hot_take` | **Topic:** `vehicles` | **Hook:** `contrarian` | **Template:** `single-01-bold`
+
+**Why this combination:**
+- `inspiration` (yesterday), `client_story`, `milestone` were Jason's last 3 — all excluded. `hot_take` is open.
+- Josh took `pricing`+`tips_list`, William took `myths`+`personal_story` — `vehicles` was untouched.
+- `blunt` was Jason's hook yesterday and Josh's today — `contrarian` avoids both.
+- Last 2 Jason cards were cream-bg — `single-01-bold` (dark navy) restores color contrast.
+
+**The post:** Opens with "Wrong question." → reframes the "SEWP vs MAS" debate as an agency-targeting question, then maps 4 agency-vehicle pairings in `→` bullets. Closes with a specific CTA asking readers which vehicle they pursued first. ~213 words, well within `hot_take` range.

@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Vehicle Reality Check",
+    "headline_html": "WRONG<br>VEHICLE.<br><span class='accent'>WRONG BUYER.</span>",
+    "sub": "Everyone asks SEWP vs MAS. That's not the real question.",
+    "issue": "Issue 031",
+    "image_headline": "WRONG VEHICLE. WRONG BUYER.",
+    "image_prompt": "Split-panel infographic on dark navy background. Left zone: bold red label 'WRONG QUESTION' with red X icon; two short labels below — 'SEWP vs MAS?' and 'Best Vehicle?' — in muted gray text. Right zone: bold cyan label 'RIGHT QUESTION' with green checkmark icon; two short labels — 'Which Agency?' and 'Agency-Vehicle Fit' — in bright white text. Center vertical divider with small arrow pointing right. Top: illustrated professional man in dark blazer gesturing toward a simple flowchart with two paths. Bold ALL-CAPS headline across the top: 'WRONG VEHICLE. WRONG BUYER.' Space Grotesk typeface. Dark carbon-black background with cyan accent highlights. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
