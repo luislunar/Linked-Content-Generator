@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-09-08 (Josh Ladick)**:
+
+---
+
+**Post type:** `tips_list` — not used in the last 3 days (last were `hot_take`, `behind_scenes`)
+
+**Topic:** `pricing` — clear of the last 5-day repeat window (last topics: teaming, pipeline)
+
+**Hook:** `blunt` — avoids the recent myth-bust and truth patterns
+
+**Template:** `single-06-checklist` (dark navy, 5 items) — no double-dark conflict (the dark was 2 days ago, cream was last)
+
+**Files created:**
+- `drafts/2026-09-08/post.md` — 221 words (within 150–280 range)
+- `drafts/2026-09-08/post.meta.json` — full template_data with all required fields
+- `drafts/2026-09-08/hypothesis.md`
+- `logs/run-2026-09-08.md`
+
+**The angle:** Five GSA pricing mistakes (wrong commercial anchor, Price Reduction Clause exposure, no documentation, overly broad labor categories, stale rates) — hits both the newcomer anxiety and the trap experienced holders fall into, which should pull reactions from both audiences and experience-share comments.

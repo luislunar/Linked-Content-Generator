@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pricing Mistakes",
+    "module": "Module 05 · Pricing",
+    "headline_html": "Five mistakes that <span class='accent'>silently kill</span> your GSA margins.",
+    "items": [
+      {
+        "title": "Wrong commercial anchor",
+        "sub": "GSA is tied to your best commercial rate — not your public list price."
+      },
+      {
+        "title": "Price Reduction Clause exposure",
+        "sub": "Discount below GSA with any commercial client and the government is owed the same rate."
+      },
+      {
+        "title": "Rates without documentation",
+        "sub": "No Basis of Award on file means rejection. Every price needs a paper trail."
+      },
+      {
+        "title": "Labor categories too broad",
+        "sub": "Broad categories invite audit disputes. Tight, defined categories protect you."
+      },
+      {
+        "title": "Prices set once, never updated",
+        "sub": "GSA allows modifications. If costs rose and your rates didn't, you're billing at a loss."
+      }
+    ],
+    "footer_left": "GSA Pricing Check",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE PRICING MISTAKES KILLING YOUR MARGINS",
+    "image_prompt": "Infographic checklist layout on dark navy background. Bold warning headline at top: 'FIVE PRICING MISTAKES' with a caution icon. Left column: illustrated professional man in blazer reviewing a pricing spreadsheet on laptop, looking concerned. Right column: 5 checklist rows, each with a red X icon and a short 2-3 word label — 'Wrong Rate', 'Reduction Clause', 'No Documentation', 'Broad Categories', 'Stale Prices'. Bottom dark banner with short callout: '18 YEARS. SAME MISTAKES.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
