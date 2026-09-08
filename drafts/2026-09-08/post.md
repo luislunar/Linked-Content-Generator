@@ -1,21 +1,17 @@
-Most small businesses negotiate a GSA Schedule price they can't actually win with.
+She had the WOSB certification. She had the GSA Schedule. Twelve years of commercial consulting on her résumé.
 
-I've watched it happen across 18+ years. A company gets approved, feels like the hard part is over, then quotes themselves out of every opportunity because they didn't understand how GSA pricing actually works from the start.
+She hadn't made a single federal dollar.
 
-Five pricing mistakes I see again and again:
+When she reached out, her first question was about past performance — specifically, how she could win federal work when she had none. That's the question almost everyone leads with. It's also almost never the real problem.
 
-1. **Using your retail commercial rate.** GSA pricing is anchored to the rate you give your most-favored commercial customer — not your public list price. If you don't know that number cold, your negotiation starts on the wrong foot.
+What was actually stopping her: she wasn't searching for set-aside opportunities her WOSB certification unlocked. Her GSA Schedule was live, but she was waiting for agencies to find her instead of going after them. And her NAICS codes didn't match the work she was actually selling.
 
-2. **Underestimating the Price Reduction Clause.** Offer any commercial client a discount below your GSA price and you are legally required to extend the same to the government. This clause bites people years after approval.
+We fixed all three. Tightened the NAICS codes to match her actual service lines. Rebuilt her capability statement around the agencies buying what she offered. Started tracking recompetes under $250K — where WOSB set-asides concentrate.
 
-3. **Submitting rates without documentation.** Every price needs a Basis of Award. No paper trail means the contracting officer rejects it. Simple as that.
+Then something clicked. A certification without a search strategy is just paperwork. A GSA Schedule without active pipeline work is just a price list. Together, used right, they're a multiplier.
 
-4. **Using labor categories that are too broad.** Broad sounds flexible. In practice, broad categories invite scrutiny and scope disputes during audits. Tight, well-defined categories protect you.
+Six months later, first federal award.
 
-5. **Setting prices once and never touching them.** GSA allows modifications. If your costs went up but your Schedule prices stayed flat, you're eroding margin on every federal dollar you bill.
+If you're holding a certification right now — WOSB, SDVOSB, 8(a), HUBZone — what's one set-aside opportunity you haven't actively gone after with it yet?
 
-Price it wrong once and you're competing against yourself for the life of that contract.
-
-What's the biggest pricing surprise you hit after getting your Schedule — or the mistake you almost made?
-
-#govcon #gsa #federalcontracting #pricing #smallbusiness
+#govcon #WOSB #federalcontracting #certifications #smallbusiness

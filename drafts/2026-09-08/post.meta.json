@@ -1,39 +1,19 @@
 {
-  "post_type": "tips_list",
-  "topic": "pricing",
-  "hook_pattern": "blunt",
-  "format": "checklist",
-  "template": "single-06-checklist",
+  "post_type": "client_story",
+  "topic": "certifications",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
   "template_data": {
-    "section_label": "Pricing Mistakes",
-    "module": "Module 05 · Pricing",
-    "headline_html": "Five mistakes that <span class='accent'>silently kill</span> your GSA margins.",
-    "items": [
-      {
-        "title": "Wrong commercial anchor",
-        "sub": "GSA is tied to your best commercial rate — not your public list price."
-      },
-      {
-        "title": "Price Reduction Clause exposure",
-        "sub": "Discount below GSA with any commercial client and the government is owed the same rate."
-      },
-      {
-        "title": "Rates without documentation",
-        "sub": "No Basis of Award on file means rejection. Every price needs a paper trail."
-      },
-      {
-        "title": "Labor categories too broad",
-        "sub": "Broad categories invite audit disputes. Tight, defined categories protect you."
-      },
-      {
-        "title": "Prices set once, never updated",
-        "sub": "GSA allows modifications. If costs rose and your rates didn't, you're billing at a loss."
-      }
-    ],
-    "footer_left": "GSA Pricing Check",
-    "footer_right": "Page 1 of 1",
-    "image_headline": "FIVE PRICING MISTAKES KILLING YOUR MARGINS",
-    "image_prompt": "Infographic checklist layout on dark navy background. Bold warning headline at top: 'FIVE PRICING MISTAKES' with a caution icon. Left column: illustrated professional man in blazer reviewing a pricing spreadsheet on laptop, looking concerned. Right column: 5 checklist rows, each with a red X icon and a short 2-3 word label — 'Wrong Rate', 'Reduction Clause', 'No Documentation', 'Broad Categories', 'Stale Prices'. Bottom dark banner with short callout: '18 YEARS. SAME MISTAKES.' Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "Cert + Schedule",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you finally <span class='accent'>use what you have.</span>",
+    "before_items": ["WOSB cert, no set-asides", "Schedule live, no inbound", "Wrong NAICS codes"],
+    "after_items": ["Set-aside search active", "Recompetes in pipeline", "First award, month six"],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "CERT IN HAND. ZERO FEDERAL DOLLARS.",
+    "image_prompt": "Split-panel infographic on cream background. Left panel light with bold label 'BEFORE' in dark navy, three short items with gray X icons: 'No Set-Asides', 'Waiting Inbound', 'Wrong NAICS'. Right panel dark navy with bold label 'AFTER' in accent green, three short items with green checkmarks: 'Set-Asides Found', 'Recompetes Tracked', 'First Award'. Center vertical divider with upward green arrow. Bold headline at top: 'CERT IN HAND. ZERO FEDERAL DOLLARS.' Illustrated professional woman in blazer on right side, confident posture. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }
