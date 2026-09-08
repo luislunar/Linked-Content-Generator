@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's what was produced for today:
+
+---
+
+**William Hill — 2026-09-08**
+
+| Field | Value |
+|---|---|
+| `post_type` | `personal_story` |
+| `topic` | `myths` |
+| `hook_pattern` | `truth` |
+| `format` | `bullets` |
+| `template` | `single-03-quote` |
+| `word_count` | ~206 |
+
+**Why these choices:**
+
+- `personal_story` was last used 09/02 (4th most recent post — outside the 3-day block). `client_story`, `hot_take`, `behind_scenes` all blocked by last 3 William posts; `tips_list` blocked by Josh today.
+- `myths` is fresh (7+ days since last use) and not touched by Josh (pricing) or Jason (no post today). Deliberately avoided `gsa_basics` even though it cleared the 5-day window — William's 09/02 post was the exact same `personal_story + gsa_basics + question` trio and would read as a repeat.
+- `truth` hook fits the belief-reframe structure better than `question` here; `story` is blocked as consecutive with yesterday's post.
+- `single-03-quote` (cream) avoids repeating `single-07-story` from yesterday and contrasts cleanly with Josh's dark navy checklist card today.
+
+**Post angle:** The most common belief William hears on first calls — "we don't have federal past performance, so we don't qualify" — reframed with the actual GSA bar: documented commercial delivery counts anywhere. CTA invites owners to name what specifically made them feel unready, designed to pull high-signal, self-disclosing comments from ICP prospects in the consideration phase.

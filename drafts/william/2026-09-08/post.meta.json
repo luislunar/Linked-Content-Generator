@@ -1,0 +1,17 @@
+{
+  "post_type": "personal_story",
+  "topic": "myths",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Observation",
+    "index": "No. 029 · Myths",
+    "quote_html": "The GSA past-performance bar isn't federal. <em>It's documented delivery — anywhere.</em>",
+    "footer_left": "One Common Belief",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE WALL THAT ISN'T THERE",
+    "image_prompt": "Pull-quote infographic layout. Cream background with forest-green and amber accent lines (William Hill theme). Top: small section label 'FIELD OBSERVATION' in forest-green small caps. Center: bold headline 'THE WALL THAT ISN'T THERE' above large serif italic pull quote: 'The GSA past-performance bar isn't federal — it's documented delivery, anywhere.' Left inset: illustrated professional man in a light blazer, relaxed posture, holding a phone to his ear with a notepad open — listening intently. Right side: two stacked label chips — 'MYTH' with a dark-red X icon, 'REALITY' with a forest-green checkmark icon. Bottom narrow dark navy footer strip. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
