@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "DoD small business awards, Q2 2026",
+    "big_number_html": "$<span class='accent'>21.9B</span>",
+    "context_html": "One agency. One quarter. Small businesses aren't locked out — <strong>they're just not positioned.</strong>",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "image_headline": "ONE QUARTER. ONE AGENCY. $21.9B.",
+  "image_prompt": "Infographic stat layout. Dark carbon-black background with cyan accents — Jason's brand palette. Top-left: small cyan pill label 'FEDERAL MARKET'. Snapshot label 'Q2 2026' in light gray text beside it. Bold white label centered above the number: 'DOD SMALL BUSINESS AWARDS'. Giant stat '$21.9B' centered, white lettering with '21.9B' in bright cyan accent. Beneath: two short context lines in lighter-weight white — 'ONE AGENCY · ONE QUARTER' and 'YOU'RE NOT LOCKED OUT'. Illustrated professional man in smart-casual attire standing to the right, arms crossed, confident posture. Bottom stripe in deep carbon with gray source text 'Source · USAspending.gov'. Clean grid lines and subtle cyan geometric accent top-right corner. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}

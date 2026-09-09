@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today:
+
+**`drafts/jason/2026-09-09/`**
+
+| File | Summary |
+|---|---|
+| `post.md` | 198 words, `blunt` hook opening with `$21.9B` (DoD Q2 2026 small business awards), three bullet stats, kills the "too small" objection, closes with a self-diagnosis question |
+| `post.meta.json` | `milestone` · `pipeline` · `single-04-stat` template · carbon-black + cyan image card · `Source · USAspending.gov` credited |
+| `hypothesis.md` | Tests whether a hard spending figure outperforms opinion posts on reactions and comments |
+| `run-2026-09-09.md` | Log written |
+
+**Rotation decisions made:**
+- Post type `milestone` — not in Jason's last 3 days; not used today by Josh or William
+- Topic `pipeline` — not used by Jason in last 5 days; not used today by either other profile
+- Hook `blunt` — not contrarian (yesterday), fits the cold-number opening perfectly
+- DoD $21.9B figure — not used by Josh (myths carousel) or William (gsa_basics checklist) today
