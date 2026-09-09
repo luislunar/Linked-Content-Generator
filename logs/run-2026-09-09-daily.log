@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-09-09**:
+
+---
+
+**Post type:** `carousel` (carousel-01-myths) — first carousel in 4+ days  
+**Topic:** `myths` — not used in recent rotation  
+**Hook:** Story opener (required — last 3 posts all opened with statements)
+
+**3 slides:**
+1. **The Past-Performance Trap** — teaming lets new shops sub on day one and build a record before bidding prime
+2. **The Schedule Sells Itself** — the Schedule is access, not a pipeline; passive holders get zero awards
+3. **The Cost Myth** — no application fee; the investment is paperwork time, usually recouped on the first award
+
+**Caption** (97 words): Opens with a client anecdote that leads naturally into "swipe through" — designed to drive comment volume via the "which myth did you believe?" close.
+
+**Files written:**
+- `drafts/2026-09-09/post.md`
+- `drafts/2026-09-09/post.meta.json`
+- `drafts/2026-09-09/hypothesis.md`
+- `logs/run-2026-09-09.md`

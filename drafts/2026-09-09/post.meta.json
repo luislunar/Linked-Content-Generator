@@ -1,0 +1,39 @@
+{
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "contrarian",
+  "format": "comparison",
+  "template": "carousel-01-myths",
+  "template_data": {
+    "cover": {
+      "top_label": "Field Guide / Vol. 04",
+      "headline_html": "3 myths keeping small businesses <span class='accent'>out</span> of federal.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
+      {
+        "label": "The Past-Performance Trap",
+        "myth_text": "You need federal past performance before you can win anything.",
+        "reality_text": "Teaming agreements let new entrants piggyback on a prime's record. You can sub on day one, build a real track record, and bid as a prime within 2–3 years."
+      },
+      {
+        "label": "The Schedule Sells Itself",
+        "myth_text": "Once you get a GSA Schedule, agencies will find you and award you work.",
+        "reality_text": "The Schedule is access — not a sales engine. You still need to market, respond to RFQs, and follow up. Holders who go passive almost always end up with zero awards."
+      },
+      {
+        "label": "The Cost Myth",
+        "myth_text": "Getting a GSA Schedule costs more than a small business can afford.",
+        "reality_text": "There's no application fee. The real cost is 100+ hours of paperwork — or hiring someone to handle it. Most holders recoup that investment on their first award."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which myth held you back?",
+      "close_question": "Drop the belief that almost kept you from pursuing federal contracting."
+    }
+  },
+  "image_headline": "3 MYTHS BLOCKING YOUR FEDERAL ENTRY",
+  "image_prompt": "Five-slide carousel cover. Dark navy background, bold white headline '3 MYTHS BLOCKING YOUR FEDERAL ENTRY'. Illustrated professional woman in suit, arms crossed, confident stance. Three short myth labels in red pill badges: 'NO PAST PERF', 'TOO EXPENSIVE', 'SELLS ITSELF'. Coral accent arrow pointing right toward slide two. Bottom stripe: 'GSA FOCUS · MYTHS EDITION'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
