@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "gsa_basics",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Readiness Check",
+    "module": "Module 01 · GSA Basics",
+    "headline_html": "Five boxes every applicant must <span class='accent'>already</span> check.",
+    "items": [
+      { "title": "Two years in business", "sub": "Federal eligibility has a hard floor — no exceptions" },
+      { "title": "Tax returns filed — both years", "sub": "GSA reviews your financials; gaps stall the application" },
+      { "title": "Active SAM.gov registration", "sub": "Expired or incomplete = invisible to contracting officers" },
+      { "title": "A price list you can defend", "sub": "GSA pricing anchors to what you charge real clients" },
+      { "title": "Documented commercial delivery", "sub": "Projects, invoices, letters — proof you've done the work" }
+    ],
+    "footer_left": "First-Call Checklist",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "FIVE BOXES BEFORE YOU APPLY",
+  "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline at top: 'FIVE BOXES BEFORE YOU APPLY' in white with amber accent on 'FIVE'. Illustrated professional man in smart-casual attire holding a clipboard, reviewing a list. Right column: five checklist rows with forest-green checkmark icons and short labels — 'TWO YEARS', 'TAX RETURNS FILED', 'SAM.GOV ACTIVE', 'PRICE LIST', 'DELIVERY PROOF'. Bottom stripe in dark navy with white callout text: 'FIND THE GAP EARLY'. Clean, structured layout with amber and forest-green accents on white grid lines. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
