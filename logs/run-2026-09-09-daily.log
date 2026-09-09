@@ -3,19 +3,18 @@ Done. Here's what was produced for **2026-09-09**:
 
 ---
 
-**Post type:** `carousel` (carousel-01-myths) — first carousel in 4+ days  
-**Topic:** `myths` — not used in recent rotation  
-**Hook:** Story opener (required — last 3 posts all opened with statements)
+**Post type:** `client_story`
+**Topic:** `pipeline`
+**Hook:** `truth` — opens with "Nobody talks enough about what's actually sitting in Sources Sought notices."
+**Format:** prose (no bullets — contrast with the last 3 posts which all used structured formats)
+**Template:** `single-05-beforeafter` (cream + navy split — light background, good contrast after recent dark templates)
+**Word count:** 213 (within 200–300 target)
 
-**3 slides:**
-1. **The Past-Performance Trap** — teaming lets new shops sub on day one and build a record before bidding prime
-2. **The Schedule Sells Itself** — the Schedule is access, not a pipeline; passive holders get zero awards
-3. **The Cost Myth** — no application fee; the investment is paperwork time, usually recouped on the first award
+**Rotation reasoning:**
+- Last 3 types: carousel, tips_list, hot_take → client_story is available
+- Last 3 topics: myths, pricing, teaming → pipeline is clear
+- Last 3 hooks: contrarian, blunt, myth-bust → truth is available
 
-**Caption** (97 words): Opens with a client anecdote that leads naturally into "swipe through" — designed to drive comment volume via the "which myth did you believe?" close.
+**Card:** Before column (Schedule idle, zero Sources Sought replies, waiting on solicitations) → After column (two RFQs, CO conversations, pipeline active). Headline: `YOUR SCHEDULE IS JUST THE DOOR.`
 
-**Files written:**
-- `drafts/2026-09-09/post.md`
-- `drafts/2026-09-09/post.meta.json`
-- `drafts/2026-09-09/hypothesis.md`
-- `logs/run-2026-09-09.md`
+**CTA:** "When did you last search beta.SAM.gov by your NAICS code and actually look at what's there?" — targets the specific behavior gap, not a generic opinion prompt.
