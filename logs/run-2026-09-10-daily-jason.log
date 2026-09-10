@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written to `drafts/jason/2026-09-10/`:
+
+**Post type:** `tips_list` — not in Jason's last 3 days, not used by Josh or William today.
+
+**Topic:** `myths` — Jason's 2x/week priority, clear of all profiles today and Jason's last 5 days.
+
+**Hook:** `question` — required because Jason's last 3 posts all opened with statements. Opens with "Before you write off the federal market…" — the ICP's own objection used as the hook.
+
+**Template:** `single-02-numbered` (cream bg) — breaks the last-two-dark-card streak (`single-04-stat`, `single-01-bold`).
+
+**Stat used:** $21.9B from DoD to small businesses in Q2 2026 (govcon-data-2026-09-07.md). Neither Josh nor William used it today. Credited to USAspending.gov in the card's footer strip and in-post text.
+
+**Four myths killed:** primes-only, no-past-performance, schedule-too-slow, pricing-kills-margins — all standard Jason prospecting objections, resolved with data or mechanism (no guarantees of revenue, no legal claims).

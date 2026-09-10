@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "myths",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Myth Buster",
+    "index": "Vol. 07 · Myths",
+    "headline_html": "Four myths that <span class='accent'>never</span> survive the numbers.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Only primes win",
+        "desc": "Small businesses pulled $21.9B from DoD alone in Q2 2026. One quarter. Source · USAspending.gov."
+      },
+      {
+        "num": "02",
+        "title": "No past performance, no chance",
+        "desc": "Teaming agreements let you subcontract first. Build the record while earning — then prime."
+      },
+      {
+        "num": "03",
+        "title": "Schedule takes too long",
+        "desc": "Approved once, valid 20 years. Missing recompetes today means you didn't start 18 months ago."
+      },
+      {
+        "num": "04",
+        "title": "Federal pricing kills margins",
+        "desc": "GSA locks in a pre-negotiated rate. Good pricing protects your margin. Bad pricing hands the bid away."
+      }
+    ]
+  },
+  "image_headline": "4 MYTHS THE MARKET ALREADY KILLED",
+  "image_prompt": "Infographic numbered list layout. Cream/off-white background. Bold headline at top: '4 MYTHS THE MARKET ALREADY KILLED'. Left side: illustrated professional man in business casual, arms crossed, confident and slightly skeptical expression. Right side: four numbered rows (01–04), each row shows a short 2-word myth label in red with strikethrough, and a 2-word reality label in green below it. Myth labels (red, struck): 'PRIMES ONLY', 'NO PAST PERF', 'TOO SLOW', 'KILLS MARGINS'. Reality labels (green): '$21.9B Q2', 'TEAM FIRST', '20-YEAR ACCESS', 'PROTECTED RATE'. Dark navy footer strip at bottom with small white text: 'Source · USAspending.gov'. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
