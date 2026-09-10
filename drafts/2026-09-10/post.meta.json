@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "gsa_basics",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Note",
+    "year_client": "Spring 2026 · Real Conversation",
+    "lead_html": "He had 12 years in business and one question that changed how I explain everything.",
+    "rows": [
+      {
+        "when": "The question",
+        "what_html": "<strong>\"Do we still bid on every contract?\"</strong> <span class='light'>— No. The Schedule changes that equation.</span>"
+      },
+      {
+        "when": "The reality",
+        "what_html": "<strong>Pre-negotiated pricing. Pre-approved qualifications.</strong> <span class='light'>— Agencies can buy directly from you.</span>"
+      },
+      {
+        "when": "The truth",
+        "what_html": "<strong>The Schedule removes friction before the race</strong> <span class='light'>— not during it.</span>"
+      }
+    ],
+    "closer": "BEING LISTED IS EARNING THE RIGHT TO BE BOUGHT."
+  },
+  "image_headline": "THE SCHEDULE IS NOT A BID WAR",
+  "image_prompt": "Infographic story layout. Left side: illustrated professional man in business casual at a conference, turned toward another executive in conversation. Right side: three labeled steps stacked vertically — 'THE QUESTION', 'THE REALITY', 'THE TRUTH' — each with a short 2-word detail below in lighter text. Bold headline at top: 'THE SCHEDULE IS NOT A BID WAR'. Highlighted callout box in dark navy: 'PRE-VETTED. DIRECT ACCESS.' Color palette: cream background, dark navy accents, green highlights on REALITY and TRUTH labels. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
