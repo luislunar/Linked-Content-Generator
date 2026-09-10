@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William Hill on 2026-09-10:
+
+---
+
+**Post type:** `hot_take` | **Topic:** `teaming` | **Hook:** `truth` | **Template:** `single-01-bold` (dark navy) | **Words:** ~176
+
+**The post** opens with William's observational voice ("Nobody talks enough about this pattern") and narrates the most common call gap he sees: owners who've done everything to "get ready" for federal work but have never subcontracted to a prime. Four `→` bullets lay out why the sub-first path works, then a closing line crystallizes the insight. The CTA invites self-identification across three concrete options (sub angle / prime from day one / still figuring out) — lower friction than a generic "what's your experience?" question.
+
+**Key rotation decisions:**
+- `teaming` was William's last uncovered priority topic (09/03, 7 days prior — outside the 5-day block)
+- `truth` hook was the only William-preferred option: `question` blocked (used yesterday), `story` blocked (Josh today)
+- `hot_take` outside his last 3 days; 176 words satisfies the forced-under-180 constraint (last 3 avg = 207 words)
+- Dark navy `single-01-bold` valid — only one dark-bg in last 2 William templates, and contrasts with Josh's cream today

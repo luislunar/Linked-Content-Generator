@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Teaming Truth",
+    "headline_html": "SUB<br>BEFORE<br><span class='accent'>YOU PRIME.</span>",
+    "sub": "Most new GovCon shops try to prime too early. Your fastest path to the first federal dollar usually runs through a prime.",
+    "issue": "No. 034 · Teaming"
+  },
+  "image_headline": "SUB BEFORE YOU PRIME",
+  "image_prompt": "Infographic hot-take layout. Bold all-caps headline at top: 'SUB BEFORE YOU PRIME'. Left half: illustrated professional man in business casual on a phone call, relaxed and conversational pose, dark navy background. Right half: vertical three-step flow chart — top box dark navy label 'FIND A PRIME', arrow down to amber/green accent box 'BUILD AS SUB', arrow down to light box 'WIN AS PRIME'. Below the flow, a small amber callout strip reading 'THE GAP NOBODY NAMES'. Overall dark navy background with amber accent highlights. Clean, minimal typography. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
