@@ -1,16 +1,9 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for **2026-09-10**:
+Today's draft is already complete from a prior run. All deliverables exist in `drafts/2026-09-10/`:
 
-**Post type:** `personal_story` — the only type that satisfies all rotation constraints (not used in last 3 days; cream template after 2 dark; story hook required after 3 consecutive statement openers).
+- `post.md` — personal_story on `gsa_basics`, 229 words, `story` hook
+- `post.meta.json` — template `single-07-story`, all fields present
+- `hypothesis.md` — rationale written
+- `card.jpg` — already rendered
 
-**Topic:** `gsa_basics` — clean of the 5-day avoid window (myths, pricing, teaming, pipeline all blocked).
-
-**The post** opens with a specific scene: a 12-year-old, $8M-revenue IT CEO at a D.C. conference asking "Do we still have to bid on every contract?" — a question that exposes the most common GSA Schedule misunderstanding. Three prose paragraphs unpack the reality: the Schedule is a pre-negotiated vehicle, not a bid board. Closing line: *Getting on the Schedule isn't winning a contract. It's earning the right to be bought.*
-
-**Template:** `single-07-story` (cream + serif) — correct color contrast after the last two dark-background cards.
-
-**Files written:**
-- `drafts/2026-09-10/post.md`
-- `drafts/2026-09-10/post.meta.json`
-- `drafts/2026-09-10/hypothesis.md`
-- `logs/run-2026-09-10.md`
+The structured log `logs/run-2026-09-10.md` already contains the full run entry. The commit `77d94ae publish: 2026-09-10 daily post` confirms the content was generated and committed in the first run. Nothing to regenerate.
