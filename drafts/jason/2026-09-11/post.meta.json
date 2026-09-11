@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "sam",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · SAM",
+    "quote_html": "SAM.gov registration is a one-time task. <em>It's not — and that's why awards freeze.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "SAM EXPIRES. MOST MISS IT.",
+    "image_prompt": "Split-panel infographic with charcoal black and cyan accent color scheme, Space Grotesk typography. Left panel dark charcoal, bold label 'THE MYTH' with red X icon, three short labels: 'ONE-TIME TASK', 'SET AND FORGET', 'ALWAYS ACTIVE'. Right panel cream/light, bold label 'THE REALITY' with cyan checkmarks, three short labels: 'RENEWS YEARLY', 'SILENT EXPIRY', 'AWARDS FREEZE'. Bold headline at top in all-caps: 'SAM EXPIRES. MOST MISS IT.' Center: illustrated professional in dark suit reviewing documents on a laptop. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

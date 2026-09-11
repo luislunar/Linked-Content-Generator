@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Three files written to `drafts/jason/2026-09-11/` and log appended:
+
+**Post:** `inspiration` · `sam` · `myth-bust` hook · 87 words  
+**Card:** `single-03-quote` (cream pull-quote) — *"SAM.gov registration is a one-time task. It's not — and that's why awards freeze."*
+
+**Rotation compliance:**
+- Type not in Jason's last 3 days (hot_take / milestone / tips_list) ✓
+- Type not used by Josh (client_story) or William (behind_scenes) today ✓
+- Topic avoids Josh's certifications and William's pricing today ✓
+- Topic not repeated within Jason's 5-day window (last: vehicles, pipeline, myths) ✓
+- Hook `myth-bust` distinct from Josh's `question` and William's `story` today, and from Jason's `question` yesterday ✓
+- No lead magnet CTA, no founder language, no revenue guarantees ✓
