@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for today:
+
+---
+
+**Post type:** `client_story` · **Topic:** `certifications` · **Template:** `single-05-beforeafter`
+
+**Rotation logic:**
+- Last 3 types (`personal_story`, `carousel`, `tips_list`) were all blocked — `client_story` was next eligible
+- Last 5 topics excluded `gsa_basics`, `myths`, `pricing`, `teaming`, `pipeline` — `certifications` was clear
+- Hook rotated away from `story`/`contrarian`/`blunt` to `question` ("Before you...")
+- Template `single-05-beforeafter` (cream/navy split) fits client_story perfectly and contrasts with yesterday's dark-bg `single-07-story`
+
+**Post summary:** An IT consulting WOSB-certified client who spent 18 months outreaching with zero contracts — not because of anything wrong with her cert, but because she had no GSA Schedule for agencies to route purchases through. Got on MAS, won her first set-aside award 11 months later. The closer: *Certifications identify who you are. A contracting vehicle is how they actually pay you.*
+
+**Community question:** "What's the biggest gap you've run into between being certified and winning your first federal contract?"

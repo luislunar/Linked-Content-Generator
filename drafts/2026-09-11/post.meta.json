@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "18-Month Gap",
+    "case_num": "Case · 043",
+    "headline_html": "What changes when you add the <span class='accent'>vehicle.</span>",
+    "before_items": [
+      "WOSB certified 2 years",
+      "No Schedule, no awards",
+      "18 months, zero contracts"
+    ],
+    "after_items": [
+      "GSA MAS application filed",
+      "Set-aside channel opened",
+      "First award: month 11"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "CERTIFIED TWO YEARS. ZERO CONTRACTS. WHY.",
+    "image_prompt": "Split-panel before/after infographic. Left panel dark navy, bold label 'BEFORE' with red X icon, three short labels: 'WOSB CERTIFIED', 'NO VEHICLE', '18 MONTHS WAITING'. Right panel white/cream, bold label 'AFTER' with green checkmarks, three short labels: 'GSA SCHEDULE', 'SET-ASIDE WIN', 'MONTH 11'. Center: illustrated professional woman in blazer holding documents, walking from dark left panel into light right panel. Bold headline top: 'CERTIFIED TWO YEARS. ZERO CONTRACTS. WHY.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
