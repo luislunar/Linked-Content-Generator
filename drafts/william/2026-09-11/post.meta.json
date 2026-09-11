@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pricing",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Field Note · Client 018",
+    "lead_html": "Eleven years of commercial pricing. <em>The government doesn't play by the same rules.</em>",
+    "rows": [
+      {
+        "when": "The Question",
+        "what_html": "<strong>\"Do I just use my standard rates?\"</strong> <span class='light'>— every first-time applicant asks this</span>"
+      },
+      {
+        "when": "The Reality",
+        "what_html": "<strong>Basis of Award follows every discount you give</strong> <span class='light'>— commercial deals can drag your GSA price down</span>"
+      },
+      {
+        "when": "The Lesson",
+        "what_html": "<strong>Pricing strategy first, application second</strong> <span class='light'>— the order matters more than most people realize</span>"
+      }
+    ],
+    "closer": "GET PRICING RIGHT ONCE. IT FOLLOWS YOU EVERYWHERE.",
+    "image_headline": "GSA PRICING FOLLOWS YOU EVERYWHERE",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional woman in blazer sitting at a desk, reviewing documents with pricing figures partially visible on the page. Right side: vertical three-step timeline with milestone icons, each labeled with short text: 'THE QUESTION', 'THE REALITY', 'THE LESSON'. Bold headline at top: 'GSA PRICING FOLLOWS YOU EVERYWHERE'. One highlighted callout box in forest green reading 'BASIS OF AWARD'. Cream background, dark navy text and lines, forest green accent highlights throughout. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
