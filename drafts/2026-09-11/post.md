@@ -1,15 +1,13 @@
-Before you put "certified" in your tagline, make sure you understand what that certification actually does.
+Nobody talks enough about how late most small businesses enter the federal buying cycle.
 
-A client came to us two years into her WOSB certification. IT consulting firm, solid commercial revenue, two years in business — she'd done everything right on paper. She'd filed the cert, kept her SAM.gov current, added the set-aside codes to her capability statement. Eighteen months of outreach. Zero federal contracts.
+By the time a solicitation hits SAM.gov, the contracting officer has often spent 6–12 months doing market research. Sources sought notices. Industry days. Pre-solicitation meetings. For larger vehicles and multi-year contracts, the vendor shortlist exists long before the official closing date is posted.
 
-When we dug into her situation, the problem wasn't the certification. It was the infrastructure. Every agency she was pitching wanted to buy through simplified acquisitions on GSA MAS — and she had no Schedule to route the work through. The certification put her in the right conversation. There was just no mechanism for the deal to close.
+This isn't secret knowledge — it's how the FAR is designed. Agencies are required to do market research before they solicit. That research phase is your first real window to get in front of the right people. Not the RFP.
 
-We handled her MAS application. Eleven months later, she landed her first WOSB set-aside award through exactly the channel she'd been chasing.
+The companies that win consistently aren't better at monitoring SAM.gov. They're better at showing up early: responding to sources sought, attending industry days, requesting capability briefings directly with contracting offices. A GSA Schedule gets you into those pre-solicitation conversations in the first place. By the time the solicitation drops, they're not competing for attention — they're names the contracting officer already recognizes.
 
-Her certification didn't change. What changed was giving contracting officers a legal, fast path to buy from her.
+Pipeline isn't about watching SAM.gov more closely. It's about being visible before the game clock starts.
 
-Certifications identify who you are. A contracting vehicle is how they actually pay you.
+When did you first realize how far in advance the federal buying cycle actually begins?
 
-What's the biggest gap you've run into between being certified and winning your first federal contract?
-
-#govcon #wosb #certifications #gsaschedule #smallbusiness
+#govcon #pipeline #federalcontracting #gsaschedule #smallbusiness
