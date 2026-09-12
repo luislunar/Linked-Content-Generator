@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pipeline Truth",
+    "headline_html": "THE RFP<br>DROPS<br><span class='accent'>TOO LATE.</span>",
+    "sub": "If you found it the day it posted, the relationship you needed was built 12 months ago.",
+    "issue": "Issue 032",
+    "image_headline": "BY THE TIME IT POSTS, YOU'RE BEHIND.",
+    "image_prompt": "Infographic alert layout. Dark navy background. Bold headline top: 'BY THE TIME IT POSTS, YOU'RE BEHIND.' in white. Left side: illustrated professional woman in blazer at desk reviewing a laptop screen showing 'SAM.GOV' with a red X and label 'TOO LATE' in coral. Right side: vertical timeline with three milestone icons and short labels '18 MO OUT' (green dot), '6 MO OUT' (green dot), 'RFP POSTS' (red X). Bold label 'THE REAL WINDOW' above the timeline in white. Bottom dark navy banner with text label 'BUILD THE MAP EARLY'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

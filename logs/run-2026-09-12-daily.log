@@ -1,0 +1,10 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-09-12**:
+
+**Post type:** `hot_take` — not used in the last 3 days (last was 09-07)
+**Topic:** `pipeline` — clear of the last 5-day window
+**Hook:** `truth` ("Nobody talks enough about...") — avoids yesterday's `question`
+**Template:** `single-01-bold` (dark navy) — breaks the cream-bg streak from the last two posts
+**Word count:** 157 — within 150–300 range for `hot_take`
+
+**The angle:** Most small businesses chase RFPs reactively on SAM.gov, but the winning relationships are built 6–18 months before any solicitation posts. The pipeline is a map of agencies you're already known to, not a queue of bids to submit. Community question targets action-deferral specifically ("the one agency you keep putting off") to drive personal, concrete responses rather than generic agreement.
