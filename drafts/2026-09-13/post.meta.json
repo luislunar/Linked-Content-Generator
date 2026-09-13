@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "DoD awards to small businesses, Q2 2026",
+    "big_number_html": "$<span class='accent'>21.9B</span>",
+    "context_html": "In one quarter. One agency. The pipeline work happened <strong>months earlier.</strong>",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "THE PIPELINE STARTS BEFORE THE RFQ",
+    "image_prompt": "Infographic stat layout. Dark navy background. Bold headline top: 'THE PIPELINE STARTS BEFORE THE RFQ' in white. Center: giant stat '$21.9B' in coral accent color with label 'DoD · Q2 2026 · Small Businesses' below it. Left side: illustrated professional in blazer reviewing a vertical four-step timeline with labels: 'SOURCES SOUGHT', 'INDUSTRY DAY', 'DRAFT RFQ', 'AWARD'. Green glow highlight on first two steps. Right side: brief callout 'MOST ENTER HERE' arrow pointing to 'DRAFT RFQ'. Bottom: 'SOURCE: USASPENDING.GOV' in small text. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **2026-09-13**:
+
+---
+
+**Post type:** `milestone` · **Topic:** `pipeline` · **Template:** `single-04-stat` (dark navy)
+
+**Rotation logic:**
+- Last 3 types (`client_story`, `personal_story`, `carousel`) blocked — `milestone` is clean
+- Last 5 topics blocked: certifications, gsa_basics, myths, pricing, teaming — `pipeline` is clear
+- Hook `truth` is distinct from yesterday's `question` and the last three hooks used
+- `single-04-stat` dark navy breaks a run of two cream-background templates (single-05, single-07)
+- Prose format contrasts with the last two story formats and prior checklist
+
+**Data used:** DoD Q2 2026 — $21.9B to small businesses (from `research/govcon-data-2026-09-07.md`, within 8-day window; not used by Jason or William today). Card credits `Source · USAspending.gov`.
+
+**Post summary:** $21.9B to small businesses from DoD alone in one quarter. The companies capturing that money were in the pipeline months before the RFQ — sources sought, industry days, agency relationships. If your pipeline starts when the solicitation drops, you're already late. Closes with a specific question about what pipeline stage the reader is actively working.
+
+**Community question:** "What's the earliest stage of the federal buying process you're actively working right now — sources sought responses, capability briefs, industry days?"
