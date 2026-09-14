@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Cert Reality Check",
+    "headline_html": "CERT<br>OR<br><span class='accent'>STRATEGY?</span>",
+    "sub": "The cert opens the door. Without an active vehicle and CO outreach, nobody walks through it.",
+    "issue": "Issue 022",
+    "image_headline": "CERT ALONE ISN'T ENOUGH",
+    "image_prompt": "Split-panel contrarian infographic with dark carbon and cyan accent color scheme, Space Grotesk typography. Left panel dark charcoal/navy, bold label 'THE CERT' with a certification badge icon. Two short labels below: 'HARD EARNED', 'TABLE STAKES'. Right panel deep navy with cyan accents, bold label 'THE TRIFECTA' with three stacked checkmark icons. Three short labels: 'ACTIVE VEHICLE', 'BD PIPELINE', 'CO OUTREACH'. Bold all-caps headline spanning top: 'CERT ALONE ISN'T ENOUGH'. Center dividing line with a right-pointing arrow labeled 'ADD THIS'. Illustrated professional in blazer reviewing a strategy board. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

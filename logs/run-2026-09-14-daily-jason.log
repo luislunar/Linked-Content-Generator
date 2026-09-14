@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **Jason · 2026-09-14**:
+
+---
+
+**Post type:** `hot_take` — not used in Jason's last 3 days (inspiration, tips_list, milestone), not used today by Josh (inspiration) or William (client_story).
+
+**Topic:** `certifications` — weighted 1x/week for Jason, not used in his last 5 days, not used by Josh (pipeline) or William (sam) today.
+
+**Hook:** `contrarian` — avoids Jason's last 3 hooks (myth-bust, question, blunt) and today's other profiles (truth, question).
+
+**The angle:** Reframes the certification question from "which cert?" to "what's attached to your cert?" — grounded with the VA $3.6B Q2 stat from the govcon-data file (not used by Josh or William today). Jason's voice throughout: numbers, call-pattern observations, no founder claims.
+
+**Template:** `single-01-bold` (dark carbon + cyan), per Jason's visual theme. Contrasts visually with Josh's cream quote card and William's split-panel cream card in the feed.
+
+**Files written:**
+- `drafts/jason/2026-09-14/post.md` (193 words, within 150–300 range)
+- `drafts/jason/2026-09-14/post.meta.json`
+- `drafts/jason/2026-09-14/hypothesis.md`
+- `logs/jason/run-2026-09-14.md`
