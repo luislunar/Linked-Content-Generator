@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "SAM Lapse Case",
+    "case_num": "Case · 019",
+    "headline_html": "Six weeks of silence. Then we <span class='accent'>checked SAM.</span>",
+    "before_items": [
+      "6 weeks, zero responses",
+      "Active outreach ignored",
+      "Pipeline felt dead"
+    ],
+    "after_items": [
+      "SAM renewed same day",
+      "3 COs replied within a week",
+      "Pipeline was never broken"
+    ],
+    "footer_left": "One Real Call Story",
+    "footer_right": "Field Case Series",
+    "image_headline": "PIPELINE WASN'T DEAD. SAM WAS EXPIRED.",
+    "image_prompt": "Split-panel before/after infographic with forest green and amber accent color scheme, Sora typography. Left panel dark forest green, bold label 'BEFORE' with amber X icon, three short labels: 'SAM LAPSED', '6 WEEKS SILENT', 'ZERO RESPONSES'. Right panel cream/light, bold label 'AFTER' with green checkmarks, three short labels: 'SAM RENEWED', 'COs REPLIED', 'PIPELINE LIVE'. Bold headline at top in all-caps: 'PIPELINE WASN'T DEAD. SAM WAS EXPIRED.' Center: illustrated professional in blazer seated at a desk, reviewing a laptop screen showing a government registration portal. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

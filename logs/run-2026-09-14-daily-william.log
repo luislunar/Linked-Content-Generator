@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **William Hill — 2026-09-14**:
+
+---
+
+**Post type:** `client_story` | **Topic:** `sam` | **Hook:** `question` | **Template:** `single-05-beforeafter` | **~245 words**
+
+**The post** opens with a self-diagnostic question ("Before you assume the agency is ignoring you — when did you last check your SAM.gov registration?"), then tells a specific call story: a prospect with 6 weeks of silence caused by a 47-day-old lapsed registration. Four `→` bullets cover the key mechanics (annual renewal, missed reminder, payment freeze risk, 2–5 day reactivation lag). Closes with a concrete community question asking owners to drop their SAM expiration date in comments.
+
+**Rotation decisions:**
+- `client_story` — clear of William's last 3 (behind_scenes, hot_take, tips_list) and Josh's today (inspiration)
+- `sam` — William priority topic, last used 09-04; clear of Josh's pipeline and Jason's no-post today
+- `question` hook — not consecutive (last was `story` on 09-11), not conflicting with Josh's `truth`
+- `single-05-beforeafter` — before/after split matches the call turning point; forest green + amber theme per William's visual identity
