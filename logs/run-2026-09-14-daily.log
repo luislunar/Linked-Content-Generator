@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **2026-09-14**:
+
+---
+
+**Post type:** `inspiration` · **Topic:** `pipeline` · **Template:** `single-03-quote`
+
+**Rotation logic:**
+- Last 3 types (`client_story`, `personal_story`) blocked — `inspiration` was clean and solves the word-count constraint (last 2 posts averaged 221 words → today required under 180)
+- Last 5 topics excluded `certifications`, `gsa_basics` — `pipeline` was clear and overdue
+- Hook rotated from `question` (Sep 11) and `story` (Sep 10) to `truth` ("Nobody talks about...")
+- Template `single-03-quote` (cream + serif) fits `inspiration` as first choice; good contrast after two cream templates (either dark or cream was valid)
+
+**Post summary:** A 128-word prose post built around a single uncomfortable truth: the federal opportunity window closes before the RFP is ever published. Sources sought notices are the overlooked pre-solicitation signal that positions small businesses before the competition is set. The closing pull-quote — *"The pipeline doesn't start when the solicitation drops. It starts when the agency starts asking questions."* — doubles as the card visual.
+
+**Community question:** "What's your process for finding federal opportunities before they're officially solicited?"
+
+**Files written:**
+- `drafts/2026-09-14/post.md`
+- `drafts/2026-09-14/post.meta.json`
+- `drafts/2026-09-14/hypothesis.md`
+- `logs/run-2026-09-14.md`

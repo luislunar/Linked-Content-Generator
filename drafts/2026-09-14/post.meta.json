@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · Pipeline",
+    "quote_html": "The pipeline doesn't start when the solicitation drops. <em>It starts when the agency starts asking questions.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE WINDOW CLOSES BEFORE THE RFP",
+    "image_prompt": "Infographic story layout. Bold headline top: 'THE WINDOW CLOSES BEFORE THE RFP'. Left side: illustrated vertical timeline with three labeled stages — 'SOURCES SOUGHT' (green zone, checkmark), 'MARKET RESEARCH' (green zone, checkmark), 'SOLICITATION' (red zone, X icon, label 'TOO LATE'). Right side: illustrated professional in blazer reviewing a laptop, focused expression. Highlighted callout box pointing at sources-sought stage: 'RESPOND HERE'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
