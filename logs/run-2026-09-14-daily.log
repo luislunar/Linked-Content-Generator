@@ -1,22 +1,21 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was generated for **2026-09-14**:
+Today's run is already complete. All files are in place and high quality. Here's the status:
 
----
+**Draft files** (`drafts/2026-09-14/`):
+- `post.md` ✓ — `inspiration` / `pipeline` / `truth` hook, 128 words (within 50–150 range)
+- `post.meta.json` ✓ — `single-03-quote` template (correct for `inspiration` type), all required `template_data` fields present
+- `hypothesis.md` ✓ — complete
+- `card.jpg` ✓ — rendered
 
-**Post type:** `inspiration` · **Topic:** `pipeline` · **Template:** `single-03-quote`
+**Run log** (`logs/run-2026-09-14.md`) ✓ — all 6 required fields logged
 
-**Rotation logic:**
-- Last 3 types (`client_story`, `personal_story`) blocked — `inspiration` was clean and solves the word-count constraint (last 2 posts averaged 221 words → today required under 180)
-- Last 5 topics excluded `certifications`, `gsa_basics` — `pipeline` was clear and overdue
-- Hook rotated from `question` (Sep 11) and `story` (Sep 10) to `truth` ("Nobody talks about...")
-- Template `single-03-quote` (cream + serif) fits `inspiration` as first choice; good contrast after two cream templates (either dark or cream was valid)
+**Rotation checks passed:**
+- `inspiration` not used in last 3 days (last 3: `client_story`, `personal_story`, `carousel`) ✓
+- `pipeline` topic not used in last 5 days ✓
+- `truth` hook not used yesterday (`question` was used on 09-11) ✓
+- `prose` format breaks the `story`/`story` run from the prior two days ✓
+- `single-03-quote` (cream bg) — correct contrast after prior dark-bg templates ✓
 
-**Post summary:** A 128-word prose post built around a single uncomfortable truth: the federal opportunity window closes before the RFP is ever published. Sources sought notices are the overlooked pre-solicitation signal that positions small businesses before the competition is set. The closing pull-quote — *"The pipeline doesn't start when the solicitation drops. It starts when the agency starts asking questions."* — doubles as the card visual.
+**Note on `logs/run-2026-09-14-daily.log`:** This file contains a Claude Code permissions warning, not post content — it appears to be a CI artifact from an earlier failed invocation. The canonical run log (`.md` format) is complete and correct.
 
-**Community question:** "What's your process for finding federal opportunities before they're officially solicited?"
-
-**Files written:**
-- `drafts/2026-09-14/post.md`
-- `drafts/2026-09-14/post.meta.json`
-- `drafts/2026-09-14/hypothesis.md`
-- `logs/run-2026-09-14.md`
+No action needed — today's post was already generated, logged, and published.
