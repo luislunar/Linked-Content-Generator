@@ -1,14 +1,22 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of today's run:
+Today's run for Josh Ladick already completed successfully. Here's the status:
 
-**post_type:** `hot_take` | **topic:** `vehicles` | **hook:** `contrarian` | **template:** `single-01-bold` (dark navy)
+**Draft:** `drafts/2026-09-15/` — all four files present (`post.md`, `post.meta.json`, `hypothesis.md`, `card.jpg`)
 
-**The post** opens with the question Josh hears constantly — "GSA MAS or OASIS+?" — then immediately reframes it as the wrong question. It names each competing vehicle's actual barrier (past performance depth for OASIS+, applicant volume for CIO-SP4, agency nomination for SEWP) to demonstrate that GSA MAS is the only truly open-door vehicle for any eligible small business. The closing paragraph calls out the specific mistake (skipping GSA MAS as "too basic"), then restates the lesson and closes with an experience-share CTA.
+**Post generated:**
+- `post_type`: `hot_take`
+- `topic`: `vehicles`
+- `hook_pattern`: `contrarian`
+- `format`: `prose`
+- `word_count`: 182
+- `template`: `single-01-bold`
 
-**Rotation checks passed:**
-- Post type not used in last 3 days ✓
-- Topic not used in last 5 days ✓
-- Hook pattern not used in last 3 days ✓
-- Dark-bg template breaks two consecutive cream/light posts ✓
-- Word count (182) within hot_take range (150–300) ✓
-- Prose format breaks the recent streak of prose/story — kept prose but no bullets, which is correct for `hot_take` per the cheat-sheet ✓
+**Post summary:** Opens with the wrong question ICP members ask ("Should I go after GSA MAS or OASIS+?"), then systematically dismantles why OASIS+, CIO-SP4, and SEWP aren't entry points — they require nominations, deep past performance, or invitation. Reframes the decision: GSA MAS is the only open-application vehicle for small businesses. Closes with a community question about what's driving vehicle evaluation decisions.
+
+**Rotation check for next run:**
+- Last 3 post types: `hot_take` (9/15), `inspiration` (9/14), `client_story` (9/11)
+- Last 3 topics: `vehicles`, `pipeline`, `certifications`
+- Last 3 hooks: `contrarian`, `truth`, `question`
+- Next run should avoid: `hot_take`, `contrarian` hook, `vehicles` topic, and prose-only format (two prose posts in a row — consider bullets or checklist).
+
+No further action needed — the `publish.yml` workflow handles git and LinkedIn posting.
