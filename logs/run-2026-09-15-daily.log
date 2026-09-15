@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run:
+
+**post_type:** `hot_take` | **topic:** `vehicles` | **hook:** `contrarian` | **template:** `single-01-bold` (dark navy)
+
+**The post** opens with the question Josh hears constantly — "GSA MAS or OASIS+?" — then immediately reframes it as the wrong question. It names each competing vehicle's actual barrier (past performance depth for OASIS+, applicant volume for CIO-SP4, agency nomination for SEWP) to demonstrate that GSA MAS is the only truly open-door vehicle for any eligible small business. The closing paragraph calls out the specific mistake (skipping GSA MAS as "too basic"), then restates the lesson and closes with an experience-share CTA.
+
+**Rotation checks passed:**
+- Post type not used in last 3 days ✓
+- Topic not used in last 5 days ✓
+- Hook pattern not used in last 3 days ✓
+- Dark-bg template breaks two consecutive cream/light posts ✓
+- Word count (182) within hot_take range (150–300) ✓
+- Prose format breaks the recent streak of prose/story — kept prose but no bullets, which is correct for `hot_take` per the cheat-sheet ✓

@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Contract Vehicles",
+    "headline_html": "WRONG<br>QUESTION.<br><span class='accent'>RIGHT DOOR.</span>",
+    "sub": "Chasing OASIS+ before your first GSA award is trying to win a race you haven't entered.",
+    "issue": "Issue 032",
+    "image_headline": "WRONG QUESTION. RIGHT DOOR.",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'WRONG DOOR' with red X icon. Three short labels: 'OASIS+ FIRST', 'SEWP FIRST', 'CIO-SP4'. Right panel white, bold label 'RIGHT DOOR' with green checkmark. Three short labels: 'GSA MAS OPEN', 'NO INVITE NEEDED', 'START HERE'. Center: illustrated professional in suit walking from dark panel toward open door in light panel. Bold headline top: 'WRONG QUESTION. RIGHT DOOR.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
