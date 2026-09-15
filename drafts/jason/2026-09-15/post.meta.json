@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "VA small business awards, Q2 2026",
+    "big_number_html": "$<span class='accent'>3.6B</span>",
+    "context_html": "One agency. One quarter. That's what a <strong>defensible GSA price</strong> buys access to — bad pricing means watching it go elsewhere.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "BAD PRICING LOCKS YOU OUT",
+    "image_prompt": "Infographic stat layout on dark navy background. Large bold number '$3.6B' in cyan accent color, centered and dominant. Short label above the number: 'VA AWARDS · Q2 2026'. Below the number, two compact callout boxes side by side — left box with dark red background labeled 'WRONG PRICE' with a small down-arrow icon, right box with dark green background labeled 'RIGHT PRICE' with a small checkmark icon. Bottom right: illustrated professional man in a dark blazer, arms crossed, reviewing a printed federal contract document, confident expression. Bold headline top: 'BAD PRICING LOCKS YOU OUT'. Small source line near bottom: 'USAspending.gov'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

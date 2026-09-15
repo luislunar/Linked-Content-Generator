@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-09-15/`:
+
+**Post type:** `milestone` — clean of Jason's last 3 days (hot_take/inspiration/tips_list) and not taken by Josh or William today.
+
+**Topic:** `pricing` — Jason's priority topic, not used recently, and distinct from today's vehicles (Josh) and pipeline (William).
+
+**Hook:** `blunt` — drops the $3.6B VA figure immediately, then connects it to the three pricing mistakes Jason sees every week on calls. Stays fully within Jason's lane ("every week I'm reviewing proposals" vs. founder-style claims).
+
+**Data:** VA small business awards Q2 2026 = $3.6B, sourced from `research/govcon-data-2026-09-07.md`, credited on card as `Source · USAspending.gov`. Neither Josh nor William used this figure today.
+
+**Template:** `single-04-stat` (dark navy) — the big number carries the visual impact; card image shows the $3.6B in cyan accent with a WRONG PRICE / RIGHT PRICE callout split below it.
