@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Pipeline Habits",
+    "index": "Vol. 05 · Pipeline",
+    "headline_html": "Four habits of small businesses that <span class='accent'>actually win.</span>",
+    "items": [
+      {
+        "num": "01",
+        "title": "Weekly Sources Sought search",
+        "desc": "Saved SAM.gov searches in your NAICS, checked every week — not when you remember."
+      },
+      {
+        "num": "02",
+        "title": "Recompete calendar",
+        "desc": "Track contracts your target agencies already hold. 90 days out is when prep starts."
+      },
+      {
+        "num": "03",
+        "title": "Industry day attendance",
+        "desc": "Show up before the RFP drops, even before your Schedule is approved."
+      },
+      {
+        "num": "04",
+        "title": "Agency contact list",
+        "desc": "Two or three target agencies. Names and POCs, not just department names."
+      }
+    ],
+    "image_headline": "FOUR HABITS OF PIPELINE WINNERS",
+    "image_prompt": "Infographic numbered list on cream background. Bold headline top: 'FOUR HABITS OF PIPELINE WINNERS'. Left side: illustrated professional man in business casual attire, holding a tablet showing a federal procurement search screen, confident and engaged expression. Right side: four numbered rows — '01 WEEKLY SEARCHES', '02 RECOMPETE CALENDAR', '03 INDUSTRY DAYS', '04 AGENCY CONTACTS' — each with a short 2-3 word label and small forest green number accent. Bottom: dark navy banner with short callout phrase 'THE SCHEDULE IS JUST THE START'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
