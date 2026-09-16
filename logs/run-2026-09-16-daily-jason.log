@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's the run summary:
+
+---
+
+**2026-09-16 · Jason daily post**
+
+**Type:** `client_story` · **Topic:** `myths` · **Hook:** `myth-bust` · **Template:** `single-05-beforeafter` (cream bg)
+
+**The post** opens with a story (satisfying the cadence rule — last 3 Jason posts all opened with statements). A real prospecting call with a 12-person IT firm sets up the myth: *"Federal contracts are for the Boeings and Leidos of the world."* The $18.6B Q2 2026 small-business figure from USAspending.gov does the busting. Before/after shows where the client stood vs. where he landed six months later (GSA Schedule approved, first RFQ in month seven).
+
+**Key decisions:**
+- `myths` topic: free today (Josh used `pricing`, William used `compliance`); Jason's 2x/week priority topic
+- `myth-bust` hook: last used by Jason 5 days ago (9-11); not used by either other profile today
+- `single-05-beforeafter` (cream bg): breaks the dark-bg streak from 9-15 (single-04-stat) and 9-14 (single-01-bold)
+- USAspending.gov data: neither Josh nor William used a stat today; within 8-day window ✓; credited on card
+
+**Files:** `drafts/jason/2026-09-16/post.md`, `post.meta.json`, `hypothesis.md` · `logs/jason/run-2026-09-16.md`

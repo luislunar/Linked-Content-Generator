@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "The Big-Company Myth",
+    "case_num": "Case · 031",
+    "headline_html": "What breaks when the <span class='accent'>$18.6B</span> reality hits.",
+    "before_items": [
+      "No federal revenue line",
+      "Commercial pipeline only",
+      "Believed door was closed"
+    ],
+    "after_items": [
+      "GSA Schedule approved",
+      "First RFQ, month seven",
+      "Federal pipeline live"
+    ],
+    "footer_left": "Field Reality Check",
+    "footer_right": "Myth Series · Q2 2026",
+    "image_headline": "SMALL BIZ TOOK $18.6B IN ONE QUARTER",
+    "image_prompt": "Split-panel Before/After infographic. Left panel cream background, bold dark label 'BEFORE' with red X icon at top, three short dark-text labels stacked (2-3 words each). Right panel dark charcoal/carbon background, bold cyan label 'AFTER' with green checkmark icon at top, three short white-text labels stacked (2-3 words each). Bold headline spanning the full top: 'SMALL BIZ TOOK $18.6B IN ONE QUARTER'. Center: illustrated professional man in business casual, confident posture, stepping from the left cream panel to the right dark panel. Small amber source tag at bottom: 'USAspending.gov'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
