@@ -1,37 +1,39 @@
 {
-  "post_type": "tips_list",
-  "topic": "pricing",
-  "hook_pattern": "question",
-  "format": "checklist",
-  "template": "single-02-numbered",
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "carousel-01-myths",
   "template_data": {
-    "section_label": "Pricing Pitfalls",
-    "index": "Vol. 01 · Pricing",
-    "headline_html": "Five GSA pricing traps that <span class='accent'>lock in your losses.</span>",
-    "items": [
+    "cover": {
+      "top_label": "Field Guide / Vol. 04",
+      "headline_html": "3 myths that <span class='accent'>stop</span> small businesses cold.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
       {
-        "num": "01",
-        "title": "Basis of Award anchor",
-        "desc": "Discount privately later — GSA may claim that same rate. Price with the clause in mind."
+        "label": "The Past-Performance Trap",
+        "myth_text": "You need past performance before you can win anything federal.",
+        "reality_text": "Teaming agreements let new shops piggyback on a prime's track record. Subcontracting builds your résumé while you earn. GSA Schedule approval only requires two years in business and documented commercial work — not prior federal awards."
       },
       {
-        "num": "02",
-        "title": "Price Reduction Clause",
-        "desc": "Every better deal offered anywhere else can trigger a matching obligation to the government."
+        "label": "The Small Business Size Myth",
+        "myth_text": "GSA Schedule is built for big companies. Small shops don't stand a chance.",
+        "reality_text": "The majority of GSA Schedule holders are small businesses. The program was designed to give smaller companies direct access to federal buyers — no cold outreach, no prime standing between you and the work."
       },
       {
-        "num": "03",
-        "title": "Vague unit pricing",
-        "desc": "\"Discounted from catalog\" stalls approval. COs need auditable unit rates, not approximations."
-      },
-      {
-        "num": "04",
-        "title": "No escalation clause",
-        "desc": "Without Economic Price Adjustment, year-3 costs run at year-1 rates. Build the ramp in now."
+        "label": "The Commercial Price Mistake",
+        "myth_text": "Just charge what you charge your commercial clients and you're good.",
+        "reality_text": "GSA pricing requires a Basis of Award analysis. Price too high and you're uncompetitive. Negotiate it wrong and you're locked in for years. This is the most expensive first-timer mistake we see."
       }
     ],
-    "image_headline": "FIVE GSA PRICING TRAPS TO AVOID",
-    "image_prompt": "Infographic numbered breakdown. Cream background. Bold navy headline top: 'FIVE GSA PRICING TRAPS TO AVOID'. Left column: illustrated professional man in business casual reviewing a contract document with a pencil, focused expression. Right column: four numbered rows stacked cleanly, each with a bold 3-word label in dark navy and a small amber warning icon. Bottom navy banner with short callout: 'PRICE SMART. PRICE ONCE.' Footer text: 'Josh Ladick · GSA Focus'."
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which one almost stopped you?",
+      "close_question": "Drop the myth you believed when you first started exploring federal contracting."
+    },
+    "image_headline": "3 MYTHS KEEPING YOU OUT OF GOVCON",
+    "image_prompt": "Carousel cover card. Dark navy background. Bold centered headline: '3 MYTHS KEEPING YOU OUT OF GOVCON'. Three horizontal rows below, each with a red X icon and a short 2-3 word label: 'NO PAST PERFORMANCE', 'TOO SMALL', 'WRONG PRICING'. Right side: illustrated professional man in blazer with arms crossed, confident posture. Top-left coral pill label: 'MYTHS EDITION'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }
