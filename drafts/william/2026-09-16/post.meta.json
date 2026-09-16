@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "compliance",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Schedule Watch",
+    "headline_html": "APPROVAL<br>ISN'T<br><span class='accent'>THE FINISH LINE.</span>",
+    "sub": "Most holders stop at approval. The maintenance side is where Schedules quietly go dark.",
+    "issue": "Issue 024",
+    "image_headline": "APPROVAL ISN'T THE FINISH LINE.",
+    "image_prompt": "Infographic alert layout. Dark navy background. Bold white headline top: 'APPROVAL ISN'T THE FINISH LINE.' Left side: illustrated professional man in business casual sitting at a laptop, focused expression, amber caution indicator on screen. Right side: four stacked rows, each with a small amber warning icon and a short label — 'QUARTERLY REPORTING', 'MODIFICATIONS', 'PRICE REVIEWS', 'IDLE = RISK'. Bottom amber band with white callout: 'WHAT HAPPENS AFTER APPROVAL?' Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

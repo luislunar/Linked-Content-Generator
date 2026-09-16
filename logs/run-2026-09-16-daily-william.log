@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/william/2026-09-16/`:
+
+---
+
+**Post:** `hot_take` · `compliance` · `truth` hook · `single-01-bold` dark navy
+
+The post opens with the most underserved angle in GovCon content: what actually happens after Schedule approval. Four bullets cover the compliance surprises that blindside holders (72A reporting, modification requirements, frozen pricing risk, idle-Schedule cancellation). Closes with a specific, self-disclosing CTA designed to surface two engagement types — active holders sharing their routine and neglectful holders having a recognition moment.
+
+**Key rotation decisions:**
+- Topic `certifications` was ruled out because Jason posted that angle on 09/14 with almost identical framing (cert + vehicle pairing)
+- `truth` hook was the only William-preferred hook available (`story` consecutive with 09/15, `question` blocked by Josh today)
+- Dark navy template breaks three straight cream cards in William's feed and contrasts Josh's cream post today
+- govcon-data files were >8 days old — not used
