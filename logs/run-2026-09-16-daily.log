@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for 2026-09-16:
+
+**Post type:** `tips_list` · **Topic:** `pricing` · **Template:** `single-02-numbered` (cream)
+
+**Hook:** question opener ("Before you lock in your GSA Schedule pricing — read this.") — required because the last 3 posts all opened with statements.
+
+**5 pricing traps covered:**
+1. Basis of Award anchor — discounting commercially can expose GSA rates
+2. Price Reduction Clause — every better deal anywhere triggers a matching obligation
+3. Vague unit pricing — "discounted from catalog" stalls contracting officers
+4. Competitive benchmark gap — GSA rates are public; competitors can see them
+5. No escalation clause — absorbing year-4 costs at year-1 rates
+
+**Card (single-02-numbered):** Shows the top 4 traps in a numbered breakdown on cream background. Headline: *Five GSA pricing traps that lock in your losses.*
+
+**Files written:**
+- `drafts/2026-09-16/post.md`
+- `drafts/2026-09-16/post.meta.json`
+- `drafts/2026-09-16/hypothesis.md`
+- `logs/run-2026-09-16.md`

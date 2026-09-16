@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Pricing Pitfalls",
+    "index": "Vol. 01 · Pricing",
+    "headline_html": "Five GSA pricing traps that <span class='accent'>lock in your losses.</span>",
+    "items": [
+      {
+        "num": "01",
+        "title": "Basis of Award anchor",
+        "desc": "Discount privately later — GSA may claim that same rate. Price with the clause in mind."
+      },
+      {
+        "num": "02",
+        "title": "Price Reduction Clause",
+        "desc": "Every better deal offered anywhere else can trigger a matching obligation to the government."
+      },
+      {
+        "num": "03",
+        "title": "Vague unit pricing",
+        "desc": "\"Discounted from catalog\" stalls approval. COs need auditable unit rates, not approximations."
+      },
+      {
+        "num": "04",
+        "title": "No escalation clause",
+        "desc": "Without Economic Price Adjustment, year-3 costs run at year-1 rates. Build the ramp in now."
+      }
+    ],
+    "image_headline": "FIVE GSA PRICING TRAPS TO AVOID",
+    "image_prompt": "Infographic numbered breakdown. Cream background. Bold navy headline top: 'FIVE GSA PRICING TRAPS TO AVOID'. Left column: illustrated professional man in business casual reviewing a contract document with a pencil, focused expression. Right column: four numbered rows stacked cleanly, each with a bold 3-word label in dark navy and a small amber warning icon. Bottom navy banner with short callout: 'PRICE SMART. PRICE ONCE.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
