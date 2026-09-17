@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "teaming",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Last Week · Client 031",
+    "lead_html": "Signing a teaming agreement is the <em>fast</em> part.",
+    "rows": [
+      { "when": "Check 01", "what_html": "<strong>Work-share % defined</strong> <span class='light'>— typically 20–51% for the sub, locked in writing</span>" },
+      { "when": "Check 02", "what_html": "<strong>NAICS codes delineated</strong> <span class='light'>— zero overlap between prime and sub</span>" },
+      { "when": "Check 03", "what_html": "<strong>Exit clause included</strong> <span class='light'>— what happens if the team doesn't win</span>" }
+    ],
+    "closer": "THE VETTING IS WHERE THE REAL VALUE LIVES.",
+    "image_headline": "SIGN LAST. VET FIRST.",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional man in business casual reviewing a legal document, several unchecked boxes visible. Right side: vertical three-row checklist, each row labeled with 2-3 words — 'WORK-SHARE %', 'NAICS CODES', 'EXIT CLAUSE' — each with a bold green checkmark. Dark navy top banner, bold headline: 'SIGN LAST. VET FIRST.' Cream background. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

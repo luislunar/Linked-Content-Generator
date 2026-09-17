@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the run summary:
+
+---
+
+**2026-09-17 · Josh Ladick daily post**
+
+**Type:** `behind_scenes` · **Topic:** `teaming` · **Hook:** `blunt` · **Template:** `single-07-story` (cream bg)
+
+**The post** opens with a hard declarative ("Most teaming agreements I review are liability documents, not business arrangements"), then drops into a real client scenario from last week — IT firm with no federal track record, prime with past performance, agreement that cleared 2 of 6 on the internal due diligence checklist. The insight is the process reveal: the six-point pre-sign checklist, and the three items that matter most (work-share %, NAICS delineation, exit clause). 170 words, prose-only.
+
+**Key decisions:**
+- `behind_scenes`: not used in last 3 days (tips_list → hot_take → inspiration); natural fit for the process-reveal content angle
+- `teaming`: free — pricing/vehicles/pipeline/certifications all blocked within 5-day window
+- `blunt` hook: question and contrarian both used in the last 2 days; truth used on 9-14; blunt is the freshest pattern
+- `single-07-story` (cream bg): mandatory — last 2 Josh templates were dark-bg (single-06-checklist, single-01-bold)
+- No USAspending data: Jason used the $18.6B Q2 figure yesterday; skipping avoids same-week stat saturation
+
+**Files written:** `drafts/2026-09-17/post.md`, `post.meta.json`, `hypothesis.md` · `logs/run-2026-09-17.md`
