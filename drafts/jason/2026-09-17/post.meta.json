@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "vehicles",
+  "hook_pattern": "checklist",
+  "format": "checklist",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Vehicle Check",
+    "index": "Vol. 04 · Vehicles",
+    "headline_html": "Four screens before you <span class='accent'>pick a vehicle.</span>",
+    "items": [
+      {
+        "num": "01",
+        "title": "NAICS fit",
+        "desc": "Does your primary code appear in the vehicle's scope? Not every code lives in every vehicle."
+      },
+      {
+        "num": "02",
+        "title": "Minimum order floor",
+        "desc": "SEWP has a $10K minimum. If your average engagement is $8K, that's the wrong rail."
+      },
+      {
+        "num": "03",
+        "title": "Active buyer agencies",
+        "desc": "GSA MAS is broad. SEWP is DoD/NASA IT-focused. Pick the vehicle your buyers already use."
+      },
+      {
+        "num": "04",
+        "title": "On-ramp timeline",
+        "desc": "GSA MAS: 6–12 months. SEWP: invitation-only. Know your cash flow window before you start."
+      }
+    ]
+  },
+  "image_headline": "PICK THE RIGHT VEHICLE FIRST",
+  "image_prompt": "Split infographic layout. Top: dark navy header bar with bold ALL CAPS headline 'PICK THE RIGHT VEHICLE FIRST' and a small compass icon on the left. Main area: cream background with four numbered rows (01–04). Each row has a short 2-3 word bold label ('NAICS FIT', 'ORDER FLOOR', 'BUYER AGENCY', 'ON-RAMP TIME') and a matching minimal icon (magnifying glass, dollar sign, government building, hourglass). Left side: illustrated male professional in a collared shirt holding a clipboard and reviewing two contract document options side by side. Bottom: dark navy footer strip. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": ""
+}

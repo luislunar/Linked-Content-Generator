@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's Jason post:
+
+---
+
+**2026-09-17 · Jason**
+
+- **post_type:** `tips_list` (not used in his last 3 days; blocked types were `client_story`, `milestone`, `hot_take`)
+- **topic:** `vehicles` — clean, not touched in Jason's last 5 days; distinct from Josh's `teaming` and William's `gsa_basics` today
+- **hook_pattern:** `checklist` — differentiates from William's `question` (today) and Jason's `myth-bust` (yesterday)
+- **template:** `single-02-numbered` (cream) — contrast to recent dark-navy cards
+- **word_count:** ~163 — under the 180-word cadence ceiling (last 3-day avg was 206)
+- **Opening:** Starts with a checklist-style framing per cadence rule (last 3 all opened with direct statements)
+
+**Post angle:** Four concrete screens before picking a contract vehicle — NAICS code scope, minimum order floor ($10K SEWP example), which agencies actively buy through it, and on-ramp timeline reality (6–12 months vs. invitation-only). Closes with a specific community question asking which vehicle they chased first and whether it matched their actual buyer agencies. Pure Jason voice: numbers, comparisons, zero romanticizing.
