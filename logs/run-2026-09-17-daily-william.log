@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William today:
+
+---
+
+**`drafts/william/2026-09-17/`**
+
+**post.md** — `inspiration` · `gsa_basics` · `question` hook · 147 words
+
+Opens with the exact question William hears on almost every intro call ("Is the GSA Schedule worth it for a business my size?"), then reframes it around a 3-year investment mindset rather than short-term revenue. The core pivot: the Schedule is an *access credential*, not a revenue event — what happens after approval is on the owner. Closes with a specific community question surfacing two reply groups (owners who expected faster timelines vs. those who validated the slow build).
+
+**Rotation decisions:**
+| Dimension | Chosen | Reason |
+|---|---|---|
+| post_type | `inspiration` | Last 3 William: hot_take/tips_list/client_story; Josh today: behind_scenes — inspiration is clean |
+| topic | `gsa_basics` | 5-day blocked: compliance/pipeline/sam/pricing/teaming; Josh today: teaming — gsa_basics is open |
+| hook_pattern | `question` | truth blocked (used yesterday); question fits "call observation" voice perfectly |
+| template | `single-03-quote` | Cream serif — contrasts yesterday's dark navy single-01-bold |
+| format | prose/story | Last 2 William posts used bullets; prose rotates the format |
+| length | 147 words | Avg last 3 = 201 words → must be under 180; inspiration cap is 150 ✓ |

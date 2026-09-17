@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "gsa_basics",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "First Call Note",
+    "index": "No. 039 · GSA Basics",
+    "quote_html": "The Schedule buys access. <em>What you do with it is on you.</em>",
+    "footer_left": "One Honest Answer",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE SCHEDULE BUYS ACCESS NOT REVENUE",
+    "image_prompt": "Infographic pull-quote layout. Cream background, dark navy typography. Left half: illustrated professional man in business casual, relaxed and conversational posture, as if mid-call or mid-explanation — warm expression. Right half: large serif pull-quote panel — short label 'FIRST CALL NOTE' at top in small caps, bold quote text (5-6 words visible), one highlighted callout box in forest green with short 3-word label 'ACCESS, NOT REVENUE'. Bold headline at top center: 'THE SCHEDULE BUYS ACCESS NOT REVENUE'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
