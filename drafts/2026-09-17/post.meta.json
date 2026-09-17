@@ -1,21 +1,27 @@
 {
-  "post_type": "behind_scenes",
-  "topic": "teaming",
-  "hook_pattern": "blunt",
+  "post_type": "client_story",
+  "topic": "certifications",
+  "hook_pattern": "story",
   "format": "prose",
-  "template": "single-07-story",
+  "template": "single-05-beforeafter",
   "template_data": {
-    "section_label": "Field Report",
-    "year_client": "Last Week · Client 031",
-    "lead_html": "Signing a teaming agreement is the <em>fast</em> part.",
-    "rows": [
-      { "when": "Check 01", "what_html": "<strong>Work-share % defined</strong> <span class='light'>— typically 20–51% for the sub, locked in writing</span>" },
-      { "when": "Check 02", "what_html": "<strong>NAICS codes delineated</strong> <span class='light'>— zero overlap between prime and sub</span>" },
-      { "when": "Check 03", "what_html": "<strong>Exit clause included</strong> <span class='light'>— what happens if the team doesn't win</span>" }
+    "section_label": "9-Month Shift",
+    "case_num": "Case · 043",
+    "headline_html": "A cert without a vehicle is a <span class='accent'>boarding pass</span> for a grounded flight.",
+    "before_items": [
+      "HUBZone cert, no federal wins",
+      "Direct outreach — no response",
+      "No Schedule listing"
     ],
-    "closer": "THE VETTING IS WHERE THE REAL VALUE LIVES.",
-    "image_headline": "SIGN LAST. VET FIRST.",
-    "image_prompt": "Infographic story layout. Left side: illustrated professional man in business casual reviewing a legal document, several unchecked boxes visible. Right side: vertical three-row checklist, each row labeled with 2-3 words — 'WORK-SHARE %', 'NAICS CODES', 'EXIT CLAUSE' — each with a bold green checkmark. Dark navy top banner, bold headline: 'SIGN LAST. VET FIRST.' Cream background. Footer text: 'Josh Ladick · GSA Focus'."
+    "after_items": [
+      "MAS listing, month four",
+      "HUBZone set-aside access",
+      "First award, month nine"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "CERT WITHOUT VEHICLE. WRONG GATE.",
+    "image_prompt": "Split-panel infographic on cream background. Left panel light with bold dark label 'WITHOUT SCHEDULE' and red X icon. Three short 2-word labels below: 'CERT UNUSED', 'NO ACCESS', 'ZERO AWARDS'. Right panel dark navy with bold white label 'WITH SCHEDULE' and green checkmark. Three short labels: 'SET-ASIDE LANE', 'PREFERRED ACCESS', 'FIRST AWARD'. Center: illustrated professional woman in blazer stepping confidently from left to right panel. Bold top headline: 'CERT WITHOUT VEHICLE. WRONG GATE.' Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }
