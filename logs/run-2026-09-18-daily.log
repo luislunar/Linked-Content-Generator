@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today:
+
+---
+
+**Post type:** `inspiration` — myth-bust, 113 words (under 180 required)
+**Topic:** `myths` (last used 7+ days ago)
+**Hook:** `myth-bust` — opens with the exact false belief, then dismantles it in one paragraph
+**Template:** `single-03-quote` (cream bg) — pull quote: *"The Schedule is the door. Not the trophy room."*
+
+**The argument:** GSA Schedule eligibility is based on commercial track record, not federal past performance. That distinction is widely misunderstood and delays qualified companies constantly — prime territory for reactions and myth-drop comments.
+
+**Files written:**
+- `drafts/2026-09-18/post.md`
+- `drafts/2026-09-18/post.meta.json`
+- `drafts/2026-09-18/hypothesis.md`
+- `logs/run-2026-09-18.md`

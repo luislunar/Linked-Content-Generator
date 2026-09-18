@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Myths",
+    "quote_html": "The Schedule is the door. <em>Not the trophy room.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE DOOR. NOT THE TROPHY ROOM.",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE MYTH' with red X icon, two short labels: 'GOV HISTORY REQUIRED' and 'PAST CONTRACTS NEEDED'. Right panel white/cream, bold label 'THE REALITY' with green checkmarks, two short labels: 'COMMERCIAL COUNTS' and '2-YEAR TRACK RECORD'. Center: illustrated professional man in suit stepping from dark side to light side. Bold headline top: 'THE DOOR. NOT THE TROPHY ROOM.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
