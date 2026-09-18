@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written to `drafts/jason/2026-09-18/`. Here's what was produced:
+
+---
+
+**Post type:** `hot_take` | **Topic:** `gsa_basics` | **Hook:** `contrarian` (question-led)  
+**Template:** `single-01-bold` (dark charcoal + cyan) | **~161 words**
+
+**Rotation logic:**
+- Last 3 Jason types (`tips_list`, `client_story`, `milestone`) all avoided ✓  
+- Josh used `myths`/`inspiration` today, William used `teaming`/`client_story` → both avoided ✓  
+- Last 3 hooks all started with statements → today opens with a question per cadence rule ✓  
+- `gsa_basics` not used by Jason in the last 5 days ✓
+
+**The angle:** "Approval is the permission slip. The BD starts after." — Jason hears the blank stare when he asks new prospects what their post-approval plan is. The four bullets (catalog visibility, outreach, pricing drift, no BD cadence) are concrete mistakes he observes in sales calls, keeping it grounded in his sales-rep POV rather than founder territory.

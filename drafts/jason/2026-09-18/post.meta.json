@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "gsa_basics",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Reality Check",
+    "headline_html": "APPROVED<br>≠<br><span class='accent'>SOLD</span>",
+    "sub": "Approval is the permission slip. The BD starts after.",
+    "issue": "Issue 031",
+    "image_headline": "APPROVED DOESN'T MEAN SOLD",
+    "image_prompt": "Bold statement infographic on dark charcoal background with cyan accents. Top bold headline: 'APPROVED DOESN'T MEAN SOLD' in white block letters. Center: two-column layout divided by a thin cyan vertical line — left column dark label 'APPROVAL' with gray subdued icons: paper document, rubber stamp, checkmark. Right column label 'THE BD WORK' in cyan with active icons: megaphone, target crosshair, calendar. Below the split: highlighted cyan banner with short bold text: 'OUTREACH STARTS HERE'. Illustrated professional man in business attire standing to the right side, arms crossed, looking at the layout. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
