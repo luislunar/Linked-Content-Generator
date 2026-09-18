@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**William Hill — 2026-09-18**
+
+**Post type:** `client_story` | **Topic:** `teaming` | **Hook:** `story` | **Template:** `single-07-story`
+
+**Selection rationale:**
+- Blocked post_types (last 3 William days): inspiration, hot_take, tips_list — plus inspiration taken by Josh today
+- Blocked topics (William 5-day window): gsa_basics, compliance, pipeline, sam — plus myths taken by Josh today
+- Blocked hooks: question (used yesterday — consecutive); myth-bust (Josh today, out of William's range)
+- `teaming` last used by William on 09/10 (8 days ago ✓); Josh used it 09/17 but the uniqueness rule blocks *today's* posts only, not yesterday's ✓
+- Length: last 3 avg = 168.7 words → no forced-under-180 constraint; 253 words lands squarely in client_story range (200–300) ✓
+
+**Post angle:** A construction owner with zero federal past performance kept losing bids on that single requirement — until William walked him through teaming as a sub. Eight months later, first federal invoice. Now he bids as prime. The closer — "The first award doesn't have to be solo" — repositions teaming from consolation prize to deliberate Day 1 strategy.
+
+**CTA:** "If you broke into federal work through teaming, what made you go that route — and would you do it the same way again?" — designed to pull social proof from holders and self-disclosure from prospects weighing the past-performance barrier.

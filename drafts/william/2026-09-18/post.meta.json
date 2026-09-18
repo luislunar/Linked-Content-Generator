@@ -1,0 +1,21 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Two · Client 031",
+    "lead_html": "Zero federal history — to first subcontract award in <em>eight months</em>.",
+    "rows": [
+      { "when": "Month 01–02", "what_html": "<strong>Discovery call: no past performance</strong> <span class='light'>— two years of bids lost before he ever really started</span>" },
+      { "when": "Month 03–05", "what_html": "<strong>Teaming agreement with established prime</strong> <span class='light'>— his capacity, their relationships, a working split</span>" },
+      { "when": "Month 06–08", "what_html": "<strong>First subcontract award, first federal invoice</strong> <span class='light'>— the record that makes every future bid easier</span>" }
+    ],
+    "closer": "THE FIRST AWARD DOESN'T HAVE TO BE SOLO.",
+    "image_headline": "NO HISTORY? TEAM IN FIRST.",
+    "image_prompt": "Infographic story layout on cream background. Left side: illustrated vertical timeline with three milestone circles, each with a short 1-2 word label in dark navy: 'NO HISTORY', 'TEAM UP', 'FIRST AWARD'. Upward-pointing arrows in forest green connecting each milestone. Right side: illustrated professional man in a hard hat and business shirt standing confidently, holding a signed contract document. Bold headline at top center: 'NO HISTORY? TEAM IN FIRST.' in dark navy. One small highlighted callout box in amber with dark text: 'SUBS BUILD RECORDS'. Bottom: thin forest green accent bar. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
