@@ -1,17 +1,26 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for today:
+Today's run has already been completed. All output files are in place and the run log is written. Here's a summary of what was produced:
 
 ---
 
-**Post type:** `inspiration` — myth-bust, 113 words (under 180 required)
-**Topic:** `myths` (last used 7+ days ago)
-**Hook:** `myth-bust` — opens with the exact false belief, then dismantles it in one paragraph
-**Template:** `single-03-quote` (cream bg) — pull quote: *"The Schedule is the door. Not the trophy room."*
+**2026-09-18 daily run — already complete**
 
-**The argument:** GSA Schedule eligibility is based on commercial track record, not federal past performance. That distinction is widely misunderstood and delays qualified companies constantly — prime territory for reactions and myth-drop comments.
+- **post_type:** `inspiration`
+- **topic:** `myths`
+- **hook_pattern:** `myth-bust`
+- **format:** prose
+- **word_count:** 113
+- **template:** `single-03-quote`
 
-**Files written:**
-- `drafts/2026-09-18/post.md`
-- `drafts/2026-09-18/post.meta.json`
-- `drafts/2026-09-18/hypothesis.md`
-- `logs/run-2026-09-18.md`
+**Post:** Busts the myth that you need government contracts before qualifying for a GSA Schedule. Core argument: eligibility is built on commercial track record (2 years in business, documented commercial revenue) — not federal history. The Schedule is the door in, not a trophy room you earn afterward.
+
+**Card:** `single-03-quote` pull-quote — *"The Schedule is the door. Not the trophy room."* — navy/cream split-panel myth-bust visual.
+
+**Rotation check passed:**
+- `inspiration` not used in last 3 days (last: Sep 14) ✓
+- `myths` topic not used in recent 5 days ✓
+- `myth-bust` hook not used recently ✓
+- 113 words under the 180-word limit triggered by last 3 posts averaging >200 words ✓
+- Template `single-03-quote` (cream bg) — last 2 were cream/dark-navy, no contrast conflict ✓
+
+No action needed — all draft files and the run log are written.
