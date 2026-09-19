@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "certifications",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Certification Gap",
+    "case_num": "Case · 043",
+    "headline_html": "You're certified. But <span class='accent'>not contracted.</span>",
+    "before_items": [
+      "SDVOSB cert, no vehicle",
+      "Zero awards in two years",
+      "Missing set-aside RFQs"
+    ],
+    "after_items": [
+      "GSA Schedule approved, month 9",
+      "First set-aside win, month 10",
+      "Active federal pipeline open"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "THE CERT NEEDS A VEHICLE.",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'BEFORE' with red X icon. Three short stacked labels: 'SDVOSB CERT', 'NO VEHICLE', 'ZERO AWARDS'. Right panel cream white, bold label 'AFTER' with green checkmarks. Three short stacked labels: 'SCHEDULE APPROVED', 'FIRST AWARD', 'OPEN PIPELINE'. Center: illustrated veteran professional in blazer looking confident, standing between the two panels. Bold headline top: 'THE CERT NEEDS A VEHICLE.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,10 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today's run:
+
+**Post type:** `client_story` — not used in the last 3 days ✓  
+**Topic:** `certifications` — not used in the last 5 days ✓  
+**Hook:** `story` — different from last 2 days (myth-bust, blunt) ✓  
+**Template:** `single-05-beforeafter` (cream + navy split) ✓  
+**Word count:** 221 — within the 200–300 range ✓
+
+**Central idea:** A veteran-owned SDVOSB firm with zero federal wins after two years — not because the cert was wrong, but because they had no contract vehicle. After getting onto the GSA Schedule, they won their first set-aside RFQ one month later. The post drives toward the community question: "What cert do you hold — and is it connected to a vehicle?" — which should surface comments from certified-but-stuck business owners, a strong ICP signal.
