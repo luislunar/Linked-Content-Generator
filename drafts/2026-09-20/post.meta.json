@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "sam",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "SAM Expiration",
+    "case_num": "Case · 033",
+    "headline_html": "What a <span class='accent'>lapsed SAM registration</span> actually costs.",
+    "before_items": [
+      "Payments frozen mid-delivery",
+      "CO unreachable — no context",
+      "30 days of confusion"
+    ],
+    "after_items": [
+      "Renewed in 48 hours",
+      "Payments released in full",
+      "60-day renewal alert set"
+    ],
+    "footer_left": "One Real Case",
+    "footer_right": "Field Case Series",
+    "image_headline": "SAM EXPIRED. PAYMENTS FROZE.",
+    "image_prompt": "Split-panel infographic. Left dark navy panel, bold header 'BEFORE' with red downward arrow. Three rows with amber warning icons and 3-word labels: 'PAYMENTS FROZEN', 'CO UNREACHABLE', '30-DAY GAP'. Right cream panel, bold header 'AFTER' with green upward arrow. Three rows with green checkmarks and 3-word labels: '48-HR RENEWAL', 'PAYMENTS RELEASED', 'ALERT SET'. Center: illustrated professional woman at a laptop, urgent notification badge on screen. Bold banner headline top: 'SAM EXPIRED. PAYMENTS FROZE.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

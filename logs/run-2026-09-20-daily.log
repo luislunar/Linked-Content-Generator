@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Today's Josh Ladick post is ready in `drafts/2026-09-20/`.
+
+**What was generated:**
+
+- **Type:** `client_story` — brings credibility and social proof; not used in 3+ days
+- **Topic:** `sam` — SAM.gov expiration; clean in the 5-day rotation window
+- **Hook:** `story` — opens mid-panic ("A client messaged me three weeks ago") for immediate ICP identification
+- **Template:** `single-05-beforeafter` — before/after split card showing the $42k confusion → 48-hour fix resolution
+- **Format:** narrative prose with 2 action bullets at the CTA
+- **Word count:** ~205 words (within 200-300 range for client_story)
+
+**Core story:** 12-person IT services firm, 2-year Schedule holder, payments froze when SAM lapsed 11 days past expiration. Three weeks of confusion. $42,000 delayed. Renewal took 48 hours. Lesson: SAM doesn't remind you — set a 60-day calendar alert now.
+
+**Community question:** "When did you last check your SAM registration status? Be honest. 😅" — honest-check style, designed to surface confessions from existing holders and discovery moments from prospects.
