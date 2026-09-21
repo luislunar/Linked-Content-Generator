@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for `drafts/jason/2026-09-21/`:
+
+---
+
+**post.md** (153 words — `behind_scenes`, within 100–200 range)
+
+Opens with a forced question hook (cadence rule: last 3 Jason posts all started with statements). Core tension: the cert is an access point, not a revenue engine. Three `→` bullets show what winning companies actually do after certification day. Closes with a specific community question inviting respondents to share concrete pipeline outcomes.
+
+**post.meta.json**
+- `template`: `single-07-story` (cream) — satisfies color contrast rule after two consecutive dark-bg cards on 09-17 and 09-18
+- Timeline rows: Cert Day → Month 2–4 → Month 5+ maps the "reality arc"
+- `closer`: "THE CERT OPENS THE DOOR. YOU STILL HAVE TO KNOCK." (50 chars)
+- `image_headline`: "CERTIFIED. NOW THE REAL WORK STARTS." (7 words)
+
+**Uniqueness check passed:** Topic `certifications` not used today by Josh (`gsa_basics`) or William (`myths`). `post_type` `behind_scenes` not used by either profile today. `hook_pattern` `question` matches William's but is required by the hard cadence rule and the content is completely different.

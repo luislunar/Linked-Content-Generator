@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Cert Reality · 2026",
+    "lead_html": "Before you get certified, <em>read what happens next.</em>",
+    "rows": [
+      { "when": "Cert Day", "what_html": "<strong>Approval lands.</strong> <span class='light'>— inbox quiet for months</span>" },
+      { "when": "Month 2–4", "what_html": "<strong>Reality check.</strong> <span class='light'>— cert doesn't call contracting officers for you</span>" },
+      { "when": "Month 5+", "what_html": "<strong>Work begins.</strong> <span class='light'>— vehicle + agency targeting = traction</span>" }
+    ],
+    "closer": "THE CERT OPENS THE DOOR. YOU STILL HAVE TO KNOCK.",
+    "image_headline": "CERTIFIED. NOW THE REAL WORK STARTS.",
+    "image_prompt": "Infographic story layout. Left half: dark charcoal background with three vertical timeline rows, each with a short 2-word label in cyan — 'CERT DAY' with a document icon, 'MONTHS 2–4' with an empty calendar icon, 'MONTH 5+' with a green forward-arrow icon. Right half: cream/off-white background. Illustrated professional man in business casual attire, arms forward, holding a clipboard with a confident stance. Bold headline at top spanning full width: 'CERTIFIED. NOW THE REAL WORK STARTS.' in white block letters on dark charcoal banner. Small callout box at bottom right in cyan: short bold text 'CERT OPENS THE DOOR'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
