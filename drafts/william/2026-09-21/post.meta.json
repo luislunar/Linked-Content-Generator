@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "myths",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "First Call Myths",
+    "module": "Module 01 · Misconceptions",
+    "headline_html": "Five myths I hear <span class='accent'>before</span> anyone applies.",
+    "items": [
+      { "title": "My company is too small", "sub": "The Schedule was built for small businesses — most applicants are under $5M in commercial revenue." },
+      { "title": "I need past performance first", "sub": "Not for the application itself. Past performance matters more once you're pursuing specific contracts." },
+      { "title": "The process costs too much", "sub": "There's no government application fee. The real cost is time — that's what done-for-you solves." },
+      { "title": "Contracts come automatically", "sub": "The Schedule is access, not a guarantee. Outreach and positioning determine whether it generates revenue." },
+      { "title": "My industry isn't a good fit", "sub": "Engineering, construction, IT, professional services — billions flow through the Schedule every quarter." }
+    ],
+    "footer_left": "Field Patterns",
+    "footer_right": "First Call Series"
+  },
+  "image_headline": "FIVE MYTHS I HEAR EVERY CALL",
+  "image_prompt": "Infographic alert layout on dark navy background. Bold headline at top: 'FIVE MYTHS I HEAR EVERY CALL' with a caution icon. Left side: illustrated professional man in business casual attire holding a phone to his ear, looking attentive and engaged. Right side: five checklist rows stacked vertically, each with a red X icon and a short 3-word myth label in white text: 'TOO SMALL', 'NEED PAST PERF', 'COSTS TOO MUCH', 'AUTO CONTRACTS', 'WRONG INDUSTRY'. Each row has a small forest-green callout label beside it: 'FALSE', 'NOT REQUIRED', 'NO FEE', 'ACCESS ONLY', 'BILLIONS FLOW'. Forest-green accent bar at the bottom. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}

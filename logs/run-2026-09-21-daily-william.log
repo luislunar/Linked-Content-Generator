@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's a summary of today's draft:
+
+---
+
+**William Hill — 2026-09-21**
+
+| Field | Value |
+|---|---|
+| `post_type` | `tips_list` |
+| `topic` | `myths` |
+| `hook_pattern` | `question` |
+| `template` | `single-06-checklist` (dark navy) |
+| `format` | `checklist` (numbered) |
+| `word_count` | ~205 |
+
+**Why these choices:**
+- **Blocked types** (last 3 William days): `client_story`, `inspiration`, `hot_take` — all three also match what Josh/Jason used recently
+- **Blocked topics** (5-day window): `teaming`, `gsa_basics`, `compliance`, `pipeline`, `sam` — `myths` is clean
+- **Hook `question`**: `story` is double-blocked (consecutive + Josh today); `question` fits "five things I hear on first calls" perfectly
+- **Dark navy template**: breaks a 2-consecutive-cream streak and contrasts Josh's cream `single-05-beforeafter` today
+- **Data touch**: Q2 2026 engineering/construction/IT figures used as soft background in myth 5 — not a formal data-led post, no card credit needed
