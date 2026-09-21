@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "gsa_basics",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "11-Month Shift",
+    "case_num": "Case · 043",
+    "headline_html": "What changes when the <span class='accent'>Schedule lands.</span>",
+    "before_items": [
+      "Zero federal revenue",
+      "No CO relationships",
+      "Off every RFQ list"
+    ],
+    "after_items": [
+      "First award month 11",
+      "Federal BD doors open",
+      "Pipeline moving forward"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "THE SCHEDULE OPENS THE ROOM.",
+  "image_prompt": "Split-panel infographic on cream background. Left panel dark navy labeled 'BEFORE' with red X icons and three short 2-word labels: 'NO REVENUE', 'NO ACCESS', 'BLOCKED OUT'. Right panel white labeled 'AFTER' with green checkmarks and three short labels: 'FIRST AWARD', 'DOORS OPEN', 'PIPELINE LIVE'. Center divider: illustrated professional woman in business blazer stepping confidently forward from dark side to light. Bold headline at top: 'THE SCHEDULE OPENS THE ROOM.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's a summary of today's run:
+
+**Post type:** `client_story` — keeps rotation fresh (last 3 were inspiration, behind_scenes, tips_list)
+
+**Topic:** `gsa_basics` — most overdue topic; frequency target is 2x/week and it hasn't appeared in 5+ days
+
+**Hook:** `story` — CEO's "we're too small" moment. Hits the exact ICP pain point in brand-context.md. Avoids repeating myth-bust, blunt, or question from the last 3 days.
+
+**Template:** `single-05-beforeafter` (cream bg) — good feed contrast; the 3-column before/after card maps cleanly to the narrative: no revenue / no access / off every RFQ list → first award / doors open / pipeline live.
+
+**Format:** Prose paragraphs with 3 `→` bullets for the after-state — within the client_story bullet cap of max 3.
+
+**Data note:** Fresh govcon-data-2026-09-21.md was checked. No figure used directly today — the $2M+ revenue qualifier in the closing line echoes the ICP threshold organically without lifting a stat.
