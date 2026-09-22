@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**Jason · 2026-09-22**
+
+**Type:** `milestone` | **Topic:** `pipeline` | **Hook:** `blunt` | **Template:** `single-04-stat`
+
+**Angle:** The "$26.2B to small businesses from DoD alone in Q2 2026" stat is the lead — it kills the #1 pipeline objection Jason hears on calls ("the market is locked up for small businesses"). The post pivots immediately into four concrete search channels (SAM.gov opportunities tab, GSA eBuy, Sources Sought, USAspending recompete search) to give the ICP actionable next steps.
+
+**Uniqueness check:**
+- Josh today: `tips_list` / `sam` / `alert` — no overlap
+- William today: `behind_scenes` / `certifications` / `story` — no overlap
+- Neither used the govcon data today, so the $26.2B figure is available
+
+**Cadence check:**
+- Not used in Jason's last 3 days (`behind_scenes`, `hot_take`, `tips_list`)
+- Topic `pipeline` not in Jason's last 5 topics
+- Hook `blunt` not used in last 3 days; different from yesterday's `question`
+- Word count 199 — within milestone range (150–250) and no forced length constraint

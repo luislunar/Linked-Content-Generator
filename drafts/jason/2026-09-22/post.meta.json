@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q2 2026",
+    "label_above": "DoD awards to small businesses, Q2 2026",
+    "big_number_html": "$<span class='accent'>26.2B</span>",
+    "context_html": "One quarter. One agency. And most small businesses still think <strong>the pipeline is locked up</strong>.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "THE FEDERAL PIPELINE IS NOT DRY",
+    "image_prompt": "Stat infographic layout. Dark charcoal/carbon background. Bold headline at top: 'THE FEDERAL PIPELINE IS NOT DRY' in white Space Grotesk bold. Center: massive cyan accent number '$26.2B' dominating the card, labeled below with short 2-line stack 'DOD AWARDS' and 'Q2 2026'. Left: illustrated professional man in button-down shirt, arms crossed confidently, slight smirk — analytical expression. Right column: short vertical stack of 3-word labels with green checkmarks — 'SAM.GOV LISTINGS', 'EBUY SOLICITATIONS', 'RECOMPETE LEADS'. Bottom dark band with short text 'SOURCE · USASPENDING.GOV' in small caps. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
