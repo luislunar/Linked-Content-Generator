@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "certifications",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · Certifications",
+    "quote_html": "The cert opens a lane. <em>The Schedule gets you on the track.</em>",
+    "footer_left": "One Real Observation",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "TWO KEYS TO WINNING SET-ASIDES",
+    "image_prompt": "Infographic story layout. Dark forest green left panel: illustrated professional man in business casual, warm expression, on a phone call, listening intently. Cream right panel: two stacked labeled sections — top section bold label 'THE CERT' with green checkmark and small WOSB badge icon, short 2-word sublabel 'OPENS ELIGIBILITY'; bottom section bold label 'THE VEHICLE' with a key-and-door icon in amber, short 2-word sublabel 'GRANTS ACCESS'. Bold headline at top spanning both panels: 'TWO KEYS TO WINNING SET-ASIDES' in Sora bold typeface. Small amber callout box in cream panel: 'BOTH REQUIRED'. Warm, approachable visual tone — not alarming or cautionary. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

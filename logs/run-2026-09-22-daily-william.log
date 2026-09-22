@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **William Hill — 2026-09-22**:
+
+---
+
+**Post type:** `behind_scenes` | **Topic:** `certifications` | **Hook:** `story` | **Template:** `single-03-quote` (cream) | **Words:** 177
+
+**Key decisions:**
+- Length rule forced under 180 (last 3 avg = 201.7 words) → `behind_scenes` (100–200) is the only non-blocked type that fits
+- All four of William's priority topics were blocked (pipeline/sam/teaming/gsa_basics) — certifications was the strongest available option, a genuine first-call pattern
+- Prose/story format breaks from the last two posts (checklist, bullets) and fits William's warm call-observation voice
+- Cream `single-03-quote` contrasts Josh's dark-navy `single-06-checklist` today
+
+**Core insight:** Owners regularly arrive on calls thinking their WOSB/SDVOSB cert means they're ready to win federal work — missing that a cert is an eligibility credential, not a contract. Without a vehicle like a GSA Schedule, the set-aside lane is open but there's no car. The "cert + vehicle = actual access" framing is the real insight William surfaces repeatedly but rarely appears in GovCon content.
