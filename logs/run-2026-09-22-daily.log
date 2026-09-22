@@ -1,0 +1,25 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-09-22**:
+
+---
+
+**Post type:** `tips_list` — `sam` topic  
+**Template:** `single-06-checklist` (dark navy — corrects the last 2 cream-bg templates)  
+**Hook:** `alert` — opens with "This one mistake is quietly costing small businesses their contracts"  
+**Format:** Numbered list (breaks the three-day prose streak)  
+**Word count:** ~215 (within the 150–280 range)
+
+**Five items covered:**
+1. Missing the annual SAM renewal window
+2. Wrong/missing NAICS codes
+3. Stale representations and certifications
+4. Outdated EFT/banking information
+5. No account monitoring (SAM fraud)
+
+**CTA:** "When did you last do a full SAM.gov audit? Be honest. 😅" — honest-check style, designed to surface comments with real stories.
+
+**Files written:**
+- `drafts/2026-09-22/post.md`
+- `drafts/2026-09-22/post.meta.json`
+- `drafts/2026-09-22/hypothesis.md`
+- `logs/run-2026-09-22.md`
