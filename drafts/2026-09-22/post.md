@@ -1,21 +1,13 @@
-This one mistake is quietly costing small businesses their contracts — and most don't find out until it's too late.
+Nobody warns you about the gap between "Schedule approved" and "first award."
 
-Your SAM.gov registration isn't a checkbox. It's a living document federal buyers verify before every single award. One expired field, one outdated number, and the contract can freeze mid-process.
+I talk to GSA Schedule holders every week who've had their contract for 12, 18, even 24 months — and haven't touched a single federal dollar. They did everything right on the application. They did nothing with it after.
 
-Here are 5 SAM.gov mistakes I see constantly:
+The Schedule is a vehicle. Having access doesn't move you forward — knowing where to drive does.
 
-1. **Missing the renewal window.** SAM expires every 12 months. Set a calendar reminder 60 days out — not 10. By the time the expiration notice lands in your inbox, you're already behind.
+Here's the reality: federal revenue doesn't flow to the best-credentialed company. It flows to whoever showed up early, built the relationship before the solicitation existed, and understood which agencies actually spend money on what they sell. That's pipeline work. It happens on USAspending.gov at 9am, on beta.sam.gov watching sources sought notices, and in agency industry days that most small businesses skip because "we don't have time."
 
-2. **Wrong or missing NAICS codes.** You can list multiple. If you're not showing up under the right codes, agencies can't find you — simple as that.
+The businesses generating federal revenue in year one treated approval as the starting gun — not the finish line.
 
-3. **Stale representations and certifications.** Revenue, headcount, certifications — they all need to reflect your current reality. This isn't optional. It's a compliance requirement.
+What does your post-Schedule pipeline actually look like right now? Not your plan — your active pipeline.
 
-4. **Outdated banking information.** If your EFT details are wrong, your payments freeze. It doesn't matter how clean the rest of your record is.
-
-5. **No account monitoring.** SAM fraud happens. Set login alerts and review your record quarterly. Don't wait to discover an unauthorized change after an award.
-
-None of these are hard fixes. All of them can stop a contract dead.
-
-When did you last do a full SAM.gov audit? Be honest. 😅
-
-#govcon #federalcontracting #SAMgov #smallbusiness #GovConTips
+#govcon #federalcontracting #GSAschedule #smallbusiness #pipeline

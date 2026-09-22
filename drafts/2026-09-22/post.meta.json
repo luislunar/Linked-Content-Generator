@@ -1,39 +1,16 @@
 {
-  "post_type": "tips_list",
-  "topic": "sam",
-  "hook_pattern": "alert",
-  "format": "checklist",
-  "template": "single-06-checklist",
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
   "template_data": {
-    "section_label": "SAM.gov Audit",
-    "module": "Module 05 · SAM",
-    "headline_html": "Five SAM.gov mistakes that <span class='accent'>freeze</span> your contracts.",
-    "items": [
-      {
-        "title": "Missing the renewal window",
-        "sub": "SAM expires annually — set reminders 60 days out, not 10"
-      },
-      {
-        "title": "Wrong or missing NAICS codes",
-        "sub": "Agencies search by NAICS — if you're unlisted, you don't exist"
-      },
-      {
-        "title": "Stale reps and certifications",
-        "sub": "Revenue, headcount, certs must reflect your current reality"
-      },
-      {
-        "title": "Outdated banking information",
-        "sub": "Wrong EFT details freeze payments regardless of award status"
-      },
-      {
-        "title": "No account monitoring",
-        "sub": "SAM fraud is real — review your record quarterly and set login alerts"
-      }
-    ],
-    "footer_left": "Quick Self-Audit",
-    "footer_right": "Page 1 of 1",
-    "image_headline": "5 SAM.GOV MISTAKES THAT FREEZE YOUR CONTRACTS",
-    "image_prompt": "Infographic alert layout. Dark navy background. Bold warning headline at top: '5 SAM.GOV MISTAKES THAT FREEZE YOUR CONTRACTS' with caution triangle icon. Left column: illustrated professional man in blazer reviewing a laptop with concerned expression. Right column: 5 checklist rows, each with a red X icon and a short 2-3 word label: 'EXPIRED REGISTRATION', 'WRONG NAICS', 'STALE CERTS', 'BAD BANKING INFO', 'NO MONITORING'. Bottom coral accent banner with short text 'AUDIT YOURS TODAY'. Footer text: 'Josh Ladick · GSA Focus'."
+    "tag": "Hard Truth",
+    "headline_html": "APPROVED.<br>NOT<br><span class='accent'>ACTIVE.</span>",
+    "sub": "Most GSA Schedule holders never convert their contract into federal revenue — because approval isn't a pipeline.",
+    "issue": "Issue 020",
+    "image_headline": "SCHEDULE APPROVED IS NOT A PIPELINE",
+    "image_prompt": "Bold statement infographic. Dark navy background. Top short coral pill label: 'HARD TRUTH'. Large centered headline in white bold type: 'APPROVED. NOT ACTIVE.' Illustrated professional man in blazer standing at a fork in the road — one path leads to a dark dead end labeled 'NO PIPELINE', the other leads to a bright city skyline labeled 'YEAR ONE REVENUE'. Small callout box bottom-left: short 3-word label 'KNOW WHERE TO DRIVE'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

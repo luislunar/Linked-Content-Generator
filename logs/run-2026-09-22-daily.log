@@ -1,25 +1,16 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for **2026-09-22**:
+Done. Here's a summary of what was generated for **2026-09-22**:
 
 ---
 
-**Post type:** `tips_list` — `sam` topic  
-**Template:** `single-06-checklist` (dark navy — corrects the last 2 cream-bg templates)  
-**Hook:** `alert` — opens with "This one mistake is quietly costing small businesses their contracts"  
-**Format:** Numbered list (breaks the three-day prose streak)  
-**Word count:** ~215 (within the 150–280 range)
+**Post type:** `hot_take`
+**Topic:** `pipeline`
+**Hook:** `truth` — *"Nobody warns you about the gap between 'Schedule approved' and 'first award.'"*
+**Format:** Prose only (no bullets — hot_take spec, break from yesterday's numbered checklist)
+**Template:** `single-01-bold` (dark navy — different from yesterday's single-06-checklist which was also dark, but single-07/05 was cream on 09-21, so the 2-consecutive-dark rule doesn't trigger)
+**Word count:** ~172 (within 150–300 range)
 
-**Five items covered:**
-1. Missing the annual SAM renewal window
-2. Wrong/missing NAICS codes
-3. Stale representations and certifications
-4. Outdated EFT/banking information
-5. No account monitoring (SAM fraud)
+**Card headline:** `APPROVED. NOT ACTIVE.`
+**Core argument:** A GSA Schedule is a vehicle, not a sales strategy. The holders who generate year-one revenue treated approval as the starting gun and immediately built pipeline via USAspending.gov, sources sought monitoring, and industry days. Most don't — and sit idle for 12–24 months.
 
-**CTA:** "When did you last do a full SAM.gov audit? Be honest. 😅" — honest-check style, designed to surface comments with real stories.
-
-**Files written:**
-- `drafts/2026-09-22/post.md`
-- `drafts/2026-09-22/post.meta.json`
-- `drafts/2026-09-22/hypothesis.md`
-- `logs/run-2026-09-22.md`
+**Community question:** "What does your post-Schedule pipeline actually look like right now? Not your plan — your active pipeline." (experience-share style, intentionally pointed)
