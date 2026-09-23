@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary:
+
+**Today's William post — 2026-09-23**
+
+| Field | Value |
+|---|---|
+| post_type | `inspiration` |
+| topic | `sam` |
+| hook_pattern | `truth` |
+| template | `single-01-bold` (dark navy / forest-green+amber via William theme) |
+| word_count | ~140 |
+
+**Rotation logic:**
+- `behind_scenes`, `tips_list`, `client_story` all blocked (William's last 3 days) — `inspiration` is the right short-form pick
+- `story` hook blocked (consecutive yesterday) — `truth` opens with "nobody warns you about this," which is pure William: warm, call-observation driven
+- Length rule triggered (avg 211.7 > 200) — 140 words comfortably clears the under-180 ceiling
+- Template: `single-03-quote` was yesterday's William template → using the alt `single-01-bold`; rendered in William's forest-green + amber scheme
+
+**The post** opens with the quiet reality of SAM lapses ("no alert, no hold notice"), grounds it in first-call patterns ("I bring it up on almost every call"), delivers one concrete action (check your 60-day window), and closes with a confessional CTA designed to surface both at-risk owners and those with a lapse story to share.

@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "sam",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "SAM Reality",
+    "headline_html": "SAM<br>DOESN'T<br><span class='accent'>WARN YOU.</span>",
+    "sub": "Your registration expires silently — and the next payment freezes before you notice.",
+    "issue": "Issue 031"
+  },
+  "image_headline": "SAM EXPIRES. NO ONE TELLS YOU.",
+  "image_prompt": "Infographic alert layout. Dark forest-green background with amber accent tones. Bold white headline at top: 'SAM EXPIRES. NO ONE TELLS YOU.' with an amber caution triangle icon. Left column: illustrated professional man in a business casual shirt, looking concerned at a laptop screen, amber accent detail on shirt. Right column: three stacked icon-label rows with red X icons and short 2-word white labels: 'NO WARNING', 'PAYMENT FREEZE', 'CONTRACT STALL'. Bottom banner in amber with short bold dark text '60-DAY WINDOW'. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
