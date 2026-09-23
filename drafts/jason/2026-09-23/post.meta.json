@@ -1,0 +1,21 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Pricing Mistakes",
+    "index": "Vol. 04 · Pricing",
+    "headline_html": "Four assumptions that <span class='accent'>quietly kill</span> your GSA margins.",
+    "items": [
+      { "num": "01", "title": "Commercial rates = safe baseline", "desc": "The Price Reduction Clause ties your GSA price to every future commercial discount. Your market rate becomes a ceiling, not a floor." },
+      { "num": "02", "title": "Price low, win fast", "desc": "Post-award mods to raise pricing are slow and often denied. Lock in a margin you can actually operate at." },
+      { "num": "03", "title": "BOA details can wait", "desc": "Undefined Basis of Award triggers unpredictable price reductions — usually surfacing 12–18 months after award." },
+      { "num": "04", "title": "No escalation clause needed", "desc": "Five-year contracts. No EPA. Your 2026 margins are your 2031 margins — minus inflation." }
+    ]
+  },
+  "image_headline": "FOUR GSA PRICING TRAPS",
+  "image_prompt": "Numbered list infographic. Cream background. Bold dark navy section label top-left: 'PRICING MISTAKES'. Bold dark navy headline center: 'FOUR ASSUMPTIONS THAT QUIETLY KILL YOUR GSA MARGINS'. Four numbered rows (01–04), each with a bold 3-4 word dark navy title and a short grey description. Red X icon beside each row number. Right side: illustrated professional man in business casual attire, arms crossed, analytical expression. Bottom: dark navy strip with short bold cream text 'MARGINS DON'T LIE'. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}

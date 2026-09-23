@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+**Post:** `drafts/jason/2026-09-23/`
+
+- **Type:** `tips_list` — avoids Jason's last 3 (milestone, behind_scenes, hot_take) and today's other types (hot_take/Josh, inspiration/William)
+- **Topic:** `pricing` — only high-priority Jason topic not used in the last 5 days or today by Josh (pipeline) or William (sam)
+- **Hook:** `myth-bust` — Jason's top preferred hook; avoids blunt/question/contrarian (used recently or today by others)
+- **Format:** `comparison` (Assumption → Reality pairs) — breaks a 3-day streak of bullet-format posts
+- **Template:** `single-02-numbered` (cream bg) — contrasts with both Josh and William using dark `single-01-bold` today
+
+**The post** busts four GSA pricing assumptions Jason hears on every evaluation call: commercial-rate-as-baseline, pricing low to win fast, deferring BOA definition, and skipping the EPA clause. Each assumption is paired directly with the consequence, in Jason's voice as a sales rep who reviews proposals daily — no founder framing.
