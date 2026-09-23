@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Market Reality",
+    "headline_html": "NOT SLOW.<br>YOU'RE<br><span class='accent'>INVISIBLE.</span>",
+    "sub": "DoD sent $26.2B to small businesses in one quarter. The delay is the paperwork to get found — not the market.",
+    "issue": "Issue 023"
+  },
+  "image_headline": "NOT SLOW. YOU'RE INVISIBLE.",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE DELAY' with red clock icon and 2-word label 'PAPERWORK FIRST'. Right panel white/light, bold label 'THE MARKET' with green upward-arrow icon and labels '$26B' and 'ONE QUARTER'. Center: illustrated professional man in blazer stepping from dark panel into light panel. Bold headline top: 'NOT SLOW. YOU'RE INVISIBLE.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
