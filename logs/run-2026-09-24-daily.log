@@ -1,19 +1,13 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was generated for 2026-09-24:
+Today's post was already generated and published. All files are complete and correct:
 
-**Post type:** `personal_story` · **Topic:** `pricing` · **Hook:** `truth` · **Template:** `single-07-story` (cream bg)
+**2026-09-24 — already done**
+- `post_type`: `personal_story`
+- `topic`: `pricing`
+- `hook_pattern`: `truth`
+- `template`: `single-07-story`
+- `word_count`: 242
 
-**Rotation logic:**
-- Type: avoided last 3 (client_story, tips_list, hot_take) ✓
-- Topic: avoided last 5 (teaming, myths, gsa_basics, sam, pipeline) ✓
-- Hook: avoided last 3 (story, alert, contrarian) ✓
-- Color: cream template after two likely dark-bg posts ✓
-- Length: 242 words, within 200–400 range ✓
+The post covers the Basis of Award (BOA) mechanism via a client story — an IT services company that came in with rates 22% below their commercial market. The `template_data` is fully populated, `card.jpg` was rendered, and the git commit `publish: 2026-09-24 daily post` confirms it went live.
 
-**The post** tells the story of a client who came in with a GSA offer already in hand — rates 22% below commercial — and explains why that's dangerous (Basis of Award ties federal price to best commercial price). The three-act arc: offer flagged → BOA explained → renegotiated and protected. Closes with a specific community question designed to surface comments from people who've lived a pricing surprise.
-
-**Files created:**
-- `drafts/2026-09-24/post.md`
-- `drafts/2026-09-24/post.meta.json`
-- `drafts/2026-09-24/hypothesis.md`
-- `logs/run-2026-09-24.md`
+No new files generated — this was a duplicate workflow trigger. Nothing to overwrite.
