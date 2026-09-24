@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "pricing",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Pricing Reality",
+    "year_client": "Year Two · Client 031",
+    "lead_html": "He had a GSA offer in hand. His rates were <em>22% below commercial.</em>",
+    "rows": [
+      {
+        "when": "Month 01",
+        "what_html": "<strong>Offer reviewed, pricing flagged</strong> <span class='light'>— rates 22% below his commercial market</span>"
+      },
+      {
+        "when": "Month 02–03",
+        "what_html": "<strong>Basis of Award explained</strong> <span class='light'>— every future commercial discount now has federal implications</span>"
+      },
+      {
+        "when": "Month 04+",
+        "what_html": "<strong>Rates renegotiated, policy rewritten</strong> <span class='light'>— two months added, years of margin erosion avoided</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE IS A LONG GAME. PRICE IT THAT WAY.",
+    "image_headline": "WRONG PRICE. LOCKED IN FOR YEARS.",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional man in suit seated at desk reviewing a contract, concerned expression. Right side: vertical timeline with 3 milestone icons labeled 'OFFER', 'AUDIT', 'FIXED' stepping upward with arrows. Bold headline top: 'WRONG PRICE. LOCKED IN FOR YEARS.' Highlighted callout box: 'BASIS OF AWARD'. Cream background, dark navy accents, green milestone markers. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
