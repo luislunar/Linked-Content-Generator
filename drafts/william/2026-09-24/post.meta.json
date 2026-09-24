@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "experiment_id": "",
+  "template_data": {
+    "section_label": "Pipeline Shift",
+    "case_num": "Case · 017",
+    "headline_html": "Same Schedule. <span class='accent'>Different results.</span>",
+    "before_items": [
+      "Waiting for RFQs to land",
+      "No Sources Sought responses",
+      "Zero agency visibility"
+    ],
+    "after_items": [
+      "Responding to Sources Sought",
+      "Attending agency industry days",
+      "Third award — month 18"
+    ],
+    "footer_left": "One Real Pattern",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "SAME SCHEDULE. DIFFERENT RESULTS.",
+  "image_prompt": "Split-panel infographic in forest green and amber palette (William theme, Sora typeface). Left panel dark navy, bold label 'THE WAIT' in amber at top, three short labels stacked: 'RFQ INBOX ONLY', 'NO OUTREACH', 'NO AWARDS' — each with a muted amber dash icon. Right panel light cream, bold label 'THE WORK' in forest green at top, three short labels stacked: 'SOURCES SOUGHT', 'INDUSTRY DAYS', 'AWARD MONTH 18' — each with a bright green checkmark. Center divider: illustrated professional man in blazer, looking confident, positioned between the two panels facing the 'THE WORK' side. Bold headline at top spanning both panels: 'SAME SCHEDULE. DIFFERENT RESULTS.' Bottom footer strip dark navy. Footer text: 'William Hill · GSA Focus'."
+}

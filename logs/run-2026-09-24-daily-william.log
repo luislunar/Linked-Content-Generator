@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of what was produced in `drafts/william/2026-09-24/`:
+
+**Post type:** `client_story` | **Topic:** `pipeline` | **Hook:** `story` | **Format:** bullets (→) | **Template:** `single-05-beforeafter` | **~232 words**
+
+**The post:** Two IT consultants, same NAICS code, same Schedule approval window, 18 months later — one at zero awards, one closing his third. The difference: Sources Sought responses, industry days attendance, and consistent agency touchpoints. Closing CTA asks what others do to stay visible before solicitations go live.
+
+**Key rotation decisions:**
+- `client_story` avoids the last 3 William types (inspiration, behind_scenes, tips_list) and Josh's `personal_story` today
+- `pipeline` is William's highest-priority topic (2x/week), last used 9 days ago, not used by Josh (pricing) or Jason (no draft today)
+- `story` hook avoids the consecutive-day block (truth was yesterday), distinct from Josh's truth hook today
+- Cream `single-05-beforeafter` contrasts yesterday's dark `single-01-bold`
