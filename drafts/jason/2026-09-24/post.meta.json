@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "myths",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Common Myth",
+    "headline_html": "ZERO FEDERAL<br>CONTRACTS?<br><span class='accent'>STILL QUALIFY.</span>",
+    "sub": "GSA Schedules run on commercial past performance — not federal awards. Your invoices are the proof.",
+    "issue": "Issue 031"
+  },
+  "image_headline": "ZERO FEDERAL CONTRACTS? STILL QUALIFY.",
+  "image_prompt": "Split-panel infographic. Carbon/charcoal background frame, Space Grotesk typeface. Left panel dark navy, bold label 'THE MYTH' in white at top with red X icon. Three short myth labels stacked in muted grey (2-3 words each): 'NEED GOV HISTORY', 'NEED CPARS SCORES', 'NEED FEDERAL CLIENTS'. Right panel cyan-tinted light background, bold label 'THE REALITY' in dark navy at top with green checkmark icon. Three short reality labels stacked in dark navy: 'COMMERCIAL INVOICES', '2 YEARS BUSINESS', 'PRIVATE TRACK RECORD'. Center: illustrated professional man in business casual attire, arms crossed, confident analytical expression, positioned between panels facing the 'THE REALITY' side. Bold headline at top spanning both panels: 'ZERO FEDERAL CONTRACTS? STILL QUALIFY.' Bottom strip dark charcoal. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
