@@ -1,0 +1,5 @@
+This post tests whether a `behind_scenes` format with a `blunt` hook on the `teaming` topic — centered on a specific internal tool (the teaming worksheet) — generates engagement from small business owners who feel stuck by the past-performance catch-22.
+
+The hook ("You don't have federal past performance. That's not the wall you think it is.") is designed to stop the scroll for owners who've self-disqualified. The reveal (a concrete three-column spreadsheet linking NAICS codes to active prime sub-hunters on GSA Advantage) gives them something specific and actionable, not a generic tip. Naming a real artifact ("teaming worksheet," "flow-down clauses") adds authenticity consistent with the `behind_scenes` type.
+
+Expected score movers: **reactions** from owners who identify with the past-performance block ("finally someone said it"), and **comments** from practitioners who have their own teaming war stories or want to know more about the worksheet format. The community question is deliberately practical — tripping on the prime search vs. the negotiation — to attract people at different stages.

@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **Josh · 2026-09-25**:
+
+---
+
+**Post type:** `behind_scenes` — not used in Josh's last 3 days (or any of the 5 recent logs)
+**Topic:** `teaming` — last used 6+ days ago; not in the 5-day avoid window
+**Hook:** `blunt` — distinct from yesterday's `truth`
+**Template:** `single-03-quote` (cream) — alternative for `behind_scenes`; avoids repeating `single-07-story` from 9/24
+**Word count:** ~162 words — under the 180-word ceiling triggered by last 3 days averaging 206 words
+
+**Central idea:** The specific internal tool Josh uses with zero-past-performance clients — a three-column "teaming worksheet" mapping the client's NAICS codes to active GSA Advantage primes who are sub-hunting. Reframes subcontracting as *how the pipeline starts*, not a consolation prize.
+
+**Files written:**
+- `drafts/2026-09-25/post.md`
+- `drafts/2026-09-25/post.meta.json`
+- `drafts/2026-09-25/hypothesis.md`
+- `logs/run-2026-09-25.md`

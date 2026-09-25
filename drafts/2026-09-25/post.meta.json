@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "teaming",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Teaming",
+    "quote_html": "Sub agreements don't start with paperwork. <em>They start with a spreadsheet.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes"
+  },
+  "image_headline": "THE WORKSHEET THAT STARTS THE PIPELINE",
+  "image_prompt": "Infographic story layout. Dark navy left panel, bold label 'THE WORKSHEET' above an illustrated professional reviewing a laptop with a three-column spreadsheet. Light cream right panel, three short column headers stacked vertically: 'MY SKILLS', 'PRIME NEEDS', 'OVERLAP' — each with a 2-word entry and a green checkmark at the overlap row. Bold headline top: 'THE WORKSHEET THAT STARTS THE PIPELINE'. One highlighted callout box, dark navy: 'TEAMING = FIRST INVOICE'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
