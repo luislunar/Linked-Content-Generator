@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for Jason today:
+
+---
+
+**2026-09-25 — Jason's post**
+
+- **post_type:** `client_story` (234 words — within 200-300 range)
+- **topic:** `vehicles` (priority topic for Jason, unused in last 5 days, not touched by Josh/William today)
+- **hook_pattern:** `checklist` — "Contract vehicle health check: here's what most people miss." Fresh for Jason; distinct from Josh's `blunt` and William's `truth` today
+- **template:** `single-05-beforeafter` (cream bg — contrast after recent dark-card posts)
+- **format:** `comparison`
+
+**Uniqueness checks passed:**
+- Josh today: `behind_scenes` / `teaming` / `blunt` — no conflicts
+- William today: `hot_take` / `gsa_basics` / `truth` — no conflicts
+- Jason's last 3 types (`hot_take`, `tips_list`, `milestone`) — none repeated
+
+**The angle:** A prospect spent 14 months waiting on SEWP V while a competitor got GSA MAS approved and closed their first federal award. Three decision filters (category, timeline, certifications) that Jason walks prospects through on calls. Closes with a timeline-specific community question designed to surface real vehicle decisions in comments.

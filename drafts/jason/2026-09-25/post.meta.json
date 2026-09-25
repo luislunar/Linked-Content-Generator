@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "vehicles",
+  "hook_pattern": "checklist",
+  "format": "comparison",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Vehicle Reality Check",
+    "case_num": "Case · 043",
+    "headline_html": "What switching to the <span class='accent'>right vehicle</span> actually looks like.",
+    "before_items": [
+      "Chasing SEWP V for 14 months",
+      "No federal revenue in pipeline",
+      "Missed two fiscal year cycles"
+    ],
+    "after_items": [
+      "MAS approved in 9 months",
+      "First federal award closed",
+      "Set-asides now accessible"
+    ],
+    "footer_left": "One Real Shift",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "WRONG VEHICLE, WRONG YEAR",
+  "image_prompt": "Split-panel before/after infographic. Left panel dark navy, bold label 'WRONG VEHICLE' at top with red X icon. Three short stacked labels below with red X markers: 'SEWP V', '14 MONTHS', 'ZERO REVENUE'. Right panel cream/white, bold label 'RIGHT VEHICLE' at top with green checkmark icon. Three short stacked labels with green checkmarks: 'MAS APPROVED', '9 MONTHS', 'FIRST AWARD'. Center: large right-pointing arrow between panels. Illustrated professional man in business casual standing on the right side, expression confident and forward-facing. Bold headline across top: 'WRONG VEHICLE, WRONG YEAR'. Bottom dark navy banner: 'TIMELINE DECIDES EVERYTHING'. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
