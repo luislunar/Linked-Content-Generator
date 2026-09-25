@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Three files written to `drafts/william/2026-09-25/`. Here's what was produced:
+
+---
+
+**Post:** `hot_take` · `gsa_basics` · `truth` hook · 173 words
+
+The central insight: the GSA Schedule is a credential, not a pipeline — a distinction William hears landing on almost every first call. Prose opening + 3 `→` bullets (eligible ≠ visible) + prose close, which balances William's conversational warmth with feed scannability.
+
+**Rotation logic:**
+- post_type `hot_take`: not used in William's last 3 days (last: 09/16)
+- topic `gsa_basics`: William's 1x/week priority, last used 09/17 (8 days ago); not Josh's today (teaming) or Jason's (no draft)
+- hook `truth`: not consecutive — 09/24 was `story`, so no hard block; distinct from Josh's `blunt` today
+- template `single-01-bold` (forest-green+amber): dark-bg contrasts Josh's cream `single-03-quote` today ✓
+
+**CTA** targets a specific memory ("what did you assume before you learned how it actually works?") to surface two reply groups: prospects who recognize the misconception, and holders who validate it with their own story.

@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "GSA Reality Check",
+    "headline_html": "APPROVAL<br>IS THE<br><span class='accent'>STARTING LINE</span>",
+    "sub": "The Schedule makes you eligible. It doesn't make you visible — that part's still on you.",
+    "issue": "Issue 031"
+  },
+  "image_headline": "APPROVAL IS THE STARTING LINE",
+  "image_prompt": "Bold statement card layout. Dark navy background with a forest-green left accent border (William theme). Top-left small coral pill label: 'GSA REALITY CHECK'. Center: three bold stacked lines — 'APPROVAL', 'IS THE', 'STARTING LINE' — with 'STARTING LINE' in amber/gold accent color. Right side: illustrated professional man in business casual standing at a track starting line, one hand raised, pausing — expression thoughtful rather than triumphant. Bottom band in forest-green: short callout 'THE CREDENTIAL OPENS THE DOOR' in small white caps. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
