@@ -1,18 +1,20 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for **Josh · 2026-09-25**:
+Done. Here's the run summary:
 
 ---
 
-**Post type:** `behind_scenes` — not used in Josh's last 3 days (or any of the 5 recent logs)
-**Topic:** `teaming` — last used 6+ days ago; not in the 5-day avoid window
-**Hook:** `blunt` — distinct from yesterday's `truth`
-**Template:** `single-03-quote` (cream) — alternative for `behind_scenes`; avoids repeating `single-07-story` from 9/24
-**Word count:** ~162 words — under the 180-word ceiling triggered by last 3 days averaging 206 words
+**2026-09-25 daily run — Josh Ladick / GSA Focus**
 
-**Central idea:** The specific internal tool Josh uses with zero-past-performance clients — a three-column "teaming worksheet" mapping the client's NAICS codes to active GSA Advantage primes who are sub-hunting. Reframes subcontracting as *how the pipeline starts*, not a consolation prize.
+**Post type:** `tips_list`
+**Topic:** `compliance`
+**Hook:** `alert` — "FY2026 closes September 30. That's five days from now."
+**Template:** `single-06-checklist` (dark navy — feeds contrast after two consecutive cream cards)
+**Word count:** 219
 
-**Files written:**
-- `drafts/2026-09-25/post.md`
-- `drafts/2026-09-25/post.meta.json`
-- `drafts/2026-09-25/hypothesis.md`
-- `logs/run-2026-09-25.md`
+**The angle:** Federal FY2026 ends Sep 30. Agencies are obligating final budget right now. The post gives GSA Schedule holders a concrete 5-step sprint checklist (USAspending data pull → SAM RFQ scan → CO outreach → cap statement refresh → FY2027 targeting). For those without a Schedule yet, step 5 reframes the urgency as a research window. Closing line positions this as a "process problem, not a market problem" to drive comments from owners who've missed year-end before.
+
+**Rotation rationale:**
+- `tips_list` avoids the last 3 types (hot_take, personal_story, behind_scenes)
+- `compliance` is fresh — last 5 days covered gsa_basics, sam, pipeline, pricing, teaming
+- `alert` hook breaks the contrarian → truth → blunt sequence
+- Dark navy template breaks two consecutive cream cards in the feed

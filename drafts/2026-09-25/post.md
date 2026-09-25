@@ -1,11 +1,23 @@
-You don't have federal past performance. That's not the wall you think it is.
+FY2026 closes September 30.
 
-The document I use most with clients in exactly that situation isn't a capability statement. It's a teaming worksheet — a simple spreadsheet that maps their NAICS codes against active primes on GSA Advantage who are actively sub-hunting.
+That's five days from now.
 
-Three columns: what my client delivers, what the prime needs, where they overlap. That overlap is how you get your first federal invoice. That invoice is your past performance. Subcontracting is not a consolation prize — it's literally how the pipeline starts.
+Every year, federal agencies scramble to obligate what's left of their budget before the fiscal clock hits zero. Billions move in the final week. Most small businesses with a GSA Schedule miss it entirely.
 
-Sub agreements, flow-down clauses, NDA templates — the paperwork comes after. But it all starts with this spreadsheet. If you've been waiting to pursue the Schedule until you have federal history, you've had the sequence backwards the whole time.
+Here's what to act on before Tuesday:
 
-What part of teaming has tripped you up the most — finding the right prime, negotiating the teaming agreement, or something else?
+1. Pull your agency spend data. USAspending.gov shows exactly who bought from your NAICS code in Q4. That's your call sheet.
 
-#govcon #gsa #teaming #smallbusiness
+2. Scan SAM.gov for open RFQs expiring this week. Budget must be obligated by the 30th — some awards close in 48 hours.
+
+3. Call your contracting officer. Year-end is one of the few times a proactive reach-out actually lands well. They're trying to spend, not stall.
+
+4. Refresh your capability statement. Year-end buyers move fast. If it takes more than 10 seconds to understand what you do, you've already lost the review.
+
+5. If you don't have a Schedule yet, track which agencies and NAICS codes move the most money this week. That's your FY2027 targeting map.
+
+The federal fiscal year is the most predictable sales cycle in the world. If you're not inside the window, that's a process problem — not a market problem.
+
+Which of these are you already doing? Which one are you adding this week?
+
+#govcon #GSASchedule #FederalContracting #compliance #SmallBusiness

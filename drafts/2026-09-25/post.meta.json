@@ -1,17 +1,24 @@
 {
-  "post_type": "behind_scenes",
-  "topic": "teaming",
-  "hook_pattern": "blunt",
-  "format": "prose",
-  "template": "single-03-quote",
+  "post_type": "tips_list",
+  "topic": "compliance",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "section_label": "Field Note",
-    "index": "No. 029 · Teaming",
-    "quote_html": "Sub agreements don't start with paperwork. <em>They start with a spreadsheet.</em>",
-    "footer_left": "One Hard Truth",
-    "footer_right": "Weekly Field Notes"
+    "section_label": "Year-End Checklist",
+    "module": "Module 09 · FY Close",
+    "headline_html": "Five days left in <span class='accent'>FY2026.</span> Don't miss the flush.",
+    "items": [
+      { "title": "Pull your agency spend data", "sub": "USAspending.gov shows who bought from your NAICS this Q4" },
+      { "title": "Scan SAM.gov for open RFQs", "sub": "Budget must be obligated by Sep 30 — some close in 48 hrs" },
+      { "title": "Call your contracting officer", "sub": "Year-end is when a proactive call actually lands" },
+      { "title": "Refresh your capability statement", "sub": "Year-end buyers move fast — 10-second clarity or you're out" },
+      { "title": "Map your FY2027 targets now", "sub": "No Schedule yet? Track which NAICS moved the most money" }
+    ],
+    "footer_left": "FY2026 Closing Sprint",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FY2026 CLOSES IN FIVE DAYS",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: 'FY2026 CLOSES IN FIVE DAYS' with red countdown calendar icon. Left side: illustrated professional woman in blazer reviewing laptop screen, urgent posture. Right column: 5 checklist rows, each with a green checkmark and a short 2-3 word label: 'CHECK SPENDING', 'SCAN RFQS', 'CALL YOUR CO', 'UPDATE CAPSTAT', 'MAP FY27'. Bottom: dark navy banner, bold text 'WINDOW CLOSES SEP 30'. Footer text: 'Josh Ladick · GSA Focus'."
   },
-  "image_headline": "THE WORKSHEET THAT STARTS THE PIPELINE",
-  "image_prompt": "Infographic story layout. Dark navy left panel, bold label 'THE WORKSHEET' above an illustrated professional reviewing a laptop with a three-column spreadsheet. Light cream right panel, three short column headers stacked vertically: 'MY SKILLS', 'PRIME NEEDS', 'OVERLAP' — each with a 2-word entry and a green checkmark at the overlap row. Bold headline top: 'THE WORKSHEET THAT STARTS THE PIPELINE'. One highlighted callout box, dark navy: 'TEAMING = FIRST INVOICE'. Footer text: 'Josh Ladick · GSA Focus'.",
   "experiment_id": null
 }
