@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Three files written to `drafts/2026-09-26/` and the run log appended.
+
+**What was produced:**
+
+- **Type:** `tips_list` — not used in 3 days, breaks the personal_story → behind_scenes streak
+- **Topic:** `sam` — not touched in the last 5 days, high-urgency subject for the ICP
+- **Hook:** `alert` — "Your SAM.gov registration is silently working against you" (not blunt or truth, both used recently)
+- **Template:** `single-06-checklist` (dark navy) — corrects the color contrast after two consecutive cream templates
+- **Format:** numbered items, no `→` bullets — varies from recent posts
+- **Word count:** ~159 words — under 180 as required (last two posts averaged ~202)
+- **Card:** 5 items mapping directly to the checklist template, each with a short sub-description of the consequence
+- **CTA:** "When did you last log into SAM.gov and do a full audit? Be honest. 😅" — specific, invites honest self-reporting, no lead magnet

@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "image_headline": "YOUR SAM IS WORKING AGAINST YOU",
+  "image_prompt": "Infographic alert layout. Bold warning headline top: 'YOUR SAM IS WORKING AGAINST YOU' with caution icon. Left column: illustrated professional woman in blazer standing at laptop, expression of concern. Right column: 5 checklist rows, each with a green checkmark and a 2-3 word label: 'NAICS Codes', 'POC Info', 'Exclusions Check', 'CAGE Code', 'Renewal Date'. Bottom: dark navy banner with short callout 'CHECK YOURS TODAY'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "template_data": {
+    "section_label": "SAM.gov Audit",
+    "module": "Module 05 · Registration",
+    "headline_html": "Five things vendors <span class='accent'>forget</span> to update in SAM.",
+    "items": [
+      { "title": "NAICS codes", "sub": "Wrong codes exclude you from solicitation searches entirely" },
+      { "title": "Point of contact info", "sub": "Dead phone = Contracting Officer moves on, fast" },
+      { "title": "Exclusions check", "sub": "Entity changes trigger re-verification most vendors miss" },
+      { "title": "CAGE code alignment", "sub": "Address mismatches delay payments even after award" },
+      { "title": "Annual renewal date", "sub": "Miss it once — entity inactive, no grace period" }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1"
+  },
+  "experiment_id": null
+}
