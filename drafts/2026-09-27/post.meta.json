@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "compliance",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Compliance Audit",
+    "module": "Module 05 · Schedule Maintenance",
+    "headline_html": "Five compliance boxes <span class='accent'>most GSA holders skip.</span>",
+    "items": [
+      { "title": "Basis of Award review", "sub": "GSA rates must align with your current best commercial price" },
+      { "title": "SAM.gov registration current", "sub": "A lapsed registration freezes all federal payments instantly" },
+      { "title": "TAA compliance check", "sub": "Country-of-origin rules shift — verify offerings still qualify" },
+      { "title": "Quarterly sales reporting", "sub": "SSQ filings due every quarter — missed reports trigger penalties" },
+      { "title": "Open modifications cleared", "sub": "Idle pending mods signal an unmanaged contract to the CO" }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE COMPLIANCE BOXES MOST GSA HOLDERS SKIP",
+    "image_prompt": "Infographic alert layout. Dark navy background. Bold warning headline top: 'FIVE COMPLIANCE BOXES MOST GSA HOLDERS SKIP' with caution triangle icon. Left column: illustrated professional man in blazer holding a clipboard, reviewing a checklist with focused expression. Right column: 5 checklist rows each with a green checkmark icon and a 2-3 word label — 'BASIS OF AWARD', 'SAM REGISTRATION', 'TAA COMPLIANCE', 'SALES REPORTING', 'OPEN MODS'. Bottom dark navy banner with short callout: 'YOUR SCHEDULE IS A LIVING CONTRACT'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

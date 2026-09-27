@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-09-27**:
+
+**Post type:** `tips_list` · **Topic:** `compliance` · **Hook:** `question` · **Template:** `single-06-checklist` (dark navy)
+
+**Rotation rationale:**
+- Last 3 types (hot_take, personal_story, behind_scenes) were all off-limits → tips_list was fresh
+- Last 5 topics covered gsa_basics/sam/pipeline/pricing/teaming → compliance was the cleanest pick
+- Last 3 hooks were all statements → rules required a question or story opener today
+- Last 2 templates were both cream-bg (single-07-story) → single-06-checklist fixes the color contrast
+
+**Post angle:** A 5-item GSA Schedule compliance audit targeting the overlooked ICP segment — holders who have a Schedule but haven't actively managed it. Opens with a self-auditing question ("When did you last actually audit your GSA Schedule?"), runs through Basis of Award, SAM.gov expiration, TAA, quarterly SSQ reporting, and open mods, then closes with a specific community question about which item they're adding to their process this week.
+
+Files written:
+- `drafts/2026-09-27/post.md`
+- `drafts/2026-09-27/post.meta.json`
+- `drafts/2026-09-27/hypothesis.md`
+- `logs/run-2026-09-27.md`
