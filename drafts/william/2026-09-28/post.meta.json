@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Real Call · Sept 2026",
+    "lead_html": "Two years stuck on past performance. <em>One question reframed everything.</em>",
+    "rows": [
+      {
+        "when": "2 Years In",
+        "what_html": "<strong>Lost every RFQ on past performance</strong> <span class='light'>— clean SAM, right NAICS codes, zero federal wins</span>"
+      },
+      {
+        "when": "The Call",
+        "what_html": "<strong>\"Have you looked into teaming?\"</strong> <span class='light'>— partnering with a prime who already has the track record</span>"
+      },
+      {
+        "when": "The Reframe",
+        "what_html": "<strong>A new strategy, not a workaround</strong> <span class='light'>— the one door genuinely open for first-time federal entrants</span>"
+      }
+    ],
+    "closer": "THE DOOR WAS OPEN. THEY JUST NEEDED A PARTNER.",
+    "image_headline": "TWO YEARS. ONE QUESTION.",
+    "image_prompt": "Infographic story layout on cream background with forest-green and amber accents. Left side: illustrated timeline or journey path with three milestone icons labeled 'STUCK', 'TEAMED', 'WINNING'. Right side: illustrated male professional in casual blazer speaking on a phone call, expression engaged and curious. Bold headline top: 'TWO YEARS. ONE QUESTION.' Amber-accent callout bar at bottom with short label 'TEAMING OPENS DOORS'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

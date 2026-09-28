@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**Today's William post — 2026-09-28**
+
+| Field | Value |
+|---|---|
+| post_type | `personal_story` |
+| topic | `teaming` |
+| hook_pattern | `story` |
+| format | `story` (pure prose) |
+| template | `single-07-story` (cream+serif) |
+| word_count | 243 |
+
+**Rotation logic:**
+- **Topic:** `teaming` — William priority, last used 09/18 (10 days ago). Josh took `gsa_basics`; `pipeline` and `sam` are inside the 5-day window.
+- **Post type:** `personal_story` — out of rotation; last 3 were hot_take / client_story / inspiration (all blocked).
+- **Hook:** `story` — `truth` is blocked (consecutive with 09/25, the last post day). Opens with "I had a call last week..." — pure William field-observer voice, distinct from Josh's contrarian data-drop today.
+- **Format:** Prose (no bullets) — last 2 William posts were both bullets; variation is mandatory.
+- **Template:** `single-07-story` (cream) — contrasts Josh's dark navy `single-01-bold`.
+
+**Post arc:** IT services prospect, 2 years stuck on past performance → "Have you looked into teaming?" → booked follow-up. Closing CTA targets a specific memory ("what's the one thing you wish someone had told you before you signed?") to surface two high-value reply groups: experienced teaming practitioners and currently-stuck prospects.
