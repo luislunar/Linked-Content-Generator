@@ -1,17 +1,21 @@
-The federal market isn't the problem.
+Your SAM.gov registration might be quietly costing you contracts.
 
-$21.6 billion went to small businesses in Q2 2026 alone. Eight industries. One quarter. IT services, engineering, construction, consulting, R&D — companies your size winning federal work every single day.
+Not a dramatic failure — just a few stale fields that freeze awards, pause active payments, or make you invisible when agencies run vendor searches.
 
-The bottleneck is never the market.
+Five errors I see small businesses miss most often:
 
-It's the paperwork you haven't filed. The GSA Schedule you keep meaning to start. The SAM.gov registration that expired without anyone noticing. The pricing strategy you've never stress-tested against a federal contracting officer.
+1. **UEI / IRS name mismatch** — If your legal entity name in SAM doesn't match IRS records exactly, validation flags you and everything downstream stalls.
 
-I've seen this a hundred times: great companies, strong track records, real expertise — and zero infrastructure to capture federal work when the opportunity shows up. So the contract goes to a competitor who had the setup ready.
+2. **Stale NAICS codes** — Agencies filter by NAICS when searching for vendors. Outdated codes mean you don't show up.
 
-The question isn't "is the federal market big enough for my company?"
+3. **Expired registration** — SAM won't remind you. When it lapses, new awards stop and active contracts can pause.
 
-It's: "Are we positioned to compete when the door opens?"
+4. **Outdated ACH / banking info** — Wrong direct deposit details mean payment failures on contracts you've already won.
 
-What's the one thing still standing between you and your first federal win?
+5. **Unmonitored POC inbox** — RFQs, modifications, and CO outreach all land in the POC email. If no one's watching it, you're missing live opportunities.
 
-#govcon #gsa #smallbusiness #federalcontracting
+The fix is a 30-minute review, twice a year. Most businesses skip it because the registration "looks fine" on the surface.
+
+When did you last log into SAM and actually verify your details? Be honest. 😅
+
+#govcon #sam #smallbusiness #federalcontracting

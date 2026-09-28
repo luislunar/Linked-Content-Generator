@@ -1,16 +1,24 @@
 {
-  "post_type": "hot_take",
-  "topic": "gsa_basics",
-  "hook_pattern": "contrarian",
-  "format": "prose",
-  "template": "single-01-bold",
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "tag": "Market Reality",
-    "headline_html": "$21.6B<br>ONE QUARTER.<br><span class='accent'>ARE YOU READY?</span>",
-    "sub": "Small businesses took $21.6B in Q2 2026. The market isn't the bottleneck — your setup is. Source · USAspending.gov",
-    "issue": "Issue 031",
-    "image_headline": "$21.6B ONE QUARTER. ARE YOU READY?",
-    "image_prompt": "Alert-style infographic on dark navy background. Bold headline top: '$21.6B ONE QUARTER. ARE YOU READY?' Left panel: illustrated professional in suit reviewing documents at desk. Right panel: three stacked bold stat labels in white — '8 INDUSTRIES', '$21.6B', 'ONE QUARTER'. Bottom accent strip in green with short callout 'READY TO COMPETE?' Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "SAM.gov Errors",
+    "module": "Module 01 · Registration",
+    "headline_html": "Five SAM.gov errors that <span class='accent'>silently</span> freeze your contracts.",
+    "items": [
+      { "title": "UEI / IRS name mismatch", "sub": "Validation flags you when these don't align — everything stalls." },
+      { "title": "Stale NAICS codes", "sub": "Agencies filter by NAICS; wrong codes make you invisible." },
+      { "title": "Expired registration", "sub": "No reminder comes. New awards stop, active contracts can pause." },
+      { "title": "Outdated ACH / banking", "sub": "Wrong direct deposit info means payment failures on won contracts." },
+      { "title": "Unmonitored POC inbox", "sub": "RFQs and CO outreach land here — if no one's watching, you miss them." }
+    ],
+    "footer_left": "SAM.gov Health Check",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE SAM ERRORS. FIX THEM NOW.",
+    "image_prompt": "Infographic alert layout on dark navy background. Bold warning headline top: 'FIVE SAM ERRORS. FIX THEM NOW.' with yellow caution icon. Left column: illustrated professional woman in blazer holding clipboard, reviewing a laptop screen. Right column: 5 checklist rows, each with a red X icon and a short 2-3 word label — 'UEI MISMATCH', 'STALE NAICS', 'EXPIRED REG', 'WRONG BANKING', 'DEAD INBOX'. Bottom accent strip in coral: '30-MINUTE FIX'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

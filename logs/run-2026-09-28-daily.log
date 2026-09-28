@@ -1,21 +1,19 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was generated for **2026-09-28**:
+Done. Here's what was produced for **2026-09-28**:
 
 ---
 
-**post_type:** `hot_take` | **topic:** `gsa_basics` | **hook:** `contrarian` | **153 words**
+**Post type:** `tips_list` — breaks the hot_take / behind_scenes / personal_story streak  
+**Topic:** `sam` — not touched since at least 9/22  
+**Hook:** `alert` — distinct from recent contrarian / blunt / truth run  
+**Format:** numbered (1–5), switching away from the three recent prose posts  
+**Template:** `single-06-checklist` (dark navy card)  
+**Word count:** ~193 (within 150–280 range)
 
-**Rotation decisions:**
-- `hot_take` — not used in last 3 days (Sep 24: personal_story, Sep 25: behind_scenes)
-- `contrarian` hook — avoids `blunt` (Sep 25) and `truth` (Sep 24) repeats
-- 153 words — under 180 mandate (last 3-day avg was ~202 words)
-- `single-01-bold` dark navy template — correct first-choice for hot_take; no color constraint triggered
-- `gsa_basics` topic — teaming and pricing were used this week; gsa_basics is clear
+**The post** opens with a low-drama alert ("quietly costing you contracts"), lists 5 concrete SAM.gov registration errors with a short why-it-matters explanation for each, closes with a 30-minute fix framing, and ends with a "be honest 😅" CTA designed to pull out comment-section confessions.
 
-**Data angle:** Used the $21.6B Q2 2026 small-business figure from today's govcon digest. No other profile had a draft yet, so the figure is unique to this post. Source credit included in card sub-copy.
-
-**Files created:**
-- `drafts/2026-09-28/post.md`
-- `drafts/2026-09-28/post.meta.json`
-- `drafts/2026-09-28/hypothesis.md`
-- `logs/run-2026-09-28.md`
+**Files written:**
+- `drafts/2026-09-28/post.md` — the LinkedIn copy
+- `drafts/2026-09-28/post.meta.json` — type, template, all template_data fields including `image_headline` and `image_prompt`
+- `drafts/2026-09-28/hypothesis.md` — testing alert hook + tips_list format vs. recent prose streak
+- `logs/run-2026-09-28.md` — updated rotation record
