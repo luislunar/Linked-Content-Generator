@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "SAM Alert · Sept 2026",
+    "lead_html": "Active GSA Schedule. Real pipeline. <em>SAM expired 47 days ago.</em>",
+    "rows": [
+      {
+        "when": "Day of Discovery",
+        "what_html": "<strong>Payments frozen, new awards blocked</strong> <span class='light'>— the system doesn't warn you first</span>"
+      },
+      {
+        "when": "The Queue",
+        "what_html": "<strong>10–14 business days to reinstate</strong> <span class='light'>— while the CO moves to the next vendor</span>"
+      },
+      {
+        "when": "Root Cause",
+        "what_html": "<strong>Nobody owned the renewal date</strong> <span class='light'>— \"whoever set it up\" doesn't count</span>"
+      }
+    ],
+    "closer": "THE FIX IS FREE. THE TIMING NEVER IS.",
+    "image_headline": "SAM LAPSED. EVERYTHING FROZE.",
+    "image_prompt": "Alert-style infographic on dark charcoal background with cyan accent color. Bold headline top: 'SAM LAPSED. EVERYTHING FROZE.' Left side: illustrated male professional in blazer staring at a laptop with a tense expression. Right side: three stacked timeline rows — 'DAY OF DISCOVERY', 'THE QUEUE', 'ROOT CAUSE' — each row has a short 2-3 word status label and a red warning icon. Bottom accent strip in cyan with short callout label: 'WHO OWNS RENEWAL?' Typography: Space Grotesk. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

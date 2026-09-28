@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-09-28/`:
+
+**post.md** — `behind_scenes` / `sam` / `question` hook / 164 words (under 180 mandate)
+
+Opens with a direct question ("when did you last check your SAM.gov expiration date?") — required because Jason's last 3 hooks were all statements. Then walks through a real call pattern: company ready to submit, pulls SAM status, expired 47 days ago. Four `→` bullets on the immediate consequences, a punchy two-sentence close, and a specific CTA about ownership accountability ("does your team have a named person…").
+
+**Key rotation decisions:**
+- Post type: `behind_scenes` — `tips_list`/`hot_take`/`client_story` were the last 3 Jason types; `personal_story` taken by William today
+- Topic: `sam` — pricing/myths/vehicles/pipeline/certifications all blocked by 5-day rule; teaming/gsa_basics taken by other profiles today
+- Hook: `question` — cadence rule required it (3 consecutive statement-led posts); `contrarian` taken by Josh today
+- Template: `single-07-story` (cream bg) — safe after `single-01-bold` (dark) was Jason's 09-24 template
