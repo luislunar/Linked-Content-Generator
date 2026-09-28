@@ -1,0 +1,5 @@
+This draft tests a contrarian hook on a gsa_basics topic using real Q2 2026 federal spending data ($21.6B to small businesses in a single quarter). The format is pure prose — no bullets — to match the hot_take type's analytical, punchy tone.
+
+The hypothesis: leading with a hard market reality number (rather than a tip or myth) will stop the feed-scroll for ICP owners who've been paralyzed by doubt about whether federal contracting is "worth it." By reframing the question from "is the market big enough?" to "are we set up to compete?", the post shifts blame away from external uncertainty and toward actionable internal readiness — a reframe that typically earns both reactions (validation) and comments (experience-sharing about the specific gap holding them back).
+
+Expected movement: reactions from readers who feel seen, comments from people naming their actual bottleneck (SAM.gov lapse, no Schedule, pricing uncertainty). The community question is specific enough to surface real friction points rather than generic agreement.
