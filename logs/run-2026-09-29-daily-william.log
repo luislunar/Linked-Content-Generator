@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written for William Hill today (2026-09-29):
+
+---
+
+**Post type:** `inspiration` | **Topic:** `compliance` | **Hook:** `truth` | **Template:** `single-03-quote` (cream) | **154 words**
+
+**Why these choices:**
+- Last 3 William avg = 216 words → cadence rule forces under 180 today; inspiration (50–150 + 20% tolerance) fits cleanly at 154
+- Josh used tips_list/certifications/question (dark navy) → cream template contrasts in feed; compliance is untouched by anyone today
+- Story hook blocked (consecutive with yesterday); question blocked (Josh today) → truth is the only available preferred hook
+- Compliance last appeared in William's logs 7+ days ago, well outside the 5-day window
+- All four priority William topics (pipeline, sam, teaming, gsa_basics) are blocked by the 5-day rotation window
+
+**The post** opens with "nobody warns you on the approval call" — a direct mirror of what new holders experience. Three concrete obligations (IFF reporting, Price Reduction Clause, modification deadlines) give it utility without becoming a checklist. CTA asks for a specific memory (first compliance surprise), which tends to draw named, substantive replies.
