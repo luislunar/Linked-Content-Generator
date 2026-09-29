@@ -1,0 +1,11 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-09-29/`:
+
+**Post type:** `milestone` — last used 7 days ago, clear of today's Josh (`tips_list`) and William (`inspiration`)
+**Topic:** `pricing` — last used by Jason 6 days ago; clear of Josh (`certifications`) and William (`compliance`)
+**Hook:** `blunt` — opens with the exact objection Jason hears on calls, then pivots to data
+**Template:** `single-04-stat` — driven by the USAspending.gov Q2 2026 figure ($4.6B in computer-related services to small businesses), which kills the "we can't compete on price" myth Jason's ICP throws out constantly
+
+**The three pricing errors in the post** are the core mechanism: Basis of Award ceiling traps, missing labor category mapping, and IFF miscalculation — all things a sales rep would catch when reviewing proposals, all scoped correctly to Jason's voice (not founder-level claims).
+
+**Card:** Dark navy `single-04-stat` breaks the last two cream-background posts from Jason's feed. `Source · USAspending.gov` credited on card per data rules.
