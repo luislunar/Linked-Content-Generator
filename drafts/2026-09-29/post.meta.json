@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Certifications",
+    "module": "Module 05 · Set-Asides",
+    "headline_html": "Five certifications that <span class='accent'>unlock</span> set-aside contracts.",
+    "items": [
+      { "title": "8(a) Business Development", "sub": "Sole-source awards, no competition required" },
+      { "title": "WOSB / EDWOSB", "sub": "Women-owned set-asides, two eligibility tiers" },
+      { "title": "SDVOSB / VOSB", "sub": "Veteran set-asides — VetCert, not SAM.gov" },
+      { "title": "HUBZone", "sub": "Zone-based preference, 35% employee rule" },
+      { "title": "SBA Small Business (default)", "sub": "Verify NAICS codes — size standards matter" }
+    ],
+    "footer_left": "Know Your Edge",
+    "footer_right": "Cert Guide",
+    "image_headline": "FIVE CERTIFICATIONS THAT UNLOCK SET-ASIDE CONTRACTS",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline top: 'FIVE CERTIFICATIONS THAT UNLOCK SET-ASIDE CONTRACTS'. Left side: illustrated professional woman in blazer reviewing documents on a laptop, confident posture. Right column: 5 checklist rows, each with a green checkmark icon and a short 2-3 word label: '8(a) PROGRAM', 'WOSB/EDWOSB', 'SDVOSB/VOSB', 'HUBZONE', 'SBA DEFAULT'. Bottom: accent-color banner with short callout 'KNOW YOUR EDGE'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-09-29**:
+
+---
+
+**Post type:** `tips_list` — breaks the recent hot_take/behind_scenes streak; numbered format after two consecutive prose posts.
+
+**Topic:** `certifications` — not used in recent logs; strong ICP fit (owners who don't know which set-asides they qualify for).
+
+**Hook:** `question` pattern — "Before you submit another proposal without a certification advantage — read this." Avoids yesterday's `contrarian` and Sep 25's `blunt`.
+
+**Template:** `single-06-checklist` (dark navy) — appropriate for a 5-item eligibility breakdown; no color-contrast conflict (last 2 were dark + cream).
+
+**The 5 items:** 8(a), WOSB/EDWOSB, SDVOSB/VOSB, HUBZone, SBA default — each with a sharp 1-line gotcha (VetCert vs SAM.gov, 35% employee rule, NAICS size standards).
+
+**Word count:** ~246 (within 150–280 range for tips_list).
+
+**Files created:**
+- `drafts/2026-09-29/post.md`
+- `drafts/2026-09-29/post.meta.json`
+- `drafts/2026-09-29/hypothesis.md`
+- `logs/run-2026-09-29.md`
