@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's a summary of today's draft:
+
+---
+
+**Post: 2026-09-30 — William Hill**
+
+**Type:** `tips_list` | **Topic:** `certifications` | **Hook:** `question`  
+**Template:** `single-06-checklist` (dark forest green + amber) | **Words:** ~265
+
+**Why these choices:**
+- All 4 of William's priority topics (pipeline, sam, teaming, gsa_basics) are blocked within the 5-run-day window. Certifications was last used on 09/22 — one run day outside the window.
+- `tips_list` clears William's 3-day post_type block and differs from Josh's `client_story` today.
+- `question` hook avoids the consecutive `truth` ban from 09/29 and contrasts Josh's `story` hook.
+- Dark-navy checklist card contrasts Josh's cream `single-05-beforeafter` in today's feed.
+
+**The post's core tension:** The most common first-call misconception William encounters is that a certification (8(a), WOSB, SDVOSB, HUBZone) is required before pursuing the GSA Schedule. The "accelerants, not prerequisites" reframe resolves that belief, then the 5 checklist items answer the natural follow-ups — commitment of 8(a), NAICS specificity of WOSB/SDVOSB, zone-presence requirements of HUBZone, and the parallel-track timing insight.

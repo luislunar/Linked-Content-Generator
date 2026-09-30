@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Cert Reality Check",
+    "module": "Module 02 · Certifications",
+    "headline_html": "Five things owners <span class='accent'>get wrong</span> about certs.",
+    "items": [
+      {
+        "title": "No cert required for the Schedule",
+        "sub": "GSA is open to any qualified small business — certifications are accelerants, not prerequisites"
+      },
+      {
+        "title": "8(a) is a program, not a badge",
+        "sub": "Development track, reporting obligations, eight-year sunset — know what you're committing to"
+      },
+      {
+        "title": "WOSB and SDVOSB are NAICS-specific",
+        "sub": "Set-asides only apply in codes where those firms are underrepresented — check the list first"
+      },
+      {
+        "title": "HUBZone needs ongoing physical presence",
+        "sub": "Principal office and 35% of employees must stay in a designated zone; maps can redraw"
+      },
+      {
+        "title": "No required order — run both in parallel",
+        "sub": "Cert and Schedule in parallel typically saves six months over running them back-to-back"
+      }
+    ],
+    "footer_left": "Cert Reality Check",
+    "footer_right": "Field Guide Vol. 02",
+    "image_headline": "FIVE CERT MYTHS CLEARED UP",
+    "image_prompt": "Infographic checklist layout. Dark forest green background throughout. Bold white headline at top: 'FIVE CERT MYTHS CLEARED UP' with an amber certification badge icon to the left. Left third: illustrated professional man in blazer and button-down shirt, arms relaxed at sides, confident expression, standing in front of a minimal line-art government building silhouette. Right two-thirds: five checklist rows against dark forest green, each with an amber diamond-check icon and a short 2-3 word white uppercase label: 'NO CERT NEEDED', '8(A) = PROGRAM', 'NAICS CODES MATTER', 'ZONE PRESENCE', 'PARALLEL TRACK'. Bottom band: dark amber background with short callout phrase in forest green uppercase: 'CERTS UNLOCK DOORS. THE SCHEDULE OPENS THEM.' Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
