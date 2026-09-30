@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "11-Month Shift",
+    "case_num": "Case · 032",
+    "headline_html": "What changes when you <span class='accent'>work the pipeline.</span>",
+    "before_items": [
+      "No federal revenue stream",
+      "Zero contracting officer contact",
+      "Skipping Sources Sought notices"
+    ],
+    "after_items": [
+      "First award, month eleven",
+      "COs engaged before RFQs drop",
+      "Pipeline full, no cold outreach"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "PIPELINE STARTS BEFORE YOU NEED IT",
+    "image_prompt": "Infographic before/after story layout. Left panel light cream, bold label 'BEFORE' with three short red-tagged labels: 'NO REVENUE', 'NO CO CONTACT', 'SKIPPING NOTICES'. Right panel white, bold label 'AFTER' with three short green-checkmark labels: 'FIRST AWARD', 'COs ENGAGED', 'PIPELINE FULL'. Center dividing line with upward arrow showing progression. Top: illustrated professional woman in blazer moving from left to right, confident stride. Bold headline top: 'PIPELINE STARTS BEFORE YOU NEED IT'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
