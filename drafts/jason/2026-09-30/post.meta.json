@@ -1,0 +1,17 @@
+{
+  "post_type": "personal_story",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 018 · Myths",
+    "quote_html": "The past-performance wall isn't as solid as it looks. <em>You build the record by starting.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "PAST PERFORMANCE IS NOT A WALL",
+    "image_prompt": "Pull-quote infographic layout. Dark charcoal background throughout, Space Grotesk typography, cyan accent color. Bold cyan headline at top: 'PAST PERFORMANCE IS NOT A WALL' with thin cyan underline. Left third: illustrated professional man in business-casual blazer, minimal clean line-art style, confident standing posture against charcoal background. Right two-thirds: large centered white serif pull-quote text, two lines, short punchy phrase. Below quote: bold cyan short uppercase label 'TEAMING BUILDS THE RECORD'. Bottom band: slightly lighter charcoal strip with short uppercase white callout text. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

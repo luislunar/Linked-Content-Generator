@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today (`drafts/jason/2026-09-30/`):
+
+**post_type:** `personal_story` — chosen to complete the 5-type variety rule for the 7-day window (week had hot_take, client_story, behind_scenes, milestone; needed a 5th)
+
+**topic:** `myths` — Jason's 2×/week priority; not used since 09-24; not used by Josh (pipeline) or William (certifications) today
+
+**hook_pattern:** `myth-bust` — opens with the verbatim objection ("We don't have federal past performance."), then dismantles it with teaming mechanics and a real call pattern
+
+**template:** `single-03-quote` (cream + serif) — alternates from yesterday's dark `single-04-stat`; pull quote: *"The past-performance wall isn't as solid as it looks. You build the record by starting."*
+
+**format:** narrative story, 227 words, no bullets — contrasts with the last two posts which were both bullets-on-stat formats
+
+**Community question:** asks readers to name the objection that almost stopped them and what changed — designed to generate personal reversal stories in comments (the 30× engagement weight factor).
