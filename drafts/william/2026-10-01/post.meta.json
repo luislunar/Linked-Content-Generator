@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Month 9 · Discovery Call",
+    "lead_html": "Nine months in. No award. One <em>silent</em> expiration.",
+    "rows": [
+      { "when": "Month 01", "what_html": "<strong>Application submitted</strong> <span class='light'>— ready to wait it out</span>" },
+      { "when": "Month 06", "what_html": "<strong>SAM registration lapsed</strong> <span class='light'>— no alert, no hold notice</span>" },
+      { "when": "Month 09", "what_html": "<strong>Pipeline frozen</strong> <span class='light'>— caught it on a discovery call</span>" }
+    ],
+    "closer": "ONE RENEWAL. ONE DAY. PIPELINE MOVING AGAIN."
+  },
+  "image_headline": "SAM EXPIRED. NOBODY NOTICED.",
+  "image_prompt": "Infographic story layout on cream background. Bold headline at top: 'SAM EXPIRED. NOBODY NOTICED.' Vertical three-row timeline on left side, each row with a small circular milestone icon. Row 1 label: 'MONTH 01 — SUBMITTED' with green checkmark. Row 2 label: 'MONTH 06 — LAPSED' with red alert icon. Row 3 label: 'MONTH 09 — FROZEN' with amber pause icon. Right side: illustrated professional man in business casual at a desk, looking at a laptop with a concerned expression. One forest-green callout box in lower right with short phrase: 'CHECK YOUR DATE'. Thin amber accent stripe along left margin. Thin dark navy divider line above footer. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}

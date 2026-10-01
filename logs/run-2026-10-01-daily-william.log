@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's today's summary:
+
+**2026-10-01 — William Hill**
+
+- **Post type:** `behind_scenes` — fits the hard ≤180 word cadence requirement (last 3 avg: 220.7)
+- **Topic:** `sam` — last William use was 09/23 (6 run days ago, outside the 5-run-day block); Josh used `myths`, Jason no draft
+- **Hook:** `story` — "I had a call last week with an IT services company" — pure William observational voice; consecutive-question block ruled out `question`, Josh's `truth` ruled that out too
+- **Template:** `single-07-story` — timeline rows map cleanly to Month 01 (submitted) / Month 06 (lapsed silently) / Month 09 (frozen, caught on discovery call); cream layout contrasts Josh's cream `single-03-quote` with a different structure
+- **Word count:** 171 (under the 180 cadence ceiling)
+- **No data figure used** — $21.6B already taken by Josh today; the story is stronger as a pure call observation
+
+The post tells the SAM expiration story from William's perspective: nine months into a Schedule application, the pipeline had silently frozen at month six because the SAM registration lapsed with no alert. One day to renew; application moved within weeks. The closing question ("how long had it been sitting?") invites a specific numeric reply — lower friction for comments than open-ended opinion prompts.
