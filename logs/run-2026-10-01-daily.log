@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's run:
+
+**Post type:** `inspiration` — picked to satisfy the under-180-word mandate (avg last 3 days was 203 words) and because none of the last 3 days used it.
+
+**Topic/angle:** `myths` — busting the myth that the federal market is inaccessible to small businesses, grounded in the fresh Q2 2026 USAspending.gov data ($21.6B to small businesses in a single quarter).
+
+**Hook:** `truth` — "Nobody talks about the actual size of what's available."
+
+**Template:** `single-03-quote` (cream/serif) — fits inspiration type, provides color contrast from the recent dark-bg templates.
+
+**Key decisions:**
+- Used the fresh govcon data (no other profile used it today)
+- Sourced inline in the post body since `single-03-quote` has no dedicated source field
+- Community question targets emotional hesitation ("what's made it feel out of reach?") to maximize comments
+
+Files written to `drafts/2026-10-01/` and run logged.
