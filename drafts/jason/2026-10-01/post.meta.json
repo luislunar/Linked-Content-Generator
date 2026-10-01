@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Cert Reality Check",
+    "module": "Module 05 · Certifications",
+    "headline_html": "Not all certs are <span class='accent'>created equal.</span>",
+    "items": [
+      { "title": "HUBZone", "sub": "Real set-asides — if your ZIP code qualifies" },
+      { "title": "SDVOSB / VOSB", "sub": "DoD & VA lanes — $3.6B to SBs at VA alone Q2 2026" },
+      { "title": "WOSB / EDWOSB", "sub": "113+ NAICS set-asides — most eligible firms don't apply" },
+      { "title": "8(a)", "sub": "Nine-year runway — mentorship value most never use" },
+      { "title": "Small Business only", "sub": "A fallback, not a strategy — don't build on it" }
+    ],
+    "footer_left": "Cert Reality Check",
+    "footer_right": "Field Notes · Jason"
+  },
+  "image_headline": "WHICH CERT MOVES THE NEEDLE",
+  "image_prompt": "Infographic checklist layout on carbon-black background with cyan accent lines. Bold headline at top: 'WHICH CERT MOVES THE NEEDLE'. Five-row checklist grid, each row with a square icon and a short 2-3 word label: 'HUBZONE', 'SDVOSB / VOSB', 'WOSB / EDWOSB', '8(A)', 'SMALL BUSINESS ONLY'. First four rows have green checkmarks; last row has an amber caution icon. Right side: illustrated professional man in business casual reviewing a document on a tablet, focused expression. One highlighted callout box in dark charcoal with two short contrasting labels: 'WRONG QUESTION' in muted gray, 'RIGHT AGENCY' in cyan. Thin cyan accent stripe along left edge of checklist rows. Thin charcoal divider line above footer. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
