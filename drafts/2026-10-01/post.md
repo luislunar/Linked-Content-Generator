@@ -1,15 +1,15 @@
-Nobody talks about the actual size of what's available.
+Your GSA price list isn't just a number. It's a legal ceiling.
 
-Small businesses received $21.6 billion in federal contract awards in a single quarter — IT, engineering, construction, professional services. Industries that look exactly like yours.
+Most businesses spend months on the application and two hours on pricing. That's backwards.
 
-The federal government isn't avoiding small businesses. It's legally required to include them.
+When GSA negotiates your rates, they look at what you've charged your Most Favored Customer — your best commercial client. If your pricing has been inconsistent, or you've given undocumented discounts over the years, you walk into that negotiation with weak leverage.
 
-The barrier isn't the market. It's the entry process — the registrations, the pricing negotiation, the compliance paperwork that most small businesses never finish.
+Approve prices too low and you can't compete on federal RFQs. Go in without a clear Basis of Award narrative and GSA keeps pushing back — sometimes for months.
 
-That's the problem worth solving.
+I've seen companies spend 90 days in pricing review because they couldn't explain a discount they gave one client two years earlier. That documentation should have existed before they ever filed.
 
-*(Source · USAspending.gov — Q2 2026 small-business awards)*
+The application is the paperwork. The pricing negotiation is where you actually win or lose.
 
-What's the one thing that's made federal contracting feel out of reach for your business?
+What's one thing about GSA pricing you wish someone had warned you about before you started?
 
-#govcon #gsa #federalcontracting #smallbusiness
+#govcon #gsa #federalcontracting #pricing

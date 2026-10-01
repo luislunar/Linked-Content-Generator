@@ -1,17 +1,16 @@
 {
-  "post_type": "inspiration",
-  "topic": "myths",
-  "hook_pattern": "truth",
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
   "format": "prose",
-  "template": "single-03-quote",
+  "template": "single-01-bold",
   "template_data": {
-    "section_label": "Field Note",
-    "index": "No. 031 · Myths",
-    "quote_html": "The government isn't avoiding you. You're leaving <em>$21.6 billion</em> on the table.",
-    "footer_left": "One Hard Truth",
-    "footer_right": "Weekly Field Notes"
+    "tag": "Pricing Reality",
+    "headline_html": "YOUR GSA PRICE<br>IS A LEGAL<br><span class='accent'>CEILING.</span>",
+    "sub": "Negotiate it wrong in month one and you'll live with that ceiling for the life of your contract.",
+    "issue": "Issue 032"
   },
-  "image_headline": "THE DOOR IS OPEN. ARE YOU READY?",
-  "image_prompt": "Cream background infographic. Serif pull-quote centered in dark navy: '$21.6B TO SMALL BUSINESSES' with green accent underline. Top bold label: 'THE DOOR IS OPEN. ARE YOU READY?' Left side: illustrated professional man in business casual at a laptop, confident posture. Right column: three short labels in dark ink — 'ONE QUARTER', 'REAL BUDGETS', 'YOUR INDUSTRY'. Thin navy divider line above footer. Footer text: 'Josh Ladick · GSA Focus'.",
+  "image_headline": "YOUR GSA PRICE IS A LEGAL CEILING.",
+  "image_prompt": "Bold statement infographic. Dark navy background. Top coral pill label: 'PRICING REALITY'. Giant centered headline in three stacked lines: 'YOUR GSA PRICE / IS A LEGAL / CEILING' with 'CEILING' in coral accent. Left side: illustrated professional man in business suit reviewing a pricing binder at a desk, cautious expression. Right side: two callout boxes — top in muted red with short label 'WRONG PRICE', bottom in white outline with label 'BOA NARRATIVE'. Single divider line above footer. Footer text: 'Josh Ladick · GSA Focus'.",
   "experiment_id": null
 }

@@ -1,17 +1,15 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the summary of today's run:
+Done. Here's what was generated for **2026-10-01**:
 
-**Post type:** `inspiration` — picked to satisfy the under-180-word mandate (avg last 3 days was 203 words) and because none of the last 3 days used it.
+---
 
-**Topic/angle:** `myths` — busting the myth that the federal market is inaccessible to small businesses, grounded in the fresh Q2 2026 USAspending.gov data ($21.6B to small businesses in a single quarter).
+**Post type:** `hot_take` · **Topic:** `pricing` · **Hook:** `blunt` · **Template:** `single-01-bold` (dark navy)
 
-**Hook:** `truth` — "Nobody talks about the actual size of what's available."
+**The post** opens with a hard statement — "Your GSA price list isn't just a number. It's a legal ceiling." — then walks through why the pricing negotiation (Basis of Award, Most Favored Customer documentation) is where most companies actually win or lose, not the application itself. Closes with a specific community question about pricing surprises. ~161 words, prose only (no bullets, per `hot_take` rules).
 
-**Template:** `single-03-quote` (cream/serif) — fits inspiration type, provides color contrast from the recent dark-bg templates.
-
-**Key decisions:**
-- Used the fresh govcon data (no other profile used it today)
-- Sourced inline in the post body since `single-03-quote` has no dedicated source field
-- Community question targets emotional hesitation ("what's made it feel out of reach?") to maximize comments
-
-Files written to `drafts/2026-10-01/` and run logged.
+**Rotation rationale:**
+- `hot_take` not used in last 3 days ✓
+- `pricing` not used in last 5 days ✓
+- `blunt` hook not used since 09-25 ✓
+- `single-01-bold` (dark navy) contrasts with yesterday's `single-03-quote` (cream) ✓
+- No stat figures (today's earlier post already used the $21.6B data point) ✓
