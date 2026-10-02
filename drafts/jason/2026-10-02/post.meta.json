@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Vehicles Reality Check",
+    "headline_html": "GSA MAS<br>IS THE<br><span class='accent'>ON-RAMP.</span>",
+    "sub": "You don't merge onto the highway from a parking lot. Build your federal track record first.",
+    "issue": "Issue 023",
+    "image_headline": "ON-RAMP BEFORE HIGHWAY. EVERY TIME.",
+    "image_prompt": "Split-panel infographic. Dark navy background throughout. Bold headline at top: 'ON-RAMP BEFORE HIGHWAY. EVERY TIME.' Left panel labeled 'WRONG ORDER' in red with X icon — illustrated professional in blazer bypassing lower ramp, pointing at highway sign marked 'OASIS+'. Right panel labeled 'RIGHT ORDER' in cyan with checkmark — illustrated professional walking up an entry ramp labeled 'GSA MAS' with an upward arrow toward 'OASIS+' above. Center vertical divider line. Short callout strip: 'BUILD TRACK RECORD FIRST'. Bottom dark banner with single line of detail. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
