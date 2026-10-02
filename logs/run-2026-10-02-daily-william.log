@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of what was produced in `drafts/william/2026-10-02/`:
+
+---
+
+**post.md** — `client_story` / `pipeline` / `question` hook / 206 words
+
+Opens with a verbatim first-call question ("we got the Schedule eight months ago — why aren't we seeing work?"), then walks through an IT services owner's three-step pipeline shift: sources sought monitoring, agency industry days, recompete tracking. Closes with the honest truth — no award yet, but a real pipeline — and the "credential vs. pipeline" one-liner as the anchor statement.
+
+**post.meta.json** — `single-05-beforeafter` (cream + navy split)
+
+Before: No federal revenue line / Waiting for RFQs to land / No pipeline structure  
+After: Active sources sought radar / Two industry days attended / Three recompetes mapped
+
+**hypothesis.md** — tests whether a specific, honest transformation story (named actions, no-award-yet close) outperforms tips lists on reactions and comments from passive Schedule holders.
+
+**Rotation logic:** `pipeline` priority topic cleared the 5-run-day window (last used 09-24); `client_story` not in last 3 William types; `question` hook not consecutive (10-01 was `story`); `single-05-beforeafter` template unused in last 5 logs; cream layout contrasts Josh's dark `single-06-checklist` today.

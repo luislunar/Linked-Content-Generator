@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "8-Month Shift",
+    "case_num": "Case · 031",
+    "headline_html": "What <span class='accent'>actually</span> moves after you get your Schedule.",
+    "before_items": [
+      "No federal revenue line",
+      "Waiting for RFQs to land",
+      "No pipeline structure"
+    ],
+    "after_items": [
+      "Active sources sought radar",
+      "Two industry days attended",
+      "Three recompetes mapped"
+    ],
+    "footer_left": "One Real Shift",
+    "footer_right": "Field Case Series",
+    "image_headline": "THE SCHEDULE IS THE CREDENTIAL",
+    "image_prompt": "Infographic before/after split layout. Left panel light cream, bold label 'BEFORE' in dark navy at top — three rows with red X icons and short 2-word labels: 'NO REVENUE', 'WAITING MODE', 'NO PIPELINE'. Right panel forest-green background with amber accent text, bold label 'AFTER' at top — three rows with green checkmarks and short 2-3 word labels: 'SOURCES SOUGHT', 'INDUSTRY DAYS', 'RECOMPETES MAPPED'. Center vertical divider with illustrated professional woman in blazer stepping from left to right, holding a document folder. Bold headline across top: 'THE SCHEDULE IS THE CREDENTIAL'. Bottom amber accent stripe. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
