@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run for Josh:
+
+**Post type:** `tips_list` — blocked types (inspiration, client_story, hot_take) all clear; tips_list is the best structural fit for a certification breakdown.
+
+**Topic:** `certifications` — clear of the last 3 days (myths, pipeline, gsa_basics). The angle: certifications don't win contracts by themselves, your strategy does — then breaks down what each cert actually unlocks.
+
+**Hook:** `blunt` — "Your certification doesn't win contracts. Federal buyers aren't handing out work just because you checked a box." Chosen because truth/story/contrarian were used the last 3 days.
+
+**Template:** `single-06-checklist` (dark navy) — correct first-choice for tips_list, provides color contrast after two consecutive cream-bg posts (single-03-quote, single-05-beforeafter).
+
+**Files written to `drafts/2026-10-02/`:**
+- `post.md` — ~220 words, 5 numbered items (no `→`, per tips_list rules), dual-track community question
+- `post.meta.json` — full template_data with all 5 checklist items, image_headline, image_prompt
+- `hypothesis.md` — tests blunt hook + structured list on a frequently misunderstood topic

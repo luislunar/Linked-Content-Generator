@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Certifications Guide",
+    "module": "Module 05 · Certifications",
+    "headline_html": "Five certs. What each one <span class='accent'>actually</span> does.",
+    "items": [
+      {
+        "title": "8(a) Business Development",
+        "sub": "9 years of set-aside access, sole-source awards, and SBA mentoring — deepest entry ramp available."
+      },
+      {
+        "title": "WOSB / EDWOSB",
+        "sub": "Compete in 800+ NAICS codes restricted to women-owned firms. EDWOSB adds disadvantaged-business preference."
+      },
+      {
+        "title": "SDVOSB",
+        "sub": "VA set-asides and DoD preferences — one of the fastest-growing segments in the federal market."
+      },
+      {
+        "title": "HUBZone",
+        "sub": "Price evaluation preferences when your office and 35% of staff are in qualifying zones."
+      },
+      {
+        "title": "Mentor-Protégé Program",
+        "sub": "SBA-approved joint ventures with primes — pursue contracts too large to win alone."
+      }
+    ],
+    "footer_left": "Know Your Advantages",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE CERTS. ONE REAL STRATEGY.",
+    "image_prompt": "Infographic checklist layout. Dark navy background throughout. Bold headline at top: 'FIVE CERTS. ONE REAL STRATEGY.' Left side: illustrated professional man in blazer holding a federal contract document, confident stance. Right side: five checklist rows, each with a distinct colored icon and short 2-3 word label — '8(A)', 'WOSB', 'SDVOSB', 'HUBZONE', 'MENTOR-PROTÉGÉ'. Each row has a green checkmark. Bottom strip: light accent band with single short callout. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
