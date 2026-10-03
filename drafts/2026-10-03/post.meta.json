@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Behind the Deal",
+    "year_client": "Field Notes · Teaming",
+    "lead_html": "Two documents. One negotiation. <em>Most small businesses only read one.</em>",
+    "rows": [
+      {
+        "when": "Step 01",
+        "what_html": "<strong>Teaming agreement</strong> <span class='light'>— gets you in the door, not in the money</span>"
+      },
+      {
+        "when": "Step 02",
+        "what_html": "<strong>Workshare clause</strong> <span class='light'>— opens at 25%, push for 35–40%</span>"
+      },
+      {
+        "when": "Step 03",
+        "what_html": "<strong>Subcontract agreement</strong> <span class='light'>— scope, billing, and IP locked in here</span>"
+      }
+    ],
+    "closer": "KNOW WHAT YOU'RE SIGNING BEFORE YOU SIGN IT.",
+    "image_headline": "TWO DOCUMENTS. ONE NEGOTIATION.",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional man in blazer reviewing two stacked documents labeled 'TEAMING' and 'SUBCONTRACT.' Right side: three numbered step rows in dark navy boxes — '01 GET IN DOOR,' '02 WORKSHARE' highlighted in coral/accent, '03 LOCK IN TERMS.' Bold headline at top: 'TWO DOCUMENTS. ONE NEGOTIATION.' Minimal icons: handshake on step 01, dollar sign on step 02, lock icon on step 03. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

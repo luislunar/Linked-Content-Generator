@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for 2026-10-03:
+
+**Post type:** `behind_scenes` · **Topic:** `teaming` · **Hook:** `question` · **Template:** `single-07-story` (cream)
+
+**The angle:** Two documents, one negotiation — most small businesses only read the teaming agreement and miss the subcontract agreement where scope, billing, and IP actually get locked in. The workshare clause negotiation (25% opener → 35–40% target) gives the ICP a concrete number to walk in with.
+
+**Files written:**
+- `drafts/2026-10-03/post.md` — 155 words, pure prose, question hook
+- `drafts/2026-10-03/post.meta.json` — `single-07-story` template with 3-step rows and image prompt
+- `drafts/2026-10-03/hypothesis.md` — testing question hook + behind_scenes for comment lift
+- `logs/run-2026-10-03.md` — rotation record for tomorrow's agent
