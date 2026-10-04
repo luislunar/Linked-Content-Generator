@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Today's draft is in `drafts/2026-10-04/`:
+
+**Post type:** `hot_take` — `pricing` topic, `alert` hook, `single-01-bold` template (dark navy)
+
+**The post:** Opens with the consequence frame — one pricing mistake locks you in for 5 years. Body walks through the two failure modes (too high = invisible in search, too low = unsustainable margins), then names the Basis of Award clause as the hidden trap that catches applicants who've ever given informal commercial discounts. Closes with: "Approval is the starting line. Your price is the race." CTA invites experience-sharing on the pricing piece specifically.
+
+**Rotation compliance:**
+- `hot_take` wasn't used in the last 3 days ✓
+- `pricing` topic not used in last 5 days ✓
+- `alert` hook not used in last 3 days ✓
+- `prose` format breaks the recent checklist streak ✓
+- Dark navy template (`single-01-bold`) — last 2 were dark/cream, so dark is fine ✓
+- 220 words — within 150–300 `hot_take` range ✓

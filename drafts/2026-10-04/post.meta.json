@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "alert",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pricing Alert",
+    "headline_html": "WRONG GSA<br>PRICE.<br><span class='accent'>5 YEARS.</span>",
+    "sub": "Lock in the wrong price during your application and every RFQ search makes you invisible.",
+    "issue": "Issue 031",
+    "image_headline": "YOUR GSA PRICE IS A 5-YEAR LOCK",
+    "image_prompt": "Infographic alert layout. Dark navy background. Bold warning headline at top: 'YOUR GSA PRICE IS A 5-YEAR LOCK' with caution triangle icon. Left side: illustrated professional man in blazer standing at a fork in the road labeled 'TOO HIGH' (red arrow up) and 'TOO LOW' (red arrow down). Right side: two short column labels — red 'INVISIBLE' and green 'COMPETITIVE'. Center callout box: bold short label 'BASIS OF AWARD'. Bottom strip: white text 'APPROVAL ≠ COMPETITION'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
