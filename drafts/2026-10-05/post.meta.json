@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "gsa_basics",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Q3 2026 · GSA",
+    "headline_html": "$3B<br>ONE QUARTER<br><span class='accent'>ONE AGENCY</span>",
+    "sub": "GSA awarded $3 billion to small businesses in Q3 2026. The barrier is paperwork — not capability.",
+    "issue": "Issue 016"
+  },
+  "image_headline": "$3B. ONE QUARTER. WRONG QUESTION.",
+  "image_prompt": "Dark navy background infographic. Bold centered '$3B' in oversized white text with accent yellow highlight. Below: short label 'Q3 2026 · GSA' in small caps. Illustrated professional woman in business suit, arms crossed, confident posture. Right side: two callout boxes — top 'WRONG QUESTION' with red X icon, bottom 'RIGHT QUESTION' with green arrow. Bold headline at top: '$3B. ONE QUARTER. WRONG QUESTION.' Bottom muted label: 'Source · USAspending.gov'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
