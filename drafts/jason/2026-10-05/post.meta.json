@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 024 · Teaming",
+    "quote_html": "You don't need past performance to sub. <em>You need it to prime.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes"
+  },
+  "image_headline": "SUB FIRST. PRIME LATER. EARN IT.",
+  "image_prompt": "Pull-quote infographic on cream off-white background. Oversized light-gray serif quotation marks flanking the centered quote text. Main quote in carbon-black bold: 'YOU DON'T NEED PAST PERFORMANCE TO SUB.' Second line in cyan accent: 'YOU NEED IT TO PRIME.' Small-caps section label top-left: 'FIELD NOTE' with thin charcoal underline. Index reference top-right: 'No. 024 · Teaming' in small muted text. Thin charcoal divider line above the footer strip. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}

@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **Jason · 2026-10-05**:
+
+---
+
+**Post type:** `inspiration`  
+**Topic:** `teaming`  
+**Hook:** `question` — opens with a rhetorical question to satisfy the cadence rule (last 3 posts all started with statements)  
+**Template:** `single-03-quote` (cream + serif) — satisfies color contrast rule (last 2 were both dark-bg)  
+**Word count:** ~108 words — well under the 180-word limit triggered by last 3 posts averaging 204 words
+
+**Core message:** "You don't need past performance to sub. You need it to prime." — targets the #1 objection Jason hears on prospecting calls, delivered in Jason's blunt, data-framed voice.
+
+**Uniqueness check:**
+- Topic `teaming` is used by neither Josh nor William today ✓
+- `inspiration` post type not used by Josh (hot_take) today ✓
+- `question` hook ≠ Josh's `contrarian` hook today ✓
+- Not used by Jason in last 5 days ✓
+
+**Files written:**
+- `drafts/jason/2026-10-05/post.md`
+- `drafts/jason/2026-10-05/post.meta.json`
+- `drafts/jason/2026-10-05/hypothesis.md`
+- `logs/jason/run-2026-10-05.md`
