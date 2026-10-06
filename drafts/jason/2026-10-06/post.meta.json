@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q3 2026",
+    "label_above": "Small business awards, Q3 2026 (3 agencies)",
+    "big_number_html": "$<span class='accent'>17.5B</span>",
+    "context_html": "DHS · VA · HHS — <strong>one quarter, three agencies.</strong> Not to the big primes. To companies your size.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "image_headline": "THE MARKET ISN'T JUST FOR THEM",
+  "image_prompt": "Alert-stat infographic on dark carbon-black background with cyan accent theme (Space Grotesk typography). Bold white headline at top: 'THE MARKET ISN'T JUST FOR THEM'. Center: oversized accent-cyan number '$17.5B' in display font, small white sublabel beneath: 'SMALL BIZ AWARDS · Q3 2026'. Below that: three compact data-row strips with a subtle divider between each — left column 2-3 word agency abbreviations in muted white ('HOMELAND SEC', 'VET AFFAIRS', 'HEALTH & HUMAN SVCS'), right column matching dollar amounts in bright white bold ('$6.7B', '$5.7B', '$5.1B'). Right side of card: illustrated professional man in business casual reviewing data on a tablet, with a subtle upward-trending line graph behind him. Bottom dark-charcoal strip: small muted source label 'USAspending.gov' left-aligned. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}

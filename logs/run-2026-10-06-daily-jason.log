@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was created in `drafts/jason/2026-10-06/`:
+
+**Post type:** `milestone` · **Topic:** `myths` · **Hook:** `myth-bust` · **Template:** `single-04-stat`
+
+**The angle:** Bust the "only big primes win federal contracts" objection with Q3 2026 USAspending.gov data — DHS ($6.7B), VA ($5.7B), HHS ($5.1B) = $17.5B to small businesses in one quarter from three agencies alone. Jason's voice: analytical, data-first, kills the objection with numbers rather than encouragement.
+
+**Uniqueness checks passed:**
+- Topic `myths` — not used by Josh (`teaming`) or William (`gsa_basics`) today, not used by Jason in last 5 days
+- Post type `milestone` — not in Jason's last 3 days (`inspiration`, `hot_take`, `tips_list`), not used by Josh or William today
+- Hook `myth-bust` — not used yesterday (`question`) or by either other profile today
+- Data figure ($17.5B combined) — not used by Josh or William today
+- Template `single-04-stat` (dark navy) — contrasts with yesterday's cream `single-03-quote`
