@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "GSA Basics",
+    "headline_html": "THE SHELF<br>YOU NEED<br><span class='accent'>TO GET ON.</span>",
+    "sub": "The Schedule is access. The contracts still have to be earned.",
+    "issue": "Field Note · 006"
+  },
+  "image_headline": "GET ON THE SHELF",
+  "image_prompt": "Infographic story layout. Bold headline top: 'GET ON THE SHELF' in ALL CAPS. Left side: illustrated professional woman in business casual standing at a large open shelving unit, subtle label 'FEDERAL AGENCIES' above the shelves. Right side: two-zone column — top zone dark forest-green with 2-word label 'ACCESS GRANTED' and an open-door icon, bottom zone amber-tinted cream with 2-word label 'EARN IT' and a handshake icon. Center bottom: one highlighted callout box with short phrase 'YOU STILL COMPETE'. Dark forest-green background with amber accent details. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}

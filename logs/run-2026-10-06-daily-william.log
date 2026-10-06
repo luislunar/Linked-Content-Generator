@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **William Hill · 2026-10-06**:
+
+---
+
+**Post type:** `inspiration` · **Topic:** `gsa_basics` · **Hook:** `truth` · **Template:** `single-01-bold` (dark forest-green)
+
+**Why these choices:**
+- Last 3 William avg word count = 214 → mandatory sub-180 day; `inspiration` (50–150 words, landed at 119) satisfies it
+- Topic: `pipeline`, `sam`, `certifications`, `compliance`, `teaming` all blocked (last 5 William days + Josh today = teaming); `gsa_basics` is clear
+- Hook: `question` blocked (consecutive, yesterday); `story` blocked (Josh today); `truth` is William's preferred and available
+- Template: last 2 William templates were both cream → dark is mandatory; `single-01-bold` ✓; also contrasts Josh's cream `single-07-story` today
+
+**The post:** Opens with "Something I find myself explaining on almost every first call" — the access-vs-guarantee truth about the GSA Schedule. Uses the "shelf" metaphor to make it concrete. Three quick bullets, closes with a warm CTA asking for the reader's own first question about the Schedule.
