@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for `drafts/2026-10-06/`:
+
+**post_type:** `personal_story` — not used in last 3 days (last used well outside the window).
+
+**Rotation logic:**
+- Last 3 types blocked: `hot_take`, `tips_list`, `inspiration`
+- Last 2 card templates were dark-bg → cream template required → `single-07-story` ✓
+- Topic `teaming` untouched for 5+ days ✓
+- Hook `story` not used since 09/30 (6 days) ✓, different from yesterday's `contrarian` ✓
+- Format: prose story (no bullets) — varies from last checklist and hot_take prose ✓
+
+**Post angle:** Josh recounts a real conversation with an IT firm owner paralyzed by the "no past performance" myth. The post walks through how a teaming agreement cracked open federal contracting for them in 8 months — turning a gap into a line item before their GSA Schedule even approved. Community question invites readers to name the misconception that almost stopped them.
+
+**Card:** `single-07-story` (cream) with a 3-row timeline: teaming conversation → prime partnership → first award.

@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Eighteen · Field Note",
+    "lead_html": "Zero past performance. <em>First award in eight months.</em>",
+    "rows": [
+      {
+        "when": "Month 01–02",
+        "what_html": "<strong>Teaming conversation opened</strong> <span class='light'>— the step most founders skip entirely</span>"
+      },
+      {
+        "when": "Month 03–06",
+        "what_html": "<strong>Prime partnership structured</strong> <span class='light'>— GSA Schedule application running in parallel</span>"
+      },
+      {
+        "when": "Month 07–08",
+        "what_html": "<strong>First federal award landed</strong> <span class='light'>— past performance now a line item, not a gap</span>"
+      }
+    ],
+    "closer": "THE DOOR IN ISN'T ALWAYS THE FRONT DOOR."
+  },
+  "image_headline": "NO PAST PERFORMANCE? TEAM UP.",
+  "image_prompt": "Infographic story layout. Left dark navy panel, bold label 'THE PROBLEM' with red X icon, two short labels: 'No Past Perf', 'No Way In'. Center: illustrated two professionals in suits shaking hands, paths converging. Right cream panel, bold label 'THE FIX' with green checkmark, two short labels: 'Find a Prime', 'Compete Together'. Simple 3-step arrow timeline at bottom labeled: 'Partner', 'Win Together', 'Build Record'. Bold headline top: 'NO PAST PERFORMANCE? TEAM UP.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
