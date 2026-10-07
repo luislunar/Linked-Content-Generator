@@ -1,27 +1,24 @@
 {
-  "post_type": "client_story",
-  "topic": "compliance",
-  "hook_pattern": "truth",
-  "format": "story",
-  "template": "single-05-beforeafter",
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "section_label": "18-Month Wake-Up",
-    "case_num": "Case · 011",
-    "headline_html": "Active schedule. <span class='accent'>Zero wins.</span> Here's why.",
-    "before_items": [
-      "TAA cert quietly lapsed",
-      "3 price lines out of sync",
-      "Option Period notice missed"
+    "section_label": "Pricing Audit",
+    "module": "Module 06 · Pricing",
+    "headline_html": "Five checks before you <span class='accent'>bid anything.</span>",
+    "items": [
+      { "title": "Basis of Award alignment", "sub": "GSA price must stay at or below your best commercial rate" },
+      { "title": "Price Reduction Clause", "sub": "Post-award commercial discounts trigger retroactive GSA adjustments" },
+      { "title": "Pricelist date", "sub": "Stale pricelists flag noncompliance before COs read your name" },
+      { "title": "Unlisted service lines", "sub": "New offerings need a modification before you can legally bid them" },
+      { "title": "EPA clause window", "sub": "Miss the deadline and your rates lock longer than you planned" }
     ],
-    "after_items": [
-      "TAA cert corrected",
-      "Pricing back in compliance",
-      "First RFQ accepted in 60 days"
-    ],
-    "footer_left": "One Real Transformation",
-    "footer_right": "Field Case Series",
-    "image_headline": "ACTIVE SCHEDULE. ZERO WINS. HERE'S WHY.",
-    "image_prompt": "Split-panel infographic on a cream and dark navy background. Left panel cream, bold navy header 'BEFORE' with a red X icon, three short 2-3 word labels below it: 'TAA LAPSED', 'PRICES MISALIGNED', 'FLAG UNNOTICED'. Right panel dark navy, bold white header 'AFTER' with green checkmark icon, three short labels in bright white: 'CERT CORRECTED', 'PRICING FIXED', '60-DAY WIN'. Center divider: illustrated professional man in business suit, expression shifting from tense to confident, holding a clipboard. Bold headline at top spanning full width: 'ACTIVE SCHEDULE. ZERO WINS.' Footer text: 'Josh Ladick · GSA Focus'."
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE CHECKS BEFORE YOU BID ANYTHING.",
+    "image_prompt": "Infographic checklist layout on dark navy background. Bold white headline top: 'FIVE CHECKS BEFORE YOU BID ANYTHING.' Left side: illustrated professional woman in blazer at a desk, reviewing a document on a laptop, expression focused and deliberate. Right side: five stacked checklist rows, each with a green checkmark icon and a short 2-3 word label in white — 'BOA ALIGNED', 'PRC TRACKED', 'LIST CURRENT', 'MODS FILED', 'EPA ON TIME'. Bottom strip: lighter navy band with short callout in coral accent: 'AUDIT BEFORE YOU BID.' Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

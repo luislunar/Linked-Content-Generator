@@ -1,22 +1,18 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the summary:
+Done. Here's what was generated for **2026-10-07**:
 
----
+**Post type:** `tips_list`  
+**Topic:** `pricing`  
+**Hook:** `question` — "Before you submit your next proposal off a GSA Schedule, run this audit first."  
+**Template:** `single-06-checklist` (dark navy — good contrast after two consecutive cream-bg templates)  
+**Format:** numbered checklist (not `→`, adds variety after recent bullet runs)  
+**Word count:** ~262
 
-**Today's post — Josh Ladick / 2026-10-07**
+**The 5 audit items:**
+1. Basis of Award alignment — GSA price vs. best commercial rate
+2. Price Reduction Clause triggers — retroactive, auto-running, commonly missed
+3. Pricelist date — COs check it before reading your name
+4. Unlisted service lines — new offerings need a modification first
+5. EPA clause window — miss the deadline, rates lock
 
-- **Type:** `client_story` (not used since 09-30)
-- **Topic:** `compliance` (fresh — not used in recent rotation)
-- **Hook:** `truth` — "Nobody talks enough about the companies that have a GSA Schedule — but can't actually use it."
-- **Template:** `single-05-beforeafter` (cream + navy split card)
-- **Word count:** ~213
-
-**The story:** A construction services firm, 18 months into their GSA Schedule, zero revenue. The audit revealed three silent killers: lapsed TAA cert, pricing drift on 3 line items, missed Option Period notice. After correcting all three, first RFQ accepted within 60 days.
-
-**Why this angle:** Targets the under-discussed "Schedule holder with no wins" segment — readers who think their problem is marketing when it's actually compliance. Designed to drive comments from practitioners sharing their own compliance catch stories.
-
-**Files written:**
-- `drafts/2026-10-07/post.md`
-- `drafts/2026-10-07/post.meta.json`
-- `drafts/2026-10-07/hypothesis.md`
-- `logs/run-2026-10-07.md`
+**Why this post:** Targets Schedule *holders* who haven't done maintenance — a high-recognition audience that drives comments. The `pricing` topic hasn't run in recent rotation, and the `question` hook breaks from the last three openers (truth, story, contrarian). Community question asks which item they last checked, prompting specific experience-sharing rather than generic replies.
