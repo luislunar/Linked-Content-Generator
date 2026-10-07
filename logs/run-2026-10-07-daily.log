@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary:
+
+---
+
+**Today's post — Josh Ladick / 2026-10-07**
+
+- **Type:** `client_story` (not used since 09-30)
+- **Topic:** `compliance` (fresh — not used in recent rotation)
+- **Hook:** `truth` — "Nobody talks enough about the companies that have a GSA Schedule — but can't actually use it."
+- **Template:** `single-05-beforeafter` (cream + navy split card)
+- **Word count:** ~213
+
+**The story:** A construction services firm, 18 months into their GSA Schedule, zero revenue. The audit revealed three silent killers: lapsed TAA cert, pricing drift on 3 line items, missed Option Period notice. After correcting all three, first RFQ accepted within 60 days.
+
+**Why this angle:** Targets the under-discussed "Schedule holder with no wins" segment — readers who think their problem is marketing when it's actually compliance. Designed to drive comments from practitioners sharing their own compliance catch stories.
+
+**Files written:**
+- `drafts/2026-10-07/post.md`
+- `drafts/2026-10-07/post.meta.json`
+- `drafts/2026-10-07/hypothesis.md`
+- `logs/run-2026-10-07.md`

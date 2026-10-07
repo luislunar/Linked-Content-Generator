@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "compliance",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "18-Month Wake-Up",
+    "case_num": "Case · 011",
+    "headline_html": "Active schedule. <span class='accent'>Zero wins.</span> Here's why.",
+    "before_items": [
+      "TAA cert quietly lapsed",
+      "3 price lines out of sync",
+      "Option Period notice missed"
+    ],
+    "after_items": [
+      "TAA cert corrected",
+      "Pricing back in compliance",
+      "First RFQ accepted in 60 days"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "ACTIVE SCHEDULE. ZERO WINS. HERE'S WHY.",
+    "image_prompt": "Split-panel infographic on a cream and dark navy background. Left panel cream, bold navy header 'BEFORE' with a red X icon, three short 2-3 word labels below it: 'TAA LAPSED', 'PRICES MISALIGNED', 'FLAG UNNOTICED'. Right panel dark navy, bold white header 'AFTER' with green checkmark icon, three short labels in bright white: 'CERT CORRECTED', 'PRICING FIXED', '60-DAY WIN'. Center divider: illustrated professional man in business suit, expression shifting from tense to confident, holding a clipboard. Bold headline at top spanning full width: 'ACTIVE SCHEDULE. ZERO WINS.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
