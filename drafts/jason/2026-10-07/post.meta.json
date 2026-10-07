@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Pattern",
+    "year_client": "Week In, Week Out",
+    "lead_html": "The pricing mistake I watch companies make <em>every single week</em>.",
+    "rows": [
+      {
+        "when": "The Setup",
+        "what_html": "<strong>Prices inflated 20–30%</strong> <span class='light'>— to 'leave room' for negotiation</span>"
+      },
+      {
+        "when": "The Flag",
+        "what_html": "<strong>CO benchmarks against commercial invoices</strong> <span class='light'>— the gap gets flagged immediately</span>"
+      },
+      {
+        "when": "The Cost",
+        "what_html": "<strong>4–8 weeks of rework</strong> <span class='light'>— resubmission, second review, delayed approval</span>"
+      }
+    ],
+    "closer": "INFLATED PRICES DON'T PROTECT YOU. THEY DELAY YOU.",
+    "image_headline": "THE PRICING MISTAKE THAT GETS YOU FLAGGED",
+    "image_prompt": "Infographic story layout. Cream and dark charcoal background with cyan accent color. Left side: illustrated vertical timeline with 3 milestone icons, each labeled with 2-3 words only: 'THE SETUP', 'THE FLAG', 'THE COST'. Right side: illustrated professional man in business casual attire reviewing a pricing spreadsheet on a laptop, expression shifting from confident to frustrated. Bold headline at top spanning full width: 'THE PRICING MISTAKE THAT GETS YOU FLAGGED'. One highlighted dark navy callout box with short punchy phrase 'INFLATED = DELAYED'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

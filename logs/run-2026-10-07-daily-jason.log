@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-10-07/`:
+
+**Post type:** `behind_scenes` — clear of Jason's last 3 days (`milestone`, `inspiration`, `hot_take`) and today's other profiles (`client_story` / `tips_list`)
+
+**Topic:** `pricing` — weighted in Jason's profile, not touched by Josh (`compliance`) or William (`teaming`) today
+
+**Hook:** `blunt` — preferred hook for Jason, not used today by any profile
+
+**The post** opens with the tension ("The most expensive mistake I see isn't a typo") and delivers the 3-step failure pattern Jason watches weekly — setup (inflating prices to "leave room"), flag (CO benchmarks against commercial invoices via Basis of Award), cost (4–8 weeks of rework). Closes with a specific pricing-assumption question to drive comments from prospects who are mid-decision on their own pricing strategy.
+
+**Card:** `single-07-story` with a 3-row timeline showing THE SETUP → THE FLAG → THE COST, illustrated professional reviewing a pricing spreadsheet, cyan accent on charcoal (Jason's theme), footer `Jason · GSA Focus`.
