@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Teaming Basics",
+    "module": "Module 04 · Teaming",
+    "headline_html": "Five things to know before <span class='accent'>your first</span> teaming agreement.",
+    "items": [
+      {
+        "title": "Prime covers the past performance gap",
+        "sub": "Their federal record stands in for the history you haven't built yet"
+      },
+      {
+        "title": "You bring the specialized capability",
+        "sub": "Skills, pricing, and capacity are your side of the arrangement"
+      },
+      {
+        "title": "Sub work builds your own past performance",
+        "sub": "Agencies recognize subcontract history — it compounds into your next bid"
+      },
+      {
+        "title": "You don't need a Schedule before subbing",
+        "sub": "Start as a sub while your own GSA application is still in progress"
+      },
+      {
+        "title": "Primes are findable through public data",
+        "sub": "SAM.gov awards and sources sought notices show who's hiring in your space"
+      }
+    ],
+    "footer_left": "Quick Field Guide",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "BREAK IN WITHOUT PAST PERFORMANCE",
+    "image_prompt": "Infographic checklist layout. Dark forest-green background with amber accent color. Bold amber headline at top: 'BREAK IN WITHOUT PAST PERFORMANCE'. Left side: illustrated professional man in business casual attire holding a clipboard, expression focused and confident. Right side: five checklist rows with amber checkmark icons, each with a short 2-4 word label only — no full sentences: 'PRIME HAS THE RECORD', 'YOU BRING SKILLS', 'SUB WORK COUNTS', 'NO SCHEDULE NEEDED YET', 'FIND PRIMES ON SAM.GOV'. Bottom: dark navy banner strip with short callout phrase 'TEAMING IS THE DOOR'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William today:
+
+---
+
+**Post:** `drafts/william/2026-10-07/post.md`  
+**Type:** `tips_list` | **Topic:** `teaming` | **Hook:** `question` | **238 words**
+
+The post opens with the verbatim question William hears on almost every discovery call — *"Do we even qualify if we've never won a federal contract?"* — then delivers five checklist items that resolve the past-performance fear: prime covers the gap, capability is your contribution, sub work builds your own record, no Schedule required before subbing, and primes are findable through public data. Closes with a two-part CTA offering readers a choice rather than an open canvas (harder to skip).
+
+**Key decisions:**
+
+| Rule | Choice | Why |
+|---|---|---|
+| Post type | `tips_list` | Not in last 3 William days; Josh/Jason clear |
+| Topic | `teaming` | Priority topic (1×/week); last William use 09-28 (7 run days ago); compliance double-blocked (Josh today + W 09-29) |
+| Hook | `question` | Yesterday was `truth` (consecutive block); Josh today used `truth` (uniqueness block); `question` is William's preferred hook |
+| Template | `single-06-checklist` (dark) | Josh today used cream (`single-05-beforeafter`) → dark forest-green card creates strong feed contrast |
+| Format | checklist (→ bullets) | Last 3 William posts all used `bullets` — checklist breaks the streak |
+| Length | 238 words | Avg of last 3 = 165.3 < 200 → no forced-under-180 rule; within tips_list range (150–280) ✓ |
