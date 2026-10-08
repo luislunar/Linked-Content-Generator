@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "comparison",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Vehicle Check",
+    "headline_html": "WRONG<br>VEHICLE.<br><span class='accent'>WRONG DOOR.</span>",
+    "sub": "Chasing OASIS+ before you have an agency relationship is the fastest way to waste two years.",
+    "issue": "No. 033",
+    "image_headline": "WRONG VEHICLE, WRONG DOOR.",
+    "image_prompt": "Split-panel infographic on dark navy background, Space Grotesk typography, cyan accent highlights. Left panel labeled 'WRONG ORDER' in red, with three short 2-3 word stacked labels in white: 'PICK VEHICLE', 'FIND AGENCY', 'WIN CONTRACT' each with a red X. Right panel labeled 'RIGHT ORDER' in cyan, same three labels reversed in sequence: 'KNOW BUYER', 'MATCH VEHICLE', 'ENTER MARKET' each with a green checkmark. Bold headline centered at top: 'WRONG VEHICLE, WRONG DOOR.' in white all caps. Center divider: illustrated professional male character in blazer standing at a crossroads, one path well-lit, one dark. Bottom charcoal strip with short 2-word callout: 'BUYER FIRST'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

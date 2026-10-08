@@ -1,0 +1,11 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-10-08/`:
+
+**post_type:** `hot_take` | **topic:** `vehicles` | **hook:** `contrarian` | **template:** `single-01-bold`
+
+The post opens with the exact wrong question Jason hears every week, flips it immediately, then delivers a four-vehicle breakdown (GSA MAS → SEWP V → OASIS+ → 8(a) STARS III) ranked by entry barrier and fit — the way he'd actually run through it on an evaluation call. Closes with a concrete community question that forces readers to name their vehicle and whether it actually matches their pipeline.
+
+**Uniqueness check:**
+- Josh (today): `tips_list` / `sam` / `alert` — no overlap
+- William (today): `personal_story` / `pricing` / `story` — no overlap
+- Jason last 3 days: `behind_scenes`, `milestone`, `inspiration` — `hot_take` is clear
