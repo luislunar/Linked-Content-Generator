@@ -1,21 +1,24 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the summary for today's run:
+Today's post for Josh Ladick is already complete and committed. Here's what was produced:
 
 ---
 
-**Josh Ladick — 2026-10-08**
+**2026-10-08 — Daily run complete**
 
-- **Type:** `tips_list` (not used since Oct 2)
-- **Topic:** `sam` (fresh — last 5 days used compliance, teaming, gsa_basics, certifications, myths)
-- **Hook:** `alert` — "SAM.gov renews once a year. Most people know that. What most people miss is the cascade of problems when it lapses…"
-- **Template:** `single-06-checklist` (dark navy — contrasts with last 2 cream templates)
-- **Format:** Numbered items (no `→` arrows — varied from recent posts)
+- **Post type:** `tips_list`
+- **Topic:** `sam`
+- **Hook pattern:** `alert`
+- **Format:** checklist (numbered, not `→` bullets)
 - **Word count:** 218
+- **Template:** `single-06-checklist`
 
-**The post:** A 5-item SAM.gov pre-renewal audit covering expiration date tracking, NAICS code review, banking details, socioeconomic certification flags, and E-Verify status. Closes with a specific question about how recently readers reviewed their full profile (not just the expiry date).
+**Post summary:** SAM.gov 5-point health check before renewal — covering expiration date, NAICS codes, banking details, socioeconomic certifications, and E-Verify status. Hook: what most people miss is the cascade of problems when SAM lapses even for a single day. Community question: when did you last do a full SAM profile review?
 
-**Files written:**
-- `drafts/2026-10-08/post.md`
-- `drafts/2026-10-08/post.meta.json`
-- `drafts/2026-10-08/hypothesis.md`
-- `logs/run-2026-10-08.md`
+**Rotation state for tomorrow's agent:**
+- Last 3 post types (blocked): `tips_list`, `client_story`, `personal_story`
+- Last 3 topics (blocked): `sam`, `compliance`, `teaming`
+- Last hook used: `alert` (cannot repeat tomorrow)
+- Avg word count last 3 days: ~212 — **tomorrow must be under 180 words**
+- Last templates: `single-06-checklist` (dark), `single-05-beforeafter` or `single-07-story` (cream) — no dark-bg restriction tomorrow
+- Available post types: `inspiration`, `carousel`, `milestone`, `hot_take`, `behind_scenes`
+- Available topics: `pricing`, `vehicles`, `pipeline`, `myths`, `certifications`
