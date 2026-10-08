@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for `drafts/william/2026-10-08/`:
+
+**Post type:** `personal_story` | **Topic:** `pricing` | **Hook:** `story` | **Template:** `single-07-story` (cream — mandatory, last 2 William cards were both dark)
+
+**The post (259 words):** Opens with a specific call — construction owner, $4M commercial, eight years in business, convinced his rates are too high for federal work. William reframes: GSA pricing is defensible, not cheapest — document your commercial baseline, and the Schedule negotiation is paperwork, not a race to the bottom. Then he pulls the NAICS live on the call: $3.7B in Q3 construction awards (USAspending.gov). Closes: "His rates weren't the obstacle. His belief about his rates was."
+
+**Key rotation decisions:**
+- `personal_story` — not in William's last 3 or Josh's today ✓
+- `pricing` — not in William's last 5 topics; only available slot since all four priority topics (pipeline, sam, teaming, gsa_basics) are blocked ✓
+- `story` hook — `question` was yesterday (hard block); `story` is William's preferred and maps naturally to the call-narrative format ✓
+- Cream template mandatory — last two William cards were both dark-bg ✓
+- Govcon data: $3.7B construction Q3 figure embedded as live call discovery; Josh's today post uses no data, no Jason draft ✓

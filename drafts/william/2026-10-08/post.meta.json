@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "pricing",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Eight Years · Client 029",
+    "lead_html": "From <em>\"my rates are too high\"</em> to a federal pricing narrative.",
+    "rows": [
+      {
+        "when": "First 10 min",
+        "what_html": "<strong>The fear surfaces</strong> <span class='light'>— eight years in business, convinced the government won't accept his commercial rates</span>"
+      },
+      {
+        "when": "Mid-call reframe",
+        "what_html": "<strong>Defensible beats cheapest</strong> <span class='light'>— match your Schedule rate to your most-favorable commercial price and document it</span>"
+      },
+      {
+        "when": "Call close",
+        "what_html": "<strong>$3.7B in Q3 construction awards</strong> <span class='light'>— the obstacle wasn't his rates; it was his belief about them</span>"
+      }
+    ],
+    "closer": "THE PRICING FEAR IS ALMOST NEVER THE ACTUAL OBSTACLE.",
+    "image_headline": "YOUR RATES AREN'T TOO HIGH.",
+    "image_prompt": "Infographic story layout on deep forest-green background with amber accent highlights, Sora typography. Bold headline at top in cream text: 'YOUR RATES AREN'T TOO HIGH.' Left column: illustrated vertical timeline with 3 amber milestone dots labeled in 2-3 words each — 'THE FEAR', 'THE REFRAME', 'THE PLAN'. Right side: illustrated professional male character seated at desk, relaxed posture, phone in hand, reviewing documents. Amber highlight callout box mid-card with short 3-word label: 'DOCUMENT YOUR BASELINE'. Cream and amber text on forest-green panels throughout. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
