@@ -1,0 +1,5 @@
+This draft tests the `alert` hook pattern on a `sam` topic — a combination not used in the last 5 days. The post uses a numbered checklist format (no `→` arrows) with a dark-bg `single-06-checklist` template, contrasting with the two cream-bg templates from Oct 6–7.
+
+The hypothesis: SAM.gov renewal failures are a known pain point the ICP underestimates until it's too late. The alert-style opener ("even for a single day" + payment freeze) creates urgency without exaggeration. Positioning this as a 30-minute self-audit lowers the action threshold and makes the post feel immediately useful rather than educational. The 5-item structure is easily skimmable, increasing saves and shares.
+
+Expected to move: **reactions** (relatable pain — "I did NOT know about E-Verify") and **comments** (practitioners sharing their own SAM expiry stories or near-misses). The closing question is designed to prompt honest self-reflection ("when did you last really look at your profile"), which historically drives higher comment volume than opinion questions.

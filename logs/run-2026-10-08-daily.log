@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary for today's run:
+
+---
+
+**Josh Ladick — 2026-10-08**
+
+- **Type:** `tips_list` (not used since Oct 2)
+- **Topic:** `sam` (fresh — last 5 days used compliance, teaming, gsa_basics, certifications, myths)
+- **Hook:** `alert` — "SAM.gov renews once a year. Most people know that. What most people miss is the cascade of problems when it lapses…"
+- **Template:** `single-06-checklist` (dark navy — contrasts with last 2 cream templates)
+- **Format:** Numbered items (no `→` arrows — varied from recent posts)
+- **Word count:** 218
+
+**The post:** A 5-item SAM.gov pre-renewal audit covering expiration date tracking, NAICS code review, banking details, socioeconomic certification flags, and E-Verify status. Closes with a specific question about how recently readers reviewed their full profile (not just the expiry date).
+
+**Files written:**
+- `drafts/2026-10-08/post.md`
+- `drafts/2026-10-08/post.meta.json`
+- `drafts/2026-10-08/hypothesis.md`
+- `logs/run-2026-10-08.md`

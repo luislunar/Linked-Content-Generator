@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM.gov Health Check",
+    "module": "Module 01 · Registration",
+    "headline_html": "Five things to check <span class='accent'>before</span> renewal.",
+    "items": [
+      {
+        "title": "Exact expiration date",
+        "sub": "Find it, calendar it 60 days out — don't rely on memory"
+      },
+      {
+        "title": "NAICS codes reviewed",
+        "sub": "Match codes to what you're actually bidding and winning now"
+      },
+      {
+        "title": "Banking details current",
+        "sub": "Changed accounts or banks? Update before the next award"
+      },
+      {
+        "title": "Certifications verified",
+        "sub": "WOSB, SDVOSB, 8(a), HUBZone — confirm each flag is active"
+      },
+      {
+        "title": "E-Verify status",
+        "sub": "Required for federal contractors; lapsed = silent disqualifier"
+      }
+    ],
+    "footer_left": "Quick SAM Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "SAM.GOV EXPIRES WHILE YOU WORK.",
+    "image_prompt": "Infographic alert layout on dark navy background. Bold warning headline at top: 'SAM.GOV EXPIRES WHILE YOU WORK.' with a red alert clock icon. Left side: illustrated professional woman in blazer, concerned expression, reviewing a laptop, red expired-badge icon floating above screen. Right column: 5 checklist rows with green checkmarks, each labeled with a short 2-3 word label in white: 'EXPIRY DATE', 'NAICS CHECK', 'BANK DETAILS', 'CERTS ACTIVE', 'E-VERIFY'. Bottom dark navy banner with short callout: '30-MINUTE AUDIT'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
