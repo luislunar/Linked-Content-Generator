@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "pipeline",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Pipeline",
+    "quote_html": "Chasing RFPs <em>isn't a pipeline strategy.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "YOUR PIPELINE STARTS BEFORE THE RFP",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE CROWD' with red X icon. Two short labels: 'WAIT FOR RFP', 'REACT & BID'. Right panel white/cream, bold label 'THE EDGE' with green checkmarks. Two short labels: 'SOURCES SOUGHT', 'INDUSTRY DAYS'. Center: illustrated professional in blazer reviewing documents at a desk, confident posture. Bold headline top: 'YOUR PIPELINE STARTS BEFORE THE RFP'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
