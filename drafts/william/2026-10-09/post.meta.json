@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "myths",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 015 · Myths",
+    "quote_html": "The door isn't closed. <em>It's just not labeled the way you'd expect.</em>",
+    "footer_left": "From the First Call",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "23% IS SET ASIDE FOR YOU",
+    "image_prompt": "Infographic truth layout. Left side: illustrated professional man in business casual shirt on a phone call, warm amber accent background, calm confident expression. Right side: bold large numeral '23%' centered in a forest-green filled circle, short label 'SMALL BIZ MANDATE' below in dark text, one callout box with 2-word label 'BY LAW'. Bold headline top: '23% IS SET ASIDE FOR YOU'. Bottom: dark forest-green banner strip. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
