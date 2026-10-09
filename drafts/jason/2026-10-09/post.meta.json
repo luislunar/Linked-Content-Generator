@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Cert Breakdown",
+    "index": "Vol. 04 · Certifications",
+    "headline_html": "Four certs. <span class='accent'>Four different</span> competitive edges.",
+    "items": [
+      {
+        "num": "01",
+        "title": "HUBZone",
+        "desc": "Sole-source up to $4M (supplies) or $7M (services). Most businesses can't hit the 35% residency rule — the ones who do dominate their local market with almost no competition."
+      },
+      {
+        "num": "02",
+        "title": "8(a)",
+        "desc": "Nine-year program, sole-source access at the agency's discretion. Built-in protected runway while you build past performance. The application is the hard part — not the program itself."
+      },
+      {
+        "num": "03",
+        "title": "SDVOSB",
+        "desc": "Veteran-owned. The VA alone awarded $5.7B to small businesses last quarter — one of the most active set-aside markets in federal. Source · USAspending.gov"
+      },
+      {
+        "num": "04",
+        "title": "WOSB / EDWOSB",
+        "desc": "Active across 83 NAICS codes, strongest in professional services. EDWOSB opens an extra tier of set-asides if you meet the economic disadvantage threshold."
+      }
+    ],
+    "image_headline": "NOT ALL CERTIFICATIONS ARE EQUAL",
+    "image_prompt": "Infographic numbered breakdown on cream background with dark charcoal and cyan accents, Space Grotesk typography. Bold section label 'CERT BREAKDOWN' in top-left corner in small caps. Large dark charcoal headline centered at top: 'NOT ALL CERTIFICATIONS ARE EQUAL'. Four numbered cards arranged in a 2x2 grid: each card has a bold cyan numeral badge ('01', '02', '03', '04') and a short 2-3 word label below in dark charcoal — '01 HUBZONE', '02 8(A)', '03 SDVOSB', '04 WOSB/EDWOSB'. Illustrated professional man in blazer standing to the right of the grid, confident posture, clipboard in hand. Thin cyan accent lines separating each grid cell. Bottom dark charcoal strip with short callout label 'PICK THE RIGHT DOOR'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

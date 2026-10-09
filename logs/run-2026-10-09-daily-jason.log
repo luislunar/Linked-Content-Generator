@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's Jason draft:
+
+---
+
+**2026-10-09 — Jason / GSA Focus**
+
+| Field | Value |
+|---|---|
+| `post_type` | `tips_list` |
+| `topic` | `certifications` |
+| `hook_pattern` | `myth-bust` |
+| `format` | `bullets` (→) |
+| `template` | `single-02-numbered` (cream) |
+| `word_count` | ~236 |
+
+**Uniqueness checks passed:**
+- Topic `certifications` not used by Jason in last 5 days, Josh, or William today
+- Post type `tips_list` not in Jason's last 3 days, not used by today's other profiles
+- Hook `myth-bust` not used by Jason in last 2 days, not used by others today
+- VA $5.7B figure (USAspending.gov) not used by any profile today; William used construction ($3.7B), Josh used no figures
+
+**Post angle:** Busts the vague belief that "you need certifications to compete" — replaces it with a concrete ranked breakdown of HUBZone, 8(a), SDVOSB, and WOSB/EDWOSB based on what Jason observes moves actual pipeline. Closes with a specificity-driven community question targeting both cert holders and those still deciding.
