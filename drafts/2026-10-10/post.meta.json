@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "myths",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Market Reality",
+    "headline_html": "THE MARKET<br>ISN'T<br><span class='accent'>LOCKED.</span>",
+    "sub": "$20.7B to small businesses in Q3 2026. One quarter. Source · USAspending.gov",
+    "issue": "Issue 052",
+    "image_headline": "THE MARKET IS OPEN. ARE YOU IN?",
+    "image_prompt": "Dark navy infographic, bold alert style. Top bold headline: 'THE MARKET IS OPEN. ARE YOU IN?' in white block type. Center: large bold stat '$20.7B' in coral accent color, small label 'SMALL BIZ AWARDS · Q3 2026' below in gray. Left side: illustrated professional woman in blazer reviewing a federal contract document, confident posture. Right column: three line items with green upward arrows — labels 'DHS $6.7B', 'GSA $3.0B', '8 INDUSTRIES'. Dark bottom banner with small text 'Source · USAspending.gov'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
