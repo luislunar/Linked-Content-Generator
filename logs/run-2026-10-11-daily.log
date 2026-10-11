@@ -1,0 +1,26 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-10-11**:
+
+---
+
+**Post type:** `hot_take` | **Topic:** `teaming` | **Hook:** `truth`
+
+**Angle:** The uncomfortable truth that subcontractor teaming and building your own federal presence are not the same thing. Every sub dollar builds the prime's past performance record, not yours. The real strategic play is teaming *and* building your own GSA Schedule in parallel.
+
+**Template:** `single-01-bold` (dark navy) — card headline: *SUB REVENUE IS NOT YOUR RECORD*
+
+**Word count:** 222 words — within the 150–300 range for `hot_take`
+
+**Rotation checks passed:**
+- `hot_take` not used in last 3 days (Oct 8: tips_list, Oct 9: inspiration)
+- `teaming` not used by Josh in recent logs (Oct 8: sam, Oct 9: pipeline)
+- `truth` hook not used in last 2 days (Oct 8: alert, Oct 9: contrarian)
+- Prose format adds variety after checklist (Oct 8) and prose (Oct 9) — but suits hot_take's structure
+- Dark navy template after cream (Oct 9: single-03-quote) — good color contrast
+- Hook is a statement, but distinct phrasing from prior two; last 3 posts not all verified as statements so no forced question rule triggered
+
+**Files written:**
+- `drafts/2026-10-11/post.md`
+- `drafts/2026-10-11/post.meta.json`
+- `drafts/2026-10-11/hypothesis.md`
+- `logs/run-2026-10-11.md`

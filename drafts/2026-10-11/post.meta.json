@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Teaming Reality",
+    "headline_html": "SUB REVENUE<br>IS NOT<br><span class='accent'>YOUR RECORD</span>",
+    "sub": "Every dollar you earn as a sub builds the prime's past performance — not yours.",
+    "issue": "No. 031",
+    "image_headline": "TEAMING ALONE ISN'T ENOUGH",
+    "image_prompt": "Infographic split-path layout. Left path labeled 'SUB ONLY' in red, dotted line ending at a dead-end wall. Right path labeled 'SCHEDULE + SUB' in green, solid line leading to an open door labeled 'PRIME READY'. Center: illustrated professional in suit standing at the fork, choosing direction. Bold headline top: 'TEAMING ALONE ISN'T ENOUGH'. Callout box: 'BUILD YOUR OWN FOUNDATION'. Dark navy background with white and green accents. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
