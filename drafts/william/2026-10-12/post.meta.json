@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "SAM Check",
+    "headline_html": "WHEN DID<br>YOU LAST<br><span class='accent'>CHECK SAM?</span>",
+    "sub": "A lapsed registration, wrong NAICS codes, or a bank mismatch — any one of these can quietly disqualify a bid.",
+    "issue": "Issue 021"
+  },
+  "image_headline": "WHEN DID YOU LAST CHECK SAM?",
+  "image_prompt": "Infographic alert layout. Background dark forest-green with amber accent highlights, Sora typography. Bold warning headline at top spanning full width: 'WHEN DID YOU LAST CHECK SAM?' in white all caps. Left side: illustrated professional man in business casual attire looking at a laptop displaying a warning icon on screen, expression slightly concerned. Right column: three checklist rows, each with a short 2-3 word amber label and a circular status icon — 'ACTIVE STATUS?', 'NAICS CODES?', 'BANK INFO?'. Bottom dark banner with short white callout: 'EXPIRED = DISQUALIFIED'. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}

@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's the summary of today's William post:
+
+---
+
+**2026-10-12 — William Hill**
+
+- **Type:** `inspiration` | **Topic:** `sam` | **Hook:** `question` | **Format:** bullets | **Words:** 139
+- **Template:** `single-01-bold` (dark forest-green/amber, William theme)
+
+**Rotation logic:**
+- Blocked types (last 3 days): behind_scenes, personal_story, tips_list → inspiration is free
+- Blocked topics (last 5 days): myths, pricing, teaming, gsa_basics, pipeline → `sam` is free (last used 10-01, 6 run days ago — William's priority topic)
+- Hook: truth blocked (consecutive with yesterday); story is Josh's today → `question` is the fit
+- Length: last 3 avg = 217 words > 200 → must stay under 180; landed at 139 ✓
+- Template dark: last 2 William cards were both cream → `single-01-bold` breaks the streak
+- Josh used the $21.4B Q3 figure today → William stays data-free, pure call observation
+
+**Post angle:** "Before you bid — when did you last log into SAM.gov?" Three-item call checklist (active status, NAICS codes, remittance info). Closing: "When did you last log in and check?" — a timestamp prompt that surfaces both pre-schedule owners and current holders in comments.
