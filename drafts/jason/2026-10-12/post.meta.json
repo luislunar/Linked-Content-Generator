@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pipeline Fix",
+    "case_num": "Case · 019",
+    "headline_html": "Find who's already buying<br><span class='accent'>what you sell.</span>",
+    "before_items": [
+      "Cold-emailing agency contacts",
+      "Keyword guessing on SAM.gov",
+      "No buyer history checked"
+    ],
+    "after_items": [
+      "NAICS-filtered Sources Sought",
+      "Recompete windows tracked",
+      "Agency award data pulled"
+    ],
+    "footer_left": "One Real Shift",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "PIPELINE IS A TARGETING PROBLEM",
+  "image_prompt": "Before/after split-panel infographic, cream background, dark charcoal and cyan accents, Space Grotesk typography. Left dark charcoal panel labeled 'BEFORE' in bold white small caps at top. Three short 2-3 word stacked labels in white with red X icons: 'COLD EMAILS', 'KEYWORD GUESSING', 'NO TARGETING'. Right cream panel labeled 'AFTER' in bold charcoal small caps at top. Three short 2-3 word stacked labels in dark charcoal with green checkmark icons: 'NAICS FILTERED', 'RECOMPETES TRACKED', 'BUYERS MAPPED'. Bold headline spanning full width at top: 'PIPELINE IS A TARGETING PROBLEM' in dark charcoal all caps. Illustrated professional man in blazer with laptop, centered at the panel divider, facing right toward the after side. Thin cyan accent line as vertical divider. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
