@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "gsa_basics",
+  "hook_pattern": "story",
+  "format": "prose",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q3 2026",
+    "label_above": "Federal awards to small businesses, Q3 2026",
+    "big_number_html": "$<span class='accent'>21.4B</span>",
+    "context_html": "IT, construction, consulting, professional services — <strong>companies like yours</strong> are at the top of the leaderboard. One quarter.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers"
+  },
+  "image_headline": "$21.4B TO SMALL BUSINESS. ONE QUARTER.",
+  "image_prompt": "Infographic stat layout. Dark navy background. Large bold centered accent stat '$21.4B' in coral. Short label above: 'SMALL BUSINESS AWARDS · Q3 2026'. Four compact industry icons in a row below the stat, each with a 2-word label: 'IT SERVICES', 'CONSTRUCTION', 'CONSULTING', 'SERVICES'. Illustrated professional businesswoman in blazer looking up at a government building silhouette on the left side. Bold top headline: '$21.4B TO SMALL BUSINESS. ONE QUARTER.' Bottom light source attribution strip. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
