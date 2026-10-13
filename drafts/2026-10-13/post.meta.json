@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "truth",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Cert Reality Check",
+    "module": "Module 07 · Certifications",
+    "headline_html": "Five things most owners <span class='accent'>miss</span> about small business certs.",
+    "items": [
+      {
+        "title": "Access, not revenue",
+        "sub": "Set-asides open the lane — you still have to bid, price, and follow through."
+      },
+      {
+        "title": "Certifications stack",
+        "sub": "SDVOSB + WOSB + GSA Schedule is a real combination that opens multiple lanes."
+      },
+      {
+        "title": "All require maintenance",
+        "sub": "8(a) reviews, SDVOSB renewals, HUBZone recerts — miss one mid-opportunity and you're out."
+      },
+      {
+        "title": "Sub before you prime",
+        "sub": "Primes need certified subs for set-asides. Being that sub builds past performance fast."
+      },
+      {
+        "title": "SAM.gov must match",
+        "sub": "Misaligned NAICS codes or ownership data fail pre-award verification before COs call."
+      }
+    ],
+    "footer_left": "The Real Cert Math",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "CERTIFICATIONS OPEN DOORS. YOU STILL HAVE TO KNOCK.",
+    "image_prompt": "Checklist infographic layout. Dark navy background. Bold headline at top: 'CERTIFICATIONS OPEN DOORS. YOU STILL HAVE TO KNOCK.' Five checklist rows with green checkmarks and short labels: 'ACCESS NOT REVENUE', 'CERTS STACK', 'NEEDS RENEWAL', 'SUB FIRST', 'SAM MUST MATCH'. Left: illustrated professional man in suit holding a government credential badge. Bottom divider bar with accent stripe. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

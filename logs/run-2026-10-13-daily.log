@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's today's Josh post summary:
+
+---
+
+**2026-10-13 — Josh Ladick**
+
+- **Type:** `tips_list` | **Topic:** `certifications` | **Hook:** `truth` | **Format:** checklist/numbered | **Words:** 245
+- **Template:** `single-06-checklist` (dark navy)
+
+**Rotation logic:**
+- Blocked types (last 3 days): `milestone` (10-12), `inspiration` (10-09) → `tips_list` is clean
+- Blocked topics (last 5 days): `gsa_basics`, `pipeline` → `certifications` is clean; also avoids Jason's `pipeline` and William's `sam` from yesterday
+- Hook: `story` blocked (10-12), `contrarian` blocked (10-09) → `truth` fits naturally
+- Format: last 2 posts were prose → switched to numbered checklist for mandatory variety
+- Template: last two were dark (`single-04-stat`) then cream (`single-03-quote`) → dark navy is fine today; no consecutive-dark rule triggered
+- No data figure used (govcon-data file is available but tips_list doesn't need it; Jason and William proximity issues aside, keeping this post purely educational)
+
+**Post angle:** "Certifications are access keys, not revenue shortcuts." Five numbered reframes: they don't sell themselves, they stack, they need maintenance, they're subcontracting hooks, and SAM.gov alignment is mandatory. Closing question targets two ICP segments — owners mid-application and fence-sitters — to drive comment depth.

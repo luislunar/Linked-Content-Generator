@@ -1,0 +1,5 @@
+This draft tests a `truth` hook on the `certifications` topic using a numbered `tips_list` format — a deliberate break from the prose-heavy `milestone` and `inspiration` posts of the last two Josh runs.
+
+The hook ("Nobody talks enough about this") establishes tension by implying that something widely assumed — certifications as a shortcut to federal revenue — is actually a misconception. The five numbered items then reframe certifications as tools that require active strategy, not passive holding. This structure rewards readers who skim (five clear takeaways) and readers who go deep (each item has a counterintuitive nuance).
+
+The closing question ("Which certification are you working toward — or wondering if it's worth it?") is designed to surface two distinct comment segments: owners mid-application who want validation, and fence-sitters who need a push. Both groups are core ICP. Expected uplift: **comments** (the question invites confession-style responses that create thread depth) and **reactions** (the myth-deflation of "certs = revenue" tends to resonate with experienced GovCon operators who reshare it to correct peers).
