@@ -1,21 +1,15 @@
-Nobody talks enough about this.
+Badly priced GSA Schedules are worse than no Schedule at all.
 
-Certifications like 8(a), SDVOSB, WOSB, and HUBZone aren't golden tickets into the federal market. They're access keys. What they unlock depends entirely on what you do after you get them.
+I know that sounds harsh. But I've seen it play out too many times to soften it.
 
-I've worked with companies that held 8(a) status for three years and generated nothing federally. And others who got SDVOSB-certified and closed a first award inside a year. Same certification. Completely different outcomes.
+A small professional services firm came to us after seven months of trying to get their GSA application approved on their own. They had done a lot right — SAM.gov was active, financials were organized, their capabilities narrative was solid. What they had missed was the pricing analysis.
 
-Here are 5 things most owners miss:
+Their proposed labor rates were benchmarked against their most loyal commercial client — a long-term relationship where trust, not market rate, drove the number. GSA agencies don't buy that way. They compare your rates against every other vendor on the Schedule. If your numbers are out of range, your proposal doesn't move forward.
 
-1. Certifications create access, not revenue. Set-asides exist for cert holders — but you still have to find the right opportunities, price them correctly, and build real relationships with contracting officers.
+We rebuilt their Basis of Award from scratch. Cross-referenced their rates against comparable vendors in the MAS database, adjusted for NAICS alignment, and documented everything the contracting officer would need to evaluate the submission. The Schedule was approved. Eight months later, they landed their first federal task order.
 
-2. Multiple certifications stack. SDVOSB + WOSB + an active GSA Schedule is a real combination. Each one opens a different lane of the federal market.
+The paperwork was never the problem. Pricing is where most applications quietly fall apart.
 
-3. Every certification requires maintenance. 8(a) runs 9 years with annual reviews. SDVOSB, WOSB, and HUBZone require active recertification. Miss a deadline mid-opportunity and it can disqualify you.
+When you were building out your GSA pricing — or just thinking about it — what gave you the most uncertainty?
 
-4. Certifications are powerful subcontracting hooks. Primes pursuing set-aside contracts often need a certified sub to qualify. Being that sub is one of the fastest ways to build past performance from scratch.
-
-5. Your SAM.gov profile must match. If your NAICS codes or ownership data don't align with your certification, you'll fail pre-award verification before a contracting officer ever calls you back.
-
-Which certification are you currently working toward — or wondering if it's even worth it?
-
-#govcon #smallbusiness #certifications #gsa #federalcontracting
+#govcon #gsaschedule #pricing #smallbusiness #federalcontracting
