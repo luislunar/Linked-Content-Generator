@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-10-13 · William Hill**:
+
+**Selections:**
+| Field | Value | Reason |
+|---|---|---|
+| `post_type` | `client_story` | Not in William's last 3 days; not Josh's today (`tips_list`) |
+| `topic` | `pipeline` | Priority topic; last William use was 10-02 (outside 5-day window); not Josh (`certifications`) or Jason today |
+| `hook_pattern` | `story` | William preferred; yesterday was `question` (blocked consecutively); Josh uses `truth` today |
+| `template` | `single-05-beforeafter` | Primary for `client_story`; cream contrasts Josh's dark navy card |
+| `word_count` | ~222 | Within 200–300 range; last-3 avg was 184, no forced-short rule |
+
+**Post angle:** A mechanical contractor who'd spent a year tracking federal awards on USAspending.gov before calling — he already knew the pipeline, just needed the credential. Got approved, responded to sources sought within 60 days, first award by month eight. Closing insight: the Schedule unlocks the door to a room the best prospects had already mapped.
+
+**Files written:**
+- `drafts/william/2026-10-13/post.md`
+- `drafts/william/2026-10-13/post.meta.json`
+- `drafts/william/2026-10-13/hypothesis.md`
+- `logs/william/run-2026-10-13.md`

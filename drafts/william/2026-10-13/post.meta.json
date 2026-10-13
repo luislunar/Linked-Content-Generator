@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pipeline Ready",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you already <span class='accent'>know your market.</span>",
+    "before_items": [
+      "No Schedule credential",
+      "Tracking awards, not bidding",
+      "Primed but locked out"
+    ],
+    "after_items": [
+      "Approved. Moving fast.",
+      "Sources sought — day 60",
+      "First award — month eight"
+    ],
+    "footer_left": "One Pattern I Keep Seeing",
+    "footer_right": "Field Case Series",
+    "image_headline": "KNOW THE PIPELINE. THEN GET THE KEY.",
+    "image_prompt": "Infographic before/after split layout. Cream background. Left panel dark navy with bold label 'BEFORE' at top and three short labels: 'NO CREDENTIAL', 'WATCHING AWARDS', 'LOCKED OUT'. Right panel forest-green with bold label 'AFTER' at top and three short labels: 'APPROVED', 'DAY 60 RESPONSE', 'MONTH 8 AWARD'. Center: large illustrated key icon bridging left to right with an upward arrow. Illustrated professional man in work gear on left side transitioning to confident stance on right. Bold headline at very top of card: 'KNOW THE PIPELINE. THEN GET THE KEY.' Bottom footer bar. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
