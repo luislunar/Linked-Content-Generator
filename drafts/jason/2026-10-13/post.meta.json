@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "myths",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Myth Check",
+    "headline_html": "TOO<br>CROWDED<br><span class='accent'>TO WIN?</span>",
+    "sub": "Agencies are required to reserve 23% of federal contracts for small businesses. The barrier isn't competition — it's visibility.",
+    "issue": "No. 031",
+    "image_headline": "THE MARKET ISN'T THE PROBLEM",
+    "image_prompt": "Bold statement infographic. Dark navy background. Top left coral pill label: 'MYTH CHECK'. Large stacked headline center-right: 'TOO CROWDED' in white, then 'TO WIN?' in bright cyan accent. Illustrated professional man in dark business casual, arms crossed, confident stance, center-left. Right side: two short callout rows — 'THE MYTH' with red X icon and 2-word label 'TOO COMPETITIVE'; 'THE REALITY' with green check icon and 2-word label 'NOT VISIBLE'. Bottom navy strip with bold phrase: 'VISIBILITY IS THE BARRIER.' Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
