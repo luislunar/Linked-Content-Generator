@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Teaming Win",
+    "case_num": "Case · 028",
+    "headline_html": "What happens when you stop <span class='accent'>going it alone.</span>",
+    "before_items": [
+      "No federal revenue line",
+      "Competing solo, missing scope",
+      "Watching solicitations pass"
+    ],
+    "after_items": [
+      "8(a) teaming partner secured",
+      "Sources sought — day 60",
+      "First federal award — month 8"
+    ],
+    "footer_left": "One Pattern That Works",
+    "footer_right": "Field Case Series",
+    "image_headline": "STOP COMPETING ALONE. START WINNING.",
+    "image_prompt": "Infographic before/after split layout. Cream background. Left panel dark navy with bold label 'BEFORE' at top and three short labels with red X icons: 'SOLO BIDDER', 'MISSING SCOPE', 'LOCKED OUT'. Right panel forest green with bold label 'AFTER' at top and three short labels with green check icons: 'PARTNER SECURED', 'DAY 60 RESPONSE', 'AWARD MONTH 8'. Center divider: illustrated two professionals shaking hands, bridging left to right. Bold headline at very top: 'STOP COMPETING ALONE. START WINNING.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
