@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "First Call",
+    "module": "GSA Basics · Vol. 04",
+    "headline_html": "Five questions I answer on <span class='accent'>every</span> first call.",
+    "items": [
+      {
+        "title": "Do we qualify?",
+        "sub": "Two years in business, commercial revenue, clean SAM.gov registration — that's the short version."
+      },
+      {
+        "title": "How long will it take?",
+        "sub": "6–12 months is typical. Organized financials and past performance docs cut the timeline."
+      },
+      {
+        "title": "Will we get contracts?",
+        "sub": "The Schedule is market access, not a guarantee. You still have to sell."
+      },
+      {
+        "title": "Can we do it ourselves?",
+        "sub": "Yes. Most who try come back for help around page 40 of the solicitation."
+      },
+      {
+        "title": "What if we get rejected?",
+        "sub": "Our team holds a 98% approval rate and offers a money-back guarantee."
+      }
+    ],
+    "footer_left": "Field Questions",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIRST CALL QUESTIONS, ANSWERED",
+    "image_prompt": "Infographic checklist layout. Dark navy background with forest-green and amber accents. Bold headline centered at top in white: 'FIRST CALL QUESTIONS, ANSWERED'. Left side: illustrated professional man in business casual on a phone call, relaxed and confident expression. Right side: 5 checklist rows with amber check icons and short 2-3 word labels in white: 'YOU QUALIFY', 'TIMELINE', 'MARKET ACCESS', 'DIY RISK', 'MONEY-BACK'. Bottom strip in forest green with short bold phrase in white: 'THE ANSWERS EXIST'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

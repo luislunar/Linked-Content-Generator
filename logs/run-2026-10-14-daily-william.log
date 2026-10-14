@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's William Hill draft:
+
+---
+
+**2026-10-14 — William Hill**
+
+- **Post type:** `tips_list` — five first-call questions answered publicly
+- **Topic:** `gsa_basics` (priority topic, last used 10-06 — 6 run days clear)
+- **Hook:** `truth` — "A question I hear on almost every first call..."
+- **Template:** `single-06-checklist` (dark navy, forest-green/amber accents via `--theme william`)
+- **Format:** bullets with `→`
+- **Word count:** ~181 words
+
+**Uniqueness check:**
+- Josh today: `client_story/teaming/question` — different type, topic, hook ✓
+- Jason today: no draft ✓
+- William yesterday: `client_story/pipeline/story` — different type, topic, hook ✓
+
+**Compliance check:** "The Schedule is market access — not a contract guarantee. You still have to sell." explicitly avoids revenue promises. The 98% stat is attributed to the team in plural, not first-person. No lead magnet CTA.
