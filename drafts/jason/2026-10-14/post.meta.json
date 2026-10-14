@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pricing Reality",
+    "headline_html": "WRONG<br>QUESTION.<br><span class='accent'>RIGHT ONE.</span>",
+    "sub": "Your GSA rate isn't a bid number. It's a 5-year ceiling — and most companies set it wrong.",
+    "issue": "No. 012 · Pricing",
+    "image_headline": "YOUR GSA RATE IS A 5-YEAR CEILING",
+    "image_prompt": "Infographic contrarian split layout. Dark carbon background with cyan accents, Space Grotesk typography. Bold headline at top center in white uppercase: 'YOUR GSA RATE IS A 5-YEAR CEILING'. Left panel labeled 'WRONG QUESTION' with a red X icon and short 2-word label in light gray: '\"PRICE LOW\"'. Right panel labeled 'RIGHT QUESTION' in cyan accent text with green check and 3-word label in white: '\"WHAT COs SEE\"'. Center: illustrated professional man in business casual reviewing a tablet showing two price columns labeled 'YOU' and 'THEM' — one column highlighted lower. Bottom callout strip in deep navy with short bold phrase in white: 'GSA ISN'T EBAY'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
