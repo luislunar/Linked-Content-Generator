@@ -1,22 +1,19 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for **2026-10-14**:
+Today's post is already generated and committed. Here's a summary of what was produced:
 
----
+**2026-10-14 draft — complete**
 
-**Post type:** `client_story`  
-**Topic:** `teaming`  
-**Hook:** `question` — "Before you write off teaming as 'too complicated'..."  
-**Template:** `single-05-beforeafter` (cream bg — breaks the last two dark-bg streak)  
-**Word count:** 212 (within 200–300 range)
+- **post_type:** `client_story`
+- **topic:** `teaming`
+- **hook_pattern:** `question` — opens with "Before you write off teaming as 'too complicated'..."
+- **format:** `story` (prose, no bullets)
+- **template:** `single-05-beforeafter`
+- **word_count:** 212
 
-**Rotation logic:**
-- Types blocked (last 3 days): tips_list, milestone, inspiration → picked client_story ✅
-- Topics blocked (last 5 days): certifications, gsa_basics, pipeline, sam → picked teaming ✅
-- Hook blocked (yesterday): truth → picked question ✅
-- Template color: last 2 were dark-bg (single-06, single-04) → picked cream-bg (single-05) ✅
+**Story:** A construction firm with strong commercial revenue but missing federal capabilities (IT integration, security clearances) found an 8(a) IT teaming partner whose gaps aligned perfectly with their strengths. Sixty days to first sources sought response; month eight, first federal award as prime.
 
-**Files written:**
-- `drafts/2026-10-14/post.md`
-- `drafts/2026-10-14/post.meta.json`
-- `drafts/2026-10-14/hypothesis.md`
-- `logs/run-2026-10-14.md`
+**Card:** Before/After split — SOLO BIDDER / MISSING SCOPE / LOCKED OUT → PARTNER SECURED / DAY 60 RESPONSE / AWARD MONTH 8.
+
+**Community question:** "Which part of a federal solicitation has felt most out of reach — capabilities, past performance, or just knowing where to find the right partner?"
+
+The run log (`logs/run-2026-10-14.md`) and all draft files are in place. The git commit `publish: 2026-10-14 daily post` already pushed the content.
