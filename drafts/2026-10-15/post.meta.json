@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Pricing",
+    "quote_html": "Your GSA rates aren't your floor. <em>They're your ceiling.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "YOUR GSA PRICE IS A CEILING",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'WRONG MOVE' with red downward arrow, two short labels: 'Price Low', 'Lock In'. Right panel cream white, bold label 'RIGHT MOVE' with green checkmark, two short labels: 'Price Right', 'Stay Competitive'. Center: illustrated professional in suit reviewing a contract document, standing at desk. Bold headline top: 'YOUR GSA PRICE IS A CEILING.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
