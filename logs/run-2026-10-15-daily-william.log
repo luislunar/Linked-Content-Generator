@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **William Hill · 2026-10-15**:
+
+---
+
+**Post type:** `personal_story` | **Topic:** `teaming` | **Hook:** `question` | **Template:** `single-07-story`
+
+**The post** opens with the single most common first-call objection William hears — "we've never had a federal contract, I don't think we qualify" — then breaks the two-part reframe in public: (1) the GSA Schedule only needs commercial past performance, not federal, so eligibility is usually less of a barrier than prospects assume; (2) for actually winning the first award, teaming with a prime solves the track-record gap. The closing observation (fastest-moving companies mapped primes *before* they had the Schedule) gives the ICP a concrete Monday action. CTA targets both pre-Schedule owners (self-identification → reactions) and existing holders/teaming partners (share what worked → comments).
+
+**Rotation rationale:**
+- `personal_story` not used in William's last 3 days; not Josh today (`inspiration`) ✓
+- `teaming` last used by William on 10-07 (outside 5-run-day window); not Josh (`pricing`) or Jason (no 10-15 draft) ✓
+- `question` hook differentiates from yesterday's `truth` (hard consecutive block) and Josh's `contrarian` today ✓
+- `story` format breaks the bullet streak; 232 words in range ✓

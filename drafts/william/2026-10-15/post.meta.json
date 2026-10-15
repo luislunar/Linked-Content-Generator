@@ -1,0 +1,21 @@
+{
+  "post_type": "personal_story",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "First Year · Call Pattern",
+    "lead_html": "No past performance? <em>You're probably not as stuck as you think.</em>",
+    "rows": [
+      { "when": "First Call", "what_html": "<strong>The 'we don't qualify' assumption</strong> <span class='light'>— almost always wrong for commercial performers</span>" },
+      { "when": "Step One", "what_html": "<strong>GSA Schedule requires commercial PP</strong> <span class='light'>— not a federal contract history you don't have yet</span>" },
+      { "when": "Step Two", "what_html": "<strong>Teaming puts a prime's track record behind you</strong> <span class='light'>— map them before the Schedule even lands</span>" }
+    ],
+    "closer": "THE CREDENTIAL GETS YOU IN. TEAMING GETS YOU THERE.",
+    "image_headline": "TEAMING OPENS THE DOOR",
+    "image_prompt": "Infographic story layout. Forest-green and amber color palette, Sora typography. Bold headline at top in dark navy uppercase: 'TEAMING OPENS THE DOOR.' Left side: illustrated vertical journey path with three milestone markers connected by arrows, each labeled with short 2-3 word callouts in amber: 'COMMERCIAL PP', 'GET APPROVED', 'FIND A PRIME'. Right side: illustrated professional man on a phone call at a standing desk, engaged and confident. Center callout box with bold phrase in amber accent: 'NOT AS STUCK'. Bottom dark navy strip with a closing label in white uppercase. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
