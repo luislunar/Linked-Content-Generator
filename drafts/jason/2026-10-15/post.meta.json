@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "myth-bust",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Cert Reality Check",
+    "module": "Module 05 · Certifications",
+    "headline_html": "Five certs. <span class='accent'>What each one actually does.</span>",
+    "items": [
+      { "title": "8(a)", "sub": "Sole-source up to $4.5M — real only with active agency pipeline" },
+      { "title": "SDVOSB", "sub": "VA set-asides are large — getting certified is not a strategy" },
+      { "title": "HUBZone", "sub": "10% price preference in close competitive bids, not a win guarantee" },
+      { "title": "WOSB / EDWOSB", "sub": "Set-asides in eligible NAICS only — verify your code first" },
+      { "title": "Any cert + GSA Schedule", "sub": "Now you have a vehicle — this is when the cert starts working" }
+    ],
+    "footer_left": "Cert Reality Check",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE CERTS. WHAT EACH ONE DOES.",
+    "image_prompt": "Infographic checklist layout. Dark navy background throughout. Bold headline at top in white uppercase: 'CERT REALITY CHECK.' Left side: illustrated professional man in business casual holding a clipboard, five certification badge icons arranged vertically beside him — star, veteran medal, map pin, female symbol, GSA shield — each rendered in cyan accent color. Right side: five checklist rows, each with a white checkmark icon, a bold 2-3 word cert name in cyan accent, and a short 3-4 word descriptor in light gray below. Bottom dark navy strip with the label 'CERT DOESN'T CLOSE DEALS' in white uppercase letters. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

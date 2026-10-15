@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Four files written. Here's what was produced for today:
+
+---
+
+**`drafts/jason/2026-10-15/post.md`** — 230 words, `tips_list`, `certifications`, `myth-bust` hook
+
+Opens by naming the exact objection Jason hears most on prospecting calls ("Having a certification means the contracts will follow"), then runs 5 bullets — one per major cert — with the specific mechanism and the blunt gap most companies miss. The SDVOSB bullet uses the $5.7B VA Q3 figure from this week's govcon-data file. The final bullet ties everything to the GSA Schedule as the vehicle that makes certs actually work. Closes with a confession-style CTA designed to pull responses from cert-holders sitting on zero contracts.
+
+**Uniqueness checks passed:**
+- Topic: `certifications` — not used by Josh (`pricing`) or William (`teaming`) today
+- Post type: `tips_list` — not in Jason's last 3 days (`hot_take`, `inspiration`, `client_story`)
+- Hook: `myth-bust` — different from Josh (`contrarian`), William (`question`), and Jason's last two (`contrarian`, `blunt`)
+- Template: `single-06-checklist` (dark navy) — alternates from Jason's `single-03-quote` (cream) on 10-13
