@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "compliance",
+  "hook_pattern": "alert",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Compliance Alert",
+    "headline_html": "FY JUST<br>FLIPPED.<br><span class='accent'>READY?</span>",
+    "sub": "Federal agencies are on FY2027 budgets. Your Schedule terms still reflect your last mod cycle.",
+    "issue": "Issue 047",
+    "image_headline": "FY FLIPPED. IS YOUR SCHEDULE READY?",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: 'FY FLIPPED. READY?' with caution icon. Left side: illustrated professional in blazer at desk, reviewing thick contract binder with focused expression. Right column: three status rows with amber warning icons — short labels 'SAM STATUS', 'TAA SOURCING', 'MASS MOD'. Bottom: dark navy banner callout 'Q1 AUDIT NOW'. Color palette: dark navy and white with amber warning accents throughout. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
