@@ -1,16 +1,24 @@
 {
-  "post_type": "hot_take",
-  "topic": "compliance",
-  "hook_pattern": "alert",
-  "format": "prose",
-  "template": "single-01-bold",
+  "post_type": "tips_list",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "tag": "Compliance Alert",
-    "headline_html": "FY JUST<br>FLIPPED.<br><span class='accent'>READY?</span>",
-    "sub": "Federal agencies are on FY2027 budgets. Your Schedule terms still reflect your last mod cycle.",
-    "issue": "Issue 047",
-    "image_headline": "FY FLIPPED. IS YOUR SCHEDULE READY?",
-    "image_prompt": "Infographic alert layout. Bold warning headline top: 'FY FLIPPED. READY?' with caution icon. Left side: illustrated professional in blazer at desk, reviewing thick contract binder with focused expression. Right column: three status rows with amber warning icons — short labels 'SAM STATUS', 'TAA SOURCING', 'MASS MOD'. Bottom: dark navy banner callout 'Q1 AUDIT NOW'. Color palette: dark navy and white with amber warning accents throughout. Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "Pipeline Health",
+    "module": "Module 05 · Pipeline",
+    "headline_html": "Five places to look <span class='accent'>before</span> the RFP drops.",
+    "items": [
+      { "title": "Recompetes on USAspending", "sub": "Awards expiring in 12 months are your warmest leads" },
+      { "title": "Sources Sought responses", "sub": "Get on the CO's radar before the requirement is written" },
+      { "title": "Industry Day follow-ups", "sub": "Email within 48 hours — most attendees never do" },
+      { "title": "SAM.gov saved searches", "sub": "NAICS + set-aside filters running weekly, not ad hoc" },
+      { "title": "Competitor contract intel", "sub": "Their recompete dates in your NAICS are your calendar" }
+    ],
+    "footer_left": "Pipeline Checklist",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "LOOK BEFORE THE RFP DROPS",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline top: 'LOOK BEFORE THE RFP DROPS' with magnifying glass icon. Left: illustrated professional in blazer at standing desk reviewing laptop with federal procurement database. Right column: 5 checklist rows each with green checkmark and short 2-3 word label — 'RECOMPETES', 'SOURCES SOUGHT', 'INDUSTRY DAYS', 'SAM ALERTS', 'COMPETITOR INTEL'. Bottom cream accent banner: callout 'BUILD BEFORE THE BID'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

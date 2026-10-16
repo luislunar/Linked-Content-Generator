@@ -1,13 +1,23 @@
-The federal fiscal year flipped October 1. Your GSA Schedule didn't.
+Nobody warns you: the federal pipeline closes before the RFP ever opens.
 
-Federal agencies are now running on FY2027 budgets — fresh authorization, new spend priorities, new contracting officer contacts rotating in. Your Schedule, though, is still operating on whatever terms and pricing were locked in during your last modification cycle. The contract doesn't auto-update because the government's calendar did.
+Most small businesses wait for bids to drop. By then, agencies already have a shortlist. The real work happens 60–90 days upstream — before the solicitation number even exists.
 
-Here's the practical problem: Q1 is when agencies push early-year spend to establish vendor relationships. If your SAM.gov registration lapsed quietly in the September scramble, if your Trade Agreements Act sourcing shifted when you changed suppliers, or if a mass modification acceptance window closed without a signature — you may be technically non-compliant or simply invisible to buyers right now, at the worst possible moment.
+GSA alone awarded $3.0B to small businesses in Q3 2026. That money went to companies already in the pipeline, not ones who found the opportunity the week it posted. (Source: USAspending.gov)
 
-The holders who win Q1 awards treat October 1 as a contract health date, not just a budget date.
+Here's where to look before the RFP:
 
-Audit your Schedule this week. Not when a contracting officer flags something — before that.
+1. **Recompetes** — Search USAspending.gov for contracts in your NAICS ending in the next 12 months. Expiring awards are your warmest leads. The incumbent isn't always guaranteed.
 
-What's the first thing you check when the new fiscal year opens? Genuinely curious what the veterans in this space do differently.
+2. **Sources Sought notices** — Respond to these early agency market research calls. You're not bidding yet; you're getting on the contracting officer's radar before the requirement is even written.
 
-#govcon #gsa #federalcontracting #smallbusiness #compliance
+3. **Industry Day follow-ups** — Most people attend. Almost no one emails the CO within 48 hours afterward. That follow-up is where actual relationships form.
+
+4. **SAM.gov saved searches** — Stop browsing. Set NAICS code + set-aside filters and schedule a weekly alert. A tab you check "when you remember" isn't a pipeline.
+
+5. **Competitor contract intel** — Look at who's winning in your NAICS on USAspending.gov. Their award sizes, agencies, and recompete dates are a roadmap. Study them.
+
+The pipeline isn't a list of open bids. It's the system you build six months before the bid drops.
+
+What's one pipeline habit that's actually moved the needle for your business? Curious what this community is doing.
+
+#govcon #federalcontracting #gsa #smallbusiness #businessdevelopment
