@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary:
+
+**Post:** `behind_scenes` · `vehicles` · `question` hook · `single-07-story` (cream)  
+**Files written:** `drafts/jason/2026-10-16/post.md`, `post.meta.json`, `hypothesis.md`, `logs/jason/run-2026-10-16.md`
+
+**Key decisions:**
+- `vehicles` — Jason's priority topic, untouched by Josh (compliance) and William (pricing) today
+- `question` hook forced by cadence rule (last 3 Jason posts all opened with statements)
+- `single-07-story` (cream) forced by color rule (last 2 cards were dark-bg: single-06 + single-01)
+- `behind_scenes` chosen to hit the 5-types-in-7-days variety target; it's new in the recent window
+- Post angle: the 3-question diagnostic Jason runs on every vehicle call — analytical, process-revealing, invites readers to comment which vehicle they're chasing

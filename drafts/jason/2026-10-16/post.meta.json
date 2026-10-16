@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "vehicles",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Process",
+    "year_client": "Discovery Call · Every Time",
+    "lead_html": "Three questions before you <em>commit to any vehicle.</em>",
+    "rows": [
+      {
+        "when": "Question 01",
+        "what_html": "<strong>Do you have GSA Schedule?</strong> <span class='light'>— OASIS+ and SEWP both require it</span>"
+      },
+      {
+        "when": "Question 02",
+        "what_html": "<strong>What's your past performance?</strong> <span class='light'>— MAS has the lowest barrier to entry</span>"
+      },
+      {
+        "when": "Question 03",
+        "what_html": "<strong>Who's your target agency?</strong> <span class='light'>— 15 min on usaspending.gov saves months</span>"
+      }
+    ],
+    "closer": "BUILD THE SCHEDULE FIRST. EVERYTHING STACKS ON TOP."
+  },
+  "experiment_id": "",
+  "image_headline": "THREE QUESTIONS BEFORE YOU PICK A VEHICLE",
+  "image_prompt": "Infographic process layout. Dark carbon background with cyan accents throughout. Bold headline top in ALL CAPS: 'THREE QUESTIONS BEFORE YOU PICK A VEHICLE'. Left side: illustrated professional male in business attire holding a short checklist, pointing toward three stacked question cards. Right side: three stacked cream-panel cards, each labeled with a large number (01, 02, 03) and a short 3-word label — '01 GSA SCHEDULE?', '02 PAST PERFORMANCE?', '03 TARGET AGENCY?' — with a small cyan checkmark when the question is answered. Bottom: wide dark navy banner with bold cyan text 'MAS FIRST. THEN STACK.' Minimal, analytical layout. Footer text: 'Jason · GSA Focus'."
+}
