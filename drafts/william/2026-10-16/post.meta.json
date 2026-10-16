@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "pricing",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 016 · Pricing",
+    "quote_html": "The fear of pricing wrong freezes good companies. <em>The risk is in not negotiating.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "PRICING FEAR KILLS GOOD COMPANIES",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional man in business casual attire, seated at desk with phone to ear, thoughtful expression mid-call. Right side: cream pull-quote panel — bold headline 'PRICING FEAR KILLS GOOD COMPANIES' in dark navy, short callout phrase 'THE RISK: NOT NEGOTIATING' in amber highlight box below. Bottom strip: three-stage call journey icons labeled 'THE FEAR', 'THE CALL', 'THE NEGOTIATION' (2-3 word labels, forest green icons). Color palette: cream background, forest green accents, amber highlights, dark navy text. Clean serif typography. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
