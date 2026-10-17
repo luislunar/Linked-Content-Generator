@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today (2026-10-17):
+
+**Type:** `personal_story` — last used more than 5 days ago, no conflict with the 3-day no-repeat rule.
+
+**Topic:** `pipeline` — not touched in the last 5 days (window was gsa_basics → certifications → teaming → pricing → compliance).
+
+**Hook:** `truth` — previous three were question/contrarian/alert, so this rotates cleanly.
+
+**Template:** `single-07-story` (cream + serif lead) — previous hot_take used the dark single-01-bold template, so cream restores feed contrast.
+
+**The post:** Josh recalls a client 14 months into a GSA Schedule with zero awards — not because anything was broken, but because she was waiting for agencies to come to her. A 30-minute pipeline audit (recompetes, sources sought, industry day) changed the frame. Three months later she submitted her first bid. Closes on "The Schedule gets you to the table. Pipeline work keeps you in the room." CTA invites honest self-disclosure from Schedule holders who haven't been actively working pipeline.
+
+**Files written:**
+- `drafts/2026-10-17/post.md` (221 words)
+- `drafts/2026-10-17/post.meta.json`
+- `drafts/2026-10-17/hypothesis.md`
+- `logs/run-2026-10-17.md`

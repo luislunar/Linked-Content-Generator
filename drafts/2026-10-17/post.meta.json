@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Two · Client 031",
+    "lead_html": "Fourteen months on the Schedule. <em>Zero awards. Zero pipeline.</em>",
+    "rows": [
+      {
+        "when": "Month 01–14",
+        "what_html": "<strong>Schedule active, zero outreach</strong> <span class='light'>— waiting for agencies to find her</span>"
+      },
+      {
+        "when": "Month 15",
+        "what_html": "<strong>Pipeline audit: 3 recompetes, 4 sources sought</strong> <span class='light'>— 30-minute call, completely new frame</span>"
+      },
+      {
+        "when": "Month 18",
+        "what_html": "<strong>First bid response submitted</strong> <span class='light'>— the Schedule didn't do it. Outreach did.</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE GETS YOU IN. PIPELINE KEEPS YOU THERE.",
+    "image_headline": "THE SCHEDULE IS NOT THE STRATEGY",
+    "image_prompt": "Infographic story layout. Left side: illustrated vertical timeline with 3 milestone icons, labels '14 MONTHS', 'PIPELINE BUILT', 'FIRST BID OUT'. Right side: illustrated professional woman in blazer, seated at desk with laptop, looking focused and determined. Bold headline top: 'THE SCHEDULE IS NOT THE STRATEGY'. One dark navy callout box with short phrase '14 MONTHS. ZERO BIDS.' Cream background, clean sans-serif type. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
