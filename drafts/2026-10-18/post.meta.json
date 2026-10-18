@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "checklist",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Teaming Playbook",
+    "index": "Vol. 10 · Teaming",
+    "headline_html": "Enter federal contracting without <span class='accent'>past performance.</span>",
+    "items": [
+      {
+        "num": "01",
+        "title": "Match the prime's NAICS code",
+        "desc": "Bring capacity or a clearance they lack. Your contract history is not the value here."
+      },
+      {
+        "num": "02",
+        "title": "Use mentor-protégé programs",
+        "desc": "SBA and DoD run structured arrangements that include guaranteed subcontract work."
+      },
+      {
+        "num": "03",
+        "title": "Get the agreement in writing first",
+        "desc": "Teaming agreements must be signed before the bid — verbal handshakes vanish at award."
+      },
+      {
+        "num": "04",
+        "title": "Define the work share as a number",
+        "desc": "Vague percentages become disputes. Lock in the split before you submit."
+      }
+    ],
+    "image_headline": "TEAMING IS YOUR ENTRY POINT",
+    "image_prompt": "Infographic numbered layout. Cream background with dark navy accents. Bold headline top: 'TEAMING IS YOUR ENTRY POINT'. Left side: illustrated professional in blazer reaching toward a handshake icon. Right column: four numbered rows, each with a bold navy number badge and short 2-3 word label: '01 MATCH NAICS', '02 MENTOR-PROTÉGÉ', '03 SIGN FIRST', '04 LOCK SHARE'. Bottom dark navy banner. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
