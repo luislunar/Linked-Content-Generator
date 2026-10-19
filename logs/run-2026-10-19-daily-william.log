@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William today:
+
+**Post type:** `hot_take` | **Topic:** `certifications` | **Hook:** `story` | **Template:** `single-01-bold` (dark navy — satisfies the forced-dark rule since last 2 William templates were both cream)
+
+**Core angle:** Call-observed sequencing pattern — "cert-first, vehicle-never." A WOSB owner who spent 18 months earning her certification but never got a contract vehicle. The post reframes the cert as a multiplier (not the engine), shows the correct sequence (Schedule → cert → set-aside pool), and ends with the VIP-pass-to-a-venue-you-can't-find analogy that makes the abstract problem land immediately.
+
+**Files created:**
+- `drafts/william/2026-10-19/post.md` — 203 words, 3 bullet points with `→`, story hook, closing line, experience-share CTA
+- `drafts/william/2026-10-19/post.meta.json` — full template_data for `single-01-bold` with image prompt
+- `drafts/william/2026-10-19/hypothesis.md` — expected comment lift from cert-holders who recognize the pattern
+- `logs/william/run-2026-10-19.md` — full rotation log for tomorrow's agent

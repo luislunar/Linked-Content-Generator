@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Cert Reality",
+    "headline_html": "THE CERT<br>IS NOT<br>THE <span class='accent'>VEHICLE.</span>",
+    "sub": "A WOSB cert without a GSA Schedule is a credential with nowhere to go.",
+    "issue": "Field Note 019",
+    "image_headline": "THE CERT IS NOT THE VEHICLE",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, large bold label 'CERT ONLY' at top with red X icon beneath, short label 'NO VEHICLE' below. Illustrated professional woman in blazer standing with arms at sides, looking uncertain, in left panel. Right panel cream/white, large bold label 'CERT + SCHEDULE' at top with green checkmark beneath, short label 'SET-ASIDE READY' below. Center: thick horizontal arrow pointing from dark left panel to light right panel. Bold ALL CAPS headline at very top spanning both panels: 'THE CERT IS NOT THE VEHICLE'. Small dark navy callout banner at bottom center: 'SEQUENCE MATTERS.' Clean, high-contrast, professional infographic layout. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
