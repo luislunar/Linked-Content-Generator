@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Behind the Work · Pipeline Build",
+    "lead_html": "This is how we actually build federal pipeline — <em>for every client, every week.</em>",
+    "rows": [
+      {
+        "when": "Step 01",
+        "what_html": "<strong>NAICS audit on USAspending.gov</strong> <span class='light'>— ceiling sizes, incumbents, and agency spend patterns</span>"
+      },
+      {
+        "when": "Step 02",
+        "what_html": "<strong>Sources Sought on beta.SAM.gov</strong> <span class='light'>— agency intent signals before solicitations drop</span>"
+      },
+      {
+        "when": "Step 03",
+        "what_html": "<strong>Weekly qualified review</strong> <span class='light'>— relevant opportunities added, no blind alert floods</span>"
+      }
+    ],
+    "closer": "PIPELINE IS A PROTOCOL. NOT A LUCKY BREAK.",
+    "image_headline": "PIPELINE IS A PROTOCOL. NOT LUCK.",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional man in business casual at a desk with two monitors, one labeled 'USASPENDING', one labeled 'SOURCES SOUGHT'. Right side: vertical three-step numbered flow with icons labeled 'NAICS AUDIT', 'INTENT SIGNALS', 'WEEKLY BUILD'. Bold headline top: 'PIPELINE IS A PROTOCOL.' Dark navy callout box text: 'NOT LUCK. A HABIT.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
