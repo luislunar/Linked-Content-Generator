@@ -1,14 +1,22 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for 2026-10-19:
+Today's run is already complete. All files are in place:
 
-**Post type:** `behind_scenes` — not used in last 3 days, fresh contrast after hot_take/inspiration/client_story  
-**Topic:** `pipeline` — not seen in any of the last 5 logs  
-**Hook:** `blunt` — not used recently; yesterday was `alert`  
-**Template:** `single-07-story` (cream, serif lead) — correct first-choice for behind_scenes, and the last 2 templates were dark + cream so no constraint  
-**Word count:** ~161 words — within the 100–200 range for behind_scenes  
+- **`drafts/2026-10-19/post.md`** — `behind_scenes` post on the `pipeline` topic (161 words)
+- **`drafts/2026-10-19/post.meta.json`** — template: `single-07-story`, hook: `blunt`
+- **`drafts/2026-10-19/hypothesis.md`** — testing blunt opener + tool-name specificity for pipeline credibility
+- **`drafts/2026-10-19/card.jpg`** — already rendered
 
-**Files written:**
-- `drafts/2026-10-19/post.md` — casual 2-paragraph process reveal with blunt opener, no bullets, community question at the end
-- `drafts/2026-10-19/post.meta.json` — single-07-story template with 3 process steps (NAICS audit → Sources Sought → weekly review), image headline and prompt included
-- `drafts/2026-10-19/hypothesis.md` — explains what the post is testing and which score components it targets
-- `logs/run-2026-10-19.md` — rotation fields for tomorrow's agent
+The post was generated and the publish workflow committed it (`publish: 2026-10-19 daily post`). No further action needed — the workflow handles the PR and LinkedIn publish step from here.
+
+**Summary of today's output:**
+
+| Field | Value |
+|---|---|
+| post_type | `behind_scenes` |
+| topic | `pipeline` |
+| hook_pattern | `blunt` |
+| format | `prose` |
+| template | `single-07-story` |
+| word_count | 161 |
+
+The post reveals the actual search protocol used at GSA Focus (USAspending.gov NAICS audit → beta.SAM.gov Sources Sought cross-reference → weekly qualified review), closing with "Pipeline isn't luck. It's a habit."
