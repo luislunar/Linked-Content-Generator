@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "gsa_basics",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q3 2026",
+    "label_above": "Small business federal awards, Q3 2026",
+    "big_number_html": "$<span class='accent'>22.4B</span>",
+    "context_html": "Small businesses claimed this in <strong>one quarter</strong> — not defense giants, not primes. The barrier is paperwork, not size.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "SMALL BIZ. $22B. ONE QUARTER.",
+    "image_prompt": "Infographic stat layout. Dark navy background. Top: bold ALL CAPS coral/cyan pill label 'FEDERAL MARKET'. Below: massive centered stat '$22.4B' in large cian/cyan accent numerals, white dollar sign. Short white subline beneath the number: 'Q3 2026 · SMALL BUSINESSES'. Left side: illustrated professional man in business casual at standing desk reviewing a tablet, calm and focused. Right column: three stacked icon-callout boxes in dark slate — each with a 2-word label and a short figure: 'IT SERVICES · $6.8B', 'CONSTRUCTION · $3.9B', 'GSA AWARDS · $3.0B'. Bottom dark navy banner: one-line callout 'NOT SIZE. PAPERWORK.' Bold ALL CAPS headline at very top spanning full width: 'SMALL BIZ. $22B. ONE QUARTER.' Clean high-contrast professional layout. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
