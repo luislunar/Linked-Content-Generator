@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Three files written to `drafts/2026-10-20/` and the run log appended.
+
+**Today's post summary:**
+
+- **Type:** `tips_list` — not used in the last 3 days
+- **Topic:** `sam` — not used in 5+ days
+- **Hook:** `question` — mandatory today (last 3 posts all used statement openers)
+- **Format:** `checklist` / numbered — breaks the 3-day prose streak
+- **Template:** `single-06-checklist` (dark navy)
+- **Word count:** ~204 (within 150–280 range)
+
+The post opens with a self-audit question about SAM.gov, walks through 5 specific things most businesses never check (expiration, NAICS codes, legal name match, contacts, CAGE linkage), and closes with an honest-check CTA ("When did you last do a full SAM.gov audit? Be honest. 😅") designed to pull comments.
