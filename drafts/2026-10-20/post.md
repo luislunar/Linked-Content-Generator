@@ -1,21 +1,17 @@
-When did you last actually open your SAM.gov profile and *read* it?
+Six months ago, a 12-person IT firm came to me with a question I've heard at least a hundred times.
 
-Not log in to check the expiration date. Actually read it.
+"How do we win federal work when we have zero federal past performance?"
 
-I've seen businesses lose bids — not because they lost the competition, but because the contracting officer found a problem in SAM before the award was even processed. Something that had been sitting there wrong for months.
+They were stuck in the classic GovCon catch-22. Agencies want past performance. You can't build past performance without winning work. They'd put together three competitive proposals — and lost all three. Not because their work wasn't strong. Because they couldn't check the past performance box.
 
-Here's a 5-point SAM health check most people skip:
+Here's what I told them: stop bidding solo. Start teaming.
 
-1. **Registration expiration.** SAM renews annually. If you're within 60 days of expiration, start the process now — not next week. Lapsed registrations freeze everything.
-2. **NAICS codes.** Does your list actually reflect what you sell today? Codes you added three years ago may be hiding you from the buyers who matter.
-3. **Legal business name.** It must match your IRS filing exactly. Even one formatting difference ("LLC" vs "L.L.C.") can trigger a compliance flag.
-4. **Points of contact.** Are the listed contacts still at your company? A dead email address on your SAM profile is a failed award waiting to happen.
-5. **CAGE code linkage.** If you've had any ownership changes, verify this is still accurate and current.
+They already had exactly what a larger prime needed — deep technical expertise in a specific cybersecurity niche. They just weren't packaging it for the federal market. Within four months, they had a teaming agreement with an 8(a) prime that needed their capabilities but lacked their technical depth. The prime brought past performance and the vehicle. They brought the team that could actually execute.
 
-Your SAM profile is a contracting officer's first impression of your company. Don't let a stale record cost you an award you actually won.
+Eight months after that first conversation, they logged their first federal award. A second opportunity is already in proposal.
 
----
+The past performance wall is real. But it's not a dead end — it's a door. Teaming is the key most small businesses don't realize they can use.
 
-When did you last do a full SAM.gov audit? Be honest. 😅
+What's been your biggest barrier to winning that first federal award?
 
-#govcon #federalcontracting #SAMgov #smallbusiness
+#govcon #federalcontracting #teaming #smallbusiness

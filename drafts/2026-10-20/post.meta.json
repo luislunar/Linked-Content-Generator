@@ -1,24 +1,19 @@
 {
-  "post_type": "tips_list",
-  "topic": "sam",
-  "hook_pattern": "question",
-  "format": "checklist",
-  "template": "single-06-checklist",
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "prose",
+  "template": "single-05-beforeafter",
   "template_data": {
-    "section_label": "SAM.gov Audit",
-    "module": "Module 01 · Registration",
-    "headline_html": "Five things most people <span class='accent'>never</span> check in SAM.",
-    "items": [
-      { "title": "Registration expiration", "sub": "Renew 60 days out — not the week it lapses" },
-      { "title": "NAICS code accuracy", "sub": "Stale codes hide you from the buyers who need you" },
-      { "title": "Legal business name", "sub": "Must match IRS filing exactly — every character" },
-      { "title": "Points of contact", "sub": "Dead emails on your profile = failed bid waiting" },
-      { "title": "CAGE code linkage", "sub": "Ownership changes must be reflected here" }
-    ],
-    "footer_left": "Quick Self-Audit",
-    "footer_right": "Page 1 of 1",
-    "image_headline": "FIVE SAM CHECKS YOU'RE SKIPPING",
-    "image_prompt": "Infographic alert layout. Bold headline top: 'FIVE SAM CHECKS YOU'RE SKIPPING' with caution icon. Left side: illustrated professional woman in blazer holding clipboard, reviewing a laptop screen. Right side: 5 checklist rows, each with a green checkmark and a short 2-3 word label: 'EXPIRATION DATE', 'NAICS CODES', 'LEGAL NAME', 'CONTACTS', 'CAGE CODE'. Bottom dark navy banner with short callout. Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "Teaming Case",
+    "case_num": "Case · 031",
+    "headline_html": "The catch-22 that <span class='accent'>teaming breaks.</span>",
+    "before_items": ["Zero federal past performance", "Lost three solo bids", "Stuck commercial-only"],
+    "after_items": ["Teaming agreement secured", "First federal award logged", "Second opportunity in proposal"],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "THE CATCH-22 TEAMING BREAKS",
+    "image_prompt": "Split-panel infographic. Left panel dark navy labeled 'BEFORE' with red X icons, three short 2-3 word labels: 'NO PAST PERF', 'SOLO BIDS LOST', 'STUCK COMMERCIAL'. Right panel light cream labeled 'AFTER' with green checkmarks, three short 2-3 word labels: 'TEAMING SIGNED', 'FIRST AWARD WON', 'PIPELINE OPEN'. Center divider: illustrated professional in blazer walking from dark left side to bright right side. Bold headline at top: 'THE CATCH-22 TEAMING BREAKS'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }
