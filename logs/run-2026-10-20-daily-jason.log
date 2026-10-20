@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today:
+
+**Jason · 2026-10-20**
+
+| Field | Value |
+|---|---|
+| post_type | `hot_take` |
+| topic | `teaming` |
+| hook_pattern | `contrarian` |
+| format | `bullets` |
+| template | `single-01-bold` |
+| word_count | ~183 |
+
+**Post angle:** Contrarian take on teaming as a strategy — Jason debunks the "teaming = shortcut" narrative by listing what sub-only actually costs (no past performance, margin squeeze, pipeline that disappears at recompete). The two legitimate uses of teaming are named clearly, and the closing question is specific enough to draw real experience shares rather than generic responses.
+
+**Uniqueness checks passed:**
+- Josh today: `sam` / `tips_list` / `question` — no overlap
+- William today: `compliance` / `behind_scenes` / `truth` — no overlap
+- Jason's last 5 days: gsa_basics, vehicles, certifications, pricing, myths — `teaming` is clean
+- No type repeated from Jason's last 3 days (milestone, behind_scenes, tips_list)

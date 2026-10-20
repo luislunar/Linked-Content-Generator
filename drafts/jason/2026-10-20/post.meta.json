@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Field Observation",
+    "headline_html": "TEAMING<br>ISN'T<br><span class='accent'>THE PLAN.</span>",
+    "sub": "Three years sub-only, zero past performance in your own name. I hear this story every week.",
+    "issue": "No. 031",
+    "image_headline": "TEAMING ISN'T THE PLAN",
+    "image_prompt": "Split-panel infographic on dark navy background. Left panel slightly darker navy, bold coral label 'THE SUB LANE' with downward arrow icon. Three short 2-3 word labels stacked vertically with red X icons: 'PRIME CONTROLS', 'MARGINS CUT', 'ZERO PAST PERF'. Right panel cian-tinted dark section, bold label 'THE DIRECT PATH' with upward green arrow icon. Three short labels with green checkmarks: 'OWN VEHICLE', 'OWN HISTORY', 'OWN PIPELINE'. Center divider: illustrated professional man in business suit stepping from left to right, mid-stride. Bold white headline at top: 'TEAMING ISN'T THE PLAN'. Clean high-contrast layout, Space Grotesk typography feel. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
