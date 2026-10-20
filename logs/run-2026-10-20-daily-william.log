@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**William Hill — 2026-10-20**
+
+**Type:** `behind_scenes` · **Topic:** `compliance` · **Hook:** `truth` · **Template:** `single-07-story` (cream)
+
+The post opens with the question nobody asks on a first call — what happens after Schedule approval — then walks through three concrete maintenance realities: annual SAM.gov renewal, GSA-reviewed modifications, and ongoing TAA compliance. Closing line reframes Schedule ownership as a credential you maintain, not a one-time filing.
+
+**Rotation rationale:**
+- Post type not in William's last 3 days; not Josh's today (tips_list)
+- Compliance last used > 5 William run days ago; not Josh (sam) or Jason (gsa_basics)
+- Truth hook: yesterday was story (hard block lifted), differentiates from Josh's question
+- Cream template contrasts Josh's dark single-06-checklist in the feed
+- 178 words, within 100–200 behind_scenes range

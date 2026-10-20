@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "compliance",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Post-Approval · Compliance",
+    "lead_html": "Month eight: the Schedule is live. <em>Now what?</em>",
+    "rows": [
+      { "when": "Annual", "what_html": "<strong>SAM.gov renewal</strong> <span class='light'>— miss it and your active Schedule goes on hold</span>" },
+      { "when": "As needed", "what_html": "<strong>Schedule modifications</strong> <span class='light'>— price changes, new SINs, each go back to GSA for review</span>" },
+      { "when": "Ongoing", "what_html": "<strong>TAA compliance</strong> <span class='light'>— one supply chain change can open a gap</span>" }
+    ],
+    "closer": "THE SCHEDULE IS A CREDENTIAL YOU MAINTAIN.",
+    "image_headline": "WHAT HAPPENS AFTER APPROVAL",
+    "image_prompt": "Infographic story layout. Cream background with forest-green and amber accents. Left side: illustrated vertical timeline with 3 milestone rows, each with a small icon and a short 2-word label — 'ANNUAL RENEWAL' (calendar icon), 'MODIFICATIONS' (document icon), 'TAA COMPLIANCE' (checklist icon). Right side: illustrated professional man in business casual, calm and focused, reviewing a binder. Bold headline at top: 'WHAT HAPPENS AFTER APPROVAL'. One highlighted amber callout box with short punchy phrase: 'CREDENTIAL, NOT CONTRACT.' Clean high-contrast professional layout. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
