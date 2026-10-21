@@ -1,0 +1,10 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written to `drafts/jason/2026-10-21/`. Here's the summary:
+
+**Post type:** `inspiration` (120 words) — breaks the recent string of longer bullet posts  
+**Topic:** `myths` — Jason's highest-weight topic (2x/week), not used in last 5 Jason posts  
+**Hook:** `myth-bust` — opens with the objection Jason hears in prospecting every week  
+**Template:** `single-03-quote` (cream pull-quote card) — contrasts the dark templates used recently  
+**Data used:** $22.4B to small businesses in Q3 2026 (USAspending.gov) — kills the "too small to compete" objection, not used by Josh or William today
+
+The post opens with the literal objection Jason fields weekly ("Federal contracting is for big companies"), drops the USAspending figure to kill it in one sentence, then reframes the real barrier as paperwork/mechanism — not market size. Ends with a personal-myth CTA designed to pull first-person comments.

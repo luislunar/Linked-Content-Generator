@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Market Reality",
+    "index": "No. 021 · Myths",
+    "quote_html": "$22.4B to <em>small businesses</em>. One quarter. The barrier was never the market.",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "$22.4B TO SMALL BUSINESSES",
+    "image_prompt": "Split-panel infographic in charcoal and cyan palette. Left panel dark charcoal background, bold white label 'THE MYTH' with red X icon, single large centered text: 'TOO SMALL TO COMPETE'. Right panel off-white background, bold dark charcoal label 'THE REALITY' with cyan checkmark icon, large bold centered stat: '$22.4B · ONE QUARTER'. Thin vertical divider separating panels. Bold headline at top: '$22.4B TO SMALL BUSINESSES'. Illustrated professional in business attire standing between the panels, gesturing toward the right side. Bottom dark charcoal footer bar. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
