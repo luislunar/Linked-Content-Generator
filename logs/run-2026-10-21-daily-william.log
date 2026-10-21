@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William today:
+
+**post_type:** `tips_list` | **topic:** `pipeline` | **hook:** `question` | **template:** `single-06-checklist` (dark navy)
+
+**Key decisions:**
+- `pipeline` is William's highest-weight topic (2x/week) and was last used 8+ run days ago
+- `question` hook chosen because `truth` was used yesterday (hard consecutive block) and differentiates from Josh's `truth` hook today
+- Dark navy `single-06-checklist` contrasts with Josh's cream `single-05-beforeafter` in the feed
+- 213 words — within the 150–280 tips_list range, no length-forcing rule applies today
+
+**Post angle:** William opens with the exact question he hears on discovery calls ("how do you actually find federal opportunities?") and walks through five specific pipeline channels most SMBs overlook — Sources Sought, recompete tracking, Industry Days, eBuy/GSA Advantage, and agency procurement forecasts. Closing CTA asks for a single concrete answer ("the one place your team checks first") to lower the comment barrier.

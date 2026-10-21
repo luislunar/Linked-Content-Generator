@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pipeline Basics",
+    "module": "Module 01 · Discovery",
+    "headline_html": "Five places <span class='accent'>opportunities</span> actually live.",
+    "items": [
+      { "title": "Sources Sought notices", "sub": "Drops before the RFP — your response gets you on the radar early" },
+      { "title": "Recompete tracking", "sub": "Expiring contracts on USAspending.gov are predictable pipeline, set alerts" },
+      { "title": "Industry Days", "sub": "COs notice who shows up — relationships built here can't be faked later" },
+      { "title": "eBuy and GSA Advantage", "sub": "RFQs flow here daily, but only Schedule holders can respond" },
+      { "title": "Agency procurement forecasts", "sub": "Every civilian agency publishes one — almost nobody reads them" }
+    ],
+    "footer_left": "Field Checklist",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "WHERE FEDERAL OPPORTUNITIES ACTUALLY LIVE",
+    "image_prompt": "Infographic checklist layout. Dark navy background with forest-green and amber accents. Bold headline top: 'WHERE FEDERAL OPPORTUNITIES LIVE' with a compass/search icon in amber. Left side: illustrated professional man in blazer holding a tablet, reviewing a list with a focused expression. Right side: 5 checklist rows stacked vertically, each with a green checkmark icon and a SHORT 2-3 word label: 'SOURCES SOUGHT', 'RECOMPETE ALERTS', 'INDUSTRY DAYS', 'GSA EBUY', 'AGENCY FORECASTS'. Bottom: dark amber banner with the callout 'THE PIPELINE ISN'T HIDDEN'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
