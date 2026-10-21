@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "12-Month Shift",
+    "case_num": "Case · 031",
+    "headline_html": "What teaming did when the <span class='accent'>Schedule didn't.</span>",
+    "before_items": [
+      "Zero federal revenue",
+      "No past performance",
+      "Invisible to agencies"
+    ],
+    "after_items": [
+      "First award: sub role won",
+      "Past performance on record",
+      "Prime bid won at 12 months"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "TEAMING FILLS THE GAP THE SCHEDULE LEAVES",
+    "image_prompt": "Split-panel story card. Bold headline top: 'TEAMING FILLS THE GAP.' Left panel cream/white background, bold header 'BEFORE' in dark red, three short stacked labels: 'NO REVENUE', 'NO PAST PERF', 'NO VISIBILITY'. Right panel dark navy background, bold header 'AFTER' in green, three short labels: 'FIRST AWARD', 'PAST PERF LOGGED', 'PRIME BID WON'. Center: illustrated professional in business suit walking confidently from left panel to right panel. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
