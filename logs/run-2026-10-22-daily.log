@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today's Josh Ladick post:
+
+---
+
+**Post type:** `milestone` — data-led, using fresh Q3 2026 USAspending.gov figures
+**Topic:** `gsa_basics`
+**Hook:** Contrarian — the opening stat ($22.4B to small businesses in one quarter) immediately flips the assumption that the federal market is for giants only
+**Template:** `single-04-stat` (dark navy card with oversized number)
+**Format:** Prose — no bullets, which breaks the streak after three recent posts using structured formats
+
+**Rotation rationale:**
+- `milestone` not used in last 3 days (client_story → tips_list → behind_scenes) ✓
+- `gsa_basics` not used in last 5 days ✓
+- `contrarian` hook freshens after truth → question → blunt run ✓
+- Dark navy template fine (last two were cream/dark alternating) ✓
+- 168 words within milestone range (150–250) ✓
+- Data figure from govcon-data-2026-10-19.md (within 8-day window), no other profile used it today ✓
+
+**Files written:**
+- `drafts/2026-10-22/post.md`
+- `drafts/2026-10-22/post.meta.json`
+- `drafts/2026-10-22/hypothesis.md`
+- `logs/run-2026-10-22.md`
