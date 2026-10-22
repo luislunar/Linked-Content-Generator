@@ -1,17 +1,13 @@
-$22.4 billion.
+The GSA Schedule isn't a sales strategy. It's an access card.
 
-That's how much federal agencies awarded to small businesses in Q3 2026 — in one quarter. Not to the Booz Allens. Not to the SAICs. To companies with fewer than 500 employees doing IT, consulting, engineering, and construction work.
+I've watched small businesses spend 8 months getting approved — then wait two years for a contract, wondering what went wrong.
 
-The top agencies paying out that quarter: DHS at $6.8B, VA at $5.7B, HHS at $5.2B, DoD at $4.9B. Real money. Real contracts. Real small businesses collecting them.
+Here's the part nobody told them: the agencies they were targeting weren't buying off GSA MAS. They were using SEWP V for IT hardware, CIO-SP4 for cybersecurity, OASIS+ for professional services. Different vehicle. Different access. Different buyers.
 
-Most owners assume the federal market is locked up by giants. It isn't. It's just harder to access if you're not on the approved vendor list.
+Getting on GSA MAS when your customer buys off OASIS+ is like showing up to the right interview at the wrong building. You prepared. You're qualified. You're just not in the room where the decision happens.
 
-The GSA Multiple Award Schedule is that list. Once approved, over 100 federal agencies can find your company, request quotes directly, and award contracts — without a full competitive bid process. You're pre-vetted. You're visible. You're in the room.
+Before you invest months in any contract vehicle, spend an hour in beta.SAM.gov. Search awards in your NAICS code. Look at which vehicles those contracts ran through. That data tells you more than any general advice can.
 
-The $22.4B didn't go to better companies. It went to companies that prepared.
-
-What industry is your company in — and do you know which federal agencies are already buying what you sell?
-
-*Source: USAspending.gov*
+Which contract vehicle are the agencies you're targeting actually buying through?
 
 #govcon #gsa #federalcontracting #smallbusiness

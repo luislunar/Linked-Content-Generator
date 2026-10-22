@@ -1,19 +1,16 @@
 {
-  "post_type": "milestone",
-  "topic": "gsa_basics",
+  "post_type": "hot_take",
+  "topic": "vehicles",
   "hook_pattern": "contrarian",
   "format": "prose",
-  "template": "single-04-stat",
+  "template": "single-01-bold",
   "template_data": {
-    "section_label": "Federal Market",
-    "snapshot": "Snapshot · Q3 2026",
-    "label_above": "Federal contracts awarded to small businesses, Q3 2026",
-    "big_number_html": "$<span class='accent'>22.4B</span>",
-    "context_html": "In <strong>one quarter</strong>. DHS $6.8B · VA $5.7B · HHS $5.2B · DoD $4.9B — all going to companies with fewer than 500 employees.",
-    "source": "Source · USAspending.gov",
-    "by_line": "By the Numbers",
-    "image_headline": "$22.4B. ONE QUARTER. SMALL BUSINESSES.",
-    "image_prompt": "Infographic stat layout. Dark navy background. Oversized central stat '$22.4B' in bold coral accent. Small white label above: 'Q3 2026 AWARDS'. Four short agency callout badges below stat: 'DHS $6.8B', 'VA $5.7B', 'HHS $5.2B', 'DOD $4.9B'. Illustrated professional woman in blazer on left side, confident posture. Bold headline at top: '$22.4B. ONE QUARTER.' Highlighted callout box bottom-right: 'GET ON THE LIST.' Footer text: 'Josh Ladick · GSA Focus'."
+    "tag": "Market Reality",
+    "headline_html": "THE SCHEDULE<br>IS NOT A<br><span class='accent'>STRATEGY.</span>",
+    "sub": "Most small businesses land on GSA MAS — then discover their buyers are on a completely different vehicle.",
+    "issue": "Issue 022",
+    "image_headline": "THE SCHEDULE IS NOT YOUR STRATEGY.",
+    "image_prompt": "Bold infographic, dark navy background. Large three-line centered headline: 'THE SCHEDULE / IS NOT A / STRATEGY.' Below headline: four horizontal pill badges in a row — 'GSA MAS' with red X icon, 'SEWP V' with green arrow, 'CIO-SP4' with green arrow, 'OASIS+' with green arrow. Left side: illustrated professional man in suit standing at a closed door marked with a red X, turning toward an open lit doorway on the right. Bottom callout banner in coral accent: 'WRONG ROOM.' Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

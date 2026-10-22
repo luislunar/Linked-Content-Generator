@@ -1,21 +1,15 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for today's Josh Ladick post:
+Done. Here's what was produced for **2026-10-22**:
 
 ---
 
-**Post type:** `milestone` — data-led, using fresh Q3 2026 USAspending.gov figures
-**Topic:** `gsa_basics`
-**Hook:** Contrarian — the opening stat ($22.4B to small businesses in one quarter) immediately flips the assumption that the federal market is for giants only
-**Template:** `single-04-stat` (dark navy card with oversized number)
-**Format:** Prose — no bullets, which breaks the streak after three recent posts using structured formats
+**Post type:** `hot_take` — not used in the last 3 days (last seen 10/16)  
+**Topic:** `vehicles` — 0-day fresh (none of the last 5 days touched it)  
+**Hook:** `contrarian` — "The Schedule isn't a strategy. It's an access card."  
+**Template:** `single-01-bold` (dark navy)  
+**Word count:** ~155
 
-**Rotation rationale:**
-- `milestone` not used in last 3 days (client_story → tips_list → behind_scenes) ✓
-- `gsa_basics` not used in last 5 days ✓
-- `contrarian` hook freshens after truth → question → blunt run ✓
-- Dark navy template fine (last two were cream/dark alternating) ✓
-- 168 words within milestone range (150–250) ✓
-- Data figure from govcon-data-2026-10-19.md (within 8-day window), no other profile used it today ✓
+**The angle:** Most small businesses chase GSA MAS without realizing their target agencies buy off SEWP V, CIO-SP4, or OASIS+. The post names the specific vehicles, gives a concrete action (beta.SAM.gov award search by NAICS), and closes with a specific community question designed to surface named vehicle experiences — the kind of concrete thread that signals expertise to the algorithm.
 
 **Files written:**
 - `drafts/2026-10-22/post.md`
