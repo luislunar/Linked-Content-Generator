@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for today:
+
+---
+
+**William Hill — 2026-10-22**
+
+| Field | Value |
+|---|---|
+| `post_type` | `client_story` |
+| `topic` | `sam` |
+| `hook_pattern` | `story` |
+| `format` | `story` (pure prose — breaks the 3-day bullet streak) |
+| `template` | `single-05-beforeafter` (cream — contrasts Josh's dark `single-04-stat`) |
+| Word count | 220 |
+
+**The angle:** A call William got last week — a business owner who did everything right two years ago, let their SAM.gov lapse silently, and lost an award to another vendor. The post walks through the lapse (expired registration, outdated NAICS codes, missed entity updates) and how clearing the credential — not changing anything about the business — got them cleared for awards within the month.
+
+**Key decisions:** `sam` was the only available William-priority topic (pipeline/compliance/certifications/pricing/teaming all blocked by last 5 run days; `gsa_basics` blocked by Josh today). `client_story` was available and unopposed. `story` hook was the best-fit for this call-observation format and differentiated from Josh's `contrarian` today. Cream card contrasts Josh's dark stat card in the feed. The $22.4B govcon-data figure was not used since Josh already used it today.

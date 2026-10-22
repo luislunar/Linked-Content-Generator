@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "sam",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "SAM Reality Check",
+    "case_num": "Case · 022",
+    "headline_html": "Everything right. <span class='accent'>One lapse.</span> Award gone.",
+    "before_items": [
+      "SAM expired — no one knew",
+      "NAICS codes: wrong services",
+      "Award went to another vendor"
+    ],
+    "after_items": [
+      "SAM renewed and active",
+      "NAICS corrected to match services",
+      "Cleared for awards within 30 days"
+    ],
+    "footer_left": "One Field Call",
+    "footer_right": "Field Case Series",
+    "image_headline": "SAME COMPANY. LAPSED SAM. LOST AWARD.",
+    "image_prompt": "Split-panel before/after infographic. Left panel labeled 'BEFORE' in bold red with a downward red arrow icon. Three short stacked labels in dark type: 'SAM EXPIRED', 'WRONG NAICS', 'AWARD LOST'. Right panel labeled 'AFTER' in bold green with an upward arrow. Three short stacked labels: 'SAM ACTIVE', 'CODES FIXED', 'CLEARED'. Cream/white background throughout. Center divider line with illustrated professional male business owner in casual blazer, looking forward with a calm, confident expression. Bold headline at top: 'SAME COMPANY. LAPSED SAM. LOST AWARD.' Dark navy section labels and border accents. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
