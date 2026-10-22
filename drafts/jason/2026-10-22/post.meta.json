@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Pricing Mistakes",
+    "index": "Vol. 04 · Pricing",
+    "headline_html": "Four numbers that <span class='accent'>break</span> your GSA proposal.",
+    "items": [
+      {
+        "num": "01",
+        "title": "No invoice trail",
+        "desc": "Basis of Award needs documentation. 'We charge this commercially' doesn't survive CO review."
+      },
+      {
+        "num": "02",
+        "title": "Above commercial rate",
+        "desc": "GSA must be at or below your best commercial rate. If it isn't, expect rejection or a margin-cutting renegotiation."
+      },
+      {
+        "num": "03",
+        "title": "Missing the IFF",
+        "desc": "The Industrial Funding Fee is 0.75% of Schedule revenue. Price like it doesn't exist and you lose money on every federal sale."
+      },
+      {
+        "num": "04",
+        "title": "Stale cost structure",
+        "desc": "Your Schedule lasts 5 years. Price today's costs — not what your P&L looked like 18 months ago."
+      }
+    ],
+    "image_headline": "FOUR GSA PRICING MISTAKES",
+    "image_prompt": "Infographic numbered-list layout. Cream background with dark navy accents. Bold dark navy headline at top: 'FOUR GSA PRICING MISTAKES'. Four horizontal numbered rows, each with a bold dark navy circle badge (01–04) and a short 2-3 word label in caps beside it: '01 NO INVOICE TRAIL', '02 ABOVE COMMERCIAL', '03 MISSING IFF', '04 STALE COSTS'. Small red X icon to the left of each row badge. Illustrated professional man in a navy blazer reviewing pricing documents at a desk, positioned on the right side. Dark navy footer bar at bottom with short callout text: 'GET THE PRICE RIGHT.' Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

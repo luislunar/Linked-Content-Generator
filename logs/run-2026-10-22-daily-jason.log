@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today (`drafts/jason/2026-10-22/`):
+
+---
+
+**Decisions made:**
+
+| Field | Value | Reason |
+|---|---|---|
+| `post_type` | `tips_list` | Not used in Jason's last 3 days; not used by Josh or William today |
+| `topic` | `pricing` | Jason's weighted topic; not used in last 5 days; Josh=`gsa_basics`, William=`sam` today |
+| `hook_pattern` | `blunt` | Yesterday=`myth-bust` excluded; `contrarian` (Josh) and `story` (William) excluded today; `blunt` is Jason-preferred |
+| `template` | `single-02-numbered` | Cream background for visual variety (Oct 21 was cream `single-03`, Oct 20 was dark `single-01`) |
+| `format` | `bullets` | Varied from the checklist format used Oct 16 |
+
+**Post summary:** Opens blunt — pricing kills proposals, not the service quality. Four numbered mistakes: no invoice trail, pricing above commercial rate, forgetting the IFF (0.75%), and stale cost structure on a 5-year Schedule. Closes with a targeted community question about which pricing gap is the weakest point. ~178 words, `→` bullets, 5 hashtags, no lead-magnet CTA.
