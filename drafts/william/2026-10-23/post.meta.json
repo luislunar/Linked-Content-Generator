@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Entry Path",
+    "headline_html": "NO PAST<br>PERF?<br><span class='accent'>TEAM UP.</span>",
+    "sub": "The catch-22 has a designed exit. Most first calls don't know it exists.",
+    "issue": "No. 034"
+  },
+  "image_headline": "NO PAST PERFORMANCE? TEAM UP.",
+  "image_prompt": "Split-panel infographic on dark navy background. Left panel slightly darker navy, bold white label 'NO PATH IN' with red X icon. Three short 2-word labels stacked vertically with red X icons: 'NO VEHICLE', 'NO HISTORY', 'NO CO ACCESS'. Right panel with subtle amber-tinted edge, bold white label 'TEAMING PATH' with green checkmark icon. Three short 2-word labels with green checkmarks: 'THEIR VEHICLE', 'THEIR HISTORY', 'YOUR CAPABILITY'. Center: illustrated professional man in blazer stepping confidently from dark left panel toward right panel. Bold white headline at top: 'NO PAST PERFORMANCE? TEAM UP.' Highlighted amber callout box near bottom center: 'DESIGNED PATH IN'. Clean dark navy layout, Sora-style typography, amber accent consistent with William theme. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}

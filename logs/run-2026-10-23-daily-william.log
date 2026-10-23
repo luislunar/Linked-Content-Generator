@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for **2026-10-23**:
+
+---
+
+**Decision log:**
+- **post_type:** `hot_take` — blocked types (last 3 William days + Josh today): `client_story`, `tips_list`, `behind_scenes`, `inspiration`
+- **topic:** `teaming` — blocked last 5 William run days: `sam`, `pipeline`, `compliance`, `certifications`, `pricing`; not used by Josh (`certifications`) or Jason (no draft today)
+- **hook_pattern:** `truth` — `story` consecutive-blocked (used yesterday); `truth` last used 10-20, not consecutive ✓
+- **format:** `bullets` (→ markers)
+- **template:** `single-01-bold` (dark navy) — Josh today uses cream `single-03-quote`; feeds contrast ✓
+- **word count:** 172 — required under 180 (last 3 William avg = 204)
+
+**The post** opens with the truth hook ("nobody talks enough about…"), restates the catch-22 verbatim as William hears it on calls, then delivers a 3-bullet breakdown of what each teaming party brings + what the agreement must cover. Closes with "past performance is a clock" — a single reframe of the entire concept — and a CTA targeting two cohorts: those who've teamed (share the detail nobody explained) and those who didn't know this path existed.
