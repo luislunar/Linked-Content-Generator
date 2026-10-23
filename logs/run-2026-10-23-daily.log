@@ -1,13 +1,31 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was generated for 2026-10-23:
+Today's run is already complete from the prior invocation. All files are valid and in place.
 
-**Post type:** `inspiration` — not used in any of the last 5 logs  
-**Topic:** `certifications` — not used in the last 5 days  
-**Hook:** `myth-bust` — opens with the false belief verbatim in quotes, then corrects it  
-**Template:** `single-03-quote` (cream background) — contrasts yesterday's dark navy `single-04-stat`  
-**Word count:** 131 words (fits the 50–150 inspiration range)  
-**Format:** Prose only, no bullets — correct per type spec and adds variety after two prose posts that had different structures
+**Validation summary — 2026-10-23**
 
-**Core angle:** The "certification = contracts" myth. Certifications unlock set-aside eligibility — that's real — but 8(a)/WOSB/SDVOSB/HUBZone without a GSA Schedule, active pipeline, and CO relationships is just an expensive badge. The pull quote for the card: *"Certifications unlock the door. You still have to knock."*
+| Check | Status |
+|---|---|
+| `drafts/2026-10-23/post.md` | ✓ 131 words (inspiration type: 50–150) |
+| `drafts/2026-10-23/post.meta.json` | ✓ All required fields, `single-03-quote` template |
+| `drafts/2026-10-23/hypothesis.md` | ✓ Present |
+| `drafts/2026-10-23/card.jpg` | ✓ Rendered (196 KB) |
+| `logs/run-2026-10-23.md` | ✓ All 6 mandatory fields |
 
-**Why this will perform:** The insight is simultaneously validating and honest — it doesn't dismiss certifications, it reframes them. That tension drives both reactions (people who recognize the trap) and comments (the community question asks for a specific first-door story, not a generic opinion, which surfaces richer replies).
+**Run log (already written):**
+```
+- date: 2026-10-23
+- post_type: inspiration
+- topic: certifications
+- hook_pattern: myth-bust
+- format: prose
+- word_count: 131
+```
+
+**Rotation check for tomorrow's agent:**
+- Oct 23: `inspiration` · `certifications` · `myth-bust`
+- Oct 22: `milestone` · `gsa_basics` · `contrarian`
+- Oct 20: `tips_list` · `sam` · `question`
+- Types to avoid Oct 24: `inspiration`, `milestone`, `tips_list`
+- Topics to avoid Oct 24 (5-day window): `certifications`, `gsa_basics`, `sam`
+
+No action needed — today's post is committed and ready for publish.
