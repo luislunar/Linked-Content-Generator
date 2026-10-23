@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "vehicles",
+  "hook_pattern": "contrarian",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Vehicle Mismatch",
+    "case_num": "Case · 023",
+    "headline_html": "What changes when you <span class='accent'>follow the buyer.</span>",
+    "before_items": [
+      "Targeting SEWP-V for six months",
+      "Wrong vehicle, wrong buyers",
+      "Pipeline never started"
+    ],
+    "after_items": [
+      "MAS — buyers already there",
+      "Right vehicle, right SIN",
+      "Federal pipeline live"
+    ],
+    "footer_left": "One Real Pivot",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "FOLLOW THE BUYER NOT THE BADGE",
+  "image_prompt": "Split-panel infographic on cream background. Left panel slightly darker cream with bold dark label 'WRONG VEHICLE' and red X icon. Three short 2-3 word labels stacked vertically with red X marks: 'SEWP-V', 'WRONG BUYERS', 'YEAR LOST'. Right panel dark navy with bold cyan label 'RIGHT FIT' and green checkmark icon. Three short labels with green checkmarks: 'MAS SCHEDULE', 'BUYER ALIGNED', 'PIPELINE LIVE'. Center: illustrated professional man in dark blazer stepping confidently from the left panel to the right, holding a printed procurement report. Bold ALL CAPS headline at top: 'FOLLOW THE BUYER NOT THE BADGE.' Carbon-black and cyan color scheme, Space Grotesk-style typography. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
