@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "vehicles",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Vehicle Strategy",
+    "headline_html": "NO<br>'BEST'<br><span class='accent'>VEHICLE.</span>",
+    "sub": "The right vehicle isn't the best one — it's the one your buyer already shops on.",
+    "issue": "Issue 031"
+  },
+  "image_headline": "STOP ASKING WHICH VEHICLE IS BEST.",
+  "image_prompt": "Bold alert-style infographic. Dark navy background. Centered bold headline: 'WRONG QUESTION.' with red X icon. Below: three short vehicle labels in a row — 'GSA MAS', 'OASIS+', 'SEWP' — each with a question mark. Arrow pointing down to large cream accent text: 'FOLLOW THE BUYER.' Left side: illustrated professional man in blazer at laptop, calm and confident. Bottom banner light cream with bold text: 'THE BUYER QUESTION IS STRATEGIC.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
