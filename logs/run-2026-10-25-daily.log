@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today's Josh Ladick post:
+
+**Post type:** `tips_list` — five numbered pipeline sources for existing Schedule holders  
+**Topic:** `pipeline` — fresh (not used in last 5 days)  
+**Hook:** `question` — "You got your GSA Schedule approved. Now what?" — breaks the streak of two consecutive statement openers  
+**Template:** `single-06-checklist` (dark navy) — first choice for tips_list; contrasts yesterday's cream `single-03-quote`  
+**Format:** Numbered items (not `→` bullets) per the tips_list spec  
+**Word count:** 221 words (within the 150–280 range)
+
+**Rotation rationale:**
+- `tips_list` not used in last 3 Josh days (inspiration → milestone) ✓
+- `pipeline` not used in last 5 Josh days ✓
+- `question` hook freshens after myth-bust → contrarian run ✓
+- Dark navy template fine (last two were cream/dark alternating) ✓
+- No data figure used (govcon-data within 8-day window but conserving for later this week) ✓
+
+**Files written:**
+- `drafts/2026-10-25/post.md`
+- `drafts/2026-10-25/post.meta.json`
+- `drafts/2026-10-25/hypothesis.md`
+- `logs/run-2026-10-25.md`

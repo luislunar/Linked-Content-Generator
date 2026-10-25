@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pipeline Moves",
+    "module": "Module 05 · Pipeline",
+    "headline_html": "Five places <span class='accent'>Schedule holders</span> never look.",
+    "items": [
+      { "title": "GSA eBuy", "sub": "Exclusive RFQs for Schedule holders — most never log in" },
+      { "title": "Sources Sought notices", "sub": "Pre-solicitation signals — reply fast, get on CO radar" },
+      { "title": "FPDS-NG recompetes", "sub": "Filter contracts expiring in 90–180 days — your live window" },
+      { "title": "Agency procurement forecasts", "sub": "Civilian agencies post annual plans — find your NAICS lanes" },
+      { "title": "Industry days & market research", "sub": "Show up, ask smart questions, be a name they remember" }
+    ],
+    "footer_left": "Pipeline Checklist",
+    "footer_right": "GSA Holder Series",
+    "image_headline": "FIVE PIPELINE MOVES YOU'RE MISSING",
+    "image_prompt": "Infographic alert layout. Dark navy background. Bold headline top: 'FIVE PIPELINE MOVES YOU'RE MISSING' with magnifying glass icon. Left column: illustrated professional man in blazer reviewing a laptop showing federal contracting data. Right column: 5 checklist rows, each with a green checkmark icon and a short label: 'GSA eBuy', 'Sources Sought', 'FPDS Recompetes', 'Agency Forecasts', 'Industry Days'. Bottom: light accent banner with short phrase 'THE SCHEDULE IS JUST THE START.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
