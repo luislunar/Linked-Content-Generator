@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pricing Mistakes",
+    "module": "Module 05 · Pricing",
+    "headline_html": "Five ways small businesses <span class='accent'>price themselves out</span> of federal awards.",
+    "items": [
+      {
+        "title": "Copy-paste your commercial rates",
+        "sub": "GSA pricing is a negotiated contract — your Basis of Award ties it to your best commercial deal."
+      },
+      {
+        "title": "Ignore the Price Reduction Clause",
+        "sub": "Discount a commercial client below GSA? Your Schedule rate must follow. Most don't track this."
+      },
+      {
+        "title": "Bundle what should be line items",
+        "sub": "COs compare line-by-line. Bundled services vanish in procurement searches before anyone reads them."
+      },
+      {
+        "title": "Accept the CO's first counter-offer",
+        "sub": "Pushback is normal — it's negotiation. Conceding too fast locks in a margin hit you carry for years."
+      },
+      {
+        "title": "Set outlier rates in GSA Advantage",
+        "sub": "COs work within budget targets. Pricing outside the norm gets filtered before your name appears."
+      }
+    ],
+    "footer_left": "Pricing Health Check",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE WAYS YOU PRICED YOURSELF OUT",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold warning headline at top: 'PRICED OUT BEFORE YOU START' with caution triangle icon. Left side: illustrated professional in business casual holding a clipboard and reviewing a pricing document with a concerned expression. Right column: five checklist rows, each with a red X icon and a 2-3 word label — 'Copy-Paste Rates', 'Missed PRC', 'Bundled Items', 'Early Concede', 'Outlier Pricing'. Bottom: dark navy banner with callout '$23.1B Q3 2026 · USASPENDING.GOV'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

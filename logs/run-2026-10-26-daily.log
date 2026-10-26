@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for **2026-10-26**:
+
+---
+
+**Post type:** `tips_list` · **Topic:** `pricing` · **Hook:** `blunt` · **Template:** `single-06-checklist`
+
+**Why these choices:**
+- Last 3 types (inspiration, milestone, client_story) are blocked — `tips_list` is clean.
+- Three consecutive prose-only posts → numbered checklist breaks the streak.
+- `pricing` untouched for 7+ days; strong ICP relevance.
+- `blunt` hook hasn't been used since Oct 19.
+- Fresh govcon data ($23.1B Q3 2026) used as a closing anchor, credited to USAspending.gov. No other profile has a draft today, so the figure is available.
+
+**Files written:**
+- `drafts/2026-10-26/post.md` — 227 words (within 150–280 range)
+- `drafts/2026-10-26/post.meta.json` — template `single-06-checklist` with all 5 checklist items
+- `drafts/2026-10-26/hypothesis.md` — blunt hook + numbered list format, stat as closing anchor
+- `logs/run-2026-10-26.md` — rotation record appended
