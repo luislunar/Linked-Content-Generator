@@ -1,19 +1,13 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for **2026-10-26**:
+Done. Here's what was generated for 2026-10-26:
 
----
+**Post type:** `tips_list` — not used in the last 3 days (10-23 was `inspiration`, no type repeat)
+**Topic:** `pricing` — not used since before 10-23 logs; fresh in rotation
+**Hook:** `blunt` — opens with a hard diagnosis ("Most small businesses price their GSA Schedule wrong — before they ever submit"), contrasts with yesterday's `myth-bust`
+**Template:** `single-06-checklist` (dark navy) — fits a 5-item numbered format; dark bg contrasts the cream `single-03-quote` used 10-23
+**Word count:** 227 words (fits the 150–280 `tips_list` range)
+**Format:** Numbered list (1–5), no `→` bullets — adds variety after two prose posts
 
-**Post type:** `tips_list` · **Topic:** `pricing` · **Hook:** `blunt` · **Template:** `single-06-checklist`
+**Core angle:** Five specific pricing mistakes that break GSA competitiveness before a contract is ever won. Anchors the close with the $23.1B Q3 2026 small-business federal spend figure (USAspending.gov) to reframe the cost of broken pricing as an opportunity cost. The Price Reduction Clause (item 2) is the most counterintuitive item and likely to drive comment-thread questions.
 
-**Why these choices:**
-- Last 3 types (inspiration, milestone, client_story) are blocked — `tips_list` is clean.
-- Three consecutive prose-only posts → numbered checklist breaks the streak.
-- `pricing` untouched for 7+ days; strong ICP relevance.
-- `blunt` hook hasn't been used since Oct 19.
-- Fresh govcon data ($23.1B Q3 2026) used as a closing anchor, credited to USAspending.gov. No other profile has a draft today, so the figure is available.
-
-**Files written:**
-- `drafts/2026-10-26/post.md` — 227 words (within 150–280 range)
-- `drafts/2026-10-26/post.meta.json` — template `single-06-checklist` with all 5 checklist items
-- `drafts/2026-10-26/hypothesis.md` — blunt hook + numbered list format, stat as closing anchor
-- `logs/run-2026-10-26.md` — rotation record appended
+**Why this will perform:** Blunt diagnostic hooks on pricing topics consistently surface recognition reactions ("that's me") and share behavior. The numbered checklist format improves scannability and save rate. The community question asks which mistake hit first — specific, experience-anchored, and easy to answer in one sentence, which lowers the comment barrier.
