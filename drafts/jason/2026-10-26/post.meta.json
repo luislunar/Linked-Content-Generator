@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Field Intel",
+    "headline_html": "CERTS<br>DON'T<br><span class='accent'>SELL.</span>",
+    "sub": "VA paid out $5.7B to small businesses last quarter. Are you even in that room?",
+    "issue": "Issue 031",
+    "image_headline": "CERTS DON'T SELL",
+    "image_prompt": "Split-panel infographic. Dark charcoal/carbon background. Top bold ALL CAPS headline: 'CERTS DON'T SELL.' in white Space Grotesk, with 'SELL.' in cyan accent. Left column: four stacked cert badges labeled '8(A)', 'HUBZONE', 'SDVOSB', 'WOSB' — each with a small minimalist icon, cyan border, dark fill. Right column: illustrated professional man in dark navy blazer holding a document folder, expression focused and analytical. Vertical cyan divider line between columns. Bottom banner: dark navy strip with bold white text '$5.7B · VA SMALL BIZ · Q3 2026' and small grey subtext 'Source · USAspending.gov'. Space Grotesk bold typography throughout. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

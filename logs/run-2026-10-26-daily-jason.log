@@ -1,0 +1,18 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for Jason today (2026-10-26):
+
+**Post type:** `hot_take` · **Topic:** `certifications` · **Hook:** `question`
+
+**Rotation logic:**
+- Banned (Jason's last 3 days): `client_story`, `tips_list`, `inspiration`
+- Banned today (Josh/William): `tips_list`/`pricing` and `inspiration`/`gsa_basics`
+- `hot_take` last used by Jason on 2026-10-20 — clear
+- `question` hook required because Jason's last 3 posts all opened with statements
+
+**Data angle:** VA awarded $5.7B to small businesses in Q3 2026 (USAspending.gov) — Josh used the $23.1B aggregate figure today, so this VA-specific number was unclaimed. It anchors the SDVOSB section and kills the "certifications are generic" objection with a real number.
+
+**Files written:**
+- `drafts/jason/2026-10-26/post.md` — 227 words, `question` hook, 4-cert `→` breakdown, specific community question
+- `drafts/jason/2026-10-26/post.meta.json` — `single-01-bold` template, VA stat in card banner, `source · USAspending.gov` credited
+- `drafts/jason/2026-10-26/hypothesis.md` — tests `question` hook + data anchor vs. Jason's recent blunt/contrarian opens
+- `logs/jason/run-2026-10-26.md` — logged for tomorrow's rotation check
