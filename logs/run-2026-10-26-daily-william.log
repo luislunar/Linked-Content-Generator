@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's the summary:
+
+---
+
+**William Hill — 2026-10-26**
+
+**Post type:** `inspiration` · **Topic:** `gsa_basics` · **Hook:** `question` · **Template:** `single-03-quote` (cream)
+
+**Why this combination:**
+- Last 3 William types (hot_take, client_story, tips_list) all blocked → inspiration is clean
+- Last 3 William avg word count = 201.7 → forced under 180; inspiration's 50–150 range fits perfectly (landed at 148)
+- Topic: pricing (Josh today) + teaming/sam/pipeline/compliance/certifications (William's last 5 runs) all blocked → `gsa_basics` is the priority pick
+- Hook: `truth` blocked (yesterday) → `question` ("Before you ask if your company qualifies…") fits the first-call observation angle
+- Cream `single-03-quote` contrasts Josh's dark `single-06-checklist` today
+
+**Card pull quote:** *"The door opens when you get the Schedule. You still have to knock."*
+
+**Files created:**
+- `drafts/william/2026-10-26/post.md`
+- `drafts/william/2026-10-26/post.meta.json`
+- `drafts/william/2026-10-26/hypothesis.md`
+- `logs/william/run-2026-10-26.md`
