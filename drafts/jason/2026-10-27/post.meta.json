@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "gsa_basics",
+  "hook_pattern": "blunt",
+  "format": "comparison",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q3 2026",
+    "label_above": "Small business federal contract awards, Q3 2026 (top 8 industries)",
+    "big_number_html": "$<span class='accent'>23.1B</span>",
+    "context_html": "In <strong>one quarter</strong> — IT services, construction, consulting, engineering. Small businesses only. The 'big guys only' objection doesn't survive the data.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "23.1 BILLION. ONE QUARTER.",
+    "image_prompt": "Infographic stat layout. Dark carbon background with cyan accents. Massive bold number '$23.1B' centered with thin cyan underline, labeled 'Q3 2026' in small caps below. Left side: illustrated professional man in business casual holding a printed data report, expression analytical and composed. Right side: vertical breakdown list with 4 short labels and amounts — 'IT SERVICES $6.9B', 'CONSTRUCTION $4.0B', 'SYSTEMS DESIGN $2.6B', 'VA CONTRACTS $5.7B' — each with a small cyan arrow icon. Bold headline top: '23.1 BILLION. ONE QUARTER.' Bottom dark band with label 'SMALL BUSINESSES ONLY'. Source line: 'Source · USAspending.gov'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-10-27/`:
+
+---
+
+**Rotation decisions:**
+- **Post type:** `milestone` — avoids Jason's last 3 (`hot_take`, `client_story`, `tips_list`) and today's others (`behind_scenes` Josh, `tips_list` William)
+- **Topic:** `gsa_basics` — clean of Jason's 5-day avoidance list (`certifications`, `vehicles`, `pricing`, `myths`, `teaming`) and today's other profiles (`pipeline`, `myths`)
+- **Hook:** `blunt` — stat-first opener, not yesterday's `question`; zero overlap with `story` (Josh) and `truth` (William)
+- **Template:** `single-04-stat` — matches the data-led angle; `image_prompt` ends with `Jason · GSA Focus`
+- **Word count:** 157 — satisfies the <180 rule triggered by Jason's last-3-post average of 207 words
+
+**Post hook:** Opens cold with `$23.1 billion` — Q3 2026 small business federal awards across the top 8 industries from USAspending.gov. Kills the "federal market is for big companies" objection with four industry-level data points (VA alone = $5.7B, mostly set-aside). Closing question asks for the *real* barrier — invites personal friction-driven comments, not a generic response.
