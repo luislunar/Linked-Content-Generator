@@ -1,20 +1,22 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for today:
+Today's post was already published (git commit "publish: 2026-10-27 daily post" exists). The `run-2026-10-27.md` log is complete with all required fields. The current invocation appears to be a re-run after a trust-dialog permissions failure in the raw `.log` file — the actual content is already live.
 
----
+**Today's run summary (already completed):**
 
-**2026-10-27 — Josh Ladick / GSA Focus**
+- **post_type:** `behind_scenes`
+- **topic:** `pipeline`
+- **hook_pattern:** `story`
+- **format:** `story`
+- **template:** `single-07-story`
+- **word_count:** 148
 
-**Post type:** `behind_scenes` | **Topic:** `pipeline` | **Hook:** `story`
+**The post** opens on a client who'd had their GSA Schedule for 14 months with zero federal revenue — Josh sits down with them, runs an 11-minute SAM.gov filter, and surfaces 5 live/upcoming opportunities. The kicker: "The government doesn't come to you." Closes with a community question asking readers to walk through their own opportunity-surfacing system.
 
-**Why this combination:** Last 3 days burned `tips_list`, `inspiration`, `milestone`, and all three opened with statement hooks — the cadence rules forced a `story` or `question` hook today. `behind_scenes` hasn't appeared in the last 5 logs and fit the story hook naturally. `pipeline` was the freshest topic available (not used in 5+ days).
+**Rotation check for tomorrow:**
+- Last 3 types: `behind_scenes` (10/27), `tips_list` (10/26), `inspiration` (10/23)
+- Last 3 topics: `pipeline`, `pricing`, `certifications` — avoid these tomorrow
+- Last hook: `story` — tomorrow needs a different pattern (`myth-bust`, `contrarian`, `alert`, `truth`, `blunt`, `question`, or `checklist`)
+- Word count avg last 3: ~169 — tomorrow is fine at any length
+- Last templates: `single-07-story` (dark-ish cream), `single-06-checklist` (dark navy) — tomorrow can stay with dark or go cream
 
-**The post** (~148 words): An over-the-shoulder moment from a real client session — 14 months on the Schedule, zero revenue, and 11 minutes on SAM.gov that surfaced 5 live opportunities. The closing CTA ("walk me through your current system") is a genuine experience-share prompt aimed at getting the ICP to either describe their process or admit they don't have one — both responses drive comments.
-
-**Template:** `single-07-story` (cream/serif card) — shows the 3-step process as a timeline with "14 months, zero federal revenue" as the lead.
-
-**Files written:**
-- `drafts/2026-10-27/post.md`
-- `drafts/2026-10-27/post.meta.json`
-- `drafts/2026-10-27/hypothesis.md`
-- `logs/run-2026-10-27.md`
+Good candidates for tomorrow (10/28): `client_story`, `personal_story`, `hot_take`, `milestone`, or `carousel` (if it hasn't run in 4+ days). Topics to consider: `teaming`, `sam`, `compliance`, `vehicles`, or `myths`.
