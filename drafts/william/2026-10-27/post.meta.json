@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "myths",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "First-Call Myths",
+    "module": "Field Observation · Vol. 05",
+    "headline_html": "Five myths that keep <span class='accent'>small businesses</span> waiting.",
+    "items": [
+      { "title": "No past performance", "sub": "Commercial revenue qualifies — GSA doesn't require a government contract on record." },
+      { "title": "Approval = flowing contracts", "sub": "The Schedule is the door. Sales still require your pipeline and outreach." },
+      { "title": "We're too small", "sub": "MAS set-asides are designed specifically for small businesses." },
+      { "title": "It takes years", "sub": "Typical timeline: 6–12 months. Delays come from the application, not GSA." },
+      { "title": "SAM = GSA Schedule", "sub": "SAM is the vendor database. The Schedule is a separate contract vehicle." }
+    ],
+    "footer_left": "First-Call Truths",
+    "footer_right": "Field Series",
+    "image_headline": "FIVE MYTHS KEEPING YOU OUT",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline top: 'FIVE MYTHS KEEPING YOU OUT' with a thin amber accent underline. Left side: illustrated professional man in business casual speaking on a phone call, relaxed and engaged. Right side: 5 vertical checklist rows, each with a forest-green checkmark icon and a SHORT 2-3 word label — 'NO PAST PERF', 'INSTANT AWARDS', 'TOO SMALL', 'YEARS TO WAIT', 'SAM = SCHEDULE'. Amber highlights on the headline accent and row numbers. Bottom: dark navy band with short text label 'FIELD OBSERVATIONS'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

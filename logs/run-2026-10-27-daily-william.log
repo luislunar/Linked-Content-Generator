@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's what was produced for William today:
+
+---
+
+**Post type:** `tips_list` · **Topic:** `myths` · **Hook:** `truth` · **Template:** `single-06-checklist` (dark navy)
+
+**Why these choices:**
+- All 4 of William's priority topics (pipeline, sam, teaming, gsa_basics) are blocked from the past 5 run days — `myths` is the strongest secondary topic for engagement
+- `truth` hook breaks the consecutive-`question` rule (yesterday was `question`) and differentiates from Josh's `story` hook today
+- Dark navy card contrasts with Josh's cream `single-07-story` today
+- 257 words — comfortably within the 150–280 `tips_list` range; no forced-under-180 rule applies
+
+**The post** opens with William's observation pattern ("I hear the same ones on almost every first call") and walks through 5 first-call myths with → bullets: no past performance required, the Schedule isn't a sales guarantee, small businesses aren't too small, 6–12 months is the real timeline, and SAM.gov ≠ GSA Schedule. The closer reframes urgency ("called before they thought they were ready") and the CTA invites named myth recall — lower barrier than a story share but still comment-driving.
