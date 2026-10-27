@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for today:
+
+---
+
+**2026-10-27 — Josh Ladick / GSA Focus**
+
+**Post type:** `behind_scenes` | **Topic:** `pipeline` | **Hook:** `story`
+
+**Why this combination:** Last 3 days burned `tips_list`, `inspiration`, `milestone`, and all three opened with statement hooks — the cadence rules forced a `story` or `question` hook today. `behind_scenes` hasn't appeared in the last 5 logs and fit the story hook naturally. `pipeline` was the freshest topic available (not used in 5+ days).
+
+**The post** (~148 words): An over-the-shoulder moment from a real client session — 14 months on the Schedule, zero revenue, and 11 minutes on SAM.gov that surfaced 5 live opportunities. The closing CTA ("walk me through your current system") is a genuine experience-share prompt aimed at getting the ICP to either describe their process or admit they don't have one — both responses drive comments.
+
+**Template:** `single-07-story` (cream/serif card) — shows the 3-step process as a timeline with "14 months, zero federal revenue" as the lead.
+
+**Files written:**
+- `drafts/2026-10-27/post.md`
+- `drafts/2026-10-27/post.meta.json`
+- `drafts/2026-10-27/hypothesis.md`
+- `logs/run-2026-10-27.md`

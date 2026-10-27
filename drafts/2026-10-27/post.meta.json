@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Pipeline Reveal",
+    "year_client": "Behind the Scenes · Client 019",
+    "lead_html": "14 months on the Schedule. <em>Zero federal revenue.</em>",
+    "rows": [
+      { "when": "Step 01", "what_html": "<strong>SAM.gov Sources Sought filter</strong> <span class='light'>— NAICS code + set-aside + active status only</span>" },
+      { "when": "Step 02", "what_html": "<strong>11 minutes</strong> <span class='light'>— 3 live matches, 2 upcoming solicitations in their lane</span>" },
+      { "when": "Step 03", "what_html": "<strong>Save the search</strong> <span class='light'>— Monday alerts, 20 min/week. That's the system.</span>" }
+    ],
+    "closer": "THE PIPELINE IS OPEN. ARE YOU LOOKING?",
+    "image_headline": "YOUR PIPELINE IS OPEN. ARE YOU LOOKING?",
+    "image_prompt": "Infographic story layout. Left side: illustrated timeline with 3 milestone icons labeled 'FILTER', 'MATCH', 'ALERT'. Right side: illustrated professional man at laptop viewing federal contract database. Bold headline top: 'YOUR PIPELINE IS OPEN.' Dark navy callout box with short label '20 MIN / MONDAY'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
