@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+**Post type:** `hot_take` | **Topic:** `compliance` | **Hook:** `alert` | **Template:** `single-01-bold`
+
+**The post** opens with a counterintuitive claim that creates immediate tension for any Schedule holder: your GSA contract can be fully active while SAM.gov is expired — and that's the exact condition that freezes payments. Three specific consequences, one concrete fix (90-day calendar reminder), and a closing question that invites real experience-sharing on which compliance deadline stings most.
+
+**Rotation checks:**
+- `hot_take` not used in last 3 days ✓
+- `compliance` not used in last 5 days ✓
+- `alert` hook not used in last 5 days (yesterday was `story`) ✓
+- Prose format — appropriate for hot_take (bullets discouraged) ✓
+- `single-01-bold` (dark navy) — last 2 templates were cream/dark, no restriction ✓
+- 187 words — within 150–300 hot_take range ✓

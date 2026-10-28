@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "compliance",
+  "hook_pattern": "alert",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Compliance Alert",
+    "headline_html": "SAM<br>LAPSES.<br><span class='accent'>CASH HALTS.</span>",
+    "sub": "An expired SAM.gov registration freezes your GSA payment stream — even if your Schedule is fully active.",
+    "issue": "Issue 042",
+    "image_headline": "SAM LAPSES. PAYMENTS FREEZE.",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: 'SAM LAPSES. PAYMENTS FREEZE.' with caution icon. Left side: illustrated professional in business blazer looking at laptop with alarmed expression, red notification badge overlay. Right side: three consequence rows with red warning icons — label 'NO ORDERS', label 'PAYMENTS STALL', label 'CONTRACT REVIEW'. Bottom: dark navy banner with short callout 'RENEW 90 DAYS EARLY'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
