@@ -1,14 +1,15 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-All four files written. Here's the summary:
+Today's run was already completed by a prior workflow execution. The 2026-10-28 post is already live:
 
-**Post type:** `hot_take` | **Topic:** `compliance` | **Hook:** `alert` | **Template:** `single-01-bold`
+**Existing draft:** `drafts/2026-10-28/post.md`
+- **Type:** `hot_take`
+- **Topic:** `compliance`
+- **Hook:** `alert` — SAM.gov lapse freezing GSA payments
+- **Template:** `single-01-bold`
+- **Committed:** `eb01374 publish: 2026-10-28 daily post`
 
-**The post** opens with a counterintuitive claim that creates immediate tension for any Schedule holder: your GSA contract can be fully active while SAM.gov is expired — and that's the exact condition that freezes payments. Three specific consequences, one concrete fix (90-day calendar reminder), and a closing question that invites real experience-sharing on which compliance deadline stings most.
+The workflow log (`run-2026-10-28-daily.log`) only contains a trust-dialog warning from this fresh invocation — not output from a completed run. This appears to be a re-trigger of the workflow after the content was already generated and committed.
 
-**Rotation checks:**
-- `hot_take` not used in last 3 days ✓
-- `compliance` not used in last 5 days ✓
-- `alert` hook not used in last 5 days (yesterday was `story`) ✓
-- Prose format — appropriate for hot_take (bullets discouraged) ✓
-- `single-01-bold` (dark navy) — last 2 templates were cream/dark, no restriction ✓
-- 187 words — within 150–300 hot_take range ✓
+No files were changed. Re-generating would overwrite an already-committed draft with no benefit.
+
+If today's post needs to be **replaced** (e.g., quality issue), let me know and I'll overwrite the draft with a new one on a different type/topic. Otherwise, the run is complete.
