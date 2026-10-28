@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written to `drafts/jason/2026-10-28/`:
+
+**post_type:** `tips_list` · **topic:** `myths` · **hook_pattern:** `myth-bust` · **template:** `single-02-numbered` (cream)
+
+**Post:** Opens with the exact objection Jason hears twice a week on calls, then busts 4 myths in numbered `→` format — including the $23.1B Q3 2026 small-business figure (USAspending.gov) to kill the "only big companies win" objection. CTA asks which myth held the reader back longest. 172 words (under the 180 mandatory ceiling given last 3 posts averaged 200+).
+
+**Rotation checks passed:**
+- Post type not in Jason's last 3 (milestone, hot_take, client_story) ✓
+- Hook not used since 10-21 ✓
+- Cream template breaks the last-2-dark streak ✓
+- Topic: `myths` last used 7 days ago, at 2x/week priority ✓
+- Topic differs from Josh (compliance) and William (no draft) ✓
+- Data figure not used by another profile today ✓

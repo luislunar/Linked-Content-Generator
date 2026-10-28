@@ -1,0 +1,37 @@
+{
+  "post_type": "tips_list",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "checklist",
+  "template": "single-02-numbered",
+  "template_data": {
+    "section_label": "Myth Busters",
+    "index": "Vol. 04 · Myths",
+    "headline_html": "Four myths <span class='accent'>killing</span> real GSA candidates.",
+    "items": [
+      {
+        "num": "01",
+        "title": "You need federal past performance",
+        "desc": "GSA evaluates commercial work. What you've done for private clients counts toward approval."
+      },
+      {
+        "num": "02",
+        "title": "It costs too much",
+        "desc": "The barrier is 100+ hours of paperwork, not cash. That's the investment — and it's transferable."
+      },
+      {
+        "num": "03",
+        "title": "Only big companies win",
+        "desc": "$23.1B went to small businesses in Q3 2026. The market is there. The positioning isn't."
+      },
+      {
+        "num": "04",
+        "title": "The Schedule sells itself",
+        "desc": "Access without a sales strategy is an expensive shelf decoration. The Schedule is a door, not a deal."
+      }
+    ],
+    "image_headline": "4 MYTHS KILLING YOUR GSA SHOT",
+    "image_prompt": "Split-panel infographic on cream background. Left column dark navy, bold label 'THE MYTH' with red X icon at top. Four short myth labels stacked vertically (2-3 words each): 'NEED PAST PERF', 'TOO EXPENSIVE', 'BIG FIRMS ONLY', 'SCHEDULE SELLS'. Right column white/light, bold label 'THE REALITY' with green checkmarks. Four short reality labels: 'COMMERCIAL COUNTS', 'PAPERWORK NOT CASH', '$23.1B SMALL BIZ', 'ACCESS ≠ DEALS'. Bold headline top: '4 MYTHS KILLING YOUR GSA SHOT'. Illustrated professional man in dark blazer standing at center between the two panels with arms crossed, confident expression. Bottom source note: 'USAspending.gov Q3 2026'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
