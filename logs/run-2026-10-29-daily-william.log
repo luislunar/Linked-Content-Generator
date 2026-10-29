@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was created in `drafts/william/2026-10-29/`:
+
+**Rotation choices:**
+- `post_type`: personal_story — not in William's last 3 days; not used by Josh today (client_story)
+- `topic`: certifications — last William use was 10-19, outside the 5-run-day window; no conflict with Josh (teaming) or Jason (no draft)
+- `hook_pattern`: question — William's preferred; not consecutive (yesterday was truth)
+- `format`: story — narrative arc, no bullets; breaks the 10-27 bullets pattern
+- `template`: single-07-story (cream + serif) — primary for personal_story
+
+**Post angle:** A caller assumed she needed 8(a) certification before applying for a GSA Schedule and had been waiting two years. The reframe: certifications aren't prerequisites for the Schedule — they're multipliers on top of it. She applied, got approved nine months later, and is now working both tracks. Closes with: "Most owners think these are a sequence. They're actually a stack."
+
+**Word count:** 237 (within personal_story's 200–400 range).

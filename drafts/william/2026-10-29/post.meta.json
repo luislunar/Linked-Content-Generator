@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "certifications",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "First Call · Owner 031",
+    "lead_html": "She was waiting on her 8(a) before she'd even look at the Schedule. <em>She'd been waiting two years.</em>",
+    "rows": [
+      {
+        "when": "The Call",
+        "what_html": "<strong>\"I need my 8(a) first\"</strong> <span class='light'>— the most common cert misconception I hear</span>"
+      },
+      {
+        "when": "The Reframe",
+        "what_html": "<strong>Schedule has no cert requirement</strong> <span class='light'>— 8(a), WOSB, SDVOSB multiply what you already have</span>"
+      },
+      {
+        "when": "Month 09",
+        "what_html": "<strong>Schedule approved. 8(a) pending.</strong> <span class='light'>— now running both tracks at once</span>"
+      }
+    ],
+    "closer": "CERTIFICATIONS MULTIPLY THE SCHEDULE. THEY DON'T UNLOCK IT.",
+    "image_headline": "CERTIFICATIONS DON'T UNLOCK YOUR GSA SCHEDULE",
+    "image_prompt": "Infographic story layout on cream background. Left side: illustrated 3-step vertical timeline with milestone icons labeled 'THE CALL', 'THE REFRAME', 'MONTH 09'. Right side: illustrated professional woman in business blazer, confident expression, holding a credential folder. Bold headline top: 'CERTIFICATIONS DON'T UNLOCK YOUR GSA SCHEDULE'. One highlighted dark forest-green callout box with short phrase 'THEY MULTIPLY IT'. Forest-green and amber accent colors throughout. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
