@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+**`drafts/jason/2026-10-29/`**
+
+| File | Summary |
+|---|---|
+| `post.md` | 125 words, `inspiration` type, `sam` topic, `blunt` hook |
+| `post.meta.json` | `single-03-quote` (cream bg), full template data + image prompt |
+| `hypothesis.md` | Tests consequence-first SAM renewal framing vs. longer how-to formats |
+
+**`logs/jason/run-2026-10-29.md`** — logged.
+
+**Rotation decisions:**
+- Post type `inspiration` — avoids Jason's last 3 (`tips_list`, `milestone`, `hot_take`) and today's others (`client_story`, `personal_story`)
+- Topic `sam` — avoids Jason's last 5 topics and today's conflicts (`teaming` by Josh, `certifications` by William)
+- Hook `blunt` — avoids yesterday's `myth-bust`; stays in Jason's preferred set
+- Template `single-03-quote` (cream) — satisfies color contrast rule (last 2 Jason templates were dark bg)
+
+The central idea: SAM.gov expirations freeze payments on contracts you already won — most small business owners think the risk is losing future bids, not current cash flow. The "day 330" specificity gives people an actionable number they didn't know they needed.

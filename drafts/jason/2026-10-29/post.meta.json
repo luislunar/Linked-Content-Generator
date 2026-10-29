@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "sam",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · SAM",
+    "quote_html": "SAM.gov doesn't know it's expired. <em>Every agency payment system does.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "SAM EXPIRED. AGENCIES ALREADY KNOW.",
+    "image_prompt": "Infographic alert layout on cream background. Bold black warning headline top: 'SAM EXPIRED. AGENCIES ALREADY KNOW.' with a red caution icon. Left side: illustrated professional man in business casual, looking anxious at a laptop screen showing a red 'REGISTRATION EXPIRED' banner. Right side: dark navy vertical panel labeled 'WHAT HAPPENS' with three short labels stacked with downward arrows: 'PAYMENTS FREEZE', 'AWARDS PAUSED', 'DROPPED FROM RFQS'. Bottom dark navy banner with short callout text: 'SET DAY 330'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
