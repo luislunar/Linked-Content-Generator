@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "8-Month Shift",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you <span class='accent'>team smart.</span>",
+    "before_items": [
+      "No federal past performance",
+      "Screened out of every RFP",
+      "Two years, zero awards"
+    ],
+    "after_items": [
+      "First federal award on record",
+      "Three new opportunities opened",
+      "GSA Schedule now in progress"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "TEAMING IS THE SHORTCUT NO ONE TAKES",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'BEFORE' with red X icon. Three short 2-3 word labels stacked: 'NO PAST PERF', 'SCREENED OUT', 'ZERO AWARDS'. Right panel light cream, bold label 'AFTER' with green checkmarks. Three short labels: 'FIRST AWARD', 'DOORS OPEN', 'GSA READY'. Center: illustrated arrow bridging panels, two small professional figures shaking hands. Bold headline top: 'TEAMING IS THE SHORTCUT NO ONE TAKES'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
