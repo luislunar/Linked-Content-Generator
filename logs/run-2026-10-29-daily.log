@@ -1,22 +1,27 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for today's Josh Ladick post:
+Today's run was already completed earlier. The draft is committed and published. Here's what was produced:
 
-**Type:** `client_story` — not used in last 3 days (hot_take, behind_scenes, tips_list were blocked)
+---
 
-**Topic:** `teaming` — fresh; all last-5 topics (compliance, pipeline, pricing, certifications, gsa_basics) were blocked
+**2026-10-29 — Josh Ladick post (already published)**
 
-**Hook:** `truth` — "Nobody talks enough about…" — fresh after alert/story/blunt run
+- **Type:** `client_story`
+- **Topic:** `teaming`
+- **Hook:** `truth` — "Nobody talks enough about how a teaming agreement can solve the past performance problem in a single move."
+- **Template:** `single-05-beforeafter` (cream bg)
+- **Word count:** 251
 
-**Template:** `single-05-beforeafter` (cream bg) — correct first choice for client_story; good color contrast after dark `single-01-bold` two days ago
+**The story:** Small IT firm (~$3M revenue), 2 years stuck without federal past performance. GSA Focus structured a teaming agreement with a prime in their NAICS code → first federal award 8 months later → now pursuing their own GSA Schedule with real federal history.
 
-**The story:** Small IT firm (~$3M revenue), 2 years stuck without federal past performance. GSA Focus structured a teaming agreement with a prime in their NAICS code. Eight months later: first federal award. Now pursuing their own GSA Schedule with real federal history behind them.
+**Community question:** Targets the specific obstacle — finding the prime, making contact, or structuring the agreement.
 
-**Word count:** 251 — within the 200–300 range for client_story.
-
-**Community question** targets the specific obstacle (finding the prime, making contact, or structuring the agreement) — not a generic "what do you think?"
-
-Files written:
+**Files (already committed):**
 - `drafts/2026-10-29/post.md`
 - `drafts/2026-10-29/post.meta.json`
 - `drafts/2026-10-29/hypothesis.md`
+- `drafts/2026-10-29/card.jpg`
 - `logs/run-2026-10-29.md`
+
+---
+
+The `logs/run-2026-10-29-daily.log` file in the working tree was overwritten by the permissions warning message during this session. The committed version of that file is intact. No new content is needed — today's post is done.
