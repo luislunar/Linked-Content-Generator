@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Pipeline · Week 43",
+    "lead_html": "Two years on SAM.gov. <em>Zero federal revenue.</em>",
+    "rows": [
+      { "when": "The call", "what_html": "<strong>No Sources Sought responses</strong> <span class='light'>— on the list, not working it</span>" },
+      { "when": "The shift", "what_html": "<strong>Four pipeline habits</strong> <span class='light'>— the ones who move do all of them</span>" },
+      { "when": "The truth", "what_html": "<strong>The Schedule opens the door</strong> <span class='light'>— showing up is still on you</span>" }
+    ],
+    "closer": "THE LIST IS EASY. WORKING IT IS THE JOB."
+  },
+  "experiment_id": "",
+  "image_headline": "TWO YEARS. ZERO CONTRACTS.",
+  "image_prompt": "Infographic story layout, William brand theme (forest green + amber). Left side: illustrated professional man at a desk with phone to ear, notepad in front of him, focused expression. Right side: vertical pipeline journey with four icons, each labeled with short 2-3 word callouts: 'SOURCES SOUGHT', 'INDUSTRY DAYS', 'NAICS ALERTS', 'CO OUTREACH' — each with a green checkmark. Bold headline top: 'TWO YEARS. ZERO CONTRACTS.' One highlighted amber callout box with short text 'WORK THE LIST'. Dark forest green banner at bottom. Footer text: 'William Hill · GSA Focus'."
+}

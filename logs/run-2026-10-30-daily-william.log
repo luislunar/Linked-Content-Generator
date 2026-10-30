@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written for William today:
+
+**Post type:** `behind_scenes` — chosen because personal_story/tips_list/inspiration are all blocked from William's last 3 days, and client_story's 200-word floor conflicts with the mandatory under-180 length cadence (last 3 avg: 214 words).
+
+**Topic:** `pipeline` — William's 2x/week priority, last used 10-21 (outside the 5-run-day block), not overlapping with Josh's `vehicles` today.
+
+**Hook:** `story` — consecutive-block eliminated `question` (used yesterday); `story` fits the call-narrative framing and differentiates from Josh's `question` hook today.
+
+**Core angle:** The "on the list vs. working the list" gap — a prospect who had two years on SAM.gov and zero revenue because he'd never responded to a Sources Sought. Four concrete habits the owners who actually move share: Sources Sought responses, industry days, NAICS code alerts, CO outreach. 177 words, under the 180 threshold.
+
+**Files created:**
+- `drafts/william/2026-10-30/post.md`
+- `drafts/william/2026-10-30/post.meta.json` (template: `single-07-story`, forest green + amber theme)
+- `drafts/william/2026-10-30/hypothesis.md`
+- `logs/william/run-2026-10-30.md`
