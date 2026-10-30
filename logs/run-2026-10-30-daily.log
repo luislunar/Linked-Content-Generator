@@ -1,13 +1,24 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced in `drafts/2026-10-30/`:
+Today's run is already complete — `d38f13f publish: 2026-10-30 daily post` was committed earlier today. All files are in place:
 
-**post_type:** `tips_list` · **topic:** `vehicles` · **hook:** `question` · **template:** `single-06-checklist`
+**Draft: `drafts/2026-10-30/`**
+- `post.md` — 232 words (within tips_list range 150–280) ✓
+- `post.meta.json` — all required fields including full `template_data` ✓
+- `hypothesis.md` — one paragraph as required ✓
 
-**Rotation rationale:**
-- Last 3 types (client_story, hot_take, behind_scenes) were all excluded — picked `tips_list`
-- Last 3 hooks all opened with statements → switched to a question opener
-- Last 3 posts averaged ~195 words → targeted 174 words (under 180)
-- Topics used in last 5 days (teaming, compliance, pipeline, pricing, certifications) all avoided → `vehicles`
-- Last 2 templates were dark-navy + cream (not 2 dark in a row) → `single-06-checklist` (dark navy) is fine
+**Run log: `logs/run-2026-10-30.md`** — all required fields ✓
 
-**Post angle:** "Can I actually get on this vehicle?" — walks the ICP through the five major vehicles (GSA MAS, SEWP, CIO-SP4, OASIS+, 8(a) STARS) and reveals that most are invitation-only or cert-gated, making GSA MAS the only self-apply option. The community question invites vehicle name-drops, which should drive specific comments.
+**Today's post at a glance:**
+- `post_type`: tips_list
+- `topic`: vehicles
+- `hook_pattern`: question
+- `template`: single-06-checklist
+- Hook: "Before you apply to a contract vehicle — any contract vehicle — ask yourself: 'Can I actually get on this one?'"
+- Angle: contrasts GSA MAS (self-apply, open) vs. SEWP/CIO-SP4 (invite-only), OASIS+ (compete after award), and 8(a) STARS III (cert required) — a genuine surprise for ICP readers who assume all vehicles are equally accessible
+
+**Rotation checks:**
+- tips_list not used in last 3 days (10-27: behind_scenes, 10-28: hot_take, 10-29: client_story) ✓
+- `question` hook not used yesterday (yesterday: truth) ✓
+- single-06-checklist (dark) follows single-07-story (cream yesterday) — no two consecutive dark-bg ✓
+
+No action needed. The workflow will handle publishing.
