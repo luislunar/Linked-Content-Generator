@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+---
+
+**2026-10-30 — Jason's post**
+
+- **Type:** `hot_take` (178 words — within 150–300 range)
+- **Topic:** `pricing` (Jason priority topic, unused by Josh/William today)
+- **Hook:** `contrarian` — opens by naming the wrong question, then reframes it
+- **Template:** `single-01-bold` (dark navy card — contrasts with yesterday's cream `single-03-quote`)
+
+**The post** challenges the "lowest price wins" assumption head-on. It reframes GSA pricing as a ceiling (not a floor), explains why under-pricing locks contractors in, and hits the "foot in the door" objection Jason hears constantly on calls. Community question asks for specific pricing mistakes — designed to pull personal disclosures rather than abstract opinions.
+
+**Files written:**
+- `drafts/jason/2026-10-30/post.md`
+- `drafts/jason/2026-10-30/post.meta.json`
+- `drafts/jason/2026-10-30/hypothesis.md`
+- `logs/jason/run-2026-10-30.md`

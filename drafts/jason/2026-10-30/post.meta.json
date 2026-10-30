@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pricing Reality",
+    "headline_html": "LOW PRICE<br>ISN'T<br><span class='accent'>DEFENSIBLE.</span>",
+    "sub": "GSA pricing is a ceiling. Undercutting yourself isn't strategy — it's a year-two problem.",
+    "issue": "Field Note 031",
+    "image_headline": "LOW PRICE ISN'T DEFENSIBLE",
+    "image_prompt": "Bold statement infographic layout, dark navy background. Top short pill label 'PRICING REALITY' in coral. Large three-line headline centered: 'LOW PRICE / ISN'T / DEFENSIBLE' — final line in cyan accent color. Below headline: one short callout line 'GSA PRICE = CEILING'. Left of center: illustrated professional man in business casual seated at desk, reviewing two printed proposals side by side, pointing to a price column with a pen. Right of center: simple icon of an upward arrow labeled 'CEILING' and a downward arrow labeled 'TOO LOW' with a red X. Bottom dark navy banner. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
