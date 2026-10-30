@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "vehicles",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Vehicle Reality-Check",
+    "module": "Module 05 · Vehicles",
+    "headline_html": "Not every vehicle has <span class='accent'>an open door.</span>",
+    "items": [
+      {
+        "title": "GSA MAS: self-apply",
+        "sub": "30+ categories, open to any eligible small business"
+      },
+      {
+        "title": "SEWP & CIO-SP4: invite only",
+        "sub": "IT-specific — you cannot self-nominate"
+      },
+      {
+        "title": "OASIS+: compete after award",
+        "sub": "Best-in-Class IDIQ — task orders require separate bids"
+      },
+      {
+        "title": "8(a) STARS: cert required first",
+        "sub": "Active SBA 8(a) status before you can even apply"
+      },
+      {
+        "title": "Know the barrier before you pick",
+        "sub": "GSA MAS is the only major vehicle any small biz can self-pursue"
+      }
+    ],
+    "footer_left": "Quick Vehicle Reality-Check",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "NOT EVERY VEHICLE HAS AN OPEN DOOR",
+    "image_prompt": "Infographic checklist alert layout. Bold headline top: 'NOT EVERY DOOR IS OPEN' with caution icon. Left side: illustrated professional in blazer standing at a road fork with signposts labeled 'MAS', 'SEWP', 'OASIS+', 'STARS'. Right side: 5 checklist rows with short 2-3 word labels: 'MAS: Open', 'SEWP: Invite Only', 'OASIS+: Compete After', 'STARS: Cert First', 'Know Your Barrier'. Bottom dark navy banner. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
