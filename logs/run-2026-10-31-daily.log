@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the run summary:
+
+**2026-10-31 — Josh Ladick / GSA Focus**
+
+| Field | Value |
+|---|---|
+| post_type | `inspiration` |
+| topic | `myths` |
+| hook_pattern | `myth-bust` |
+| format | `prose` |
+| template | `single-03-quote` |
+| word_count | 122 |
+
+**Rotation rationale:**
+- tips_list / client_story / hot_take were the last 3 types → blocked; `inspiration` was the natural fit
+- Last 3 posts averaged 204 words → under-180 target → 122 words hits the mark
+- topics vehicles / teaming / compliance / pipeline / pricing all blocked (last 5 days) → `myths` was available and pairs perfectly with myth-bust
+- Cream+serif card (`single-03-quote`) provides visual contrast after yesterday's dark-bg checklist
+
+**The hook:** Opens by quoting the exact belief that stops qualified businesses from applying, then systematically dismantles it — landing on the aha-moment line "you don't need a federal contract to get a federal contract." Closes with a myth-drop CTA to drive comment volume.

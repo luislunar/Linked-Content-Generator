@@ -1,0 +1,5 @@
+This draft tests a myth-bust hook on the myths topic using the inspiration post type — a short, high-conviction format designed to deliver one counter-intuitive truth without diluting it with bullets or structure.
+
+The specific myth chosen — "you need federal past performance to get on the GSA Schedule" — is among the most common blockers for the ICP. Business owners with strong commercial operations consistently self-disqualify based on this belief, which makes the reveal ("you don't need a federal contract to get a federal contract") a genuine aha moment rather than generic advice. The prose format with no bullets forces the logic to land as a single coherent argument, which should feel more authoritative than a checklist.
+
+The myth-drop CTA ("What myth almost kept you from exploring federal contracting?") is designed to generate comment volume by inviting personal experience — not a yes/no, but a story. Expected to move both reactions (shareable counter-intuitive truth) and comments (experience-share CTA tied to a universal emotional moment in the GovCon journey).

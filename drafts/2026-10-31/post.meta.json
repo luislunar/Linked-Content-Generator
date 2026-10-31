@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · Myths",
+    "quote_html": "You don't need a federal contract<br><em>to get a federal contract.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "NO FEDERAL PAST? NO PROBLEM.",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE MYTH' with red X icon. Two short myth labels: 'NEED FEDERAL WORK' and 'THEN APPLY.' Right panel white/cream, bold label 'THE REALITY' with green checkmark. Two short reality labels: 'COMMERCIAL TRACK' and 'IS YOUR TICKET.' Center: illustrated professional in business suit stepping through doorway from dark panel to light panel. Bold headline at top: 'NO FEDERAL PAST? NO PROBLEM.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
