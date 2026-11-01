@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "certifications",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Certifications",
+    "quote_html": "Certification tells them you qualify. <em>The vehicle is how money actually moves.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE CERT QUALIFIES. THE VEHICLE PAYS.",
+    "image_prompt": "Pull-quote infographic. Cream background. Centered bold dark navy serif headline: 'THE CERT QUALIFIES. THE VEHICLE PAYS.' Below: two side-by-side callout zones — left zone dark navy labeled 'CERTIFICATION' with 2-word sub-label 'Opens Doors', right zone light with label 'CONTRACT VEHICLE' and sub-label 'Moves Money'. Small arrow connecting left to right. Illustrated professional woman in blazer standing confidently to the right, looking forward. Thin decorative rule above and below the quote. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
