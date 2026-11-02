@@ -1,16 +1,17 @@
 {
-  "post_type": "hot_take",
-  "topic": "pipeline",
-  "hook_pattern": "truth",
+  "post_type": "inspiration",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
   "format": "prose",
-  "template": "single-01-bold",
+  "template": "single-03-quote",
   "template_data": {
-    "tag": "Pipeline Reality",
-    "headline_html": "$23.1B<br>ONE<br><span class='accent'>QUARTER.</span>",
-    "sub": "Small businesses. Q3 2026. The money is real — is your company listed? Source · USAspending.gov",
-    "issue": "No. 031",
-    "image_headline": "$23.1B. ONE QUARTER. ARE YOU LISTED?",
-    "image_prompt": "Infographic alert layout. Dark navy background. Bold headline top: '$23.1B — ONE QUARTER.' Illustrated professional man in blazer reviewing a federal document on a laptop. Right side: three short highlighted labels — '8 INDUSTRIES', '$23.1B Q3', 'GSA ACCESS' — each with a green accent bar. Bottom strip: source line 'Source · USAspending.gov'. Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "Field Note",
+    "index": "No. 032 · Myths",
+    "quote_html": "You don't need past performance <em>to get a GSA Schedule.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "NO PAST PERFORMANCE? YOU STILL QUALIFY.",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE MYTH' with red X icon. Short myth label: 'NEED PAST PERFORMANCE'. Right panel white/cream, bold label 'THE REALITY' with green checkmark. Short reality label: 'SKILLS + FINANCIALS WIN'. Center: illustrated professional man in suit stepping confidently from dark to light. Bold headline top: 'NO PAST PERFORMANCE? YOU STILL QUALIFY.' Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

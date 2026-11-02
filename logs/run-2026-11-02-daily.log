@@ -1,13 +1,20 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced in `drafts/2026-11-02/`:
+Done. Here's the summary of what was generated:
 
-**post_type:** `hot_take` · **topic:** `pipeline` · **hook:** `truth` · **template:** `single-01-bold`
+---
 
-**Rotation rationale:**
-- Last 3 types (`client_story`, `tips_list`) excluded — picked `hot_take`
-- Last hook was `question` → switched to `truth` ("Nobody talks about...")
-- Last 2 templates were cream then dark — no constraint, dark (`single-01-bold`) is fine
-- Topics `teaming` and `vehicles` recently used — `pipeline` is fresh
-- Length at 167 words (within 150–300 range for `hot_take`); no bullets (prose format for hot_take per spec)
+**Post type:** `inspiration` — short myth-bust, 94 words (under the 180-word ceiling for length variation)
 
-**Post angle:** "$23.1B went to small businesses in Q3 2026 alone — the barrier isn't the money, it's access." Uses fresh USAspending.gov data from `govcon-data-2026-11-02.md` exclusively (no other profiles have drafted today). The core message: not being on a GSA Schedule means you don't lose bids, you simply never appear. Community question asks about the specific barrier keeping them off a vehicle, designed to generate specific, personal responses.
+**Topic:** `myths` — past performance requirement for GSA Schedule
+
+**Hook:** `myth-bust` — opens with a direct quote-style challenge to a persistent false belief
+
+**Template:** `single-03-quote` (cream bg) — breaks the two-consecutive-dark-card streak (single-01, single-06 were the last two)
+
+**Key rotation logic applied:**
+- Skipped hot_take, tips_list, client_story (all used in last 3 days)
+- Skipped pipeline, vehicles, teaming (recent topics)
+- Avoided truth hook (used today's earlier run + Oct 29)
+- Forced cream-bg template after two dark-bg cards in a row
+
+**The post** opens with the verbatim myth as a quoted statement, explains in two sentences what GSA actually evaluates, lands the key insight ("the myth has stopped more qualified companies than any real barrier"), and closes with a specific community question about misconceptions.
