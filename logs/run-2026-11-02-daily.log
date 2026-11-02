@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-11-02/`:
+
+**post_type:** `hot_take` · **topic:** `pipeline` · **hook:** `truth` · **template:** `single-01-bold`
+
+**Rotation rationale:**
+- Last 3 types (`client_story`, `tips_list`) excluded — picked `hot_take`
+- Last hook was `question` → switched to `truth` ("Nobody talks about...")
+- Last 2 templates were cream then dark — no constraint, dark (`single-01-bold`) is fine
+- Topics `teaming` and `vehicles` recently used — `pipeline` is fresh
+- Length at 167 words (within 150–300 range for `hot_take`); no bullets (prose format for hot_take per spec)
+
+**Post angle:** "$23.1B went to small businesses in Q3 2026 alone — the barrier isn't the money, it's access." Uses fresh USAspending.gov data from `govcon-data-2026-11-02.md` exclusively (no other profiles have drafted today). The core message: not being on a GSA Schedule means you don't lose bids, you simply never appear. Community question asks about the specific barrier keeping them off a vehicle, designed to generate specific, personal responses.

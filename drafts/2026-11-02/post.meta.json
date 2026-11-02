@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pipeline Reality",
+    "headline_html": "$23.1B<br>ONE<br><span class='accent'>QUARTER.</span>",
+    "sub": "Small businesses. Q3 2026. The money is real — is your company listed? Source · USAspending.gov",
+    "issue": "No. 031",
+    "image_headline": "$23.1B. ONE QUARTER. ARE YOU LISTED?",
+    "image_prompt": "Infographic alert layout. Dark navy background. Bold headline top: '$23.1B — ONE QUARTER.' Illustrated professional man in blazer reviewing a federal document on a laptop. Right side: three short highlighted labels — '8 INDUSTRIES', '$23.1B Q3', 'GSA ACCESS' — each with a green accent bar. Bottom strip: source line 'Source · USAspending.gov'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
