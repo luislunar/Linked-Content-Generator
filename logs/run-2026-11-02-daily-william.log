@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Today's William Hill post is done. Here's the summary:
+
+---
+
+**2026-11-02 — William Hill**
+
+- **Type:** inspiration | **Topic:** sam | **Hook:** question | **Format:** story | **Words:** 141
+- **Template:** `single-03-quote` (cream + serif) — contrasts Josh's dark `single-01-bold` today
+- **Card pull quote:** *"SAM puts you on the map. The Schedule puts you in front of buyers."*
+- **Angle:** The SAM-vs-Schedule confusion William hears on nearly every first call — owners who've been registered in SAM for years and wonder why no contracts have come through. Different from Jason's 10-29 SAM post (which covered expiration); today names the structural distinction between being visible to agencies and being purchasable by them.
+- **CTA:** "What's one thing about federal registrations you wish someone had explained to you sooner?" — invites experience-sharing from two cohorts: owners who've lived this confusion, and prospects still evaluating.
+
+All constraints cleared: under 180 words (cadence rule ✓), question hook (story blocked consecutive ✓), sam topic (priority ✓, outside 5-run-day window ✓), no topic/type/hook collisions with Josh or Jason today.

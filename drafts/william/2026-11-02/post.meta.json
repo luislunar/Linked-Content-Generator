@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 032 · SAM",
+    "quote_html": "SAM puts you on the map. <em>The Schedule puts you in front of buyers.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "REGISTERED IN SAM. NOT READY TO BID.",
+    "image_prompt": "Infographic layout on warm cream background. Left side: simple two-step vertical pathway diagram — top node labeled 'SAM' with short caption 'VERIFIED & PAYABLE', connected by a downward arrow to second node labeled 'GSA SCHEDULE' with short caption 'PURCHASABLE' — second node highlighted with a forest green accent ring. Right side: illustrated professional man in business casual on a phone call, expression warm and engaged. Bold serif pull quote centered across bottom half: 'SAM PUTS YOU ON THE MAP. THE SCHEDULE PUTS YOU IN FRONT OF BUYERS.' Subtle amber rule line separating quote from footer. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
