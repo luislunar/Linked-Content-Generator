@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "vehicles",
+  "hook_pattern": "question",
+  "format": "comparison",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Vehicle Mismatch",
+    "case_num": "Case · 018",
+    "headline_html": "Fourteen months in the <span class='accent'>wrong room.</span>",
+    "before_items": [
+      "OASIS+ — wrong vehicle",
+      "14 months, zero awards",
+      "Competing outside their scope"
+    ],
+    "after_items": [
+      "Shifted to GSA MAS",
+      "First award in month 8",
+      "Pipeline finally moving"
+    ],
+    "footer_left": "One Real Shift",
+    "footer_right": "Field Case Series",
+    "image_headline": "WRONG VEHICLE, WRONG ROOM",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'WRONG VEHICLE' with a red X icon in top corner. Three short stacked labels in white text: 'OASIS+', '14 MO · NO WINS', 'WRONG SCOPE'. Right panel white/light, bold label 'RIGHT VEHICLE' with green checkmark icon. Three short stacked labels in dark text: 'GSA MAS', 'AWARD MO. 8', 'RFQs LANDING'. Center divider: illustrated professional man in blazer and dark slacks walking left-to-right from dark panel into light panel, expression focused. Bold headline across top: 'WRONG VEHICLE, WRONG ROOM'. Thin accent line in cyan separating headline from panels. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

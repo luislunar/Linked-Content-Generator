@@ -1,0 +1,25 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's Jason draft:
+
+---
+
+**`drafts/jason/2026-11-02/`** — 3 files written
+
+| Field | Value |
+|---|---|
+| `post_type` | `client_story` |
+| `topic` | `vehicles` |
+| `hook_pattern` | `question` |
+| `format` | `comparison` |
+| `template` | `single-05-beforeafter` |
+| `word_count` | ~243 |
+
+**Decisions:**
+
+- **Hook forced to `question`** — Jason's last 3 posts (contrarian, blunt, myth-bust) all opened with statements; cadence rule requires question or story today.
+- **`vehicles` topic** — Jason's 1x/week priority, clear of all today's other profiles (Josh=pipeline, William=sam), not used by Jason since 10-26 (7 days ago).
+- **`client_story` type** — avoided last 3 Jason types (hot_take, inspiration, tips_list) and today's other profile types (hot_take, inspiration).
+- **`single-05-beforeafter` template** — cream+navy split is visually distinct from Josh's dark navy (`single-01-bold`) and William's cream (`single-03-quote`) today.
+- **No data stat used** — Josh already used the Q3 $23.1B aggregate; the narrative story was stronger without forcing a number.
+
+**Post angle:** A small IT firm stuck on OASIS+ for 14 months (wrong vehicle, wrong scope) vs. shifting to GSA MAS and landing first award in month 8 — paired with Jason's blunt vehicle breakdown for every first call.
