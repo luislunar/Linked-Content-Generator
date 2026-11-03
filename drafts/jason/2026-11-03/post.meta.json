@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "certifications",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "VA Awards · Q3 2026",
+    "snapshot": "Snapshot · Q3 2026",
+    "label_above": "VA small business awards, Q3 2026",
+    "big_number_html": "$<span class='accent'>5.7B</span>",
+    "context_html": "Veteran-owned shops with SDVOSB status get <strong>first priority</strong> on this spend — but only if they have a contract vehicle to bid through.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "SDVOSB ACCESS IS NOT AUTOPILOT",
+    "image_prompt": "Infographic stat layout on dark charcoal/carbon black background with cyan accent color scheme. Bold headline centered at top in white: 'SDVOSB ACCESS IS NOT AUTOPILOT'. Center: oversized stat '$5.7B' in bold cyan, label beneath in light grey 'VA SMALL BIZ AWARDS · Q3 2026'. Left side: illustrated professional man in business casual attire, arms crossed, confident stance. Right column: two stacked callout boxes — top box short label 'OPENS' in cyan with 3-word caption 'SET-ASIDE LANE'; bottom box label 'REQUIRES' in white with 3-word caption 'VEHICLE TO BID'. Bottom dark strip with source credit in small text. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

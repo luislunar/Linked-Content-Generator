@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written for Jason today:
+
+---
+
+**Post type:** `milestone` · **Topic:** `certifications` · **Hook:** `myth-bust`
+**Template:** `single-04-stat` · **~177 words**
+
+**Card stat:** $5.7B — VA small business awards, Q3 2026 (Source: USAspending.gov)
+
+**Core argument:** SDVOSB certification gives you legal priority on the VA's $5.7B/quarter spend — but the certification alone doesn't place you in bidding systems, doesn't surface your pricing to COs, and doesn't substitute for a contract vehicle. The companies actually capturing that money pair SDVOSB status with a GSA Schedule.
+
+**Uniqueness checks:**
+- Topic: `certifications` — not used by Josh (`myths`) or William (`teaming`) today, not in Jason's last 5 days
+- Post type: `milestone` — not in Jason's last 3 days (`client_story`, `hot_take`, `inspiration`); not used by others today
+- Hook: `myth-bust` — not in Jason's last 3 days (`question`, `contrarian`, `blunt`)
+- Data: $5.7B VA figure — not used by Josh or William today
+
+**Files written:**
+- `drafts/jason/2026-11-03/post.md`
+- `drafts/jason/2026-11-03/post.meta.json`
+- `drafts/jason/2026-11-03/hypothesis.md`
+- `logs/jason/run-2026-11-03.md`
