@@ -1,15 +1,13 @@
-I've had some version of this conversation hundreds of times.
+Every GSA application we start follows the same first step: a full pull of the client's SAM.gov registration before we touch anything else.
 
-A small business owner — usually someone who's built something real over 20 years of commercial work — gets on a call and tells me they've "looked into" federal contracting. Then, somewhere in the first five minutes, they say it: "We don't have any past performance with the government."
+Nine times out of ten, something's off.
 
-It stops them cold. As if the federal market has a velvet rope, and past performance is the only thing that gets you past it.
+Not broken — just drifted. A NAICS code from a business description someone wrote in 2019. An expired point of contact. A CAGE code that no longer matches the state registration address on file. We go through the record field by field using our internal SAM audit checklist — NAICS alignment, PSC codes, cage validation, renewal date, and banking accuracy.
 
-Here's the truth nobody leads with: the federal government actively wants new vendors. That's why set-asides exist. That's why teaming agreements are written into the FAR. That's why agencies run Sources Sought notices — they're literally asking who's out there.
+The whole thing takes about two hours on a clean account. Four to six hours if there's been real drift.
 
-A GSA Schedule doesn't require federal past performance to get approved. Your commercial work qualifies. A teaming agreement with a prime that has federal history gets you into proposals you couldn't win alone. The barriers are real — but "no past performance" isn't the wall most people think it is.
+SAM.gov isn't a form you fill once. It's the source of record that follows your company through every federal bid, every GSA order, every payment. When it's off, nothing downstream works the way it should.
 
-The wall is usually the paperwork that comes before the opportunity.
+When did you last actually read your SAM registration — not just confirm it says "Active"?
 
-What's a belief about federal contracting that almost kept you from exploring it?
-
-#govcon #federalcontracting #gsaschedule #smallbusiness #govconmyths
+#govcon #sam #gsaschedule #federalcontracting #smallbusiness

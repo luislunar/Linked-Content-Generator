@@ -3,27 +3,21 @@ Done. Here's a summary of today's run:
 
 ---
 
-**2026-11-03 — Josh Ladick daily post**
+**2026-11-03 · Josh Ladick · GSA Focus**
 
 | Field | Value |
 |---|---|
-| `post_type` | `personal_story` |
-| `topic` | `myths` |
-| `hook_pattern` | `story` |
-| `format` | prose (no bullets) |
-| `template` | `single-07-story` (cream) |
-| `word_count` | ~198 |
+| `post_type` | `behind_scenes` |
+| `topic` | `sam` |
+| `hook_pattern` | `checklist` |
+| `format` | prose |
+| `template` | `single-03-quote` |
+| `word_count` | ~152 |
 
-**Rotation decisions:**
-- Avoided `hot_take` (used 11-02) and `tips_list` (used 10-30)
-- Switched to cream template — last two cards were both dark navy (`single-01-bold`, `single-06-checklist`)
-- Changed from `truth`/`question` hooks to `story` hook
-- No-bullets prose format contrasts with previous numbered/checklist formats
+**Rotation rationale:**
+- Type `behind_scenes` — not used in any of the last 3 runs (tips_list → hot_take → personal_story)
+- Topic `sam` — not used in the last 5 days (compliance, teaming, vehicles, pipeline, myths)
+- Hook `checklist` — avoids repeating the last 3 (question, truth, story)
+- Template `single-03-quote` (cream) — single-07-story cream was just used; this gives a different visual feel while staying off dark-bg templates that dominated earlier in the week
 
-**Post angle:** Josh recounts the #1 objection he hears ("we have no past performance") and dismantles it in three beats — the belief is wrong, commercial work qualifies for GSA, and teaming provides the bridge. Closes with an experience-share question designed to pull comments from both believers and recoverers of this myth.
-
-**Files written:**
-- `drafts/2026-11-03/post.md`
-- `drafts/2026-11-03/post.meta.json`
-- `drafts/2026-11-03/hypothesis.md`
-- `logs/run-2026-11-03.md`
+**Post angle:** A process-reveal of the SAM.gov audit we run before every GSA application — what drifts, how long it takes, why the record matters far beyond "Active" status. Closes with a direct honest-check CTA: "When did you last actually *read* your SAM registration?"

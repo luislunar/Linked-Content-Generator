@@ -1,30 +1,17 @@
 {
-  "post_type": "personal_story",
-  "topic": "myths",
-  "hook_pattern": "story",
-  "format": "story",
-  "template": "single-07-story",
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "checklist",
+  "format": "prose",
+  "template": "single-03-quote",
   "template_data": {
-    "section_label": "Field Report",
-    "year_client": "Heard It Again · November 2026",
-    "lead_html": "The myth that stops more companies <em>than any other part of the process.</em>",
-    "rows": [
-      {
-        "when": "The Belief",
-        "what_html": "<strong>\"No past performance\"</strong> <span class='light'>— the reason given 9 out of 10 times</span>"
-      },
-      {
-        "when": "The Reality",
-        "what_html": "<strong>Commercial work qualifies</strong> <span class='light'>— GSA doesn't require federal history</span>"
-      },
-      {
-        "when": "The Path",
-        "what_html": "<strong>Teaming gets you in</strong> <span class='light'>— FAR-supported, agency-expected</span>"
-      }
-    ],
-    "closer": "THE WALL IS PAPERWORK. NOT PAST PERFORMANCE.",
-    "image_headline": "PAST PERFORMANCE IS NOT THE WALL",
-    "image_prompt": "Infographic story layout on warm cream background. Left side: three-step vertical pathway diagram. Top node labeled 'THE MYTH' in dark navy with small red X — 2-word caption 'NO HISTORY'. Middle node labeled 'THE TRUTH' in forest green with checkmark — 2-word caption 'COMMERCIAL COUNTS'. Bottom node labeled 'THE PATH' in dark navy — 2-word caption 'TEAM UP'. Right side: illustrated professional man in blazer, confident stance, reviewing documents on a clipboard. Bold headline centered at top: 'PAST PERFORMANCE IS NOT THE WALL'. Subtle amber accent rule line separating headline from content. Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "Behind the Work",
+    "index": "No. 029 · SAM.gov",
+    "quote_html": "SAM isn't a form you fill once. <em>It's the source of record that follows you through every bid.</em>",
+    "footer_left": "Process Note",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "YOUR SAM RECORD DRIFTS. READ IT.",
+    "image_prompt": "Infographic checklist layout on cream background. Bold headline at top: 'YOUR SAM RECORD DRIFTS. READ IT.' Left side: illustrated professional woman in blazer reviewing a laptop screen, focused expression. Right side: five checklist rows with dark navy checkmark icons and short 2-3 word labels — 'NAICS MATCH', 'CAGE VALID', 'CONTACTS CURRENT', 'RENEWAL DATE', 'BANKING ACCURATE'. Bottom: dark navy accent rule with short callout. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }
