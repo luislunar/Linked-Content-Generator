@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "teaming",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Teaming Playbook",
+    "module": "Module 05 · Teaming",
+    "headline_html": "Five moves that <span class='accent'>actually</span> open the door.",
+    "items": [
+      { "title": "Target primes in your NAICS", "sub": "Find who holds active GSA vehicles, not just who's biggest" },
+      { "title": "Send a targeted cap statement", "sub": "Generic doesn't win callbacks — match their contract type" },
+      { "title": "Show up at industry days to pitch", "sub": "Listening doesn't open doors; pitching does" },
+      { "title": "Lock in the agreement early", "sub": "Teaming agreements close before the RFP drops, not after" },
+      { "title": "Follow up — then follow up again", "sub": "Primes are busy; memory is short; consistency wins" }
+    ],
+    "footer_left": "For the New Entrants",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE TEAMING MOVES THAT OPEN DOORS",
+    "image_prompt": "Infographic checklist layout on dark navy background. Bold headline centered at top: 'FIVE TEAMING MOVES THAT OPEN DOORS' in white. Below: five checklist rows arranged vertically, each with a forest green checkmark icon on the left, a short 3-4 word title in white, and a brief 1-line caption in light grey. Left side of card: illustrated professional man in blazer holding a clipboard, confident posture, suggesting preparation and follow-through. Amber accent rule line separating headline from checklist. Bottom dark navy banner. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/william/2026-11-03/`:
+
+**Decisions made:**
+| Field | Value | Reasoning |
+|---|---|---|
+| `post_type` | `tips_list` | Blocked: inspiration, behind_scenes, personal_story (William last 3 days) + personal_story (Josh today) |
+| `topic` | `teaming` | Blocked: sam, pipeline, certifications, myths, gsa_basics (last 5 William days). Teaming = priority topic, last used 10-23 ✓ |
+| `hook_pattern` | `truth` | question blocked (consecutive yesterday); story used by Josh today → avoided; truth last used 10-27, not consecutive ✓ |
+| `template` | `single-06-checklist` | Last 2 William templates both cream → must break to dark; dark navy ✓ |
+| `format` | `bullets` | Last used 10-30; not consecutive ✓; satisfies ~60% bullet rotation |
+| `word_count` | ~224 | Within tips_list range 150–280; avg last 3 (185) not > 200, no forced constraint |
+
+**The post** leads with the truth that new entrants often get their first federal dollar as a sub, then gives 5 call-observed behaviors that distinguish businesses who build teaming relationships vs. those who wait. CTA splits commenters cleanly: "did you go prime first or did sub open the door?" — two concrete, answerable paths that lower friction to respond.
