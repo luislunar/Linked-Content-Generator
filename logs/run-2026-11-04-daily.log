@@ -1,10 +1,18 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the summary for today's Josh Ladick run:
+Done. Here's what was generated for **2026-11-04**:
 
-**Post type:** `client_story` — teaming topic, fresh against last 3 days (personal_story, hot_take, tips_list)  
-**Hook:** `blunt` — fresh against last 2 days (story, truth)  
-**Template:** `single-05-beforeafter` (Case · 031)  
-**Word count:** ~207 — within the 200–300 range for client_story  
-**Format:** pure prose, no bullets — contrasts with yesterday's story narration and the tips_list before it
+---
 
-**The post** follows a $4M IT firm that believed "no past performance = no shot," walked through a teaming arrangement as a sub, built documented history over 18 months, and emerged as a GSA prime. The community question asks about teaming experience specifically — a topic GovCon practitioners debate actively, good for comments.
+**Post type:** `tips_list` — avoids last 3 days (client_story, personal_story, hot_take)
+**Topic:** `compliance` — clear of last 5 days (teaming, myths, pipeline, vehicles, teaming)
+**Hook pattern:** `story` — opens with client anecdote (rule: last 3 posts all started with statements → today must be question or story ✓)
+**Template:** `single-06-checklist` (dark navy) — good contrast after two cream-bg posts
+**Word count:** ~203 — within tips_list range (150–280)
+
+**Post premise:** A client eight months post-approval didn't know IFF existed. Used as the opening hook to anchor five Schedule maintenance checkpoints most new holders miss: IFF quarterly reporting, SAM.gov renewal, price reduction clause, pricelist modifications, and CAV readiness.
+
+**Files written:**
+- `drafts/2026-11-04/post.md`
+- `drafts/2026-11-04/post.meta.json`
+- `drafts/2026-11-04/hypothesis.md`
+- `logs/run-2026-11-04.md`

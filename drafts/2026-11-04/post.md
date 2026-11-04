@@ -1,19 +1,23 @@
-No past performance doesn't mean no shot at federal contracts.
+A client called me eight months after their Schedule was approved. Ready to market, excited about the pipeline ahead.
 
-I know that sounds blunt. But it's the number-one reason I watch qualified small businesses walk away from the federal market before they ever try.
+I asked when they'd last filed their IFF report.
 
-A client came to us two years ago — $4M IT services firm, strong commercial track record, zero federal history. Their assumption: "We can't compete. We have nothing to show government buyers."
+Silence. They didn't know what IFF was.
 
-We walked them through teaming.
+Here are 5 Schedule maintenance checkpoints most new holders miss — including the one that nearly cost this client their contract:
 
-They approached a mid-size prime already holding a GSA Schedule. They structured a simple teaming agreement — the prime took the lead position, our client handled the technical delivery on two task orders. That work became documented past performance.
+1. **IFF reporting** — The Industrial Funding Fee (0.75% of your GSA sales) is due every quarter through the 72A Portal. Missed quarters accumulate, and GSA notices.
 
-Eighteen months later, they had enough history to pursue their own GSA Schedule — which we helped them through. Today they're winning contracts as a prime on their own.
+2. **SAM.gov renewal** — Your SAM registration must stay active every day of the year. It doesn't auto-renew. Let it lapse and all pending payments freeze immediately.
 
-The barrier wasn't the market. It was the belief that they had to arrive with a track record before they could start building one.
+3. **Price reduction clause** — If you discount below your GSA rate for any commercial customer, you're obligated to give the government that same price. This one catches people completely off guard.
 
-Teaming is how you get in the room before you have the resume.
+4. **Pricelist modifications** — Adding services or adjusting your commercial prices? You must modify the Schedule before offering those changes to federal buyers. Selling off-contract is a serious violation.
 
-What's been your experience with teaming arrangements — did they open doors or create headaches you didn't expect?
+5. **CAV readiness** — GSA can send a Contractor Assistance Visit with little notice. When they show up, you need to know your contract terms cold.
 
-#govcon #gsaschedule #teaming #smallbusiness #federalcontracting
+Getting approved is the first step. Staying compliant is the actual job.
+
+What's one Schedule maintenance rule you learned the hard way?
+
+#govcon #gsaschedule #compliance #smallbusiness #federalcontracting
