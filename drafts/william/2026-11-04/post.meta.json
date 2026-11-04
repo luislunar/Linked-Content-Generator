@@ -1,0 +1,21 @@
+{
+  "post_type": "personal_story",
+  "topic": "gsa_basics",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "First Call · Every Week",
+    "lead_html": "The question I hear most — and <em>why the honest answer changes everything.</em>",
+    "rows": [
+      { "when": "The Assumption", "what_html": "<strong>\"Will contracts come in after approval?\"</strong> <span class='light'>— twenty minutes into almost every first call</span>" },
+      { "when": "The Reality", "what_html": "<strong>The Schedule is access, not pipeline</strong> <span class='light'>— it opens the door; selling means walking through it</span>" },
+      { "when": "The Shift", "what_html": "<strong>Treat approval as Day One</strong> <span class='light'>— Sources Sought, CO outreach, NAICS alerts, pricelist upkeep</span>" }
+    ],
+    "closer": "THE SCHEDULE OPENS THE DOOR. YOU STILL HAVE TO KNOCK."
+  },
+  "image_headline": "THE DOOR IS OPEN. KNOCK ANYWAY.",
+  "image_prompt": "Infographic story layout on cream background with forest green and amber accent colors. Bold headline at top in dark navy: 'THE DOOR IS OPEN. KNOCK ANYWAY.' Left side: illustrated professional man in business casual attire, mid-phone call, pen in hand, natural conversation pose. Center: large illustrated open doorway icon — dark navy door frame, warm light on the other side. Right side: three-row vertical timeline with short 2-3 word labels in dark navy: 'THE ASSUMPTION,' 'THE REALITY,' and 'THE SHIFT,' each with a short caption beneath. Bottom strip in forest green: 'APPROVAL = DAY ONE.' Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
