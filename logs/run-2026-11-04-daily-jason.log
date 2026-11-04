@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+**Post type:** `tips_list` — not used in his last 3 days, not used by Josh or William today  
+**Topic:** `myths` — Jason's highest-weight topic (2x/week), clear of all other profiles  
+**Hook pattern:** `checklist` — different from yesterday's `myth-bust`, clear of Josh's `blunt` and William's `story`  
+**Template:** `single-06-checklist` (dark navy) — dark-bg appropriate given last two were mixed  
+**Word count:** ~163 words — within the 150–280 range
+
+**Govcon data used:** VA $5.7B and $23.1B Q3 2026 total (from `govcon-data-2026-11-02.md`) — neither figure used by Josh or William today. Card credits `Source · USAspending.gov` per rules.
+
+**Uniqueness check passed:** different topic, post type, hook, and format from both Josh (`client_story/teaming/blunt`) and William (`personal_story/gsa_basics/story`). No overlap with Jason's last 3 days.

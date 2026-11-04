@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "myths",
+  "hook_pattern": "checklist",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Objection Kill",
+    "module": "Module 05 · Common Objections",
+    "headline_html": "Five objections. Five <span class='accent'>numbers</span> that end them.",
+    "items": [
+      {
+        "title": "No past performance",
+        "sub": "Teaming and set-asides exist for exactly this — sub in first, build it."
+      },
+      {
+        "title": "We're too small",
+        "sub": "VA alone put $5.7B into small businesses last quarter. Define small."
+      },
+      {
+        "title": "Process takes forever",
+        "sub": "Client effort is ~3 hours. Our team absorbs the 100+."
+      },
+      {
+        "title": "Can't beat the big primes",
+        "sub": "Set-aside categories legally exclude them. You don't share the pool."
+      },
+      {
+        "title": "Wrong industry",
+        "sub": "$23.1B to small businesses across 8 industries — Q3 2026 alone."
+      }
+    ],
+    "footer_left": "Objection Checklist",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "FIVE OBJECTIONS. FIVE KILLS.",
+  "image_prompt": "Infographic checklist layout on dark navy background with cyan (#00D4FF) accents and Space Grotesk typography. Bold headline at top in white: 'FIVE OBJECTIONS. FIVE KILLS.' Left side: illustrated professional man in business-casual attire, arms folded confidently, looking directly at viewer. Right side: 5 checklist rows, each with a bright cyan checkmark icon and a short strikethrough label in white — labels (2-3 words each): 'NO PAST PERF,' 'TOO SMALL,' 'TOO SLOW,' 'BIG PRIMES,' 'WRONG INDUSTRY.' Each row shows a subtle strikethrough effect over the objection label to signal it is killed. Bottom dark bar with data callout: '$23.1B · Q3 2026' in cyan. Source line: 'Source · USAspending.gov.' Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}
