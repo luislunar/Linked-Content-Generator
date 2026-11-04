@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "18-Month Journey",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you stop waiting and <span class='accent'>team up.</span>",
+    "before_items": [
+      "No federal past performance",
+      "Stuck on commercial side only",
+      "Assumed they didn't qualify"
+    ],
+    "after_items": [
+      "Sub on two prime task orders",
+      "GSA Schedule approved month 14",
+      "Own federal pipeline building"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "THE ROOM BEFORE THE RESUME.",
+  "image_prompt": "Infographic story layout. Left side: illustrated professional in suit shaking hands with another professional — the teaming moment, dark navy panel. Right side: cream-background illustrated timeline path with 3 milestone icons labeled '1 TEAM UP,' '2 PERFORM,' '3 WIN PRIME.' Bold headline top: 'THE ROOM BEFORE THE RESUME.' One highlighted callout box in green: 'NO PAST PERFORMANCE? TEAM FIRST.' White and green accent colors throughout. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
