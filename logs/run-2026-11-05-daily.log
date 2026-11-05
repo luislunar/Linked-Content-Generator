@@ -1,18 +1,14 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for 2026-11-05:
+Today's run has already completed successfully. All files are in order:
 
-**Post type:** `tips_list` (last used 10-30, well outside the 3-day block)
-**Topic:** `pricing` (last 5 days covered teaming/myths/pipeline/vehicles — pricing was wide open)
-**Hook:** `contrarian` ("Wrong question… Right question") — fresh after blunt/story/truth
-**Template:** `single-06-checklist` (dark navy) — breaks the last two cream/story cards in the feed
+**2026-11-05 post — already published**
 
-**The 5 beats:**
-1. No negotiation headroom built in
-2. Price Reductions Clause violations
-3. Pricing too low (counterintuitive)
-4. Wrong labor category / SIN mapping
-5. No Economic Price Adjustment clause
+- **Post type:** `tips_list`
+- **Topic:** `pricing`
+- **Hook:** Contrarian ("Wrong question / Right question" flip)
+- **Template:** `single-06-checklist` (dark navy)
+- **Word count:** 203
 
-The Price Reductions Clause item is the high-comment-potential anchor — it's a compliance tripwire that surprises even experienced contractors and reliably generates "this happened to us" replies.
+The post covers five GSA pricing mistakes (no negotiation headroom, Price Reductions Clause trap, pricing too low, wrong SIN mapping, no escalation clause) with a contrarian opener that flips the reader's default instinct. Card rendered, commit `4a4d796` made, run log at `logs/run-2026-11-05.md` complete.
 
-Files written to `drafts/2026-11-05/`: `post.md`, `post.meta.json`, `hypothesis.md`, and `logs/run-2026-11-05.md`.
+Nothing left to do — the workflow will handle publication on merge.
