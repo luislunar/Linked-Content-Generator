@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Today's post is ready in `drafts/william/2026-11-05/`.
+
+**What was produced:**
+
+- **post_type:** `client_story` (234 words, within 200–300 range)
+- **topic:** `compliance` — not used by William in 5+ run days, not used by Josh (pricing) or Jason (no draft) today
+- **hook:** `question` — "Before you assume your GSA Schedule is still active — when did you last log in?" — differentiates from Josh's contrarian hook today, not consecutive with yesterday's story hook
+- **template:** `single-05-beforeafter` (cream) — Before: approved / dormant / SAM lapsed; After: cancelled / full reapply / 6–12 mo wait
+- **format:** bullets (→) — breaks the two-story streak from 11-04 and 11-02
+
+The post tells a construction owner's real-caller story: approved three years ago, never activated, SAM lapsed quietly, modification window closed unanswered → Schedule cancelled, full reapplication from scratch. The CTA asks Schedule holders specifically what their compliance calendar looks like — surfaces the two cohorts most likely to comment (anxious holders, evaluating prospects).

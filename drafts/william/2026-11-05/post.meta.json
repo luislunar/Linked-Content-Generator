@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "compliance",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Compliance Risk",
+    "case_num": "Case · 043",
+    "headline_html": "What happens when your Schedule <span class='accent'>goes dark.</span>",
+    "before_items": [
+      "GSA-approved three years prior",
+      "No active federal pipeline",
+      "SAM registration lapsed quietly"
+    ],
+    "after_items": [
+      "Schedule cancelled by GSA",
+      "Full reapplication required",
+      "6–12 months to restart"
+    ],
+    "footer_left": "One Real Warning",
+    "footer_right": "Field Case Series"
+  },
+  "experiment_id": "",
+  "image_headline": "YOUR SCHEDULE IS NOT FOREVER",
+  "image_prompt": "Split-panel infographic, cream background left, dark navy right. Left panel labeled 'BEFORE' in bold red with downward arrow icon. Three stacked short labels: 'APPROVED', 'DORMANT', 'SAM LAPSED'. Right panel labeled 'AFTER' in bold white with warning icon. Three stacked short labels: 'CANCELLED', 'REAPPLY', '6–12 MO WAIT'. Center: illustrated professional in business casual holding a document with a concerned expression, standing at the boundary between panels. Bold headline at top: 'YOUR SCHEDULE IS NOT FOREVER'. Bottom dark navy banner with callout phrase: 'STAY COMPLIANT'. Footer text: 'William Hill · GSA Focus'."
+}
