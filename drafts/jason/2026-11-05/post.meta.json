@@ -1,0 +1,17 @@
+{
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · Pipeline",
+    "quote_html": "The money is already allocated.<br><em>Your name just isn't on the list yet.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Source · USAspending.gov",
+    "image_headline": "THE MONEY IS ALREADY ALLOCATED",
+    "image_prompt": "Infographic, cream background. Bold pull quote centered at top: 'THE MONEY IS ALREADY ALLOCATED' in dark navy, with accent cyan underline. Left half: illustrated professional man in business casual studying a laptop, federal opportunity listings visible on screen. Right half: simple vertical pipeline flowchart — 3 short labels stacked with downward arrows between them: 'SOURCES SOUGHT', 'INDUSTRY DAY', 'RFQ DROPS'. Bottom dark navy banner with short 2-word callout: 'BE VISIBLE'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

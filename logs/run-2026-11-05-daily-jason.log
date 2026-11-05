@@ -1,0 +1,12 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary of today's Jason post:
+
+**Type:** `hot_take` | **Topic:** `pipeline` | **Hook:** `blunt` | **Template:** `single-03-quote` (cream)
+
+**Decision rationale:**
+- `hot_take` avoids the last 3 Jason types (`client_story`, `milestone`, `tips_list`)
+- `pipeline` avoids all three profiles' recent topics (`pricing`/Josh, `compliance`/William, `vehicles`+`certifications`+`myths`/Jason)
+- `single-03-quote` (cream) satisfies the color-contrast rule — Jason's last 2 were both dark-bg (`single-06`, `single-04`)
+- 162 words lands under the 180-word cap required when last-3-avg > 200 (Jason's avg was ~194)
+- Opens with the DoD $6.8B Q3 figure from the fresh govcon-data file — first use of that data today (Josh used pricing template, William used compliance — neither touched it)
+- `blunt` hook kills the "too risky" objection immediately with a number, which is Jason's core voice move
