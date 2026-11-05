@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pricing Mistakes",
+    "module": "Module 05 · Pricing",
+    "headline_html": "Five pricing mistakes that <span class='accent'>quietly</span> kill your GSA margins.",
+    "items": [
+      {
+        "title": "No negotiation headroom",
+        "sub": "GSA COs negotiate down from commercial price — no room built in means you lose before you start."
+      },
+      {
+        "title": "Ignoring Price Reductions Clause",
+        "sub": "Give a commercial client a better rate? Your GSA price must match — or you're in violation."
+      },
+      {
+        "title": "Pricing too low to win",
+        "sub": "Cheap rates signal inexperience, make delivery unprofitable, and attract auditor attention."
+      },
+      {
+        "title": "Wrong labor category mapping",
+        "sub": "Mismatched SINs put your rates next to competitors doing entirely different work."
+      },
+      {
+        "title": "No Economic Price Adjustment",
+        "sub": "Without an escalation clause, inflation locks your margins in place for the life of the contract."
+      }
+    ],
+    "footer_left": "Five Costly Errors",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "GSA PRICING: GET IT RIGHT FIRST",
+    "image_prompt": "Infographic alert layout. Bold warning headline top: 'GSA PRICING: GET IT RIGHT FIRST' with caution icon. Left column: illustrated professional man in blazer at a desk, reviewing contract documents on a laptop. Right column: 5 checklist rows, each with a red X icon and a SHORT 2-3 word label — 'NO HEADROOM', 'PRICE REDUCTIONS', 'TOO CHEAP', 'WRONG SIN', 'NO ESCALATION'. Bottom dark navy banner callout: 'THE SCHEDULE IS A PRICING FLOOR'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
