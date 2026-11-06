@@ -1,13 +1,15 @@
-Before you check "complete" on your SAM.gov registration — do you know what you just certified?
+Nobody talks enough about what socioeconomic certifications actually do — and don't do.
 
-I go through these with clients regularly. The same landmines come up every time.
+Getting 8(a), WOSB, SDVOSB, or HUBZone certified is a real advantage. I've watched it change the trajectory of small businesses completely. But I keep meeting owners who spent 18 months pursuing a certification and are still waiting for contracts to show up.
 
-SAM.gov isn't just a form. It's a legal certification under federal law. When you submit, you're asserting compliance across dozens of fields — NAICS codes, size standards, socioeconomic categories, financial representations.
+Here's the honest breakdown.
 
-One wrong NAICS code and you're invisible to the agencies most likely to award you work. An outdated point of contact and RFQs go unanswered because the CO couldn't reach you. An expired registration and you simply cannot receive a federal contract award — full stop.
+What the cert does: it shrinks the pool. When an agency sets aside a contract for 8(a) businesses, you're competing against dozens of companies — not thousands. That's significant.
 
-The registration takes 30 minutes. Getting it right takes understanding what it's actually for.
+What it doesn't do: put you in the room. You still need to identify the right opportunities, build relationships with the right contracting officers, and have a contract vehicle — like a GSA Schedule — that lets an agency actually obligate money to you.
 
-When did you last do a full line-by-line review of your SAM.gov profile? Not just renew it — actually read it.
+The certification changes the odds. You still have to play.
 
-#govcon #SAMgov #federalcontracting #smallbusiness
+What's the one thing nobody told you a certification wouldn't automatically do for your business?
+
+#govcon #certifications #smallbusiness #federalcontracting

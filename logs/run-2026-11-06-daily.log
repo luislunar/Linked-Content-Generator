@@ -1,17 +1,29 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced in `drafts/2026-11-06/`:
+Done. Here's what was produced for 2026-11-06:
 
-**post.md** — 138 words, `behind_scenes` format, SAM.gov topic. Opens with a question hook ("do you know what you just certified?") that triggers self-doubt in anyone who's clicked through a registration without reading it. Three prose paragraphs, no bullets, closing community question asking when they last did a line-by-line review (not just a renewal).
+---
 
-**post.meta.json** — `single-07-story` template (cream background, satisfies color contrast rule after yesterday's dark navy `single-06`). Three `pitfall` rows covering wrong NAICS codes, stale POC, and expired registration. Image headline: `SAM.GOV IS A LEGAL CERT. READ IT.`
+**Post type:** `hot_take` · **Topic:** `certifications` · **Hook:** `truth` · **Template:** `single-01-bold` (dark navy)
 
-**hypothesis.md** — Expects comment lift from the relatable universal mistake of treating SAM.gov as a checkbox rather than a legal certification.
+**Post (162 words):**
 
-**logs/run-2026-11-06.md** — Run logged with all required fields for tomorrow's rotation check.
+> Nobody talks enough about what socioeconomic certifications actually do — and don't do.
+>
+> Getting 8(a), WOSB, SDVOSB, or HUBZone certified is a real advantage. I've watched it change the trajectory of small businesses completely. But I keep meeting owners who spent 18 months pursuing a certification and are still waiting for contracts to show up.
+>
+> Here's the honest breakdown.
+>
+> What the cert does: it shrinks the pool...  
+> What it doesn't do: put you in the room...
+>
+> The certification changes the odds. You still have to play.
+>
+> *What's the one thing nobody told you a certification wouldn't automatically do for your business?*
 
-**Rotation choices rationale:**
-- `behind_scenes` avoids last 3 types (tips_list, client_story, personal_story)
-- `sam` avoids last 5 topics (pricing, teaming, myths, pipeline + one more)
-- `question` hook required after 3 consecutive statement openers
-- 138 words satisfies the <180-word cap (last-3-avg was ~203)
-- Cream template breaks the dark-navy streak from yesterday
+---
+
+**Rotation decisions:**
+- Avoided `behind_scenes`, `tips_list`, `client_story` (last 3 days)
+- Avoided `sam`, `pricing`, `teaming` (recently used topics)
+- Avoided `question`, `contrarian`, `blunt` (recent hook patterns)
+- `single-01-bold` (dark navy) is fine — last post was cream `single-07-story`
