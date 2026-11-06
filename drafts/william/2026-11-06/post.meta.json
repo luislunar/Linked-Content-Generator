@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pricing Reality",
+    "headline_html": "STOP<br>NEGOTIATING<br><span class='accent'>AGAINST YOURSELF</span>",
+    "sub": "The most common GSA pricing mistake happens before the CO reads a single line.",
+    "issue": "Issue 031",
+    "image_headline": "STOP NEGOTIATING AGAINST YOURSELF",
+    "image_prompt": "Infographic truth layout on dark navy background. Bold headline top: 'STOP NEGOTIATING AGAINST YOURSELF'. Center: illustrated professional man in blazer on a phone call, one hand raised mid-conversation as if pausing. Left callout box — short label 'THE MISTAKE' with red X icon and 2-word tag 'SELF-DISCOUNT'. Right callout box — short label 'THE MOVE' with green arrow icon and 2-word tag 'HOLD PRICE'. Bottom dark navy banner callout: 'GSA = NEGOTIATION'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

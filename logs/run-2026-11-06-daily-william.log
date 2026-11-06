@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's a summary of today's decisions:
+
+**Post type:** `hot_take` — not in William's last 3 (client_story, personal_story, tips_list), not Josh's today (behind_scenes).
+
+**Topic:** `pricing` — only available priority-adjacent topic after blocking William's last 5 (compliance, gsa_basics, teaming, sam, pipeline) and Josh's same-day pick (sam).
+
+**Hook:** `truth` — "Nobody talks enough about..." — question was double-blocked (William yesterday + Josh today); story was available but truth is a stronger fit for a corrective market observation.
+
+**Template:** `single-01-bold` (dark navy) — mandatory after two consecutive cream cards (single-05-beforeafter on 11-05, single-07-story on 11-04).
+
+**Word count:** 166 — under the 180 ceiling triggered by last-3-day average of 230 words.
+
+**Core angle:** Owners on pricing calls volunteer discounts before the CO asks. That self-negotiation locks a lower Basis of Award in permanently, disadvantages future modifications, and cedes ground to competitors who held their price. William names the pattern from calls without founder claims.
