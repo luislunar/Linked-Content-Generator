@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-11-06/`:
+
+---
+
+**Post type:** `personal_story` · **Topic:** `teaming` · **Template:** `single-07-story` (cream bg)
+
+**Why these picks:**
+- Last 3 Jason days: `hot_take`, `tips_list`, `milestone` — all blocked; `personal_story` was clear
+- Last 2 Jason templates both dark-bg (single-01, single-06) → cream-bg required today; `single-07-story` ✓
+- Last 3 hooks all started with statements → question hook required; yesterday was `blunt` → `question` is fine
+- Topics blocked: `pipeline` (1d), `myths` (2d), `certifications` (3d), `vehicles` (4d, Jason's 11-02 run), `sam` (Josh today), `pricing` (William today) → `teaming` was the strongest available option
+
+**Post angle:** Kills the "no past performance = can't win" objection with the teaming ladder — Jason's voice as a sales rep who hears this exact objection on calls, citing what the team walks people through. Three concrete pre-signing checkpoints (workshare in writing, IP terms, path to prime) make it actionable. Closing question targets people who've actually done a teaming deal, designed to surface war stories rather than generic opinions.
+
+**Card:** Charcoal + cyan, 3-step ladder visual, `PAST PERFORMANCE IS BORROWED. USE IT.` as the closer.

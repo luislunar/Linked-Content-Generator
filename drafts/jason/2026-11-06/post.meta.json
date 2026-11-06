@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "teaming",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Teaming Series · Common Mistakes",
+    "lead_html": "No past performance doesn't mean <em>no shot</em>. It means wrong partner.",
+    "rows": [
+      {
+        "when": "Step 01",
+        "what_html": "<strong>Find the right prime</strong> <span class='light'>— capability gap + customer access, not just a name on paper</span>"
+      },
+      {
+        "when": "Step 02",
+        "what_html": "<strong>Define workshare in writing</strong> <span class='light'>— scope, percentage, and who owns the client relationship post-award</span>"
+      },
+      {
+        "when": "Step 03",
+        "what_html": "<strong>Build a path to prime</strong> <span class='light'>— teaming is a ladder, not a permanent floor</span>"
+      }
+    ],
+    "closer": "PAST PERFORMANCE IS BORROWED. USE IT.",
+    "image_headline": "TEAMING IS THE LADDER",
+    "image_prompt": "Infographic story layout. Dark charcoal background. Bold headline top: 'TEAMING IS THE LADDER' in white Space Grotesk. Left side: illustrated vertical 3-step path with milestone icons, each step labeled with a short 2-word cyan accent tag — 'FIND PRIME', 'DEFINE SCOPE', 'BUILD PATH'. Center-right: illustrated professional man in business blazer climbing the ladder, looking focused upward. One highlighted callout box in cyan text: 'STRUCTURE IT RIGHT'. Bottom dark charcoal banner: 3-word label 'LADDER NOT FLOOR'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
