@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "SAM.gov · Common Pitfalls",
+    "lead_html": "What I see inside <em>every</em> rushed SAM.gov registration.",
+    "rows": [
+      {
+        "when": "Pitfall 01",
+        "what_html": "<strong>Wrong NAICS codes</strong> <span class='light'>— invisible to the agencies most likely to award you work</span>"
+      },
+      {
+        "when": "Pitfall 02",
+        "what_html": "<strong>Outdated point of contact</strong> <span class='light'>— RFQs go unanswered, contracting officers move on</span>"
+      },
+      {
+        "when": "Pitfall 03",
+        "what_html": "<strong>Expired registration</strong> <span class='light'>— cannot receive any federal contract award, full stop</span>"
+      }
+    ],
+    "closer": "THE RENEWAL IS NOT THE REVIEW.",
+    "image_headline": "SAM.GOV IS A LEGAL CERT. READ IT.",
+    "image_prompt": "Infographic story layout. Bold headline top: 'SAM.GOV IS A LEGAL CERT. READ IT.' Cream background. Left side: illustrated professional man in blazer seated at a laptop, reviewing a form with a focused expression. Right side: 3 stacked alert rows, each with a warning icon and a short 2-3 word label — 'WRONG NAICS', 'STALE CONTACT', 'EXPIRED SAM'. Below rows: dark navy callout banner reading 'RENEWAL ≠ REVIEW'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
