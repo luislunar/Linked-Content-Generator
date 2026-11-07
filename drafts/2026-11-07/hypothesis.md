@@ -1,0 +1,7 @@
+This draft tests a myth-bust carousel on the `vehicles` topic — the least-covered angle in recent rotation (last appearance not in the past 5 days). The carousel format was also overdue (5+ days since last use), and `vehicles` is one of the highest-confusion topics for the ICP: owners default to GSA MAS without understanding that SEWP, CIO-SP4, and OASIS+ exist and have small business pools.
+
+The three myths were chosen to target the three most common vehicle misconceptions in order of frequency: (1) MAS-only thinking, (2) assuming other GWACs are off-limits to small businesses, and (3) the "collect every vehicle" trap that dilutes BD focus. Each myth-reality pair is actionable — a reader can audit their own strategy from the carousel alone.
+
+Hook pattern is `myth-bust` with a statement opener ("Everyone defaults to GSA Schedule"), contrasting with yesterday's question-led post. The caption is prose with no bullets, breaking the last two posts' structure (checklist format Nov 5, prose Nov 6 — today's carousel caption is also prose but intentionally shorter at ~105 words).
+
+Expected engagement lift: **reactions** from the resonance of "I did exactly this" moments (the Schedule Fallacy hits hard), **comments** from the community question inviting myth-drops — the same CTA style that historically surfaces high-engagement threads in GovCon communities. Swipe-through behavior on carousels also tends to boost impressions via algorithm dwell-time signals.

@@ -1,0 +1,39 @@
+{
+  "post_type": "carousel",
+  "topic": "vehicles",
+  "hook_pattern": "myth-bust",
+  "format": "comparison",
+  "template": "carousel-01-myths",
+  "template_data": {
+    "cover": {
+      "top_label": "Vehicle Guide / Vol. 01",
+      "headline_html": "3 vehicle myths <span class='accent'>killing</span> your pipeline.",
+      "edition": "Vehicles Edition"
+    },
+    "myths": [
+      {
+        "label": "The Schedule Fallacy",
+        "myth_text": "A GSA Schedule is all you need to win federal contracts.",
+        "reality_text": "GSA MAS is powerful — but it's one of 30+ GWACs and IDIQs. SEWP V dominates IT hardware and cloud. CIO-SP4 owns health IT. OASIS+ leads professional services. Right vehicle = right agency."
+      },
+      {
+        "label": "The Primes-Only Myth",
+        "myth_text": "SEWP, CIO-SP4, and OASIS+ are only for large contractors.",
+        "reality_text": "Every major vehicle has a small business pool. SEWP V is open to any approved vendor. CIO-SP4 and OASIS+ have dedicated SB tracks. Getting in early means less competition than fighting on MAS alone."
+      },
+      {
+        "label": "The More-Is-More Myth",
+        "myth_text": "The more vehicles you're on, the more federal business you'll win.",
+        "reality_text": "One vehicle, executed well, beats five managed poorly. Focus on 1–2 that match your NAICS codes and target agencies. Build past performance there first. Expand when you've won."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which myth held you back?",
+      "close_question": "Drop the vehicle myth you believed when you first started pursuing federal contracts."
+    },
+    "image_headline": "WRONG VEHICLE. WRONG STRATEGY.",
+    "image_prompt": "Carousel cover slide infographic. Dark navy background. Bold ALL CAPS headline 'WRONG VEHICLE. WRONG STRATEGY.' at top in white. Center: illustrated professional man in suit standing at a crossroads, three directional signs labeled 'GSA MAS', 'SEWP', 'OASIS+'. Coral-accented badge below: '3 VEHICLE MYTHS'. Clean federal contracting aesthetic, no clutter. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
