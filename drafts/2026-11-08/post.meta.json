@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pipeline Truth",
+    "headline_html": "THE SCHEDULE<br>ISN'T<br><span class='accent'>THE FINISH LINE.</span>",
+    "sub": "Getting approved opens the door. What you do next is the whole game.",
+    "issue": "Issue 015",
+    "image_headline": "THE SCHEDULE IS A HUNTING LICENSE.",
+    "image_prompt": "Bold infographic, dark navy background. Left side: illustrated professional in blazer holding an oversized document labeled 'GSA SCHEDULE,' standing at an open doorway. Right side: open landscape with three short outward-pointing arrow labels — 'SOURCES SOUGHT,' 'INDUSTRY DAYS,' 'RECOMPETES.' Bold headline top: 'THE SCHEDULE IS A HUNTING LICENSE.' Bottom callout strip in coral accent: 'THE HUNT IS STILL YOURS.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

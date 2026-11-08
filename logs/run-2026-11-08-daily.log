@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-11-08/`:
+
+**post.md** — 155 words, `hot_take` format, `pipeline` topic. Opens with a `truth` hook ("Nobody talks about this part of the GSA Schedule.") that lands the uncomfortable reality holders recognize but rarely say out loud. Three prose paragraphs, no bullets, closing community question asking what their outreach cadence actually looks like.
+
+**post.meta.json** — `single-01-bold` template (dark navy). Headline: "THE SCHEDULE ISN'T THE FINISH LINE." Image tagline: "THE SCHEDULE IS A HUNTING LICENSE."
+
+**hypothesis.md** — Expects comment lift from holders sharing (or admitting to neglecting) their pipeline habits; reaction lift from the relatable "waiting for the phone to ring" image.
+
+**Rotation rationale:**
+- `hot_take` avoids last 3 types (`behind_scenes`, `tips_list`, `client_story`)
+- `pipeline` avoids last 5 topics (`sam`, `pricing`, `teaming` + prior days)
+- `truth` hook avoids last 3 patterns (`question`, `contrarian`, `blunt`)
+- Dark navy template breaks the cream streak from 11/06
+- 155 words is well within the `hot_take` 150–300 range
