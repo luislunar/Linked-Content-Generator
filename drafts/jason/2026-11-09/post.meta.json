@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "comparison",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pricing Prep",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you <span class='accent'>price it right.</span>",
+    "before_items": [
+      "Cited a one-off project rate",
+      "No Basis of Award documentation",
+      "GSA negotiated from the floor"
+    ],
+    "after_items": [
+      "Best-margin deal as Basis of Award",
+      "Full commercial docs submitted",
+      "Schedule rate held — Week 6 out"
+    ],
+    "footer_left": "One Real Prep Mistake",
+    "footer_right": "Field Case Series",
+    "image_headline": "PRICING PREP DETERMINES YOUR CEILING",
+    "image_prompt": "Split-panel before/after infographic, Jason theme. Left panel dark charcoal, bold label 'BEFORE' in white with red X icons, three stacked 2-word labels: 'WRONG SOURCE', 'NO DOCS', 'GSA WINS'. Right panel white/light with cyan accent strip, bold label 'AFTER' in dark text with cyan checkmarks, three labels: 'BEST RATE', 'DOCUMENTED', 'YOUR CEILING'. Center divide: illustrated professional man in dark blazer stepping from dark left side to light right side. Bold headline at top: 'PRICING PREP DETERMINES YOUR CEILING'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
