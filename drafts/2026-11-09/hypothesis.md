@@ -1,0 +1,5 @@
+This draft tests whether a real, sourced market-size figure ($23.4B to small businesses in Q3 2026 alone) can break through the "is this market even worth it?" objection that sits in the back of every ICP prospect's mind. The hook is blunt and data-led rather than story- or myth-driven — a deliberate change of register after two consecutive process-oriented posts (tips_list on pricing, behind_scenes on SAM.gov).
+
+The post doesn't argue that federal contracting is good — it simply confronts the reader with a number that makes the "not worth it" belief hard to hold. The closing CTA ("what's kept you from pursuing federal contracts?") is designed to surface real objections in the comments, which creates comment volume and gives Josh signal about which barriers are most common in this audience right now.
+
+Expected score movement: moderate reactions (the stat is shareable), above-average comments (the question asks for a confession, not a compliment). Impressions may also lift if the stat gets shared by people tagging peers — the "$23.4B in one quarter" framing is quotable and compact.

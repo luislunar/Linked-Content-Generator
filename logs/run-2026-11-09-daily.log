@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Four files written to `drafts/2026-11-09/`:
+
+**What was produced:**
+
+- **`post.md`** — 184 words, `milestone` type, prose format. Opens blunt: "$23.4B in federal contracts last quarter — that's one quarter." No bullets, clean paragraph arc (the number → where it went → what the actual barrier is → closing challenge). Community question asks for real objections, not opinions.
+
+- **`post.meta.json`** — `single-04-stat` template (dark navy, contrasts yesterday's cream `single-07-story`). Big number card centered on `$23.4B`, sourced to USAspending.gov. Image headline: `$23.4B IN ONE QUARTER. WHERE ARE YOU?`
+
+- **`hypothesis.md`** — Expects above-average comments because the CTA asks for a confession ("what kept you out?"), which invites real objections rather than affirmation. The stat is quotable enough to drive shares.
+
+- **`logs/run-2026-11-09.md`** — Run logged with all required fields.
+
+**Rotation rationale:** `milestone` wasn't used in the last 3 days; `gsa_basics` hasn't appeared in 5+ days; `blunt` is fresh after `contrarian → question`; dark-navy template breaks the cream streak; $23.4B figure is unused by other profiles today.

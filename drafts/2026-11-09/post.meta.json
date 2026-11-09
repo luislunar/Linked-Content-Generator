@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "gsa_basics",
+  "hook_pattern": "blunt",
+  "format": "prose",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q3 2026",
+    "label_above": "Federal awards to small businesses, Q3 2026",
+    "big_number_html": "$<span class='accent'>23.4B</span>",
+    "context_html": "One quarter. IT, construction, consulting, engineering — the same sectors as your company. <strong>The market is wide open. The barrier is the paperwork.</strong>",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "$23.4B IN ONE QUARTER. WHERE ARE YOU?",
+    "image_prompt": "Infographic stat layout. Dark navy background. Small coral pill label top-left: 'FEDERAL MARKET'. Dominant center text: '$23.4B' in massive bold white with a teal accent. Below the number: label 'Q3 2026 · SMALL BUSINESS AWARDS' in smaller white text. Row of 2-word industry labels beneath: 'IT SERVICES · CONSTRUCTION · CONSULTING · ENGINEERING'. Bottom left: illustrated confident professional man in blazer looking at a rising bar chart. Dark base bar with source credit. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
