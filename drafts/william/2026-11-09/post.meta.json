@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "pipeline",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Week 45 · Call Series",
+    "lead_html": "He'd been sitting on the idea for <em>two years</em> — until I told him what his industry moved last quarter.",
+    "rows": [
+      {
+        "when": "The question",
+        "what_html": "<strong>\"Do federal buyers hire companies my size?\"</strong> <span class='light'>— the most common thing I hear</span>"
+      },
+      {
+        "when": "The answer",
+        "what_html": "<strong>$4.0B to construction small businesses</strong> <span class='light'>— Q3 2026, one quarter alone</span>"
+      },
+      {
+        "when": "The real gap",
+        "what_html": "<strong>Being findable when the market moves</strong> <span class='light'>— not waiting on a solicitation</span>"
+      }
+    ],
+    "closer": "THE PIPELINE IS THERE. THE QUESTION IS VISIBILITY.",
+    "image_headline": "SHOW UP BEFORE THE RFQ DROPS",
+    "image_prompt": "Infographic story layout, forest green and amber tones. Left side: illustrated journey path with 3 milestone icons labeled '2 YEARS', 'THE CALL', 'THE DATA'. Right side: illustrated professional man in blazer looking at a rising bar chart. Bold headline top: 'SHOW UP BEFORE THE RFQ DROPS'. Highlighted callout box center-right: '$4.0B CONSTRUCTION Q3'. Bottom amber accent bar with small source credit 'USAspending.gov'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

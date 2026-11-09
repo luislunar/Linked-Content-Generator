@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's a summary of today's William draft:
+
+---
+
+**2026-11-09 · William Hill**
+
+| Field | Value |
+|---|---|
+| `post_type` | `behind_scenes` |
+| `topic` | `pipeline` |
+| `hook_pattern` | `story` |
+| `format` | `story` |
+| `template` | `single-07-story` (cream) |
+| `word_count` | 159 |
+
+**Why these choices:**
+- **Post type:** hot_take/client_story/personal_story all blocked (William's last 3 days); milestone blocked by Josh today → `behind_scenes` available and naturally fits a call-report voice.
+- **Topic:** All four William priority topics blocked except `pipeline` (last use was 10-30). Josh used `gsa_basics` today.
+- **Hook:** `truth` blocked (consecutive with 11-06); Josh used `blunt` → `story` differentiates and is the strongest fit for a call-reveal structure.
+- **Data:** Josh anchored on $23.4B (total). William uses $4.0B construction (Q3 2026, USAspending.gov) — same dataset, different and sector-specific figure. Turns it into a "caller didn't know their market" reveal, squarely in William's voice.
+- **Length:** 159 words — under 180 (cadence rule: last 3 avg = 210.7 > 200) ✓
