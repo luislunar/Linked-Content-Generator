@@ -1,13 +1,21 @@
-"You don't need certifications to win federal contracts." Here's what's actually true.
+Wrong question: "What's the lowest I can charge and still win?"
 
-A GSA Schedule puts you on the approved vendor list. That's access — the first door.
+Here's the right one: "What structure keeps my pricing profitable AND compliant across five contract years?"
 
-An 8(a), WOSB, or SDVOSB certification puts you at the front of a line most vendors don't even know exists. Set-asides. Sole-source awards. Targeted RFQs that never reach the open market.
+I've watched small businesses nail their first GSA award — then slowly lose margin until renewal forces a reckoning. Here's where the money goes:
 
-The Schedule is the foundation. Certifications are the accelerant.
+1. No Basis of Award tracking. Your GSA rate anchors to what you charge your best commercial client. If you don't know that number, you can't negotiate correctly.
 
-Most small businesses pick one and ignore the other. The ones moving fastest have both.
+2. No escalation clause. Flat rates locked for five years get eaten by inflation. Build price adjustment triggers into the structure before you sign.
 
-Which did you pursue first — your Schedule or your certification?
+3. Racing to the bottom. Contracting officers compare quotes, but cheapest doesn't always win. Unusually low bids raise questions, not contract awards.
 
-#govcon #gsaschedule #certifications #smallbusiness #8a
+4. Undocumented commercial discounts. Every off-price deal you give a private client can trigger a mandatory price reduction on your Schedule. Keep records.
+
+5. No modification budget. Your business will change. Renegotiating a locked pricing structure costs time and money most vendors don't plan for.
+
+The Schedule is a five-year commitment. Price it like one.
+
+What's the pricing mistake you almost made — or did make — in your first GovCon year?
+
+#govcon #gsaschedule #pricing #smallbusiness #federalcontracting

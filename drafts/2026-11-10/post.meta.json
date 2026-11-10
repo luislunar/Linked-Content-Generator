@@ -1,17 +1,24 @@
 {
-  "post_type": "inspiration",
-  "topic": "certifications",
-  "hook_pattern": "myth-bust",
-  "format": "prose",
-  "template": "single-03-quote",
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "contrarian",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "section_label": "Field Truth",
-    "index": "No. 031 · Certifications",
-    "quote_html": "The Schedule gets you in the room. <em>Certifications move you to the front.</em>",
-    "footer_left": "One Hard Truth",
-    "footer_right": "Weekly Field Notes",
-    "image_headline": "SCHEDULE IN. CERTS MOVE YOU FORWARD.",
-    "image_prompt": "Pull-quote infographic. Cream background. Center: large bold serif quote in dark navy: 'SCHEDULE IN. CERTS MOVE YOU FORWARD.' Below the quote: two icon columns side by side — left column dark navy pill labeled 'GSA SCHEDULE' with a door icon, right column teal pill labeled '8(A) · WOSB · SDVOSB' with an upward arrow icon. Illustrated professional woman in blazer standing confidently to the right. Top section label in coral: 'FIELD TRUTH · CERTIFICATIONS'. Footer text: 'Josh Ladick · GSA Focus'."
+    "section_label": "Pricing Health",
+    "module": "Module 04 · Pricing",
+    "headline_html": "Five traps that <span class='accent'>quietly drain</span> your GSA margins.",
+    "items": [
+      { "title": "No Basis of Award tracking", "sub": "Your GSA rate anchors to commercial prices — know yours." },
+      { "title": "No escalation clause", "sub": "Flat rates for five years get eaten by inflation." },
+      { "title": "Racing to the bottom", "sub": "Low bids raise questions in a CO's mind, not contracts." },
+      { "title": "Undocumented discounts", "sub": "Commercial off-price deals can force Schedule reductions." },
+      { "title": "No modification budget", "sub": "Locked pricing costs real money when your business changes." }
+    ],
+    "footer_left": "Quick Self-Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE PRICING TRAPS. AVOID THEM.",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold warning headline top: 'FIVE PRICING TRAPS. AVOID THEM.' with caution icon. Left column: illustrated professional man in business attire holding a contract document with a red warning indicator. Right column: 5 checklist rows, each with a red X icon and a short 2-3 word label: 'NO BOA TRACK', 'NO ESCALATION', 'PRICE TOO LOW', 'LOST DISCOUNTS', 'NO MOD PLAN'. Bottom coral banner text: 'PRICE THE WHOLE FIVE YEARS'. Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

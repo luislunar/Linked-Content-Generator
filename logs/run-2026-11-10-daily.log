@@ -1,22 +1,21 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of what was produced for 2026-11-10:
+Done. Here's the summary of today's run for Josh Ladick:
 
 ---
 
-**Post type:** `inspiration` — not used in 7+ days; milestone/behind_scenes/tips_list all blocked (last 3 days).
+**2026-11-10 · Josh Ladick — GSA Focus**
 
-**Topic:** `certifications` — gsa_basics/sam/pricing/teaming/myths all blocked (last 5 days). Certifications is a high-engagement topic for small businesses unsure whether to pursue a Schedule or a certification first.
+- **Post type:** `tips_list`
+- **Topic:** `pricing`
+- **Hook:** Contrarian — *"Wrong question: what's the lowest I can charge?"*
+- **Format:** Numbered checklist (5 items, no `→` bullets — breaks the 3-post prose streak)
+- **Template:** `single-06-checklist` (dark navy — contrasts last post's cream `single-03-quote`)
+- **Word count:** 211 (within the 150–280 range)
 
-**Hook:** `myth-bust` — blunt blocked (yesterday); opens with "You don't need certifications to win federal contracts." Here's what's actually true.
-
-**Core idea:** The Schedule gets you access (the first door). Certifications get you to the front of a line most vendors don't know exists — set-asides, sole-source awards, non-public RFQs. Foundation vs. accelerant. The ones moving fastest have both.
-
-**Template:** `single-03-quote` (cream background) — first choice for inspiration type; contrasts with yesterday's dark navy `single-04-stat`. Quote: *"The Schedule gets you in the room. Certifications move you to the front."*
-
-**Word count:** 102 (within 50–150 range for inspiration)
+**What it covers:** The 5 structural pricing mistakes that slowly erode GSA margins — Basis of Award blindness, missing escalation clauses, undercutting on price, undocumented commercial discounts, and no modification budget. Closes with an experience-share question designed to draw out personal war stories in comments.
 
 **Files written:**
 - `drafts/2026-11-10/post.md`
 - `drafts/2026-11-10/post.meta.json`
 - `drafts/2026-11-10/hypothesis.md`
-- `logs/run-2026-11-10.md`
+- `logs/run-2026-11-10.md` (updated)
