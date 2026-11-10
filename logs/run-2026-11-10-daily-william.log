@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**William Hill — 2026-11-10 Draft**
+
+**Post type:** `tips_list` | **Topic:** `sam` | **Hook:** `question` | **Template:** `single-06-checklist` (dark navy) | **Words:** ~201
+
+**The post:** Opens with the exact phrasing William hears on first calls — *"My SAM registration is active — we're good, right?"* — then walks through 5 specific things that quietly break a SAM record: renewal lapse, narrow NAICS codes, stale reps & certs, outdated bank info, and an unresolved exclusion flag. Closes with a 15-minute audit prescription and a CTA targeting a specific memory ("what's one thing you found or almost missed").
+
+**Decision log:**
+- `tips_list` — not in William's last 3 (behind_scenes/hot_take/client_story); not Josh (inspiration)
+- `sam` — only William priority topic outside the 5-run-day block; not Josh (certifications); last William use was 11-02
+- `question` hook — not consecutive (story was yesterday); Josh used myth-bust; preferred William hook
+- Dark navy template — last 2 William templates were mixed (cream + dark), no forced constraint
+- No data figure — SAM errors is strongest as pure call-observation content

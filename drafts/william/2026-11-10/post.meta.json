@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM.gov Audit",
+    "module": "Module 05 · Registration",
+    "headline_html": "Five things that <span class='accent'>quietly break</span> your SAM record.",
+    "items": [
+      {
+        "title": "Annual renewal slips",
+        "sub": "SAM expires every 365 days — payments freeze the moment it lapses"
+      },
+      {
+        "title": "NAICS codes too narrow",
+        "sub": "If your codes miss your actual services, contracting officers won't find you"
+      },
+      {
+        "title": "Stale reps & certs",
+        "sub": "Old representations can disqualify a bid before the CO reads another line"
+      },
+      {
+        "title": "Outdated bank info",
+        "sub": "Changed accounts after registering? Federal payments may land somewhere unexpected"
+      },
+      {
+        "title": "Forgotten exclusion flag",
+        "sub": "Unresolved compliance issues can flag your record — invisible until a CO checks"
+      }
+    ],
+    "footer_left": "Five SAM Mistakes",
+    "footer_right": "Page 1 of 1"
+  },
+  "experiment_id": "",
+  "image_headline": "FIVE THINGS THAT BREAK YOUR SAM RECORD",
+  "image_prompt": "Infographic checklist layout. Forest green and amber accent colors on cream background. Bold warning headline top: 'FIVE THINGS THAT BREAK YOUR SAM RECORD' with document alert icon in amber. Left column: illustrated professional man in business casual seated at a desk, reviewing a laptop showing a government portal screen, expression attentive. Right column: 5 checklist rows, each with a small caution triangle icon in amber and a SHORT 2-3 word label (RENEWAL SLIP / NARROW NAICS / STALE REPS / OLD BANK INFO / EXCLUSION FLAG). Bottom: dark navy banner with short callout phrase. Footer text: 'William Hill · GSA Focus'."
+}
