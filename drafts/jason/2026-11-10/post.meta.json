@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "vehicles",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Every Week · Sales Calls",
+    "lead_html": "They know SEWP. They know CIO-SP4. <em>They haven't applied for a GSA Schedule.</em>",
+    "rows": [
+      {
+        "when": "The Call",
+        "what_html": "<strong>Detailed vehicle questions</strong> <span class='light'>— GWAC vs IDIQ, SEWP vs OASIS+, all of it</span>"
+      },
+      {
+        "when": "The Gap",
+        "what_html": "<strong>No GSA Schedule on file</strong> <span class='light'>— the foundational vehicle, skipped entirely</span>"
+      },
+      {
+        "when": "The Fix",
+        "what_html": "<strong>MAS first, every time</strong> <span class='light'>— specialized vehicles layer on top, not in reverse</span>"
+      }
+    ],
+    "closer": "THE BUILDING FIRST. THEN THE FLOOR.",
+    "image_headline": "FOUNDATION FIRST. VEHICLES AFTER.",
+    "image_prompt": "Story-arc infographic in carbon black and cyan, Space Grotesk typography. Top: cyan section pill label 'FIELD REPORT'. Center bold white headline: 'FOUNDATION FIRST. VEHICLES AFTER.' Below: three-row vertical timeline with a cyan accent line connecting rows — Row 1 labeled 'THE CALL' with small vehicle acronym tags (SEWP · CIO-SP4 · OASIS+), Row 2 labeled 'THE GAP' with a red-X GSA Schedule icon, Row 3 labeled 'THE FIX' with green checkmark and 'GSA MAS' label plus upward arrow. Right side: illustrated professional man in dark business attire holding a clipboard, expression analytical and direct. Bottom band in dark charcoal with ALL CAPS text in cyan: 'THE BUILDING FIRST. THEN THE FLOOR.' Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's Jason post:
+
+**Type:** `behind_scenes` · **Topic:** `vehicles` · **Hook:** `blunt` · **163 words**
+
+**The idea:** Jason's behind-the-scenes reveal — every week he gets on calls with prospects who can explain the difference between GWACs and IDIQs and have strong opinions about SEWP vs CIO-SP4, but haven't filed for a GSA Schedule yet. The post names the sequencing trap and kills it with the building/floor analogy: MAS is the foundation, specialized vehicles layer on top. You can't do it in reverse.
+
+**Rotation rationale:**
+- `behind_scenes` not used in Jason's last 3 days (client_story / personal_story / hot_take)
+- `vehicles` clear of Josh (certifications) and William (sam) today, and not in Jason's last 5 days
+- `blunt` hook clear of Josh (myth-bust) and William (question) today
+- 163 words satisfies the mandatory under-180 requirement (avg of last 3 was 207)
+- Template `single-07-story` on cream → alternates from recent dark-bg runs
