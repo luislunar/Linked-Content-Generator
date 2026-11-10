@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of what was produced for 2026-11-10:
+
+---
+
+**Post type:** `inspiration` — not used in 7+ days; milestone/behind_scenes/tips_list all blocked (last 3 days).
+
+**Topic:** `certifications` — gsa_basics/sam/pricing/teaming/myths all blocked (last 5 days). Certifications is a high-engagement topic for small businesses unsure whether to pursue a Schedule or a certification first.
+
+**Hook:** `myth-bust` — blunt blocked (yesterday); opens with "You don't need certifications to win federal contracts." Here's what's actually true.
+
+**Core idea:** The Schedule gets you access (the first door). Certifications get you to the front of a line most vendors don't know exists — set-asides, sole-source awards, non-public RFQs. Foundation vs. accelerant. The ones moving fastest have both.
+
+**Template:** `single-03-quote` (cream background) — first choice for inspiration type; contrasts with yesterday's dark navy `single-04-stat`. Quote: *"The Schedule gets you in the room. Certifications move you to the front."*
+
+**Word count:** 102 (within 50–150 range for inspiration)
+
+**Files written:**
+- `drafts/2026-11-10/post.md`
+- `drafts/2026-11-10/post.meta.json`
+- `drafts/2026-11-10/hypothesis.md`
+- `logs/run-2026-11-10.md`
