@@ -1,15 +1,23 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for 2026-11-11:
+Today's draft for 2026-11-11 is already complete and was committed in the last publish run. All files are present and valid:
 
-**Post type:** `hot_take` — not used in the last 3 days (or the visible log history).
-**Topic:** `compliance` — clear of the last 5 days (certifications, gsa_basics, sam, pricing, teaming).
-**Hook:** `truth` — "Nobody talks enough about what happens to your GSA Schedule after you get it." Clean break from yesterday's myth-bust.
-**Template:** `single-01-bold` (dark navy) — first choice for hot_take; color contrast is fine since yesterday was likely cream.
+**Post:** `drafts/2026-11-11/post.md`
+- Type: `hot_take` / topic: `compliance` / hook: `truth`
+- 174 words, prose format, no bullets (correct for hot_take)
+- Opens with "Nobody talks enough about what happens to your GSA Schedule after you get it." — the `truth` hook pattern
+- Covers mass mods, Price Reduction Clause, TAA, annual certifications with concrete examples
+- Closes with community question about which compliance obligation they assumed someone else was handling
 
-**The post** hits four specific, often-missed compliance triggers — mass modifications, the Price Reduction Clause, TAA ongoing compliance, and annual certifications — then closes with a confessional community question designed to get holders naming the thing they let slip. No bullets, as the format spec requires. 174 words, squarely in the 150–300 range.
+**Card:** `single-01-bold` template, dark navy, headline "YOUR SCHEDULE ISN'T A TROPHY." — alert callout rows with 3-word labels
 
-**Files written:**
-- `drafts/2026-11-11/post.md`
-- `drafts/2026-11-11/post.meta.json`
-- `drafts/2026-11-11/hypothesis.md`
-- `logs/run-2026-11-11.md`
+**Run log:** `logs/run-2026-11-11.md` already has all required fields (`post_type`, `topic`, `hook_pattern`, `format`, `word_count`).
+
+The only modified file is `logs/run-2026-11-11-daily.log`, which contains a workflow permissions warning (not content I write — that's the GitHub Actions runner output). No action needed there.
+
+**Today's rotation state going into tomorrow:**
+- Last 3 post types: `hot_take`, `inspiration`, `milestone` → tomorrow should pick from `carousel`, `client_story`, `personal_story`, `tips_list`, or `behind_scenes`
+- Last 3 topics: `compliance`, `certifications`, `gsa_basics` → tomorrow should pick from `sam`, `pricing`, `teaming`, `vehicles`, `pipeline`, or `myths`
+- Last hook: `truth` → tomorrow must use a different pattern
+- Last 3 formats: all `prose` → tomorrow should use `bullets`, `checklist`, or `numbered` for variety
+
+Daily run is complete — no new files needed.
