@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "compliance",
+  "hook_pattern": "truth",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Compliance Alert",
+    "headline_html": "YOUR SCHEDULE<br>ISN'T A<br><span class='accent'>TROPHY.</span>",
+    "sub": "It's a live contract with compliance triggers most holders never read.",
+    "issue": "Issue 015",
+    "image_headline": "YOUR SCHEDULE ISN'T A TROPHY.",
+    "image_prompt": "Alert-style infographic. Dark navy background. Bold headline top: 'YOUR SCHEDULE ISN'T A TROPHY.' in white. Left side: illustrated professional at desk reviewing a document, red warning icon overhead. Right side: 4 stacked alert rows, each with a red caution icon and 3-word label: 'MASS MODS DUE', 'PRICE CLAUSE', 'TAA REQUIRED', 'ANNUAL CERT'. Bottom: bold white banner with text 'THE WORK STARTS AFTER AWARD.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
