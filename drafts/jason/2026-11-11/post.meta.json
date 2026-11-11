@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "certifications",
+  "hook_pattern": "myth-bust",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Cert Reality Check",
+    "module": "Module 04 · Certifications",
+    "headline_html": "Which certs <span class='accent'>actually</span> move the needle.",
+    "items": [
+      { "title": "8(a)", "sub": "Sole-source up to $4.5M — fastest path to a first award" },
+      { "title": "SDVOSB", "sub": "VA set-asides — veterans leave this money on the table" },
+      { "title": "WOSB", "sub": "83 NAICS codes with set-aside authority" },
+      { "title": "HUBZone", "sub": "10% price preference — only matters if your address qualifies" },
+      { "title": "GSA Schedule", "sub": "Opens all agencies — no certification required to start" }
+    ],
+    "footer_left": "What Moves the Needle",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "WHICH CERTS ACTUALLY MOVE THE NEEDLE",
+  "image_prompt": "Checklist infographic layout. Dark charcoal/carbon background with cyan accent color throughout (Jason theme). Bold white headline at top: 'WHICH CERTS ACTUALLY MOVE THE NEEDLE'. Five horizontal rows stacked vertically, each with a cyan checkmark icon on the left and a short 2-3 word label on the right: '8(a) · SOLE-SOURCE', 'SDVOSB · VA SET-ASIDES', 'WOSB · 83 NAICS CODES', 'HUBZONE · PRICE PREFERENCE', 'GSA SCHEDULE · NO CERT NEEDED'. Left third of card: illustrated professional man in business attire holding a document, subtle cyan overlay. Space Grotesk-style typography. Bottom strip in cyan with 'What Moves the Needle' label. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}

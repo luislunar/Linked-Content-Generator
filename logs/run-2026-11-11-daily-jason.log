@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-11-11/`:
+
+---
+
+**post.md** (167 words — under the 180 ceiling):
+- **Hook:** myth-bust — opens by quoting the common belief ("Get every cert first"), then immediately pivots to what Jason actually sees on calls
+- Five `→` bullets ranking 8(a), SDVOSB, WOSB, HUBZone, and the GSA Schedule by practical value
+- Closes with the specific objection Jason hears most ("I'll apply once I have all the certs"), flips it ("wrong order"), and ends with a pinpoint community question
+
+**post.meta.json:**
+- Template: `single-06-checklist` (dark charcoal/carbon — contrasts last two cream-bg cards)
+- 5 checklist items with short, scannable `sub` lines
+- Image headline: `WHICH CERTS ACTUALLY MOVE THE NEEDLE` (6 words, all caps)
+
+**Uniqueness check passed:**
+- Topic `certifications` — not used by Josh (`compliance`) or William (`teaming`) today
+- Post type `tips_list` — not used by Josh (`hot_take`) or William (`personal_story`) today
+- Hook `myth-bust` — not used by Josh (`truth`) or William (`story`) today
