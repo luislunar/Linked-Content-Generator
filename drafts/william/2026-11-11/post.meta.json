@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Sales Call · Nov 2026",
+    "lead_html": "From <em>\"no past performance\"</em> to seeing the door that was always open.",
+    "rows": [
+      {
+        "when": "The Assumption",
+        "what_html": "<strong>\"Without past performance, we can't win anything federal.\"</strong> <span class='light'>— What I hear on nearly every first call</span>"
+      },
+      {
+        "when": "The Reality",
+        "what_html": "<strong>Teaming agreements</strong> <span class='light'>— partner with a prime, deliver as a sub, build your record</span>"
+      },
+      {
+        "when": "The Shift",
+        "what_html": "<strong>Your first federal performance credit</strong> <span class='light'>— the foundation for winning as a prime next time</span>"
+      }
+    ],
+    "closer": "THE DOOR EXISTS. MOST DON'T KNOW TO LOOK FOR IT.",
+    "image_headline": "PAST PERFORMANCE ISN'T THE ONLY WAY IN",
+    "image_prompt": "Infographic story layout. Cream background with forest-green and amber accents. Left side: illustrated professional woman at a desk, warm confident expression, holding a phone — mid-call discovery moment. Right side: illustrated journey path with 3 milestone icons in a vertical flow: (1) red X icon labeled 'NO PAST PERF', arrow down to (2) green handshake icon labeled 'TEAM UP', arrow down to (3) gold star icon labeled 'FIRST AWARD'. Bold headline at top in dark navy: 'PAST PERFORMANCE ISN'T THE ONLY WAY IN'. Center highlighted callout box with 4-word phrase: 'TEAMING OPENS THE DOOR'. Bottom: dark forest-green banner strip. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

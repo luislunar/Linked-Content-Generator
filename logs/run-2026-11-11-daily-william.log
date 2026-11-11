@@ -1,0 +1,24 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's the summary:
+
+---
+
+**William Hill — 2026-11-11**
+
+| Field | Value |
+|---|---|
+| `post_type` | `personal_story` |
+| `topic` | `teaming` |
+| `hook_pattern` | `story` |
+| `format` | `story` |
+| `template` | `single-07-story` (cream) |
+| `word_count` | 214 |
+
+**The post:** A facilities maintenance company owner on a first call stopped William cold — "We don't have federal past performance. Without that, we don't have a shot." The post corrects the belief: teaming agreements exist precisely for this, letting newer companies sub under a prime, deliver real federal work, and build a verifiable performance record. That record becomes their past performance for the next bid — this time as the prime. CTA: "What almost convinced you the door was closed for your business?"
+
+**Why these choices:**
+- `teaming` is William's 1x/week priority topic; last used 11-03 (outside the 5-day block)
+- `personal_story` clears the 3-day block (tips_list, behind_scenes, hot_take were last 3)
+- `story` hook avoids the consecutive block from yesterday's `question`, and differentiates from Josh's `truth` today
+- Cream `single-07-story` card contrasts cleanly with Josh's dark navy `single-01-bold`
+- 214 words lands comfortably in the 200–400 range; no forced-under-180 rule applies (last 3 avg = 175)
