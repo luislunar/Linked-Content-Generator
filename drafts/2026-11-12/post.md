@@ -1,15 +1,19 @@
-Before you write off federal contracting — which of these have you heard?
+If SAM.gov is the only place you're looking for federal opportunities — that's why your pipeline looks thin.
 
-"You need past performance to get started." "Once you're on a GSA Schedule, buyers will find you." "SAM.gov is a one-time registration."
+There are five prospecting lanes most small businesses never use. Each one can surface opportunities months before a solicitation is published.
 
-I've had hundreds of conversations with small business owners making decisions based on one of those. Every single one was working from bad information.
+1. **Sources Sought notices** — agencies signal needs early, before the RFP drops. Responding puts your name in the room before the competitive field forms.
 
-The myths are consistent. So is the reality check.
+2. **Industry Days** — most are open to the public. Show up. Talk to program managers. Your name will be remembered when the solicitation lands.
 
-Swipe through.
+3. **Recompete tracking** — every federal contract ends. Search FPDS for awards in your NAICS codes expiring in the next 12–18 months. That's your target list.
 
----
+4. **Agency procurement forecasts** — most cabinet agencies publish annual forecast pages online. Free, forward-looking market intelligence. Very few small businesses actually read them.
 
-What's the one misconception about federal contracting that almost made you walk away — and what actually changed your mind?
+5. **Competitor award analysis** — search FPDS for companies already winning in your space. See what they're winning, how much, and from which agencies. Then position accordingly.
 
-#govcon #gsa #federalcontracting #smallbusiness
+Your pipeline isn't about luck. It's about knowing where to look before everyone else does.
+
+Which of these lanes are you already working? And which one have you been sleeping on?
+
+#govcon #gsa #federalcontracting #pipeline #smallbusiness

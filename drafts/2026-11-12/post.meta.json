@@ -1,39 +1,24 @@
 {
-  "post_type": "carousel",
-  "topic": "myths",
-  "hook_pattern": "question",
-  "format": "comparison",
-  "template": "carousel-01-myths",
+  "post_type": "tips_list",
+  "topic": "pipeline",
+  "hook_pattern": "contrarian",
+  "format": "checklist",
+  "template": "single-06-checklist",
   "template_data": {
-    "image_headline": "THREE MYTHS KEEPING YOU OUT OF FEDERAL.",
-    "image_prompt": "Cover slide infographic. Dark navy background. Bold centered headline: 'THREE MYTHS KEEPING YOU OUT OF FEDERAL.' Three stacked 2-word myth labels with red X icons: 'PAST PERFORMANCE', 'AUTO DISCOVERY', 'ONE-TIME SAM'. Upper left: small label 'Field Guide Vol. 04'. Illustrated professional in business casual, confident stance, arms folded. Footer text: 'Josh Ladick · GSA Focus'.",
-    "cover": {
-      "top_label": "Field Guide / Vol. 04",
-      "headline_html": "3 myths that <span class='accent'>stop</span> great GovCon candidates.",
-      "edition": "Myths Edition"
-    },
-    "myths": [
-      {
-        "label": "The Experience Trap",
-        "myth_text": "You need years of federal experience before you can compete for government contracts.",
-        "reality_text": "GSA Schedule only requires 2 years in business and demonstrated commercial revenue. Your federal track record starts the day your Schedule is approved."
-      },
-      {
-        "label": "The Passive Discovery Lie",
-        "myth_text": "Once you have a GSA Schedule, government buyers will find and contact you automatically.",
-        "reality_text": "The Schedule is a contract vehicle, not a lead generator. You still need to market, respond to RFQs, and build relationships with contracting officers."
-      },
-      {
-        "label": "The One-Time SAM Mistake",
-        "myth_text": "SAM.gov is a one-and-done registration — you sign up once and you're set.",
-        "reality_text": "SAM.gov requires annual renewal. A lapsed registration freezes your ability to receive federal payments — even mid-contract, even with an active award."
-      }
+    "image_headline": "FIVE PIPELINE LANES MOST BUSINESSES MISS",
+    "image_prompt": "Infographic alert layout. Dark navy background throughout. Bold white headline top: 'FIVE PIPELINE LANES MOST MISS' with target icon. Left side: illustrated professional woman in blazer at standing desk, reviewing laptop screen. Right column: 5 checklist rows with green checkmarks, 2-3 word labels only: 'SOURCES SOUGHT', 'INDUSTRY DAYS', 'RECOMPETES', 'AGENCY FORECASTS', 'AWARD ANALYSIS'. Light green accent callout bottom: 'BEFORE THE RFP'. Footer text: 'Josh Ladick · GSA Focus'.",
+    "section_label": "Pipeline Audit",
+    "module": "Module 05 · Pipeline",
+    "headline_html": "Five lanes your <span class='accent'>competitors</span> are already using.",
+    "items": [
+      { "title": "Sources Sought responses", "sub": "Get in the room before the RFP is written" },
+      { "title": "Industry Days", "sub": "Talk to PMs before the competitive field forms" },
+      { "title": "Recompete tracking (FPDS)", "sub": "Find contracts expiring in your NAICS in 12 months" },
+      { "title": "Agency procurement forecasts", "sub": "Free forward-looking intelligence most ignore" },
+      { "title": "Competitor award analysis", "sub": "Find who's winning your contracts — then study them" }
     ],
-    "close": {
-      "close_tag": "Your turn",
-      "close_headline": "Which one almost stopped you?",
-      "close_question": "Drop the myth you believed when you first started looking at federal contracting."
-    }
+    "footer_left": "Five Prospecting Lanes",
+    "footer_right": "Page 1 of 1"
   },
   "experiment_id": null
 }

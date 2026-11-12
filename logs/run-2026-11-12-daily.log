@@ -1,14 +1,24 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of today's Josh Ladick post:
+Done. Here's a summary of today's run:
 
-**Type:** `carousel` (not used in 7+ days; ideal for myths format)
-**Topic:** `myths` (not used in Josh's last 5 posts)
-**Hook:** `question` — "which of these have you heard?" (required since last 3 posts were statement hooks)
-**Template:** `carousel-01-myths` → renders to `card.pdf`
+---
 
-**Three slides:**
-1. **The Experience Trap** — myth: need years of federal experience / reality: GSA Schedule needs 2 years in business + commercial revenue
-2. **The Passive Discovery Lie** — myth: Schedule = buyers find you automatically / reality: Schedule is a vehicle, not a lead source
-3. **The One-Time SAM Mistake** — myth: SAM.gov is set-it-and-forget-it / reality: annual renewal required; lapse freezes payments
+**2026-11-12 — Josh Ladick daily post**
 
-Each myth targets a different ICP fear state, maximizing the chance that at least one slide lands personally for each reader — the goal being higher saves and a richer comment thread.
+| Field | Value |
+|---|---|
+| `post_type` | `tips_list` |
+| `topic` | `pipeline` |
+| `hook_pattern` | `contrarian` |
+| `format` | `checklist` (numbered) |
+| `template` | `single-06-checklist` |
+| `word_count` | ~201 |
+
+**Rotation rationale:**
+- Avoided `carousel`, `hot_take`, `inspiration` (last 3 days' types)
+- `pipeline` fresh — not touched in 5+ days
+- `contrarian` hook avoids `truth` (yesterday) and `question` (already today)
+- Numbered format breaks the recent run of prose/comparison posts
+- Dark navy template is fine — only 1 of last 2 non-carousel templates was dark
+
+**The post** leads with a contrarian challenge to SAM.gov-only prospecting, then delivers 5 specific, named tools (Sources Sought, Industry Days, FPDS recompetes, agency forecasts, competitor award analysis) — each one concrete enough to spark a comment from someone who knows the tool or wants to learn it. Closing CTA asks which lane they're sleeping on, designed to pull out honest self-assessment in the replies.
