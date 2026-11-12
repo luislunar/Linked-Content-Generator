@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-01-bold",
+  "template_data": {
+    "image_headline": "IS NOW THE RIGHT TIME?",
+    "image_prompt": "Bold alert infographic. Dark navy background. Top center: bold ALL-CAPS headline 'IS NOW THE RIGHT TIME?' with a small clock icon beside it. Left third: illustrated professional in business casual mid-phone-call, holding a notepad. Right two-thirds: four horizontal readiness-check rows, each with a simple icon and a 2-3 word label — '2+ YEARS', 'COMMERCIAL PROOF', 'FEDERAL MARKET', 'ACTIVE BANDWIDTH'. Rows without checks appear muted gray; rows with green checkmarks glow bright green. Bottom dark navy footer strip. Footer text: 'William Hill · GSA Focus'.",
+    "tag": "Timing Check",
+    "headline_html": "QUALIFY?<br>WRONG<br><span class='accent'>QUESTION.</span>",
+    "sub": "Four things I look for before anyone talks about a GSA Schedule application.",
+    "issue": "Issue 019"
+  },
+  "experiment_id": null
+}

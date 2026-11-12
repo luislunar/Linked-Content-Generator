@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William today:
+
+---
+
+**post_type:** `hot_take` | **topic:** `gsa_basics` | **hook:** `truth` | **format:** `bullets` | **template:** `single-01-bold` | **words:** 197
+
+**Key decisions:**
+- **Topic:** `gsa_basics` — only William priority topic outside the 5-day rotation block; `certifications` avoided because Jason posted on it yesterday (too close in timing across profiles)
+- **Hook:** `truth` — `story` blocked (consecutive with yesterday 11-11), `question` avoided (Josh today); `truth` is William's preferred and was last used on 11-06 with a gap of `story` → `question` → now
+- **Angle:** Reframes the first-call eligibility question from "can I qualify?" to "am I ready to use it?" — four readiness criteria (2+ years, commercial proof, federal market, active bandwidth). Doesn't touch Josh's carousel myths today (past performance, passive discovery, SAM renewal)
+- **Template:** `single-01-bold` (dark navy) — headline: `QUALIFY? / WRONG / QUESTION.`; color constraint clear (last 2 William were cream/dark mixed)
+
+**Hypothesis:** Tests whether intellectual honesty about *when not to pursue* a Schedule generates higher trust reactions and two-cohort comments (idle Schedule holders + prospects evaluating timing).
