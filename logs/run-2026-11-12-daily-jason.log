@@ -1,0 +1,11 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-11-12/`:
+
+**Decisions made:**
+- **post_type:** `milestone` — not in Jason's last 3 days; not used by Josh (carousel) or William (hot_take) today
+- **topic:** `sam` — NAICS code strategy angle, fully differentiated from William's same-week SAM post (registration status) and Josh's yesterday compliance post (Schedule maintenance obligations)
+- **hook_pattern:** `question` — required by cadence rule (Jason's last 3 posts all opened with statements)
+- **template:** `single-04-stat` — dark navy card with $23.4B Q3 2026 small business federal awards (USAspending.gov), cited on card per data rules
+- **format:** `bullets` with `→`, ~198 words
+
+**The angle:** Most SAM profiles list 1–2 NAICS codes from day one and never get updated as the business expands. Since contracting officers filter by NAICS before anything else, a thin code list makes you invisible to entire award categories — no matter how strong your Schedule or capabilities are. The $23.4B stat makes the stakes concrete; the question hook gets readers to count their own codes before finishing the post.

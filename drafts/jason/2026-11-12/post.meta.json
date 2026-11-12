@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "sam",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q3 2026",
+    "label_above": "Small business federal awards, Q3 2026",
+    "big_number_html": "$<span class='accent'>23.4B</span>",
+    "context_html": "One quarter. The government filters by NAICS code first — if yours isn't listed, that category of awards <strong>never reaches you</strong>.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "ARE YOU INVISIBLE TO FEDERAL BUYERS?",
+    "image_prompt": "Bold stat infographic. Dark navy background. Top left small label: 'FEDERAL MARKET'. Top right small label: 'Q3 2026'. Center: massive bold figure '$23.4B' in bright cyan accent color, label directly above in white: 'SMALL BUSINESS FEDERAL AWARDS'. Below the number: two short bold stacked labels — 'NAICS CODES' in cyan, 'FILTER FIRST' in white. Right third: illustrated professional in business casual seated at laptop, screen showing a simplified profile interface with three NAICS code rows, two highlighted green and one grayed out. Bottom dark strip with short callout: 'WRONG CODE = INVISIBLE'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
