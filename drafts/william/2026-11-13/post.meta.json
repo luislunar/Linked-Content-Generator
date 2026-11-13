@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "certifications",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Week 46 · Client 031",
+    "lead_html": "She had the certification. <em>She just needed the other half.</em>",
+    "rows": [
+      {
+        "when": "The call",
+        "what_html": "<strong>WOSB certified, no federal revenue</strong> <span class='light'>— certification without a vehicle to sell through</span>"
+      },
+      {
+        "when": "The gap",
+        "what_html": "<strong>Set-aside access ≠ agency discovery</strong> <span class='light'>— agencies still need to find you first</span>"
+      },
+      {
+        "when": "The path",
+        "what_html": "<strong>Certification + Schedule = real leverage</strong> <span class='light'>— the combination that actually opens doors</span>"
+      }
+    ],
+    "closer": "THE CERTIFICATION OPENS A DOOR. THE SCHEDULE IS THE HALLWAY.",
+    "image_headline": "CERTIFICATION IS THE DOOR. SCHEDULE IS THE HALLWAY.",
+    "image_prompt": "Infographic story layout. Cream/warm white background with forest green and amber accent colors. Top bold headline: 'CERTIFICATION IS THE DOOR. SCHEDULE IS THE HALLWAY.' Left half: illustrated professional woman in business casual standing confidently, holding a certification document, facing an open doorway. Right half: a two-branch path diagram — left branch labeled 'CERT ONLY' in gray with a dead-end wall, right branch labeled 'CERT + SCHEDULE' in forest green with a forward-pointing arrow continuing into light. Center: amber highlighted callout box with short text: 'BOTH REQUIRED'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
