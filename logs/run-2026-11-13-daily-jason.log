@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written for Jason today:
+
+---
+
+**Post type:** `hot_take` · **Topic:** `myths` · **Hook:** `contrarian` · **Template:** `single-03-quote` (cream)
+
+**Decision rationale:**
+- `myths` is Jason's #1 priority topic (2×/week) and was last in his rotation 5+ days ago — Josh took `pipeline`, William took `certifications`
+- `hot_take` avoids Jason's last 3 types (`milestone`, `tips_list`, `behind_scenes`) and both other profiles' types today
+- `contrarian` hook is fresh for Jason (last 3 were `question`, `myth-bust`, `blunt`) and differentiated from Josh's `blunt` and William's `story`
+- `single-03-quote` (cream) satisfies the color-contrast rule — Jason's last 2 cards were both dark-bg (`single-04`, `single-06`)
+
+**Post angle:** Flips the "no past performance" objection — a myth Jason hears on multiple calls weekly — by reframing it as a downstream vs. upstream problem. The closing question asks readers to name their own blocker, designed to drive specific, experience-share comments.
+
+**Files created:**
+- `drafts/jason/2026-11-13/post.md` (158 words)
+- `drafts/jason/2026-11-13/post.meta.json`
+- `drafts/jason/2026-11-13/hypothesis.md`
+- `logs/jason/run-2026-11-13.md`

@@ -1,0 +1,17 @@
+{
+  "post_type": "hot_take",
+  "topic": "myths",
+  "hook_pattern": "contrarian",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 017 · Myths",
+    "quote_html": "Past performance is what you build <em>after</em> you're in the market — not the ticket to get there.",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "PAST PERFORMANCE IS THE WRONG EXCUSE",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE MYTH' with red X icon, short label beneath: 'NO PAST PERF'. Right panel cream/white, bold label 'THE REALITY' with green checkmark icon, short labels: 'MARKET ACCESS' and 'BUILD HISTORY AFTER'. Center: illustrated professional in blazer walking confidently from the dark panel into the light panel. Bold headline at top spanning both panels: 'PAST PERFORMANCE IS THE WRONG EXCUSE'. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
