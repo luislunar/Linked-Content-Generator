@@ -1,21 +1,12 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for Josh Ladick today:
+Done. Here's what was produced for `drafts/2026-11-13/`:
 
-**Post type:** `tips_list` — not used in the last 3 days (carousel, hot_take, inspiration)
-**Topic:** `pipeline` — not used in the last 5 days
-**Hook:** `blunt` ("Most small businesses discover federal opportunities after they've already been posted...")
-**Format:** numbered checklist — deliberate break after 3 consecutive prose posts
-**Template:** `single-06-checklist` (dark navy, 5 items)
+**Post type:** `client_story` — teaming topic, story hook, prose format, `single-05-beforeafter` (cream-bg)
 
-**The 5 moves covered:**
-1. Sources Sought notices — engage before the solicitation
-2. Agency procurement forecasts — public intel nobody reads
-3. USAspending recompete hunting — find contracts before they're re-posted
-4. Industry Days — presence is a qualification signal
-5. Prime conversations — teaming starts before the RFP
+**Rotation logic:**
+- Last 3 days used: `tips_list`, `carousel`, `hot_take` → `client_story` is clear
+- Last 5 topics: pipeline, myths, compliance, certifications, gsa_basics → `teaming` is fresh
+- Last 2 templates were dark-bg → `single-05-beforeafter` (cream) corrects the contrast
+- Last hook was `blunt` (statement) → `story` opener adds the needed variation
 
-**Files written:**
-- `drafts/2026-11-13/post.md` (~198 words)
-- `drafts/2026-11-13/post.meta.json`
-- `drafts/2026-11-13/hypothesis.md`
-- `logs/run-2026-11-13.md`
+**Post angle:** An IT firm with zero federal past performance used a teaming arrangement to land their first federal award as a subcontractor, then used that track record to pursue their own GSA Schedule. The core message: the past-performance barrier is a process problem, not an eligibility wall — teaming is how you break through it. Community question surfaces which specific obstacle each reader is facing (past performance gap vs. finding the right prime).

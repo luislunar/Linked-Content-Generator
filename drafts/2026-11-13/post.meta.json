@@ -1,24 +1,27 @@
 {
-  "post_type": "tips_list",
-  "topic": "pipeline",
-  "hook_pattern": "blunt",
-  "format": "checklist",
-  "template": "single-06-checklist",
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
   "template_data": {
-    "section_label": "Pipeline Moves",
-    "module": "Module 05 · Pipeline",
-    "headline_html": "Five moves to find <span class='accent'>federal work</span> before it's posted.",
-    "items": [
-      { "title": "Monitor Sources Sought", "sub": "Get in front of COs before the solicitation" },
-      { "title": "Read procurement forecasts", "sub": "Public intel almost nobody opens" },
-      { "title": "Hunt recompetes on USAspending", "sub": "Find the contract before the posting" },
-      { "title": "Attend Industry Days", "sub": "COs notice who shows up" },
-      { "title": "Get into prime conversations", "sub": "Most federal work flows through teaming" }
+    "section_label": "12-Month Shift",
+    "case_num": "Case · 019",
+    "headline_html": "What changes when you <span class='accent'>team right.</span>",
+    "before_items": [
+      "No federal past performance",
+      "Solo bids failing on quals",
+      "Commercial-only revenue"
     ],
-    "footer_left": "Pre-Solicitation Playbook",
-    "footer_right": "Page 1 of 1",
-    "image_headline": "FIND FEDERAL WORK BEFORE IT'S POSTED",
-    "image_prompt": "Infographic checklist layout. Bold headline at top: 'FIND FEDERAL WORK BEFORE IT'S POSTED'. Left panel: illustrated professional in blazer at a laptop with federal agency seals visible on screen. Right column: 5 numbered checklist rows, each with a green checkmark and a 2-3 word label — '01 Sources Sought', '02 Agency Forecasts', '03 Recompetes', '04 Industry Days', '05 Prime Relationships'. Dark navy accent band at bottom. Footer text: 'Josh Ladick · GSA Focus'."
+    "after_items": [
+      "First award as subcontractor",
+      "Three task orders complete",
+      "Own GSA Schedule in motion"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series"
   },
+  "image_headline": "TEAMING IS HOW PAST PERFORMANCE STARTS",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold 'BEFORE' label with downward arrow icon. Three short red-X labels: 'NO PAST PERF', 'SOLO BIDS FAIL', 'ZERO FEDERAL'. Right panel cream/white, bold 'AFTER' label with upward arrow. Three short green-check labels: 'PRIME PARTNER', 'FIRST AWARD', 'GSA READY'. Center divide: illustrated professional in suit shaking hands across the split. Bold headline top: 'TEAMING IS HOW PAST PERFORMANCE STARTS'. Footer text: 'Josh Ladick · GSA Focus'.",
   "experiment_id": null
 }

@@ -1,21 +1,15 @@
-Most small businesses discover federal opportunities after they've already been posted. By then, you're one of twenty vendors in the queue — and the relationship-building phase is already over.
+A small IT consulting firm came to us eighteen months ago with a solid commercial book of business — and zero federal past performance.
 
-The federal pipeline doesn't reward patience. It rewards positioning.
+Their biggest competitor was winning federal contracts through a large prime. Same service. Same size. The only difference: a teaming agreement.
 
-Here's how to get ahead of it:
+We walked them through it. They identified a prime already holding a GSA Schedule with matching NAICS codes, reached out directly, and proposed a subcontracting arrangement built around their specific niche capability. The prime liked what they saw.
 
-1. **Monitor Sources Sought notices.** Agencies post these before solicitations to test market interest. Responding costs you nothing. It puts your name in front of a contracting officer before any competitor is in the conversation.
+Twelve months later: first federal award as a subcontractor. Three task orders completed. Enough documented past performance to apply for their own GSA Schedule.
 
-2. **Read agency procurement forecasts.** Most major agencies publish their intended buys for the fiscal year. This is public information that almost nobody bothers to open — which means the ones who do have a genuine edge.
+That's how the cycle works. You don't wait for past performance to appear out of nowhere. You build it through a prime who already has the door open.
 
-3. **Search USAspending for recompetes.** If an agency spent $600K on a service three years ago, that contract is coming back up. Find it now. Start positioning before the solicitation ever drops.
+The question I hear constantly: "How do we compete without federal history?" You team with someone who has it. The barrier that looks like a wall is actually a door — you just need to find who's holding the key.
 
-4. **Show up to Industry Days.** Contracting officers notice who's in the room. These aren't optional networking events — they're qualification signals. Your presence (or absence) is recorded.
+If your firm has a niche capability the federal market needs, the right prime partner is out there. What's held you back from exploring teaming? Past performance gap, finding the right prime, or something else?
 
-5. **Get into prime conversations early.** A large share of federal work flows through teaming arrangements before an RFP even exists. If you're not in those conversations ahead of time, you're not in the running.
-
-The pipeline doesn't come to you — you go to it.
-
-Which of these moves are you already making? Which one is new to your approach?
-
-#govcon #federalcontracting #smallbusiness #pipeline #gsa
+#govcon #federalcontracting #smallbusiness #teaming #gsa
