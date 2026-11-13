@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for Josh Ladick today:
+
+**Post type:** `tips_list` — not used in the last 3 days (carousel, hot_take, inspiration)
+**Topic:** `pipeline` — not used in the last 5 days
+**Hook:** `blunt` ("Most small businesses discover federal opportunities after they've already been posted...")
+**Format:** numbered checklist — deliberate break after 3 consecutive prose posts
+**Template:** `single-06-checklist` (dark navy, 5 items)
+
+**The 5 moves covered:**
+1. Sources Sought notices — engage before the solicitation
+2. Agency procurement forecasts — public intel nobody reads
+3. USAspending recompete hunting — find contracts before they're re-posted
+4. Industry Days — presence is a qualification signal
+5. Prime conversations — teaming starts before the RFP
+
+**Files written:**
+- `drafts/2026-11-13/post.md` (~198 words)
+- `drafts/2026-11-13/post.meta.json`
+- `drafts/2026-11-13/hypothesis.md`
+- `logs/run-2026-11-13.md`
