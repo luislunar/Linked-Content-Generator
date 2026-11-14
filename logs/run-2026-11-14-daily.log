@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for 2026-11-14:
+
+---
+
+**Post type:** `client_story` · **Topic:** `teaming` · **Hook:** `story` · **Template:** `single-05-beforeafter` (cream)
+
+**Decision rationale:**
+- `client_story` not used in 5+ days; last 3 days (tips_list, carousel, hot_take) all blocked
+- `teaming` is fresh — pipeline/myths/compliance/certifications/gsa_basics all blocked (last 5 days)
+- `story` hook required: blunt is blocked (yesterday), and last 3 posts all used statement hooks — story/question was mandatory per cadence rules
+- `single-05-beforeafter` (cream/light) contrasts yesterday's dark navy `single-06-checklist` ✓
+
+**Post angle:** Eleven-year IT firm stuck in the past-performance belief loop — "can't win without it, can't get it without winning." The resolution: a teaming arrangement with a prime holding an active GSA MAS contract. The prime brought the vehicle and track record; the client brought technical depth. That first award became their federal past performance, and they had their own Schedule 18 months later. Closing question asks readers to name the specific thing they're waiting for — designed to surface concrete, nameable blockers in comments.
+
+**Files created:**
+- `drafts/2026-11-14/post.md` (227 words)
+- `drafts/2026-11-14/post.meta.json`
+- `drafts/2026-11-14/hypothesis.md`
+- `logs/run-2026-11-14.md`

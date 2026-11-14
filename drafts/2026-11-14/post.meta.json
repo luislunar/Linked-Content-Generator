@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "11-Year Firm",
+    "case_num": "Case · 032",
+    "headline_html": "The loop that <span class='accent'>only looks closed.</span>",
+    "before_items": [
+      "Zero federal past performance",
+      "No GSA vehicle in hand",
+      "Stuck in the belief loop"
+    ],
+    "after_items": [
+      "Teaming win: first federal award",
+      "Own Schedule approved",
+      "Direct RFQs now landing"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "THE LOOP THAT ONLY LOOKS CLOSED",
+    "image_prompt": "Before/after split layout. Left panel dark navy, bold label 'THE BELIEF' with red X icon. Three short 2-3 word labels: 'NO TRACK RECORD,' 'NO VEHICLE,' 'LOCKED OUT.' Right panel cream/white, bold label 'THE REALITY' with green checkmarks. Three 2-3 word labels: 'TEAMING AGREEMENT,' 'FIRST AWARD,' 'OWN SCHEDULE.' Center: illustrated professional in business suit crossing from dark side to light side, confident posture. Bold headline at top: 'THE LOOP THAT ONLY LOOKS CLOSED.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
