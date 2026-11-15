@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "11-Month Shift",
+    "case_num": "Case · 019",
+    "headline_html": "What changes when you <span class='accent'>team right.</span>",
+    "before_items": [
+      "No federal revenue line",
+      "No agency relationships",
+      "Past performance wall"
+    ],
+    "after_items": [
+      "First award as sub, month 11",
+      "Two active prime partners",
+      "Recompete pipeline building"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "TEAMING IS YOUR PAST PERFORMANCE SHORTCUT",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, label 'BEFORE' with red X marks, three short labels: 'No revenue', 'No relationships', 'No track record'. Right panel cream, label 'AFTER' with green checkmarks, three short labels: 'First award', 'Prime partners', 'Growing pipeline'. Center: illustrated professional in suit walking from dark side to light side. Bold headline top: 'TEAMING IS YOUR PAST PERFORMANCE SHORTCUT'. Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}

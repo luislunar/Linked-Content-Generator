@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written for Josh today:
+
+---
+
+**Post type:** `client_story` · **Topic:** `teaming` · **Hook:** `story` · **Template:** `single-05-beforeafter` (cream)
+
+**Decision rationale:**
+- `client_story` avoids last 3 types (tips_list, carousel, hot_take) and hasn't been used this week
+- `teaming` is fresh — not covered in last 5 days (pipeline, myths, compliance, certifications, gsa_basics)
+- `story` hook satisfies the rotation rule (can't repeat `blunt` from 11-13) and is the natural fit for a client transformation narrative
+- `single-05-beforeafter` (cream bg) satisfies color-contrast rule — last 2 were `single-06` (dark navy) and carousel
+
+**Post angle:** A $4M IT consulting firm with zero federal past performance used GSA MAS + teaming to land their first federal award at month 11. The central insight — "past performance isn't a prerequisite for teaming, it's the product of it" — directly addresses the most common objection Josh hears from ICP prospects. The closing question targets concrete experience-share comments.
+
+**Files created:**
+- `drafts/2026-11-15/post.md` (237 words)
+- `drafts/2026-11-15/post.meta.json`
+- `drafts/2026-11-15/hypothesis.md`
+- `logs/run-2026-11-15.md`
