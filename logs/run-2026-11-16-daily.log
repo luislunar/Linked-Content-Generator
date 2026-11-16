@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-11-16/`:
+
+**Post type:** `client_story` — the only type that fits today's constraints (blocked: hot_take, carousel, tips_list; milestone forced dark templates).
+
+**Key rotation decisions:**
+- **Topic:** `teaming` — last used >5 days ago; the past-performance wall is the most universal pain point for new GovCon entrants
+- **Hook:** `story` opener (client scenario) — breaks the blunt/question/truth streak of the last 3 days
+- **Format:** pure prose, no bullets — contrasts with the checklist-heavy Nov 13 post
+- **Template:** `single-05-beforeafter` (cream) — required by the color rule (last 2 singles were both dark navy)
+
+**Files written:**
+- `post.md` — 222 words (within 200–300 range), prose story arc, specific $1.2M VA sub job milestone, concrete CTA question
+- `post.meta.json` — full `template_data` for `single-05-beforeafter` with all required keys
+- `hypothesis.md` — testing story hook + prose format on teaming topic for comment engagement
+- `logs/run-2026-11-16.md` — rotation fields logged for tomorrow's agent

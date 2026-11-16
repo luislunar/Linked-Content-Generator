@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "12-Month Shift",
+    "case_num": "Case · 031",
+    "headline_html": "How <span class='accent'>teaming</span> broke the past-performance wall.",
+    "before_items": [
+      "Zero federal revenue",
+      "Past performance blocked",
+      "Primes not responding"
+    ],
+    "after_items": [
+      "Sub on $1.2M VA job",
+      "GSA Schedule approved",
+      "Two active task orders"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "TEAMING IS HOW YOU EARN YOUR SEAT.",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional in construction hard hat standing in front of a government building, reviewing a contract document. Right side: vertical transformation timeline with three milestone markers — labels '0 HISTORY', 'FIRST SUB', 'PRIME CONTRACT' in bold 2-word caps. Cream background, dark navy accents. One highlighted callout box in the center reading 'MONTH 12' with a green checkmark. Bold headline at top: 'TEAMING IS HOW YOU EARN YOUR SEAT.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

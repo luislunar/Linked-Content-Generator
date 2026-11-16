@@ -1,0 +1,5 @@
+This draft tests whether a first-person narrative story hook — opening with a client scenario rather than a myth, alert, or blunt fact — drives higher comment engagement on the teaming topic. The past-performance wall is the most-cited barrier I hear from small businesses evaluating GovCon entry; grounding that pain in a concrete transformation (zero history → prime contracts in 12 months) gives readers permission to see themselves in the story.
+
+Format choice: pure prose with no bullets breaks the last two posts' heavy checklist structure and matches the `story` format better than `→` lists. The community question is specific to a decision point (tried teaming vs. tried prime solo), which should surface more experienced, divided responses than a generic "what do you think?" type prompt.
+
+Expected impact: reactions from readers who recognize the past-performance frustration, and comments from both sides of the experience spectrum — people who tried teaming and found it valuable, and people still stuck on the solo-prime path. The concrete milestone ($1.2M VA project, 12-month timeline) adds credibility that should lift the reaction rate.
