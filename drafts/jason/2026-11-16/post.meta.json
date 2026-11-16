@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "gsa_basics",
+  "hook_pattern": "blunt",
+  "format": "story",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Market Reality",
+    "headline_html": "$23.4B<br>TO SMALL<br><span class='accent'>BUSINESS</span>",
+    "sub": "8 industries. Q3 2026. The market isn't reserved for primes.",
+    "issue": "Issue 018",
+    "image_headline": "$23.4B TO SMALL BUSINESS Q3",
+    "image_prompt": "Bold statement infographic. Dark carbon-navy background. Short coral pill label at top: 'MARKET REALITY'. Center: stacked bold white typography — '$23.4B' on first line extra-large, 'TO SMALL' on second line medium, 'BUSINESS' on third line in cyan accent. Thin gray rule below the headline stack. Sub-line in lighter gray beneath: '8 INDUSTRIES · Q3 2026'. Right edge: minimal outlined illustration of a small business owner at a laptop, government contract seal visible on screen. Dark navy footer band. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
