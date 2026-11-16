@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "question",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pricing Reality Check",
+    "module": "Module 06 · Pricing",
+    "headline_html": "Five pricing details that <span class='accent'>trip up</span> your GSA application.",
+    "items": [
+      { "title": "Basis of Award locks you in", "sub": "The commercial reference you name sets the floor you're held to" },
+      { "title": "Price reduction clause follows you", "sub": "Lower a commercial rate post-approval — GSA needs to know" },
+      { "title": "Know your floor before negotiating", "sub": "COs push back on every rate — lose track of margin and you lose the room" },
+      { "title": "Labor categories get scrutinized", "sub": "LCAT descriptions that don't match the work get flagged or audited" },
+      { "title": "Thin margins bite post-award", "sub": "Approved rates that don't cover actual costs hurt when the work arrives" }
+    ],
+    "footer_left": "Before You Submit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE PRICING TRAPS BEFORE YOU SUBMIT",
+    "image_prompt": "Infographic checklist layout. Forest green and amber accents on dark navy background (William theme). Bold amber headline at top: 'FIVE PRICING TRAPS BEFORE YOU SUBMIT'. Left side: illustrated professional in business casual at a desk reviewing a contract document, pen in hand. Right column: 5 stacked checklist rows, each with an amber checkmark icon and a short 2-3 word label — 'BASIS OF AWARD', 'PRICE REDUCTION', 'NEGOTIATION FLOOR', 'LCAT ALIGNMENT', 'MARGIN REALITY'. Bottom dark navy banner with short callout: 'DETAIL WORK UPFRONT SAVES YEARS'. Sora typography throughout. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

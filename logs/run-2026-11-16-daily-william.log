@@ -1,0 +1,22 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files are written. Here's the summary:
+
+---
+
+**William Hill — 2026-11-16**
+
+| Field | Value |
+|---|---|
+| `post_type` | `tips_list` |
+| `topic` | `pricing` |
+| `hook_pattern` | `question` |
+| `format` | `checklist` |
+| `template` | `single-06-checklist` (dark navy) |
+| `word_count` | ~258 |
+
+**Why these choices:**
+- **Topic `pricing`** — all 4 of William's priority topics (pipeline, sam, teaming, gsa_basics) are blocked by his last 5 days. Josh used teaming today. Pricing is fresh and fits William's call-observation voice naturally.
+- **Post type `tips_list`** — behind_scenes, hot_take, personal_story are all blocked (last 3 days). Josh used client_story today, avoided for differentiation.
+- **Hook `question`** — yesterday was `story` (blocked consecutive); Josh used `story` today (avoided). The opening quotes the exact words William hears from applicants before they hit the pricing section.
+- **Dark navy template** — contrasts with Josh's cream `single-05-beforeafter` today.
+- **No data figure** — no pricing-specific stat in the research file; pure caller-observation is the stronger format for this topic.
