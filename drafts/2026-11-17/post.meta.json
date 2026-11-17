@@ -1,17 +1,16 @@
 {
-  "post_type": "inspiration",
-  "topic": "certifications",
-  "hook_pattern": "contrarian",
+  "post_type": "hot_take",
+  "topic": "pricing",
+  "hook_pattern": "question",
   "format": "prose",
-  "template": "single-03-quote",
+  "template": "single-01-bold",
   "template_data": {
-    "section_label": "Field Note",
-    "index": "No. 031 · Certifications",
-    "quote_html": "The certification opens the door. <em>You still have to walk through it prepared.</em>",
-    "footer_left": "One Hard Truth",
-    "footer_right": "Weekly Field Notes",
-    "image_headline": "THE CERT OPENS DOORS. PREP WINS CONTRACTS.",
-    "image_prompt": "Infographic story layout. Cream-white background, clean editorial feel. Top small serif label: 'FIELD NOTE'. Bold centered pull-quote typography: 'THE CERT OPENS DOORS. PREP WINS CONTRACTS.' Below: illustrated professional woman in blazer standing confidently in an open doorway, government building columns visible behind her. Left margin: editorial index label 'No. 031 · Certifications' in small italic. Bottom band split horizontally — left side label 'ONE HARD TRUTH', right side label 'WEEKLY FIELD NOTES'. Footer text: 'Josh Ladick · GSA Focus'."
+    "tag": "Pricing Alert",
+    "headline_html": "YOUR GSA<br>PRICES ARE<br><span class='accent'>PUBLIC.</span>",
+    "sub": "Every approved rate lands on GSA Advantage the day your contract awards. Your competitors are already reading it.",
+    "issue": "Issue 032",
+    "image_headline": "YOUR GSA PRICES ARE PUBLIC. ACT LIKE IT.",
+    "image_prompt": "Dark navy infographic. Bold centered headline top: 'YOUR GSA PRICES ARE PUBLIC. ACT LIKE IT.' with a large eye icon below the headline. Left side: illustrated professional woman in blazer at a laptop, screen showing blurred pricing tables with competitor vendor names. Right side: three short labels with magnifying glass icons — 'LIVE RATES', 'ALL VENDORS', 'ANYONE CAN SEE'. Bottom charcoal footer band with one-line text: 'GSA Advantage. Public. Free. Searchable.' Footer text: 'Josh Ladick · GSA Focus'."
   },
   "experiment_id": null
 }

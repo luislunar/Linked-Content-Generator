@@ -1,23 +1,14 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of today's run:
 
 ---
 
-**2026-11-17 · Josh Ladick · GSA Focus**
+## Run 2 — 2026-11-17
 
-| Field | Value |
-|---|---|
-| `post_type` | `inspiration` |
-| `topic` | `certifications` |
-| `hook_pattern` | `contrarian` |
-| `format` | `prose` (no bullets — intentional variation) |
-| `template` | `single-03-quote` (cream bg, contrasts last dark-navy checklist card) |
-| `word_count` | 146 (under 180 target) |
+**Post type:** `hot_take` — not used in last 3 runs (inspiration / client_story / tips_list)
+**Topic:** `pricing` — not used in last 5 days
+**Hook:** `question` — mandatory: last 3 posts all opened with statements
+**Template:** `single-01-bold` (dark navy) — mandatory: last 2 templates were cream-bg
+**Format:** prose (no bullets) — breaks pattern from recent checklist/story formats
+**Word count:** 163
 
-**Hook:** "Your WOSB certification didn't win that contract. Your proposal did."
-
-**Central truth:** Set-aside certifications shrink the competitive pool — they don't eliminate competition. Pricing, capability statements, and proposals still decide every award. The certification opens the door; preparation wins the contract.
-
-**Community question:** "What's the one thing nobody told you about certifications before you got one?" — designed to surface personal stories and unlock comment engagement from certified-but-stuck owners.
-
-Files written to `drafts/2026-11-17/` and `logs/run-2026-11-17.md`.
+The post surfaces the competitive-intelligence blind spot: GSA-approved prices are publicly searchable on GSA Advantage the day a contract is awarded. Designed to generate reactions from practitioners who know this and comments from applicants who don't.
