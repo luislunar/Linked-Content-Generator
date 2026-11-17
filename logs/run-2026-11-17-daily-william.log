@@ -1,0 +1,21 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+**2026-11-17 · William Hill**
+
+| Field | Value |
+|---|---|
+| `post_type` | `milestone` |
+| `topic` | `pipeline` |
+| `hook_pattern` | `story` |
+| `format` | `story` |
+| `template` | `single-04-stat` |
+| `word_count` | 157 |
+
+**Why these choices:**
+
+- **`milestone`**: Only available type with a word floor below 180. The cadence rule forced under-180 (last 3 avg = 203). `tips_list`, `behind_scenes`, `hot_take` blocked from William's last 3 days; `inspiration` blocked (Josh today).
+- **`pipeline`**: Only William priority topic not in his last 5 run days. Last used 11-09, well outside the window.
+- **`story` hook**: `question` blocked (consecutive — yesterday). Josh uses `contrarian` today → differentiated.
+- **Govcon data**: Construction $4.0B Q3 2026 fits William's exact call-story angle — a construction contractor who'd never looked up his NAICS spending data. First data-led post this week (within 1-2/week limit). Josh's post today has no data figure. Card credits `USAspending.gov`.
+- **`single-04-stat` (dark navy)**: Josh uses `single-03-quote` (cream) today — strong cross-profile visual contrast.
