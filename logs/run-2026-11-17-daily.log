@@ -1,0 +1,23 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run:
+
+---
+
+**2026-11-17 · Josh Ladick · GSA Focus**
+
+| Field | Value |
+|---|---|
+| `post_type` | `inspiration` |
+| `topic` | `certifications` |
+| `hook_pattern` | `contrarian` |
+| `format` | `prose` (no bullets — intentional variation) |
+| `template` | `single-03-quote` (cream bg, contrasts last dark-navy checklist card) |
+| `word_count` | 146 (under 180 target) |
+
+**Hook:** "Your WOSB certification didn't win that contract. Your proposal did."
+
+**Central truth:** Set-aside certifications shrink the competitive pool — they don't eliminate competition. Pricing, capability statements, and proposals still decide every award. The certification opens the door; preparation wins the contract.
+
+**Community question:** "What's the one thing nobody told you about certifications before you got one?" — designed to surface personal stories and unlock comment engagement from certified-but-stuck owners.
+
+Files written to `drafts/2026-11-17/` and `logs/run-2026-11-17.md`.
