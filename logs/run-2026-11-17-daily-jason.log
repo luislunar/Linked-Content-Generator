@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written to `drafts/jason/2026-11-17/`:
+
+---
+
+**Rotation decisions:**
+
+| Field | Value | Reason |
+|---|---|---|
+| `post_type` | `tips_list` | Avoids last 3 days (inspiration, hot_take, milestone) and today's other profiles |
+| `topic` | `pricing` | Jason's 1x/week high-weight topic; not used by Josh or William today |
+| `hook_pattern` | `myth-bust` | Jason's preferred; avoids yesterday's `blunt` and today's Josh `contrarian` |
+| `template` | `single-06-checklist` | Dark navy — contrasts well after last post's light template |
+| `word_count` | ~198 | Within 150–280 range; no length-cap triggered (last 3 avg = 151) |
+
+**Post angle:** Opens with the exact objection Jason hears most on pricing calls — "locks in my pricing forever" — then immediately busts it with 5 concrete realities (Basis of Award, task-order competition, EPA clauses, ODC line items, modification timelines). Each insight is analytically grounded, rep-voiced (observations from proposals reviewed, not founder claims), and actionable. CTA asks a specific pricing question to lower the barrier for replies.

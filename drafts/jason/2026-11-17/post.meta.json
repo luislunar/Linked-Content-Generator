@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "myth-bust",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pricing Truths",
+    "module": "Module 04 · Pricing",
+    "headline_html": "Five pricing realities that <span class='accent'>cost you</span> before you sign.",
+    "items": [
+      { "title": "Basis of Award follows you", "sub": "CO prices against your best commercial rate — disclose every discount" },
+      { "title": "Low pricing is a trap", "sub": "Task orders reopen competition; undercutting leaves no room to win" },
+      { "title": "EPA clause = your margin protection", "sub": "No clause means inflation eats your rates for years, silently" },
+      { "title": "ODCs need their own line items", "sub": "Bundled into labor rates, they skew every proposal you write" },
+      { "title": "Modifications take months", "sub": "Wrong pricing upfront is a 90-day fix, minimum" }
+    ],
+    "footer_left": "Quick Pricing Audit",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "FIVE PRICING REALITIES BEFORE YOU SIGN",
+    "image_prompt": "Infographic checklist layout. Dark carbon background (near-black), clean editorial style with cyan accents. Top short uppercase label: 'PRICING TRUTHS' in cyan. Bold headline: 'FIVE PRICING REALITIES BEFORE YOU SIGN' in white. Below: 5 checklist rows, each with a cyan checkmark icon and a SHORT 2-3 word label — 'BASIS OF AWARD', 'LOW IS A TRAP', 'EPA CLAUSE', 'OWN LINE ITEMS', 'MONTHS TO FIX'. Left side: illustrated professional man in business casual leaning over a desk reviewing printed contract pages. Bottom dark navy band: 'QUICK PRICING AUDIT' on left, 'PAGE 1 OF 1' on right, both in small white text. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
