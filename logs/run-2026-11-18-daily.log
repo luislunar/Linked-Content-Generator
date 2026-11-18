@@ -1,10 +1,19 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced in `drafts/2026-11-18/`:
+Done. Here's a summary of what was generated for **2026-11-18**:
 
-**Post type:** `behind_scenes` — filling a gap in the last 7-day window  
-**Topic:** `sam` — SAM.gov renewal audit process  
-**Hook:** `alert` — exposes the hidden gap between clicking "renew" and actually auditing the record  
-**Template:** `single-07-story` (cream+serif) — 3-step timeline: NAICS check → reps & certs → EFT validation  
-**Word count:** 141 — intentionally short after two 200+ word posts
+---
 
-The core tension: most holders treat SAM renewal as a 20-minute click-through. The post reveals what a proper audit actually looks like (NAICS drift, stale reps & certs, silent EFT failures) and closes with a narrowly specific question designed to surface people who've been burned by this.
+**Post type:** `tips_list` · **Topic:** `pipeline` · **Template:** `single-06-checklist` (dark navy)
+
+**Hook:** question — *"Before you spend another week refreshing SAM.gov..."*
+
+**The post** names 5 free, underused pipeline sources that pre-date the SAM.gov posting: Industry Days, Sources Sought Notices, USAspending.gov incumbent tracking, Agency Procurement Forecasts, and SB Outreach Events. Closes with the community question: *"What's your most underused pipeline source right now?"*
+
+**Rotation rationale:**
+- Type avoids last 3 days (behind_scenes / inspiration / client_story) ✓
+- Hook is a question — required because last 3 posts all opened with statements ✓
+- Numbered format breaks the prose streak ✓
+- Dark navy template adds color contrast after two cream-bg cards ✓
+- Topic (pipeline) not used in last 3 days ✓
+
+**Files written:** `drafts/2026-11-18/post.md`, `post.meta.json`, `hypothesis.md` · `logs/run-2026-11-18.md` updated.
