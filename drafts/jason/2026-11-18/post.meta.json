@@ -1,0 +1,19 @@
+{
+  "post_type": "milestone",
+  "topic": "vehicles",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-04-stat",
+  "template_data": {
+    "section_label": "Federal Market",
+    "snapshot": "Snapshot · Q3 2026",
+    "label_above": "GSA awards to small businesses, Q3 2026",
+    "big_number_html": "$<span class='accent'>3B</span>",
+    "context_html": "In a single quarter. <strong>Most small businesses skip the vehicle that's actually moving it</strong> — and stack up on ones they can't even enter.",
+    "source": "Source · USAspending.gov",
+    "by_line": "By the Numbers",
+    "image_headline": "GSA MOVES $3B IN ONE QUARTER",
+    "image_prompt": "Infographic stat layout. Dark charcoal/carbon background, cyan accent color, Space Grotesk typography (Jason theme). Top small white label: 'FEDERAL MARKET'. Center: bold oversized stat '$3B' in bright cyan, 'Q3 2026 · GSA' in smaller white text directly beneath. Left side: illustrated professional man in business casual studying a printed federal contract, pen in hand, slight skeptical expression. Right side: four stacked vehicle label boxes — 'GSA MAS' highlighted with a cyan indicator bar and green checkmark, then 'SEWP V', 'OASIS+', 'CIO-SP4' in dark gray with no checkmarks. Bottom band: dark charcoal stripe with white label 'BY THE NUMBERS' on the left. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

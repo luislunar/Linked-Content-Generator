@@ -1,0 +1,19 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's a summary of the decisions:
+
+---
+
+**2026-11-18 — Jason's post**
+
+| Field | Value | Reason |
+|---|---|---|
+| `post_type` | `milestone` | Not in Jason's last 3 days; not used today by Josh (`behind_scenes`) or William (`client_story`) |
+| `topic` | `vehicles` | Last Jason use: 11-10 (8 days ago). Not used today by others. In Jason's priority rotation. |
+| `hook_pattern` | `question` | Cadence rule forced this: all 3 prior posts (myth-bust, blunt, contrarian) were statements. |
+| `format` | `bullets` | Fits vehicles comparison; not format-restricted today |
+| `template` | `single-04-stat` | Milestone first choice; anchors the post to the $3.0B GSA Q3 figure from govcon-data |
+| `word_count` | 179 | Within milestone range (150–250) |
+
+**Data used:** `$3.0B` — GSA awards to small businesses, Q3 2026 (source: `govcon-data-2026-11-16.md`). Not used by any other profile today. Card credits `USAspending.gov`.
+
+**Post angle:** Jason kills the "GSA MAS is too crowded" objection with the Q3 stat, then walks through why SEWP V, OASIS+, and CIO-SP4 aren't the workarounds most small businesses think they are. Closes on the BD-discipline point: one well-worked vehicle beats five idle ones.
