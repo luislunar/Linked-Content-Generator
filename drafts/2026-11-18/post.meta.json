@@ -1,0 +1,21 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "sam",
+  "hook_pattern": "alert",
+  "format": "prose",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Process",
+    "year_client": "SAM Renewal · Standard Workflow",
+    "lead_html": "What we actually check <em>before</em> clicking renew.",
+    "rows": [
+      { "when": "Step 01", "what_html": "<strong>NAICS code audit</strong> <span class='light'>— codes drift as services evolve</span>" },
+      { "when": "Step 02", "what_html": "<strong>Reps &amp; certs review</strong> <span class='light'>— 40+ questions, most never revisited</span>" },
+      { "when": "Step 03", "what_html": "<strong>EFT validation</strong> <span class='light'>— stale routing stops payments silently</span>" }
+    ],
+    "closer": "THE AUDIT TAKES 3 HOURS. THE RENEWAL TAKES 20 MINUTES.",
+    "image_headline": "RENEWAL IS THE EASY PART",
+    "image_prompt": "Infographic story layout. Left: illustrated professional woman in blazer at desk reviewing laptop screen. Right: vertical 3-step timeline with milestone icons, each labeled with 2-3 words: 'NAICS CHECK', 'REPS & CERTS', 'EFT VALIDATION'. Bold headline top: 'RENEWAL IS THE EASY PART'. Dark navy callout at bottom: 'THE AUDIT COMES FIRST'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,10 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-11-18/`:
+
+**Post type:** `behind_scenes` — filling a gap in the last 7-day window  
+**Topic:** `sam` — SAM.gov renewal audit process  
+**Hook:** `alert` — exposes the hidden gap between clicking "renew" and actually auditing the record  
+**Template:** `single-07-story` (cream+serif) — 3-step timeline: NAICS check → reps & certs → EFT validation  
+**Word count:** 141 — intentionally short after two 200+ word posts
+
+The core tension: most holders treat SAM renewal as a 20-minute click-through. The post reveals what a proper audit actually looks like (NAICS drift, stale reps & certs, silent EFT failures) and closes with a narrowly specific question designed to surface people who've been burned by this.
