@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for William today:
+
+---
+
+**2026-11-18 — William Hill**
+
+**Post type:** `client_story` | **Topic:** `compliance` | **Hook:** `question` | **Template:** `single-05-beforeafter` (cream) | **Words:** 269
+
+**Hook:** The most common follow-up call William takes — `"I got approved eight months ago. Why haven't I won anything yet?"` — opens into four post-approval failure modes (stale catalog, missed mods, no RFQ responses, lapsed SAM), then reframes the Schedule as an active sales channel rather than a one-time credential.
+
+**Card (single-05-beforeafter):**
+- Before: Catalog never updated / RFQs going unanswered / SAM.gov quietly lapsed
+- After: Catalog current, mods filed / Responding to every RFQ / Federal pipeline building
+
+**Decision rationale:**
+- Color: last 2 William templates both dark navy → forced cream → `single-05-beforeafter` ✓
+- Consecutive hook block: story (yesterday) blocked → `question` ✓
+- Topic: all 5 priority topics blocked (pipeline/pricing/certs/basics/teaming) + sam blocked by Josh → `compliance` ✓
+- Cross-profile separation: Josh = behind_scenes/sam/alert/story; William = client_story/compliance/question/before-after — zero overlap on all four axes

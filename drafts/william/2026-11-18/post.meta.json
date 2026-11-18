@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "compliance",
+  "hook_pattern": "question",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Post-Approval Gap",
+    "case_num": "Case · 022",
+    "headline_html": "What changes when you actually <span class='accent'>work your Schedule.</span>",
+    "before_items": [
+      "Catalog never updated",
+      "RFQs going unanswered",
+      "SAM.gov quietly lapsed"
+    ],
+    "after_items": [
+      "Catalog current, mods filed",
+      "Responding to every RFQ",
+      "Federal pipeline building"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series",
+    "image_headline": "WORK YOUR GSA SCHEDULE",
+    "image_prompt": "Split-panel infographic, cream background overall. Left panel dark navy, bold white label 'BEFORE' at top. Three short rows below, each with a red X icon and a 2-3 word label: 'Catalog Stale', 'RFQs Ignored', 'SAM Lapsed'. Right panel light cream, bold forest-green label 'ACTIVE SCHEDULE' at top. Three short rows below, each with a green checkmark and a 2-3 word label: 'Catalog Current', 'RFQs Answered', 'Pipeline Builds'. Center: illustrated professional man in business casual, mid-30s, holding a phone to his ear and smiling — standing at the divider between the two panels facing right. Bold headline at very top: 'WORK YOUR GSA SCHEDULE'. Forest green and amber accent colors, Sora typeface. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
