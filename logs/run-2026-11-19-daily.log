@@ -1,0 +1,11 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's a summary of today's run:
+
+**Post type:** `tips_list` — not used in the last 3 days  
+**Topic:** `pricing` — skipped `sam`, `certifications`, `teaming` (all used in prior 3 days)  
+**Hook:** `blunt` — avoided `alert`, `contrarian`, `story` (last 3 hooks)  
+**Template:** `single-06-checklist` (dark navy) — last 2 cards were both cream-bg, so dark-bg required today  
+**Format:** numbered checklist — broke the 3-day prose/story streak  
+**Word count:** ~227 (within 150–280 range for `tips_list`)
+
+**What the post covers:** 5 specific pricing tripwires — GSA price as a legal ceiling, Basis of Award as the foundational number, automatic price-reduction triggers, why undercutting hurts more than it helps, and how slow rate modifications are. Closes with a community question asking for personal pricing mistakes to surface high-signal comments.

@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "pricing",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Pricing Reality",
+    "module": "Module 05 · Pricing",
+    "headline_html": "Five things that <span class='accent'>break</span> your GSA pricing.",
+    "items": [
+      { "title": "Ceiling, not a floor", "sub": "Your rate is public — agencies compare before they engage" },
+      { "title": "Basis of Award is the root", "sub": "Wrong BOA means wrong rates on every contract downstream" },
+      { "title": "Price cuts auto-trigger", "sub": "Commercial discounts may become GSA obligations without notice" },
+      { "title": "Cheap doesn't win", "sub": "Sustainable rates beat unsustainable discounts every time" },
+      { "title": "Mods take 60–90 days", "sub": "Raising rates post-approval isn't fast — get it right first" }
+    ],
+    "footer_left": "Pricing Health Check",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "BAD PRICING FOLLOWS YOU FOREVER.",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline top: 'BAD PRICING FOLLOWS YOU FOREVER.' Left column: illustrated professional man in blazer holding contract document, concerned expression. Right column: 5 checklist rows with orange warning icons, each with a 3-word label: 'CEILING NOT FLOOR', 'BOA IS ROOT', 'CUTS AUTO-TRIGGER', 'CHEAP LOSES', 'MODS TAKE TIME'. Bottom callout banner in coral: 'GET THE NUMBER RIGHT FIRST'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
