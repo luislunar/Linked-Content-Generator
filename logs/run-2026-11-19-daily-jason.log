@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was written for Jason today:
+
+---
+
+**Post type:** `hot_take` | **Topic:** `certifications` | **Hook:** `contrarian` | **~190 words**
+
+**Card:** `single-03-quote` (cream/cyan — satisfies the dark-bg color contrast rule after two consecutive dark templates)
+
+**Post opens with:** `"Which certification should I get?" Wrong question.` — immediately reframes the conversation from cert selection to pipeline alignment, which is Jason's analytical angle on certifications.
+
+**Key decisions:**
+- `hot_take` chosen: not in Jason's last 3 days (11-16/17/18) and not used by Josh or William today
+- `certifications` last used by Jason on 11-11 (8 days ago, > 5-day rotation rule); not used by Josh (`pricing`) or William (`sam`) today
+- `contrarian` hook last used on 11-13 — not in the last 3-day window, and preferred by Jason's profile
+- Cream template (`single-03-quote`) required after `single-04-stat` and `single-06-checklist` on consecutive days
+- Voice stays in Jason's lane: "I track across conversations," "I see businesses spend" — no founder claims, no revenue guarantees

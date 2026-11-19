@@ -1,0 +1,17 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "contrarian",
+  "format": "comparison",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 031 · Certifications",
+    "quote_html": "The cert clears the door. <em>You still have to walk through.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "THE CERT IS NOT THE STRATEGY",
+    "image_prompt": "Pull-quote infographic card. Cream background with a vertical cyan accent bar on the left edge. Large Space Grotesk bold font, centered. Two-line quote in dark charcoal: 'THE CERT CLEARS THE DOOR.' then a second line in cyan italic: 'YOU STILL HAVE TO WALK THROUGH.' Section label top-left in small cyan caps: 'FIELD NOTE'. Index notation top-right in small gray text: 'No. 031 · Certifications'. Bottom left in small caps: 'ONE HARD TRUTH'. Bottom right in small caps: 'WEEKLY FIELD NOTES'. Clean typographic layout, no illustrated character. Minimal cyan and dark carbon accents only. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}
