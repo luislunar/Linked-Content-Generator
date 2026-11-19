@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "sam",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 019 · SAM",
+    "quote_html": "An expired SAM doesn't send a warning. <em>It just stops working.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes",
+    "image_headline": "SAM EXPIRES WITHOUT WARNING",
+    "image_prompt": "Pull-quote infographic card. Cream background with a vertical forest-green accent bar on the left edge. Large serif editorial font, centered. Two-line quote in dark charcoal: 'AN EXPIRED SAM DOESN'T SEND A WARNING.' then a second line in amber italic: 'IT JUST STOPS WORKING.' Section label top-left in small forest-green caps: 'FIELD NOTE'. Index notation top-right in small gray text: 'No. 019 · SAM'. Bottom left in small caps: 'ONE HARD TRUTH'. Bottom right in small caps: 'WEEKLY FIELD NOTES'. Clean typographic layout, no illustrated character. Minimal forest-green and amber accents only. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
