@@ -1,11 +1,19 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of today's run:
+Today's Josh Ladick draft (2026-11-19) is already complete — the full generation ran earlier and produced a committed `publish: 2026-11-19 daily post`. All required files are in place:
 
-**Post type:** `tips_list` — not used in the last 3 days  
-**Topic:** `pricing` — skipped `sam`, `certifications`, `teaming` (all used in prior 3 days)  
-**Hook:** `blunt` — avoided `alert`, `contrarian`, `story` (last 3 hooks)  
-**Template:** `single-06-checklist` (dark navy) — last 2 cards were both cream-bg, so dark-bg required today  
-**Format:** numbered checklist — broke the 3-day prose/story streak  
-**Word count:** ~227 (within 150–280 range for `tips_list`)
+- `drafts/2026-11-19/post.md` ✓ (tips_list · pricing · blunt hook · 227 words)
+- `drafts/2026-11-19/post.meta.json` ✓ (single-06-checklist template, all template_data fields)
+- `drafts/2026-11-19/hypothesis.md` ✓
+- `logs/run-2026-11-19.md` ✓
 
-**What the post covers:** 5 specific pricing tripwires — GSA price as a legal ceiling, Basis of Award as the foundational number, automatic price-reduction triggers, why undercutting hurts more than it helps, and how slow rate modifications are. Closes with a community question asking for personal pricing mistakes to surface high-signal comments.
+The only modified file is `logs/run-2026-11-19-daily.log`, which contains a workspace-trust error from the runner environment — not a content issue.
+
+**Today's post summary:**
+- **Type:** `tips_list` (not used in prior 3 days — last 3 were `behind_scenes`, `inspiration`, `client_story`)
+- **Topic:** `pricing`
+- **Hook:** Blunt opener — *"Your GSA Schedule pricing isn't just a number. It's a legal commitment that follows you for years."*
+- **Format:** 5-item numbered checklist (ceiling/floor, Basis of Award, auto-trigger reductions, sustainable pricing, 60–90 day mods)
+- **CTA:** *"What's one pricing mistake you wish someone had warned you about before you entered GovCon?"*
+- **Card template:** `single-06-checklist` (dark navy, checklist layout)
+
+No action needed — today's run is done.
