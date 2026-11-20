@@ -1,0 +1,16 @@
+{
+  "post_type": "hot_take",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "prose",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pipeline Intel",
+    "headline_html": "$23.4B<br>ONE<br><span class='accent'>QUARTER.</span>",
+    "sub": "Small businesses. 8 industries. Q3 2026. The pipeline is real — most just don't know where to look.",
+    "issue": "Issue 022",
+    "image_headline": "$23.4B IN ONE QUARTER.",
+    "image_prompt": "Bold stat infographic. Dark navy background. Top center: ALL CAPS bold headline '$23.4B IN ONE QUARTER.' in white with the dollar figure in coral accent. Center: illustrated professional man in business casual seated at laptop, reviewing data on screen. Right column: three compact 2-word labels with green checkmark icons — 'PUBLIC DATA', 'OPEN ACCESS', 'YOUR MARKET'. Small white label below the stat: 'Q3 2026 · 8 INDUSTRIES'. Bottom strip: white subtext 'SOURCE: USASPENDING.GOV'. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

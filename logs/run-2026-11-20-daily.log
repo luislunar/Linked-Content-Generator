@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's run:
+
+**Post type:** `hot_take` — not used in the last 3 days  
+**Topic:** `pipeline` — not used in 5+ days  
+**Hook:** `question` — required since the last 3 posts (blunt / alert / contrarian) were all statements  
+**Template:** `single-01-bold` (dark navy) — only 1 of the last 2 templates was dark, so safe  
+**Format:** prose — per hot_take guidelines (bullets discouraged)  
+**Data anchor:** $23.4B Q3 2026 from `govcon-data-2026-11-16.md` — not used by Jason or William today
+
+**Files written:**
+- `drafts/2026-11-20/post.md` (~183 words)
+- `drafts/2026-11-20/post.meta.json`
+- `drafts/2026-11-20/hypothesis.md`
+- `logs/run-2026-11-20.md`
