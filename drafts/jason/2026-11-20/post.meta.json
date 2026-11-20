@@ -1,0 +1,17 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Sales Call",
+    "index": "No. 014 · Myths",
+    "quote_html": "\"We'll apply once we have an opportunity.\"<br><em>That's how you miss every one.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Sales Call Series",
+    "image_headline": "APPLY BEFORE THE OPPORTUNITY ARRIVES",
+    "image_prompt": "Split-panel infographic. Left panel dark navy, bold ALL CAPS label 'THE MYTH' at top with red X icon, two short labels below: 'WAIT FOR RFQ', 'NO TIMELINE'. Right panel cream/off-white, bold ALL CAPS label 'THE REALITY' at top with green checkmark, two short labels: 'APPLY FIRST', '6–12 MONTHS'. Spanning both panels at top: bold ALL CAPS headline 'APPLY BEFORE THE OPPORTUNITY ARRIVES' in dark charcoal on cream. Center: illustrated professional man in business casual walking purposefully from the dark panel into the light side, holding a document folder under one arm. Bottom: dark navy footer strip with white subtext. Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": null
+}

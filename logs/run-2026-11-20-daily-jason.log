@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for Jason today:
+
+---
+
+**Post type:** `behind_scenes` — not used in Jason's last 3 days (hot_take / milestone / tips_list)  
+**Topic:** `myths` — Jason's 2x/week priority, last used Nov 13 (7 days ago)  
+**Hook:** `myth-bust` — quoted verbatim objection, then the counter  
+**Template:** `single-03-quote` (cream) — required by the dark-bg rule; last 2 were `single-01-bold` and `single-04-stat`  
+**Word count:** 149 — satisfies the under-180 rule (last 3 averaged ~189)
+
+**Core idea:** The "wait until we have an opportunity" delay tactic, killed with the 6–12 month timeline math. Three-bullet sequence (RFQ arrives → no Schedule → buyer moves on) makes the cost visceral. Closing line is the reframe: *"The Schedule isn't a response to demand. It's what creates access to demand."*
+
+**No conflicts:** Josh used `pipeline`, William used `teaming` — Jason's `myths` is clean.
