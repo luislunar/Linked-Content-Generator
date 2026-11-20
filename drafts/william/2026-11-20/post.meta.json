@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "teaming",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Teaming Path",
+    "module": "Module 05 · Teaming",
+    "headline_html": "Five moves that <span class='accent'>break in</span> without past performance.",
+    "items": [
+      { "title": "Past performance is team-level", "sub": "Sub work counts — it builds the reference you'll bid with next time." },
+      { "title": "Your certs are real leverage", "sub": "8(a), WOSB, SDVOSB — primes need them to hit set-aside targets." },
+      { "title": "Get the agreement in writing", "sub": "Scope, labor split, work percentage on paper before the RFP drops." },
+      { "title": "Sources Sought finds your prime", "sub": "Primes scan them looking for capable subs to bring into their bid." },
+      { "title": "One sub win beats a cold solo bid", "sub": "That sub role builds exactly what a future prime application needs." }
+    ],
+    "footer_left": "Breaking In",
+    "footer_right": "Field Notes Series",
+    "image_headline": "BREAK IN WITHOUT PAST PERFORMANCE",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold ALL CAPS headline 'BREAK IN WITHOUT PAST PERFORMANCE' in white at top, with 'PAST PERFORMANCE' in coral accent. Center-left: illustrated professional man in business casual standing at a desk, reviewing a contract document with a confident expression. Right column: 5 checklist rows, each with a green checkmark icon and a short 2-3 word label — 'TEAM RECORD', 'CERT LEVERAGE', 'WRITTEN DEAL', 'SOURCES SOUGHT', 'SUB FIRST'. Bottom: dark navy footer strip with white subtext 'William Hill · GSA Focus'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
