@@ -1,15 +1,26 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's the summary of today's run:
+Today's content is already fully generated. All required files exist in `drafts/2026-11-20/` and the run log is complete. Here's a summary of what was produced:
 
-**Post type:** `hot_take` — not used in the last 3 days  
-**Topic:** `pipeline` — not used in 5+ days  
-**Hook:** `question` — required since the last 3 posts (blunt / alert / contrarian) were all statements  
-**Template:** `single-01-bold` (dark navy) — only 1 of the last 2 templates was dark, so safe  
-**Format:** prose — per hot_take guidelines (bullets discouraged)  
-**Data anchor:** $23.4B Q3 2026 from `govcon-data-2026-11-16.md` — not used by Jason or William today
+---
 
-**Files written:**
-- `drafts/2026-11-20/post.md` (~183 words)
-- `drafts/2026-11-20/post.meta.json`
-- `drafts/2026-11-20/hypothesis.md`
-- `logs/run-2026-11-20.md`
+**Daily run complete — 2026-11-20**
+
+- **post_type:** `hot_take`
+- **topic:** `pipeline`
+- **hook_pattern:** `question`
+- **format:** `prose`
+- **template:** `single-01-bold`
+- **word_count:** 183
+
+**Post summary:** Opens by challenging the assumption that federal contracting "isn't for companies like mine," anchored to real Q3 2026 data ($23.4B to small businesses across 8 industries). Pure prose, no bullets. Closes with a hyper-specific agency/industry community question.
+
+**Template card:** `$23.4B ONE QUARTER.` headline on dark navy (`single-01-bold`), sourced to USAspending.gov.
+
+**Rotation compliance:**
+- Last 3 days used: `behind_scenes`, `tips_list` → `hot_take` ✓ (no repeat)
+- Last hook was `blunt` → `question` opener ✓ (variation)
+- Prose format breaks the checklist streak from 11-19 ✓
+- `pipeline` topic not used in prior 5 days ✓
+- Data figure used (1 of 2 max per week) ✓
+
+All files are in place — the workflow will handle the git commit and LinkedIn publish step.
