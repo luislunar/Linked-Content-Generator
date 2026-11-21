@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's the summary of today's run:
+
+**Post type:** `personal_story` — not used in last 3 days, fresh in the feed
+**Topic:** `compliance` — not touched in 5 days; the Schedule maintenance gap is chronically underserved in GovCon content
+**Hook:** `truth` ("Nobody talks enough about what happens after you get the Schedule") — avoids the recent `question` and `blunt` patterns
+**Template:** `single-07-story` (cream background) — balances the last two likely dark-bg templates in the feed
+
+**The post:** A client lost a federal contract because his GSA Schedule prices hadn't been modified in 3 years. Used it to make the point that the Schedule is a living document, not a trophy — and listed the ongoing obligations (price mods, mass mods, annual reporting, SAM renewal) in prose. Closing CTA asks what maintenance detail people wish they'd been warned about upfront.
+
+Files written:
+- `drafts/2026-11-21/post.md`
+- `drafts/2026-11-21/post.meta.json`
+- `drafts/2026-11-21/hypothesis.md`
+- `logs/run-2026-11-21.md`

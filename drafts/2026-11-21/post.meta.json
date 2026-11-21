@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "compliance",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Three · Client 044",
+    "lead_html": "He had the Schedule for <em>three years</em> and never touched it.",
+    "rows": [
+      {
+        "when": "Months 01–36",
+        "what_html": "<strong>Prices never modified</strong> <span class='light'>— rates froze while the market moved on</span>"
+      },
+      {
+        "when": "The wake-up call",
+        "what_html": "<strong>CO pulled the Schedule</strong> <span class='light'>— rates 40% out of date, lost the quote</span>"
+      },
+      {
+        "when": "Months 37–38",
+        "what_html": "<strong>Emergency price modification</strong> <span class='light'>— fixed, but that contract was already gone</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE IS A PROCESS, NOT A FINISH LINE.",
+    "image_headline": "THE SCHEDULE IS NOT A FINISH LINE",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional in blazer glancing at a framed GSA certificate mounted on a dark navy wall, cobweb in the corner — 2-word label 'FORGOTTEN'. Right side: three stacked timeline rows in cream, each with a short label — 'APPROVED' with green checkmark, 'IGNORED' with clock icon, 'COST HIM' with red X icon. Bold headline top: 'THE SCHEDULE IS NOT A FINISH LINE.' One highlighted callout box, 4-word label: 'MAINTENANCE IS THE JOB.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
