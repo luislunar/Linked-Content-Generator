@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "gsa_basics",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "Year Eleven · Client 089",
+    "lead_html": "Three years of waiting. <em>One decision that changed everything.</em>",
+    "rows": [
+      {
+        "when": "Year 01–03",
+        "what_html": "<strong>Watching from the sidelines</strong> <span class='light'>— waiting for past performance that never came on its own</span>"
+      },
+      {
+        "when": "Month 01–09",
+        "what_html": "<strong>GSA Schedule application</strong> <span class='light'>— the credential that finally opens the federal door</span>"
+      },
+      {
+        "when": "Month 10–12",
+        "what_html": "<strong>First federal award</strong> <span class='light'>— and the realization the Schedule was always the starting block, not the finish line</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE IS HOW YOU BUILD PAST PERFORMANCE.",
+    "image_headline": "WAITING DOESN'T BUILD YOUR PIPELINE.",
+    "image_prompt": "Infographic story layout. Left side: illustrated professional in dark navy blazer standing at a crossroads. One faded path labeled 'WAIT', one lit path labeled 'ACT NOW'. Right side: vertical timeline with three milestone markers — labels 'YEAR 1-3', 'MONTH 9', 'MONTH 12' — each with a 2-word status below: 'Sidelines', 'Schedule Approved', 'First Award'. Bold headline at top: 'WAITING COSTS MORE THAN STARTING.' Cream background, dark navy accent bar at bottom. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

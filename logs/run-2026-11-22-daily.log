@@ -1,0 +1,14 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/2026-11-22/`:
+
+**post_type:** `personal_story`  
+**topic:** `gsa_basics`  
+**hook:** `truth` — "Nobody talks enough about the cost of waiting."  
+**template:** `single-07-story` (cream bg — contrast after two likely dark templates)  
+**word count:** ~254 (within 200–400 range)
+
+**Why these choices:**
+- Last 3 types (`hot_take`, `tips_list`, `behind_scenes`) were all blocked → `personal_story` was open and unset for 5+ days
+- Last 3 hooks were `question`, `blunt`, `alert` → `truth` was fresh
+- `gsa_basics` and `certifications`/`pricing`/`sam`/`pipeline`/`teaming` all used in last 5 days → `gsa_basics` was due and fits the narrative
+- The "cost of waiting" angle targets the ICP's most common deferral behavior and reframes the GSA Schedule as the *mechanism* for building federal credentials — not a reward for having them already
