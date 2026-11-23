@@ -1,20 +1,18 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for 2026-11-23:
+Today's run was already completed. The draft is fully generated:
 
-**Post type:** `client_story` — topic `vehicles`, hook `truth`, template `single-05-beforeafter` (cream bg)
+**`drafts/2026-11-23/`** — all files present (`post.md`, `post.meta.json`, `hypothesis.md`, `card.jpg`)
 
-**Story:** A small IT firm burned 6 months and $18K chasing SEWP — a vehicle that requires invitation, not application — before GSA Focus redirected them to GSA MAS, the right open-application entry point. On Schedule by month 7, first RFQ inquiry by month 10.
+**Run summary:**
+- `post_type`: `client_story`
+- `topic`: `vehicles`
+- `hook_pattern`: `truth`
+- `format`: `story` (prose, no bullets)
+- `template`: `single-05-beforeafter`
+- `word_count`: 248
 
-**All cadence rules satisfied:**
-- Type not used in last 3 days (behind_scenes / tips_list / hot_take were excluded) ✓
-- Topic not used in last 5 days (vehicles was open) ✓
-- Hook pattern rotated away from alert / blunt / question ✓
-- Cream-bg template after two consecutive dark-bg templates ✓
-- Prose format after checklist, different from yesterday ✓
-- Word count 248 — within 200–300 range for client_story ✓
+**Post:** A small IT firm spent 6 months and $18K chasing SEWP (a closed-application vehicle) when GSA MAS was the right door. They got on Schedule in 7 months, first RFQ inquiry by month 10. Ends with: *"What's the biggest piece of vehicle advice you got early on that turned out to be wrong — or more right than you expected?"*
 
-**Files written:**
-- `drafts/2026-11-23/post.md`
-- `drafts/2026-11-23/post.meta.json`
-- `drafts/2026-11-23/hypothesis.md`
-- `logs/run-2026-11-23.md`
+The cadence checks all passed — no type repeat from yesterday (tip: `hot_take` → `tips_list` → `client_story`), hook changed from `question` to `truth`, prose format breaks the recent checklist streak. The govcon data file was available but not used since the story format didn't call for a stat anchor.
+
+Nothing left to do — the workflow will handle the commit and PR.
