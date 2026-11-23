@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for 2026-11-23:
+
+**Post type:** `client_story` — topic `vehicles`, hook `truth`, template `single-05-beforeafter` (cream bg)
+
+**Story:** A small IT firm burned 6 months and $18K chasing SEWP — a vehicle that requires invitation, not application — before GSA Focus redirected them to GSA MAS, the right open-application entry point. On Schedule by month 7, first RFQ inquiry by month 10.
+
+**All cadence rules satisfied:**
+- Type not used in last 3 days (behind_scenes / tips_list / hot_take were excluded) ✓
+- Topic not used in last 5 days (vehicles was open) ✓
+- Hook pattern rotated away from alert / blunt / question ✓
+- Cream-bg template after two consecutive dark-bg templates ✓
+- Prose format after checklist, different from yesterday ✓
+- Word count 248 — within 200–300 range for client_story ✓
+
+**Files written:**
+- `drafts/2026-11-23/post.md`
+- `drafts/2026-11-23/post.meta.json`
+- `drafts/2026-11-23/hypothesis.md`
+- `logs/run-2026-11-23.md`

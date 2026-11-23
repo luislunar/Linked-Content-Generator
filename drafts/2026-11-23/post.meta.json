@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "vehicles",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Vehicle Reality",
+    "case_num": "Case · 058",
+    "headline_html": "What changes when you <span class='accent'>pick the right door.</span>",
+    "before_items": [
+      "Six months on wrong vehicle",
+      "$18K in wasted BD fees",
+      "Zero federal traction"
+    ],
+    "after_items": [
+      "GSA MAS approved, month 7",
+      "First RFQ inquiry, month 10",
+      "Active pipeline building"
+    ],
+    "footer_left": "One Real Transformation",
+    "footer_right": "Field Case Series"
+  },
+  "image_headline": "WRONG VEHICLE. WRONG DOOR. RIGHT ANSWER.",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'WRONG VEHICLE' with red X icon, three short loss labels: 'SIX MONTHS', '$18K FEES', 'NO TRACTION'. Right panel cream/white, bold label 'RIGHT VEHICLE' with green checkmarks, three short win labels: 'MAS APPROVED', 'FIRST RFQ', 'PIPELINE LIVE'. Center: illustrated professional man in blazer walking from dark left side into bright right side. Bold headline top: 'WRONG VEHICLE. WRONG DOOR. RIGHT ANSWER.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
