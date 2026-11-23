@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for William on 2026-11-23:
+
+---
+
+**Post type:** `behind_scenes` — not in last 3 William days ✓, differentiates from Josh's `client_story` today ✓  
+**Topic:** `gsa_basics` — highest-weight available priority topic; last William use was 11-12 ✓  
+**Hook:** `question` — story blocked (consecutive from 11-20); truth blocked (Josh today); question last used 11-18, not consecutive ✓  
+**Word count:** 162 — satisfies forced-under-180 rule (last 3 avg = 206.7 > 200) ✓  
+**Template:** `single-07-story` (cream) — primary template for behind_scenes; mixed last 2 William colors so no constraint ✓  
+**Data:** GSA $3.0B to small businesses, Q3 2026 — first data-led post for William this week (1 of 2 max), no other profile uses this figure today ✓; card credits USAspending.gov ✓  
+
+**The post:** An IT services owner on a first call assumes federal contracts go to Booz Allen and Leidos. William pulls up USAspending.gov with her: GSA alone paid $3.0B to small businesses in Q3 2026. The conversation changes. The Schedule is the door — most owners don't know the room exists until someone shows them.

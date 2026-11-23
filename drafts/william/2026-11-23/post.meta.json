@@ -1,0 +1,30 @@
+{
+  "post_type": "behind_scenes",
+  "topic": "gsa_basics",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Report",
+    "year_client": "First Call · IT Services",
+    "lead_html": "Before you spend another month wondering if the federal market is <em>\"for companies like yours.\"</em>",
+    "rows": [
+      {
+        "when": "The question",
+        "what_html": "<strong>\"Is the GSA Schedule even worth it for us?\"</strong> <span class='light'>— almost every first call starts here</span>"
+      },
+      {
+        "when": "The number",
+        "what_html": "<strong>$3.0B to small businesses from GSA alone</strong> <span class='light'>— Q3 2026 · USAspending.gov</span>"
+      },
+      {
+        "when": "The shift",
+        "what_html": "<strong>She didn't know that room existed</strong> <span class='light'>— until we looked it up together</span>"
+      }
+    ],
+    "closer": "THE SCHEDULE IS THE DOOR. YOU STILL HAVE TO WALK THROUGH IT."
+  },
+  "image_headline": "THE DOOR NOBODY KNOWS EXISTS",
+  "image_prompt": "Infographic story layout. Left panel forest green background: illustrated professional woman sitting at a desk, speaking on phone while looking at laptop displaying a data dashboard. Right panel cream/off-white: bold headline at top 'THE DOOR NOBODY KNOWS EXISTS'. Three horizontal timeline rows with amber accent bars and short labels — 'THE QUESTION', 'THE NUMBER', 'THE SHIFT'. Center illustration: a half-open doorway with warm golden glow visible through the gap. Bottom callout box dark navy: short label 'GSA · $3.0B · Q3 2026' in amber text. Source line below callout: 'Source · USAspending.gov'. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
