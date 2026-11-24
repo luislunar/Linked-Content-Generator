@@ -1,0 +1,39 @@
+{
+  "post_type": "carousel",
+  "topic": "myths",
+  "hook_pattern": "myth-bust",
+  "format": "prose",
+  "template": "carousel-01-myths",
+  "template_data": {
+    "cover": {
+      "top_label": "Field Guide / Vol. 04",
+      "headline_html": "3 myths that <span class='accent'>stop</span> small businesses cold.",
+      "edition": "Myths Edition"
+    },
+    "myths": [
+      {
+        "label": "The Past Performance Barrier",
+        "myth_text": "You need past performance on a government contract before you can get a GSA Schedule.",
+        "reality_text": "GSA MAS has no past performance requirement. You need 2 years in business and $25K in prior commercial revenue. That's it. Most small businesses already qualify."
+      },
+      {
+        "label": "The Lowest Price Trap",
+        "myth_text": "Your GSA prices have to be lower than anything else you offer.",
+        "reality_text": "GSA pricing is based on your Basis of Award — your most-favored commercial customer rate. You're not undercutting your whole market. You're matching your best deal."
+      },
+      {
+        "label": "The Passive Revenue Myth",
+        "myth_text": "Once you have a GSA Schedule, agencies search the catalog and contracts start coming in.",
+        "reality_text": "The Schedule opens the door. It does not knock for you. You still need to respond to RFQs, build CO relationships, and actively market your contract vehicle."
+      }
+    ],
+    "close": {
+      "close_tag": "Your turn",
+      "close_headline": "Which myth almost stopped you?",
+      "close_question": "Drop the belief about GovCon that you held the longest — and what finally changed your mind."
+    },
+    "image_headline": "3 MYTHS KILLING YOUR GOVCON ENTRY",
+    "image_prompt": "5-slide carousel cover card. Dark navy background. Top badge: 'FIELD GUIDE / VOL. 04'. Bold headline centered: '3 MYTHS KILLING YOUR GOVCON ENTRY' in white. Accent subtitle: 'Myths Edition' in coral below. Illustrated professional woman in suit standing confidently, arms crossed. Three icon slots at bottom, each labeled 'MYTH' with a red X — hinting at busted content inside. Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}

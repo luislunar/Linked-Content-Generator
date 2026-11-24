@@ -1,0 +1,20 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced for 2026-11-24:
+
+---
+
+**Post type:** `carousel` — `carousel-01-myths`
+**Topic:** `myths` (overdue — not used in 5+ logs)
+**Hook:** `myth-bust`
+**Caption:** 82 words (satisfies the under-180 requirement from last 3 days averaging 219 words)
+
+**3 slides busted:**
+1. **The Past Performance Barrier** — GSA MAS has no past performance requirement; 2 years in business + $25K commercial revenue is all you need
+2. **The Lowest Price Trap** — Basis of Award means matching your most-favored commercial customer, not undercutting your whole market
+3. **The Passive Revenue Myth** — The Schedule opens the door; it doesn't knock for you
+
+**Files written:**
+- `drafts/2026-11-24/post.md`
+- `drafts/2026-11-24/post.meta.json`
+- `drafts/2026-11-24/hypothesis.md`
+- `logs/run-2026-11-24.md`
