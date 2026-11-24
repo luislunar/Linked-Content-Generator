@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-11-24/`:
+
+**Post type:** `tips_list` → `single-06-checklist`
+**Topic:** `teaming` (fresh — not used in last 5 Jason posts; not used by Josh or William today)
+**Hook:** `checklist` ("Teaming health check: here's what most subs miss.")
+**Format:** `→` bullets, 168 words
+
+**The post** attacks the "no one's responding to my teaming outreach" objection with a 5-item readiness checklist: capability statement, NAICS alignment, documented past performance, insurance/bonding in writing, active SAM.gov. Closes with a specific CTA question about which step subs most commonly skip.
+
+**Decisions made:**
+- Blocked types (`behind_scenes`, `hot_take`, `milestone`) skipped per last-3-days rule
+- Blocked topics (`myths`, `certifications`, `vehicles`, `pricing`, `gsa_basics`) skipped per last-5-days rule
+- `checklist` hook unused in any logged Jason run — good rotation freshness
+- No govcon-data figure used today (not a natural fit for a process/readiness post; saving stat angle for a future `pricing` or `gsa_basics` post)

@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "teaming",
+  "hook_pattern": "checklist",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Teaming Audit",
+    "module": "Module 05 · Teaming",
+    "headline_html": "Five things primes <span class='accent'>check</span> before saying yes.",
+    "items": [
+      { "title": "Tight capability statement", "sub": "2-3 strengths, not everything you do" },
+      { "title": "NAICS code alignment", "sub": "Must match the opportunity, not just exist" },
+      { "title": "Past performance on paper", "sub": "Scopes and dollar values, documented" },
+      { "title": "Insurance & bonding capacity", "sub": "Primes can't absorb your risk exposure" },
+      { "title": "Active SAM.gov registration", "sub": "Lapsed SAM kills the team instantly" }
+    ],
+    "footer_left": "Sub Readiness Check",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "5 THINGS PRIMES CHECK FIRST",
+    "image_prompt": "Infographic checklist layout. Dark charcoal black background with cyan accent color, Space Grotesk typography. Bold headline top: '5 THINGS PRIMES CHECK FIRST' in white caps. Left column: illustrated professional in business casual holding a clipboard with a green checkmark pen, reviewing documents. Right column: 5 checklist rows, each with a cyan checkmark icon and a SHORT 2-3 word label — 'CAPABILITY STATEMENT', 'NAICS MATCH', 'PAST PERF.', 'INSURANCE', 'ACTIVE SAM'. Bottom dark banner with cyan callout text: 'SHOW UP READY.' Footer text: 'Jason · GSA Focus'."
+  },
+  "experiment_id": ""
+}
