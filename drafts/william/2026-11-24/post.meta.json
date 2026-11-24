@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pricing",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pricing Reality",
+    "case_num": "Case · 019",
+    "headline_html": "What most businesses <span class='accent'>get wrong</span> at GSA pricing.",
+    "before_items": [
+      "Quote below your floor",
+      "Skip the negotiation",
+      "Lock in weak margins"
+    ],
+    "after_items": [
+      "Match most-favored rate",
+      "Negotiate the first offer",
+      "Protect 5-year margins"
+    ],
+    "footer_left": "One Real Pricing Mistake",
+    "footer_right": "Field Case Series",
+    "image_headline": "YOUR PRICING MISTAKE LASTS 5 YEARS",
+    "image_prompt": "Split-panel infographic. Left side dark forest green background, bold white label 'BEFORE' with red downward arrow beneath it. Three short stacked labels in light text: 'BELOW FLOOR', 'SKIPPED NEGOTIATION', 'WEAK MARGINS'. Right side warm amber/cream background, bold dark label 'AFTER' with green upward arrow beneath it. Three short stacked labels: 'MOST-FAVORED RATE', 'NEGOTIATED', 'STRONG MARGINS'. Center vertical divider with illustrated professional man in business casual mid-phone-call, expression shifting from uncertain to confident. Bold headline banner at top in dark navy: 'YOUR PRICING MISTAKE LASTS 5 YEARS' in white caps, Sora typeface. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}

@@ -1,0 +1,15 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for William today:
+
+---
+
+**`drafts/william/2026-11-24/post.md`** — `client_story` · `pricing` · `story` hook · 243 words
+
+The post opens with the single most common first-call question William hears ("Do I have to give the government my lowest price?"), corrects the Basis of Award misconception, runs four → bullets covering the specific failure modes (under-quoting, missed negotiation, locked-in rates), then grounds the whole thing in a caller story about a business owner who'd priced 20% below his commercial rate. Closing CTA: "What surprised you most about how GSA pricing actually works?"
+
+**Selection rationale:**
+- **Post type:** `client_story` — only available option that fits the word range and caller-story voice (behind_scenes/tips_list/inspiration blocked from last 3 days; carousel blocked from Josh today)
+- **Topic:** `pricing` — only clean option from general pool; vehicles too close to Josh's yesterday post; certifications less urgent for William this week
+- **Hook:** `story` — `question` blocked (consecutive); Josh and Jason both using non-story hooks today; story hook is William's strongest register
+- **Template:** `single-05-beforeafter` (cream) — visual contrast against Jason's dark navy checklist today; correct primary template for client_story
+- **Data figure:** not used — pricing Basis of Award content is strongest as pure caller-observation; William already ran one data post this week (11-23)
