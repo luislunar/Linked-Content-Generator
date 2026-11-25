@@ -1,0 +1,27 @@
+{
+  "post_type": "client_story",
+  "topic": "pricing",
+  "hook_pattern": "question",
+  "format": "comparison",
+  "template": "single-05-beforeafter",
+  "template_data": {
+    "section_label": "Pricing Failure",
+    "case_num": "Case · 031",
+    "headline_html": "What changes when you <span class='accent'>separate the rates.</span>",
+    "before_items": [
+      "Commercial rates on federal work",
+      "No BOA documentation",
+      "CO price reduction hit"
+    ],
+    "after_items": [
+      "Separate federal price structure",
+      "Basis of Award locked",
+      "Margin fully defended"
+    ],
+    "footer_left": "Real Pricing Transformation",
+    "footer_right": "Field Case Series"
+  },
+  "experiment_id": null,
+  "image_headline": "SEPARATE THE RATES. PROTECT THE MARGIN.",
+  "image_prompt": "Split-panel before/after infographic. Left panel dark navy, bold label 'BEFORE' at top with red X icons. Three short callout labels (2-3 words each): 'MIXED RATES', 'NO BOA', 'CO AUDIT'. Center: illustrated professional in business casual reviewing a contract on a laptop, expression shifting from concerned to confident, standing at the divide between panels. Right panel cream/white background, bold label 'AFTER' at top with green checkmarks. Three short labels: 'RATES SEPARATED', 'BOA LOCKED', 'MARGIN HELD'. Bold headline at top center in ALL CAPS: 'SEPARATE THE RATES'. Footer text: 'Jason · GSA Focus'."
+}

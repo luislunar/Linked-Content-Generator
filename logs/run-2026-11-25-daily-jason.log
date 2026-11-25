@@ -1,0 +1,13 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written to `drafts/jason/2026-11-25/`. Here's what was produced:
+
+**Post type:** `client_story` — template `single-05-beforeafter`
+**Topic:** `pricing` | **Hook:** `question` | **Format:** `comparison` | **~214 words**
+
+**Key decisions:**
+- `question` hook was required — Jason's last 3 posts (checklist, myth-bust, contrarian) all opened with statements, triggering the hard cadence rule
+- `pricing` was clear: not used by Josh or William today, last used by Jason 8 days ago, one of his priority topics
+- Avoided `milestone` (Josh today), `inspiration` (William today), and Jason's last 3 types (tips_list, behind_scenes, hot_take)
+- Did not use the $23.4B govcon-data figure — Josh already used it today; kept the post grounded in Jason's prospecting-call voice instead
+
+**Post angle:** An IT consulting firm mixing commercial and federal pricing triggered a BOA price reduction request from their CO. 90-day cleanup separated the rate structures and let them defend the re-compete margin. Closes with a specific mistake-sharing question to drive comments.
