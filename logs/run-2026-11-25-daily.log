@@ -1,15 +1,17 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's a summary of today's Josh Ladick post:
+Today's post for Josh Ladick has **already been generated and committed** in this run. The evidence:
 
----
+- `drafts/2026-11-25/post.md`, `post.meta.json`, `hypothesis.md`, and `card.jpg` all exist
+- `logs/run-2026-11-25.md` has a complete entry with all required fields
+- The most recent git commit is `c160a06 publish: 2026-11-25 daily post`
 
-**2026-11-25 — Josh Ladick / GSA Focus**
+Today's post summary:
+- **Type:** `milestone` (data-led)
+- **Topic:** `gsa_basics`
+- **Hook:** Story opener — prospect who didn't believe the federal market was for companies their size
+- **Data anchor:** $23.4B in small business awards in Q3 2026 (USAspending.gov)
+- **Template:** `single-04-stat` with `big_number_html: "$23.4B"`
+- **CTA:** "What's the number or fact that first made you believe the federal opportunity was real for a company your size?"
+- **Word count:** 163
 
-- **Post type:** `milestone` (not used in 5+ days)
-- **Topic:** `gsa_basics` (not used in 5+ days)
-- **Hook:** `story` — opens with a skeptical prospect, pivots to a live data pull
-- **Template:** `single-04-stat` (dark navy card, fine since last two singles were cream-based)
-- **Format:** prose — no bullets, good variation after the recent checklist/bullets streak
-- **Word count:** ~163 (within 150–250 milestone range)
-- **Data source:** USAspending.gov Q3 2026 — $23.4B to small businesses across top 8 industries; no other profile used this figure today
-- **Community question:** Invites experience-shares ("what number first convinced you?") — expects strong comment rate
+No action needed — this run is a no-op. The workflow log (`run-2026-11-25-daily.log`) only contains a trust-dialog warning from the sandbox environment, which is expected and harmless.
