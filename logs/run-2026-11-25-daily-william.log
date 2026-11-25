@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was generated for William today:
+
+---
+
+**post_type**: `inspiration` | **topic**: `pipeline` | **hook_pattern**: `question`  
+**template**: `single-01-bold` (dark navy) | **word_count**: 123
+
+**Rotation logic:**
+- `pipeline` is the only unblocked William priority topic (last 5 days consumed `pricing`, `gsa_basics`, `teaming`, `sam`, `compliance`)
+- `inspiration` chosen: last 3 days were `client_story`, `behind_scenes`, `tips_list` (all blocked); `milestone` blocked (Josh today)
+- `question` hook: `story` double-blocked (consecutive with 11-24, and Josh today); `question` last used 11-23 (not consecutive)
+- Dark navy forced: last 2 William templates both cream (`single-05-beforeafter`, `single-07-story`)
+- Under-180 rule applies: last 3 avg = 212 words → landed at 123 ✓
+
+**The post** opens with the call-pattern William hears ("how do I find opportunities before competitors do?"), pivots to Sources Sought notices as the overlooked pre-RFP pipeline move, and closes with a specific behavioral question about earliest federal touchpoints — designed to pull in both Sources Sought veterans and owners who didn't know that phase existed.

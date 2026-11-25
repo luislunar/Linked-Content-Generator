@@ -1,0 +1,16 @@
+{
+  "post_type": "inspiration",
+  "topic": "pipeline",
+  "hook_pattern": "question",
+  "format": "story",
+  "template": "single-01-bold",
+  "template_data": {
+    "tag": "Pipeline Truth",
+    "headline_html": "SOURCES SOUGHT<br>IS WHERE<br><span class='accent'>IT STARTS.</span>",
+    "sub": "Most businesses wait for the RFP. The ones who build real pipelines show up before it drops.",
+    "issue": "Issue 033"
+  },
+  "experiment_id": null,
+  "image_headline": "SOURCES SOUGHT IS WHERE IT STARTS",
+  "image_prompt": "Infographic story layout. Dark navy background with forest green and amber accents. Left side: illustrated timeline showing 3 labeled milestones in sequence — labels 'SOURCES SOUGHT', 'DRAFT RFP', 'FINAL AWARD' — with a highlighted amber callout box on 'SOURCES SOUGHT'. Right side: illustrated professional man in business casual attire holding a phone, expression engaged and confident. Bold headline at top in ALL CAPS: 'SOURCES SOUGHT IS WHERE IT STARTS'. One highlighted callout box with the short phrase 'SHOW UP EARLY'. Footer text: 'William Hill · GSA Focus'."
+}
