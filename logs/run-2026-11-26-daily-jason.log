@@ -1,0 +1,17 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's the summary:
+
+---
+
+**Jason · 2026-11-26**
+
+**Post type:** `milestone` | **Topic:** `gsa_basics` | **Hook:** `contrarian` | **Template:** `single-04-stat` | **~165 words**
+
+**What it does:** Opens by quoting the most common objection Jason hears on calls — "the federal market isn't for small companies" — then immediately pivots with real Q3 2026 data: $23.4B to small businesses across the top 8 industries in a single quarter. The three bullet points reframe the barrier as paperwork, not market access. Closes with a specific NAICS-code CTA that invites low-friction engagement without being generic.
+
+**Uniqueness checks passed:**
+- Topic `gsa_basics` not used by Josh (teaming) or William (certifications) today
+- `milestone` post type not used by Josh (`tips_list`) or William (`personal_story`) today
+- `contrarian` hook not used by Josh (`blunt`) or William (`story`) today
+- Govcon data figure ($23.4B) not used by either other profile today
+- Topic not repeated in Jason's last 5 runs (pricing, teaming, myths, certifications, vehicles)
