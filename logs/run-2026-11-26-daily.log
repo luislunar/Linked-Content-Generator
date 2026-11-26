@@ -1,16 +1,20 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for 2026-11-26:
+Done. Here's the summary for today's run:
 
-**Post type:** `tips_list` — not used in the last 3 days (milestone/carousel/client_story were blocked).
+---
 
-**Topic:** `teaming` — fresh; last used further back than the 5-day avoidance window.
+**2026-11-26 daily post — Josh Ladick / GSA Focus**
 
-**Hook:** `blunt` — "A teaming agreement without active outreach is just a piece of paper." Avoids `story` (yesterday) and `myth-bust`/`truth` (days prior).
+- **Type:** `hot_take`
+- **Topic:** `certifications`
+- **Hook:** question — *"Before you spend 18 months pursuing an 8(a) designation — ask yourself: do you actually know what you'll do with it once you have it?"*
+- **Format:** prose (no bullets — contrast to yesterday's numbered checklist)
+- **Template:** `single-03-quote` (cream bg — required after two consecutive dark-bg cards)
+- **Card quote:** *"A certification opens the door. You still have to knock."*
+- **Word count:** 193
 
-**Template:** `single-06-checklist` (dark navy, 5 items). Last 2 templates were `single-04-stat` + carousel — only one dark-bg in the list, so the cream-only rule didn't trigger.
-
-**Files written:**
-- `drafts/2026-11-26/post.md` — 234 words (within 150–280 range)
-- `drafts/2026-11-26/post.meta.json` — full template_data with all 5 checklist items, `image_headline`, and `image_prompt`
-- `drafts/2026-11-26/hypothesis.md`
-- `logs/run-2026-11-26.md`
+**Rotation checks passed:**
+- Type not used in last 3 days ✓
+- Hook is a question (required after 3 consecutive statement openers) ✓
+- Cream-bg template (required after 2 consecutive dark-bg templates) ✓
+- Topic (certifications) not used in last 5 days ✓

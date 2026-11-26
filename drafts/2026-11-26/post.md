@@ -1,19 +1,13 @@
-A teaming agreement without active outreach is just a piece of paper.
+Before you spend 18 months pursuing an 8(a) designation — ask yourself: do you actually know what you'll do with it once you have it?
 
-Most small businesses treat teaming as a checkbox: find a prime, sign the agreement, wait for work. That's not how it works.
+I've seen it happen dozens of times. A small business earns a hard-won certification — 8(a), WOSB, SDVOSB — works through the application, waits out the approval, celebrates... and then waits for contracts to arrive. They don't.
 
-The agreement gives you legal standing to partner on a bid. It does not give you a seat at the table. You still have to earn that.
+Certifications are tools. They unlock access to set-aside pools, signal eligibility to agencies, and open doors that would otherwise be closed. But they don't come with a buyer list. You still need a vehicle (like a GSA Schedule), a capability statement, and an outreach strategy. The certification is the credential. The work of winning business starts after.
 
-Here's what actually makes teaming work:
+The small businesses I see actually winning with their certifications treat them as a competitive advantage they actively leverage — not a lottery ticket they scratched and are waiting on.
 
-1. **Pick primes already winning in your NAICS.** Look at USAspending.gov and find who's actively getting awards in your code — not just any large business willing to sign.
-2. **Bring something specific to the table.** A clearance, a certification (8(a), HUBZone, WOSB), a niche technical capability — primes need a concrete reason to include you, not a generic pitch.
-3. **Start the conversation 6–12 months before a recompete.** By the time an RFP posts, the team is usually locked in. If you're calling after solicitation day, you're already too late.
-4. **Have your capability statement ready before the first meeting.** If you can't explain your value in 60 seconds, the prime moves on before you finish your sentence.
-5. **Follow up. Then follow up again.** Most sub relationships die because the sub goes quiet after the handshake.
+Build the plan for what comes after before you spend the energy on the application.
 
-Teaming is relationship-building first. The paperwork just makes it official.
+If you already have a certification, what's the one thing you wish someone had told you before you got it?
 
-What's been your biggest obstacle to landing a solid teaming partner — the approach, the pitch, or finding the right prime in the first place?
-
-#govcon #teaming #smallbusiness #federalcontracting
+#govcon #certifications #8a #smallbusiness
