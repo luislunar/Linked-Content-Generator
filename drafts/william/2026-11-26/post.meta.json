@@ -1,0 +1,30 @@
+{
+  "post_type": "personal_story",
+  "topic": "certifications",
+  "hook_pattern": "story",
+  "format": "bullets",
+  "template": "single-07-story",
+  "template_data": {
+    "section_label": "Field Note",
+    "year_client": "Discovery Call · Weekly",
+    "lead_html": "The cert gets you in the room. <em>It doesn't hand you the contract.</em>",
+    "rows": [
+      {
+        "when": "What they think",
+        "what_html": "<strong>The cert IS the pipeline</strong> <span class='light'>— get certified, contracts follow</span>"
+      },
+      {
+        "when": "What it actually does",
+        "what_html": "<strong>Opens set-aside solicitations</strong> <span class='light'>— but a vehicle and cap statement still required</span>"
+      },
+      {
+        "when": "What to do instead",
+        "what_html": "<strong>Stack the cert on a GSA Schedule</strong> <span class='light'>— that's how the award actually lands</span>"
+      }
+    ],
+    "closer": "THE CERT IS THE TICKET. THE WORK IS THE RIDE.",
+    "image_headline": "THE CERT IS NOT YOUR PIPELINE",
+    "image_prompt": "Infographic story layout on a cream off-white background. Left side: illustrated professional man in business casual attire holding a certification plaque, puzzled expression, question mark icon above head. Center: a vertical journey path with three milestone icons connected by downward arrows, each labeled with short 2-3 word text in dark navy: 'THE CERT', 'THE VEHICLE', 'THE AWARD'. Right side: same professional man now smiling and holding a signed contract, with a green checkmark icon. Bold headline at top: 'THE CERT IS NOT YOUR PIPELINE'. One dark navy callout box with short phrase: 'TICKET ≠ CONTRACT'. Footer text: 'William Hill · GSA Focus'."
+  },
+  "experiment_id": null
+}
