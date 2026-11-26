@@ -1,0 +1,39 @@
+{
+  "post_type": "tips_list",
+  "topic": "teaming",
+  "hook_pattern": "blunt",
+  "format": "checklist",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "Teaming Check",
+    "module": "Module 05 · Teaming",
+    "headline_html": "Five reasons your teaming agreement <span class='accent'>goes nowhere.</span>",
+    "items": [
+      {
+        "title": "Wrong prime, wrong NAICS",
+        "sub": "Find primes actively winning in your code — not just any large business willing to sign."
+      },
+      {
+        "title": "Nothing specific to offer",
+        "sub": "A clearance, a cert, a niche capability — primes need a concrete reason to include you."
+      },
+      {
+        "title": "Late to the conversation",
+        "sub": "Teams form 6–12 months before an RFP. By solicitation day, the roster is already closed."
+      },
+      {
+        "title": "No capability statement ready",
+        "sub": "If you can't explain your value in 60 seconds, the prime moves on before you finish."
+      },
+      {
+        "title": "No follow-up after the handshake",
+        "sub": "Most sub relationships die because the sub goes quiet. Presence beats a perfect first pitch."
+      }
+    ],
+    "footer_left": "Sub-Partner Checklist",
+    "footer_right": "Page 1 of 1",
+    "image_headline": "THE AGREEMENT DOESN'T OPEN DOORS. YOU DO.",
+    "image_prompt": "Infographic checklist layout. Dark navy background. Bold headline top: 'THE AGREEMENT DOESN'T OPEN DOORS. YOU DO.' Illustrated professional in business attire holding a folder, standing at a conference table alongside a larger partner. Five checklist rows, each with a green checkmark and a 2-3 word label: 'Right Prime', 'Unique Value', 'Early Timing', 'Cap Statement', 'Follow Up'. Bottom dark banner with short callout: 'RELATIONSHIP FIRST. PAPERWORK SECOND.' Footer text: 'Josh Ladick · GSA Focus'."
+  },
+  "experiment_id": null
+}
