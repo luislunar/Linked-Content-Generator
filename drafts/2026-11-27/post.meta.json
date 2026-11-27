@@ -1,17 +1,19 @@
 {
-  "post_type": "hot_take",
-  "topic": "certifications",
-  "hook_pattern": "contrarian",
-  "format": "prose",
-  "template": "single-03-quote",
+  "post_type": "client_story",
+  "topic": "compliance",
+  "hook_pattern": "truth",
+  "format": "story",
+  "template": "single-05-beforeafter",
   "template_data": {
-    "section_label": "Field Note",
-    "index": "No. 041 · Certifications",
-    "quote_html": "A certification opens the door. <em>You still have to knock.</em>",
-    "footer_left": "One Hard Truth",
-    "footer_right": "Weekly Field Notes"
+    "section_label": "Compliance Wake-Up",
+    "case_num": "Case · 019",
+    "headline_html": "What 18 months of <span class='accent'>skipped mods</span> costs.",
+    "before_items": ["Prices out of compliance", "18-month mod gap", "Recompete in jeopardy"],
+    "after_items": ["Pricing audit complete", "Missing mods filed", "Contract saved"],
+    "footer_left": "One Real Fix",
+    "footer_right": "Field Case Series"
   },
-  "image_headline": "CERTIFIED ISN'T THE SAME AS WINNING.",
-  "image_prompt": "Split-panel infographic. Left dark navy panel, bold label 'THE CERT' with certification badge icon. Three 2-word labels: 'OPEN DOORS', 'SET-ASIDES', 'ELIGIBILITY'. Right cream panel, bold label 'THE WORK' with green upward arrow icon. Three 2-word labels: 'FIND BUYERS', 'BD OUTREACH', 'WIN CONTRACTS'. Center: illustrated professional in suit walking right with confident posture. Bold headline top: 'CERTIFIED ISN'T THE SAME AS WINNING.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "image_headline": "SKIPPED MODS COST MORE THAN YOU THINK",
+  "image_prompt": "Split-panel before/after infographic, cream background. Left navy panel, bold label 'BEFORE' with red X icon. Three short stacked items: 'PRICES WRONG', 'NO MODS FILED', 'CO INQUIRY'. Right cream panel, bold label 'AFTER' with green checkmark icon. Three stacked items: 'AUDIT DONE', 'MODS FILED', 'CONTRACT SAVED'. Center: illustrated professional in business attire reviewing a contract folder with cautious expression. Bold headline top: 'SKIPPED MODS COST MORE THAN YOU THINK.' Footer text: 'Josh Ladick · GSA Focus'.",
   "experiment_id": null
 }

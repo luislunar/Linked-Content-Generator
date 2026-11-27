@@ -1,18 +1,23 @@
 Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
-Done. Here's what was produced for 2026-11-27:
+Done. Here's the summary of today's run:
 
-**Post type:** `hot_take` — not used in last 3 days (last was 11-20)
-**Topic:** `certifications` — not used in last 5 days
-**Hook:** `contrarian` — "Getting your small business certification isn't a business development strategy. It's a credential."
-**Template:** `single-03-quote` (cream/serif) — required after two consecutive dark-navy cards
-**Word count:** ~168 (within the 150–300 hot_take range)
+---
 
-**Card quote:** *"A certification opens the door. You still have to knock."*
+**2026-11-27 daily post — Josh Ladick / GSA Focus**
 
-**Community question:** What's the first real BD move you made after getting certified? Not the paperwork — the actual outreach.
+| Field | Value |
+|---|---|
+| `post_type` | `client_story` |
+| `topic` | `compliance` |
+| `hook_pattern` | `truth` |
+| `format` | `story` (prose) |
+| `template` | `single-05-beforeafter` |
+| `word_count` | 211 |
 
-Files written:
-- `drafts/2026-11-27/post.md`
-- `drafts/2026-11-27/post.meta.json`
-- `drafts/2026-11-27/hypothesis.md`
-- `logs/run-2026-11-27.md`
+**Rotation decisions:**
+- `hot_take` / `tips_list` / `milestone` were the last 3 days → `client_story` was the right next pick
+- `compliance` hasn't appeared in 5+ days (last 3 were certifications, teaming, gsa_basics)
+- Yesterday's hook was `contrarian` → used `truth` today (anecdote opener breaks the statement-statement-statement run)
+- `single-05-beforeafter` is cream-bg, fresh contrast after the last dark `single-06-checklist`
+
+**The post:** A client held their GSA Schedule for 3 years, missed 18 months of price mods, and hit a Basis of Award violation mid-recompete. We filed the missing mods, ran a pricing audit, helped them respond to the CO. Contract saved — but it took 3 weeks to fix a 15-minute quarterly review. Closes with a compliance self-check question aimed at current Schedule holders.

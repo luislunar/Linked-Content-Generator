@@ -1,15 +1,13 @@
-Getting your small business certification isn't a business development strategy. It's a credential.
+Three years of holding a GSA Schedule. Good company, real past performance, a few wins under their belt. And 18 months of skipped modifications that almost took all of it away.
 
-I say this because I've seen it too many times: a company spends months earning 8(a), WOSB, or SDVOSB status — and then sits back waiting for contracts to show up. They don't.
+Their commercial rates had shifted. Their GSA prices hadn't been updated to match — a Basis of Award violation. By the time they got the CO's compliance inquiry, they were mid-recompete for the exact contract those skipped mods could cost them.
 
-Certifications unlock set-aside pools, but agencies still need to find you, vet you, and trust your past performance. The cert is the filter that gets you in the room. What happens in the room is still on you.
+This is more common than people admit. A GSA Schedule isn't a one-time credential. It's a live contract with 100+ obligations tied to your pricing, SAM registration, annual reps and certs, and product/service modifications. When any of those slip — even quietly, even without intent — you're out of compliance. Sometimes without knowing it.
 
-The GovCon market doesn't reward credentials. It rewards consistent, targeted outreach to contracting officers who already know your name.
+We filed the missing modifications, ran a full pricing audit, and helped them respond to the CO. They kept the contract. But it took three stressful weeks to fix what should have been a 15-minute quarterly review.
 
-If you're newly certified — or thinking about it — spend as much energy mapping which agencies buy what you sell as you spent on the application.
+Maintenance doesn't feel urgent until it suddenly is.
 
-Certification is the starting line, not the finish line.
+If you hold a GSA Schedule, when did you last run a compliance check on your pricing and mods? The uncomfortable answers are usually the most useful ones.
 
-What's the first real BD move you made after getting certified? Not the paperwork — the actual outreach.
-
-#govcon #certifications #smallbusiness #federalcontracting
+#govcon #gsaschedule #compliance #federalcontracting #smallbusiness
