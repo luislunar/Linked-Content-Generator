@@ -1,0 +1,17 @@
+{
+  "post_type": "inspiration",
+  "topic": "myths",
+  "hook_pattern": "blunt",
+  "format": "bullets",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 029 · Myths",
+    "quote_html": "The Schedule is the door into the federal market — <em>not the prize for already being inside it.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes"
+  },
+  "image_headline": "NO PAST PERFORMANCE? NO PROBLEM.",
+  "image_prompt": "Split-panel infographic. Left panel dark navy, bold label 'THE MYTH' with red X icon. Three short myth labels (2-3 words each): 'NEED GOV HISTORY', 'PAST CONTRACTS ONLY', 'FEDS EXPERIENCE REQ'. Right panel white/cream, bold label 'THE REALITY' with green checkmark icons. Three short reality labels: '2 YRS BUSINESS', '$25K REVENUE', 'COMMERCIAL COUNTS'. Center: illustrated professional man in business casual standing confidently between panels, gesturing with open hand. Bold headline at top: 'NO PAST PERFORMANCE? NO PROBLEM.' Color scheme: dark navy left panel, cream-white right panel, cyan accent highlights on reality side. Footer text: 'Jason · GSA Focus'.",
+  "experiment_id": null
+}

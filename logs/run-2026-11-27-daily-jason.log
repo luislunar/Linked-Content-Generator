@@ -1,0 +1,31 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+Done. Here's what was produced in `drafts/jason/2026-11-27/`:
+
+---
+
+**post.md** (~100 words, `inspiration` / `blunt` / `myth-bust`)
+
+> No federal past performance? Good — you don't need it to get a GSA Schedule.
+>
+> The actual requirements to apply for GSA MAS:
+> → 2+ years in business
+> → $25,000+ in annual revenue
+> → Relevant commercial work (federal history: optional)
+>
+> That's it. I hear "but we've never sold to the government before" at least twice a week. That objection isn't a barrier — it's the reason companies like yours apply for a Schedule in the first place.
+>
+> The Schedule is the door into the federal market, not the prize for already being inside it.
+>
+> Which GovCon myth almost kept you from starting the conversation?
+
+---
+
+**Decisions made:**
+
+| Field | Choice | Why |
+|---|---|---|
+| `post_type` | `inspiration` | Not in Jason's last 3 (tips_list / client_story / milestone); not used by Josh (hot_take) or William (tips_list) today |
+| `topic` | `myths` | Jason's 2x/week priority; not used by any profile today; fresh for Jason |
+| `hook_pattern` | `blunt` | Jason's preferred list; avoids `contrarian` (Josh today + Jason yesterday both used it); avoids quoted-myth opener (Jason's yesterday also opened with a quote) |
+| `template` | `single-03-quote` (cream) | Yesterday Jason used dark `single-04-stat`; cream restores feed contrast |
+| Length | 100 words | Last 3 Jason averaged 182 words → shorter required; inspiration type max is 150 |
