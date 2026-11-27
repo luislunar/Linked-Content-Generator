@@ -1,0 +1,17 @@
+{
+  "post_type": "hot_take",
+  "topic": "certifications",
+  "hook_pattern": "contrarian",
+  "format": "prose",
+  "template": "single-03-quote",
+  "template_data": {
+    "section_label": "Field Note",
+    "index": "No. 041 · Certifications",
+    "quote_html": "A certification opens the door. <em>You still have to knock.</em>",
+    "footer_left": "One Hard Truth",
+    "footer_right": "Weekly Field Notes"
+  },
+  "image_headline": "CERTIFIED ISN'T THE SAME AS WINNING.",
+  "image_prompt": "Split-panel infographic. Left dark navy panel, bold label 'THE CERT' with certification badge icon. Three 2-word labels: 'OPEN DOORS', 'SET-ASIDES', 'ELIGIBILITY'. Right cream panel, bold label 'THE WORK' with green upward arrow icon. Three 2-word labels: 'FIND BUYERS', 'BD OUTREACH', 'WIN CONTRACTS'. Center: illustrated professional in suit walking right with confident posture. Bold headline top: 'CERTIFIED ISN'T THE SAME AS WINNING.' Footer text: 'Josh Ladick · GSA Focus'.",
+  "experiment_id": null
+}
