@@ -1,0 +1,16 @@
+Ignoring 11 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["/home/runner/work/Linked-Content-Generator/Linked-Content-Generator"].hasTrustDialogAccepted: true in /home/runner/.claude.json.
+All four files written. Here's what was produced for 2026-11-27:
+
+**Topic**: `sam` — SAM.gov as a living maintenance record (William's priority topic, due this week)
+**Post type**: `tips_list` (169 words — under the cadence-forced 180 ceiling)
+**Hook**: `truth` — "Nobody warns you that SAM.gov isn't a one-time setup"
+**Template**: `single-06-checklist` (dark navy — contrasts with Josh's cream `single-03-quote` today)
+
+**5 stale-record traps** surfaced from call patterns:
+1. Annual renewal reminder goes to whoever originally registered
+2. NAICS codes don't self-update — wrong codes = invisible in agency searches
+3. Point of Contact info freezes at initial registration
+4. "Active" ≠ "current" — reps/certs expire on a separate schedule
+5. EFT banking details can be outdated, stalling payments
+
+The CTA draws a sharp distinction — "not just confirm it's active" — that creates the specific recognition moment William's SAM posts land best on.

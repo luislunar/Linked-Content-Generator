@@ -1,0 +1,24 @@
+{
+  "post_type": "tips_list",
+  "topic": "sam",
+  "hook_pattern": "truth",
+  "format": "bullets",
+  "template": "single-06-checklist",
+  "template_data": {
+    "section_label": "SAM.gov Alert",
+    "module": "Module 04 · Registration",
+    "headline_html": "Five things that <span class='accent'>quietly</span> go stale in SAM.",
+    "items": [
+      { "title": "Annual renewal", "sub": "Miss the window and your entity status freezes mid-award" },
+      { "title": "NAICS code list", "sub": "Outdated codes make you invisible in agency searches" },
+      { "title": "Point of Contact info", "sub": "Wrong name or dead email kills inbound RFQs" },
+      { "title": "Representations & certs", "sub": "They expire on their own schedule — not tied to renewal" },
+      { "title": "EFT banking details", "sub": "Stale account info delays or misdirects payments" }
+    ],
+    "footer_left": "Quick SAM Audit",
+    "footer_right": "Page 1 of 1"
+  },
+  "image_headline": "FIVE THINGS THAT GO STALE",
+  "image_prompt": "Infographic alert layout. Dark navy background throughout. Bold warning headline at top: 'FIVE THINGS THAT GO STALE' with an orange caution triangle icon. Left side: illustrated professional man in business casual standing at a laptop with a focused, slightly concerned expression. Right side: 5 checklist rows with orange warning icons and SHORT 2-3 word labels — 'RENEWAL DATE', 'NAICS CODES', 'POC INFO', 'REPS & CERTS', 'EFT DETAILS'. Bottom dark navy banner with white callout text: 'CHECK BEFORE IT COSTS YOU'. Color scheme: dark navy background, amber-orange accent for warning icons, white text throughout. Footer text: 'William Hill · GSA Focus'.",
+  "experiment_id": null
+}
